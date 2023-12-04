@@ -1,0 +1,279 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Software Engineer",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "Doctor of Medicine - MD",
+                        "endDate": "2019-01-01",
+                        "id": "48",
+                        "startDate": "2017-01-01",
+                        "universityId": 43
+                    },
+                    {
+                        "degree": "Chemistry & Mathematics",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2016-01-01",
+                        "id": "49",
+                        "startDate": "2012-01-01",
+                        "universityId": 44
+                    }
+                ],
+                "email": "maximilian.wolfgang1@gmail.com",
+                "firstName": "Max",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "34",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Hoffman",
+                "linkedinName": "max-hoffman-04790aa6",
+                "linkedinUrl": "https://linkedin.com/in/max-hoffman-04790aa6/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "de6d101d-4f77-4a08-840c-2dcbb7f9ef5d",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/34_Max_Hoffman.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "175",
+                        "organizationId": 150,
+                        "position": "Software Engineer",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "176",
+                        "organizationId": 5,
+                        "position": "Fellow",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "177",
+                        "organizationId": 151,
+                        "position": "Founding Engineer",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "4056",
+                        "organizationId": 2949,
+                        "position": "Founding Engineer",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-04-01",
+                        "id": "178",
+                        "organizationId": 152,
+                        "position": "Software Engineer",
+                        "startDate": "2019-02-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "180",
+                        "organizationId": 153,
+                        "position": "Machine Learning Engineer",
+                        "startDate": "2018-05-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "179",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "181",
+                        "organizationId": 154,
+                        "position": "Hack Reactor",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2016-05-01",
+                        "id": "182",
+                        "organizationId": 155,
+                        "position": "Student Researcher",
+                        "startDate": "2013-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1639542, \"name\": \"DoltHub\", \"uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gdj8gr3zr4ytaqwopmc7\", \"description\": \"DoltHub is a software company that builds an open-source database called Dolt, a SQL database with native Git versioning.\", \"headcount\": \"11-50\", \"founding_date\": \"2018-04-13\", \"website\": \"https://www.dolthub.com\", \"location\": \"Santa Monica\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [122137], \"executive_people_profile_ids\": [122137], \"cb_permalink\": \"https://www.crunchbase.com/organization/liquidata\", \"linkedin_url\": \"https://linkedin.com/company/dolthubinc\", \"twitter\": \"https:/twitter.com/DoltHub\", \"last_funding_round_date\": \"2021-10-26\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 20999955, \"company_li_name\": \"dolthubinc\", \"tags\": [{\"id\": 3962068, \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 3962069, \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Database\", \"category\": \"Industry\"}, {\"id\": 3962070, \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 3962071, \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 3962072, \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 156684, \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4, \"hc_estimate_90_days\": 4, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 5, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-20\", \"hc_growth_270_days\": \"-20\", \"hc_growth_365_days\": \"-20\"}, \"funding_rounds\": [{\"id\": 150240, \"uuid\": \"75b9433d-557b-48ea-a96a-45c9b81f1c38\", \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 15999960, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-26\", \"investors\": null}, {\"id\": 150239, \"uuid\": \"c3babbc0-311f-4559-b4c1-a821a833d827\", \"legal_entity_uuid\": \"004864b3-e5bc-44be-a8f8-1275e7ebf217\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4999995, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-16\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gdj8gr3zr4ytaqwopmc7",
+                        "name": "DoltHub"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2021-01-01",
+                    "name": "DoltHub",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gdj8gr3zr4ytaqwopmc7"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2020-09-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-12-01",
+                    "legalEntity": "{\"id\": 413404, \"name\": \"Gantry\", \"uuid\": \"a9cbe72d-b1dd-4c7a-88de-a9bf346a590c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/pav1gze20d12qfuxejqu\", \"description\": \"Gantry improves the ML products with analytics, alerting, and human feedback.\", \"headcount\": \"11-50\", \"founding_date\": \"2021-01-01\", \"website\": \"https://gantry.io\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [817638, 2191185], \"executive_people_profile_ids\": [817638, 2191185], \"cb_permalink\": \"https://www.crunchbase.com/organization/gantry-590c\", \"linkedin_url\": \"https://linkedin.com/company/gantry-ml\", \"twitter\": \"https:/twitter.com/gantry_ml\", \"last_funding_round_date\": \"2020-05-02\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 0, \"company_li_name\": \"gantry-ml\", \"tags\": [{\"id\": 3167478, \"legal_entity_uuid\": \"a9cbe72d-b1dd-4c7a-88de-a9bf346a590c\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 3167477, \"legal_entity_uuid\": \"a9cbe72d-b1dd-4c7a-88de-a9bf346a590c\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 3167476, \"legal_entity_uuid\": \"a9cbe72d-b1dd-4c7a-88de-a9bf346a590c\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 129840, \"legal_entity_uuid\": \"a9cbe72d-b1dd-4c7a-88de-a9bf346a590c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13, \"hc_estimate_90_days\": 15, \"hc_estimate_180_days\": 14, \"hc_estimate_270_days\": 14, \"hc_estimate_365_days\": 9, \"hc_growth_90_days\": \"-13.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-7.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"-7.13999999999999968025576890795491635799407958984375\", \"hc_growth_365_days\": \"44.43999999999999772626324556767940521240234375\"}, \"funding_rounds\": [{\"id\": 119417, \"uuid\": \"def994ea-65bc-4dde-869e-e1f99d4d4a79\", \"legal_entity_uuid\": \"a9cbe72d-b1dd-4c7a-88de-a9bf346a590c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-02\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/pav1gze20d12qfuxejqu",
+                        "name": "Gantry"
+                    },
+                    "position": "Founding Engineer",
+                    "startDate": "2020-06-01",
+                    "name": "Gantry",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/pav1gze20d12qfuxejqu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-04-01",
+                    "legalEntity": "{\"id\": 123486, \"name\": \"Factual\", \"uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/factual-inc.png\", \"description\": \"The location data company the worlds most valuable brands and tech companies trust to understand and intelligently grow their businesses.\", \"headcount\": \"101-250\", \"founding_date\": \"2008-01-01\", \"website\": \"http://www.factual.com\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [323731], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/factual\", \"linkedin_url\": \"https://linkedin.com/company/factual-inc\", \"twitter\": \"http:/twitter.com/factual\", \"last_funding_round_date\": \"2018-09-05\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 104000000, \"company_li_name\": \"factual-inc\", \"tags\": [{\"id\": 6409269, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6409270, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Location Based Services\", \"category\": \"Industry\"}, {\"id\": 6409271, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 6409272, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Mobile Advertising\", \"category\": \"Industry\"}, {\"id\": 6409268, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Geospatial\", \"category\": \"Industry\"}, {\"id\": 6409267, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Digital Marketing\", \"category\": \"Industry\"}, {\"id\": 6409266, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 6409265, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Advertising\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 176, \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 112639, \"uuid\": \"8b414983-627e-4b59-84ef-fc923ac52e6f\", \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 42000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-09-05\", \"investors\": null}, {\"id\": 112638, \"uuid\": \"87d8ac11-7d54-7245-d844-e1a031f3823f\", \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 35000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-12-10\", \"investors\": null}, {\"id\": 112637, \"uuid\": \"bb57d94b-3212-6e25-9766-9cb431c4b35f\", \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-12-09\", \"investors\": null}, {\"id\": 112636, \"uuid\": \"00043331-9b35-507f-990e-72e376cdf7b8\", \"legal_entity_uuid\": \"c6eda1e4-c526-037a-c556-8af22254f01f\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-02-03\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/factual-inc.png",
+                        "name": "Factual Inc"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2019-02-01",
+                    "name": "Factual Inc",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/factual-inc.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2018-01-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 1406073, \"name\": \"Washington University School Of Medicine\", \"uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/washington-university-school-of-medicine.png\", \"description\": \"Washington University School of Medicine is the medical school of Washington University in St. Louis.\", \"headcount\": \"10000+\", \"founding_date\": \"1891-01-01\", \"website\": \"https://medicine.wustl.edu/\", \"location\": \"St Louis\", \"country\": \"USA\", \"region\": \"Missouri\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1732107, 2683482], \"cb_permalink\": \"https://www.crunchbase.com/organization/washington-university-school-of-medicine\", \"linkedin_url\": \"https://linkedin.com/school/washington-university-school-of-medicine\", \"twitter\": \"https:/twitter.com/WUSTLmed\", \"last_funding_round_date\": \"2023-05-11\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 370200000, \"company_li_name\": \"washington-university-school-of-medicine\", \"tags\": [{\"id\": 1656780, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1656779, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1656781, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 28425, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 32, \"hc_estimate_90_days\": 29, \"hc_estimate_180_days\": 29, \"hc_estimate_270_days\": 30, \"hc_estimate_365_days\": 31, \"hc_growth_90_days\": \"10.339999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"10.339999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"6.6699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"3.229999999999999982236431605997495353221893310546875\"}, \"funding_rounds\": [{\"id\": 111789, \"uuid\": \"77720210-02c1-4e4a-853f-f2601bb61cfc\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 22500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-11\", \"investors\": null}, {\"id\": 111788, \"uuid\": \"8aa9f344-1d8f-474d-b15d-2f02604c7371\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 61000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-05-13\", \"investors\": null}, {\"id\": 111787, \"uuid\": \"55421fd5-c03e-4222-970f-5a01135210e0\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 68000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-05\", \"investors\": null}, {\"id\": 111786, \"uuid\": \"bbd3be37-8307-4395-a960-377b803b55a4\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-25\", \"investors\": null}, {\"id\": 111785, \"uuid\": \"3200f0ce-b2a8-4e1d-b59d-ffa81127dd47\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-04\", \"investors\": null}, {\"id\": 111784, \"uuid\": \"2a78a0a6-bf5d-4d46-86f0-012ba5216eb5\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-08\", \"investors\": null}, {\"id\": 111783, \"uuid\": \"05bb013c-742a-484a-a123-326cea9b207e\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-03-07\", \"investors\": null}, {\"id\": 111782, \"uuid\": \"771b5a88-fa5b-ca0e-31ac-28d58eefbc96\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 46000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-29\", \"investors\": null}, {\"id\": 111781, \"uuid\": \"b8831d6a-fb0c-5e98-de63-7a9ecb94d4c3\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-08-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/washington-university-school-of-medicine.png",
+                        "name": "Washington University School of Medicine in St. Louis"
+                    },
+                    "position": "Machine Learning Engineer",
+                    "startDate": "2018-05-01",
+                    "name": "Washington University School of Medicine in St. Louis",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/washington-university-school-of-medicine.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 737213, \"name\": \"Hack Reactor\", \"uuid\": \"4283eccb-5038-fb47-b236-987b9424c5d4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188194/369bd8effaeab9b69e90597ca2bdf403.png\", \"description\": \"The CS Degree for the 21st Century.\", \"headcount\": \"101-250\", \"founding_date\": \"2012-01-01\", \"website\": \"http://hackreactor.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [491511, 1197838, 2241275], \"executive_people_profile_ids\": [2241275, 871215, 2684215, 491511, 1197838], \"cb_permalink\": \"https://www.crunchbase.com/organization/hack-reactor\", \"linkedin_url\": \"https://linkedin.com/company/hack-reactor\", \"twitter\": \"http:/twitter.com/HackReactor\", \"last_funding_round_date\": \"2017-01-19\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 950000, \"company_li_name\": \"hack-reactor\", \"tags\": [{\"id\": 1692045, \"legal_entity_uuid\": \"4283eccb-5038-fb47-b236-987b9424c5d4\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1692044, \"legal_entity_uuid\": \"4283eccb-5038-fb47-b236-987b9424c5d4\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 92094, \"legal_entity_uuid\": \"4283eccb-5038-fb47-b236-987b9424c5d4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": \"-28.57000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-28.57000000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 404275, \"uuid\": \"3b1e1e72-c774-458b-ab4c-198e932760b3\", \"legal_entity_uuid\": \"4283eccb-5038-fb47-b236-987b9424c5d4\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 950000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188194/369bd8effaeab9b69e90597ca2bdf403.png",
+                        "name": "Hack Reactor"
+                    },
+                    "position": "Hack Reactor",
+                    "startDate": "2017-05-01",
+                    "name": "Hack Reactor",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188194/369bd8effaeab9b69e90597ca2bdf403.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-05-01",
+                    "legalEntity": "{\"id\": 1420894, \"name\": \"Pomona College\", \"uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ubhubwsgaqnzc3ehaqk1\", \"description\": \"Pomona College offers students the experience of a liberal arts college and the breadth of resources associated with major universities.\", \"headcount\": \"251-500\", \"founding_date\": \"1887-01-01\", \"website\": \"http://www.pomona.edu\", \"location\": \"Claremont\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [3393552], \"cb_permalink\": \"https://www.crunchbase.com/organization/pomona-college\", \"linkedin_url\": \"https://linkedin.com/company/pomona-college\", \"twitter\": \"http:/twitter.com/pomonacollege\", \"last_funding_round_date\": \"2000-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"pomona-college\", \"tags\": [{\"id\": 1698167, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1698166, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1698168, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 43882, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 19, \"hc_estimate_90_days\": 18, \"hc_estimate_180_days\": 27, \"hc_estimate_270_days\": 26, \"hc_estimate_365_days\": 30, \"hc_growth_90_days\": \"5.55999999999999960920149533194489777088165283203125\", \"hc_growth_180_days\": \"-29.629999999999999005240169935859739780426025390625\", \"hc_growth_270_days\": \"-26.9200000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"-36.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": [{\"id\": 162726, \"uuid\": \"88d73853-1a59-4277-8f5c-109a38bf8b52\", \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2000-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubhubwsgaqnzc3ehaqk1",
+                        "name": "Pomona College"
+                    },
+                    "position": "Student Researcher",
+                    "startDate": "2013-05-01",
+                    "name": "Pomona College",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubhubwsgaqnzc3ehaqk1"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Doctor of Medicine - MD",
+                    "degreeType": "",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 1406073, \"name\": \"Washington University School Of Medicine\", \"uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/washington-university-school-of-medicine.png\", \"description\": \"Washington University School of Medicine is the medical school of Washington University in St. Louis.\", \"headcount\": \"10000+\", \"founding_date\": \"1891-01-01\", \"website\": \"https://medicine.wustl.edu/\", \"location\": \"St Louis\", \"country\": \"USA\", \"region\": \"Missouri\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1732107, 2683482], \"cb_permalink\": \"https://www.crunchbase.com/organization/washington-university-school-of-medicine\", \"linkedin_url\": \"https://linkedin.com/school/washington-university-school-of-medicine\", \"twitter\": \"https:/twitter.com/WUSTLmed\", \"last_funding_round_date\": \"2023-05-11\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 370200000, \"company_li_name\": \"washington-university-school-of-medicine\", \"tags\": [{\"id\": 1656780, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1656779, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1656781, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 28425, \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 32, \"hc_estimate_90_days\": 29, \"hc_estimate_180_days\": 29, \"hc_estimate_270_days\": 30, \"hc_estimate_365_days\": 31, \"hc_growth_90_days\": \"10.339999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"10.339999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"6.6699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"3.229999999999999982236431605997495353221893310546875\"}, \"funding_rounds\": [{\"id\": 111789, \"uuid\": \"77720210-02c1-4e4a-853f-f2601bb61cfc\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 22500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-11\", \"investors\": null}, {\"id\": 111788, \"uuid\": \"8aa9f344-1d8f-474d-b15d-2f02604c7371\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 61000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-05-13\", \"investors\": null}, {\"id\": 111787, \"uuid\": \"55421fd5-c03e-4222-970f-5a01135210e0\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 68000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-05\", \"investors\": null}, {\"id\": 111786, \"uuid\": \"bbd3be37-8307-4395-a960-377b803b55a4\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-25\", \"investors\": null}, {\"id\": 111785, \"uuid\": \"3200f0ce-b2a8-4e1d-b59d-ffa81127dd47\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-04\", \"investors\": null}, {\"id\": 111784, \"uuid\": \"2a78a0a6-bf5d-4d46-86f0-012ba5216eb5\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-08\", \"investors\": null}, {\"id\": 111783, \"uuid\": \"05bb013c-742a-484a-a123-326cea9b207e\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-03-07\", \"investors\": null}, {\"id\": 111782, \"uuid\": \"771b5a88-fa5b-ca0e-31ac-28d58eefbc96\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 46000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-29\", \"investors\": null}, {\"id\": 111781, \"uuid\": \"b8831d6a-fb0c-5e98-de63-7a9ecb94d4c3\", \"legal_entity_uuid\": \"eff81688-f67f-e3d1-8008-aa77e7854a5c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-08-21\", \"investors\": null}]}",
+                    "startDate": "2017-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/washington-university-school-of-medicine.png",
+                        "name": "Washington University School of Medicine in St. Louis"
+                    },
+                    "name": "Washington University School of Medicine in St. Louis",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/washington-university-school-of-medicine.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Chemistry  Mathematics",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 1420894, \"name\": \"Pomona College\", \"uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ubhubwsgaqnzc3ehaqk1\", \"description\": \"Pomona College offers students the experience of a liberal arts college and the breadth of resources associated with major universities.\", \"headcount\": \"251-500\", \"founding_date\": \"1887-01-01\", \"website\": \"http://www.pomona.edu\", \"location\": \"Claremont\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [3393552], \"cb_permalink\": \"https://www.crunchbase.com/organization/pomona-college\", \"linkedin_url\": \"https://linkedin.com/company/pomona-college\", \"twitter\": \"http:/twitter.com/pomonacollege\", \"last_funding_round_date\": \"2000-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"pomona-college\", \"tags\": [{\"id\": 1698167, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1698166, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1698168, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 43882, \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 19, \"hc_estimate_90_days\": 18, \"hc_estimate_180_days\": 27, \"hc_estimate_270_days\": 26, \"hc_estimate_365_days\": 30, \"hc_growth_90_days\": \"5.55999999999999960920149533194489777088165283203125\", \"hc_growth_180_days\": \"-29.629999999999999005240169935859739780426025390625\", \"hc_growth_270_days\": \"-26.9200000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"-36.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": [{\"id\": 162726, \"uuid\": \"88d73853-1a59-4277-8f5c-109a38bf8b52\", \"legal_entity_uuid\": \"d11c116b-579d-a778-fa61-cb82b21c273e\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2000-01-01\", \"investors\": null}]}",
+                    "startDate": "2012-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubhubwsgaqnzc3ehaqk1",
+                        "name": "Pomona College"
+                    },
+                    "name": "Pomona College",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubhubwsgaqnzc3ehaqk1"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "34"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

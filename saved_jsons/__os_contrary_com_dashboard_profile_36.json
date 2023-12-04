@@ -1,0 +1,428 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Investor at MetaProp",
+                "educationExperiences": [
+                    {
+                        "degree": "Concentrations in Finance",
+                        "degreeType": "Bachelor of Science in Business Administration (BSBA)",
+                        "endDate": "2019-01-01",
+                        "id": "52",
+                        "startDate": "2015-01-01",
+                        "universityId": 47
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "High School",
+                        "endDate": "2015-01-01",
+                        "id": "53",
+                        "startDate": "2011-01-01",
+                        "universityId": 48
+                    }
+                ],
+                "email": "jacksonhenryfeder@gmail.com",
+                "firstName": "Jackson",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "36",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-01-11T18:12:23",
+                "lastName": "Feder",
+                "linkedinName": "jacksonfeder",
+                "linkedinUrl": "https://linkedin.com/in/jacksonfeder/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "5aa0b1fd-1cc8-4cad-ba0c-30a09d580a57",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/36_Jackson_Feder.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4509",
+                        "organizationId": 708071,
+                        "position": "Board Observer",
+                        "startDate": "2023-07-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3297",
+                        "organizationId": 2633,
+                        "position": "Board Member",
+                        "startDate": "2022-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "190",
+                        "organizationId": 162,
+                        "position": "Investor",
+                        "startDate": "2021-11-01"
+                    },
+                    {
+                        "endDate": "2021-11-01",
+                        "id": "191",
+                        "organizationId": 163,
+                        "position": "Senior Analyst",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2019-05-01",
+                        "id": "193",
+                        "organizationId": 164,
+                        "position": "Chair-Class Gift Committee",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "195",
+                        "organizationId": 166,
+                        "position": "Director-UNIfy Ventures",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "196",
+                        "organizationId": 167,
+                        "position": "Summer Venture Analyst",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "194",
+                        "organizationId": 165,
+                        "position": "Sector Head (Financials)",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2019-05-01",
+                        "id": "192",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2017-08-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "197",
+                        "organizationId": 168,
+                        "position": "Jr. Investor Research Analyst",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "199",
+                        "organizationId": 170,
+                        "position": "Marketing-Analytics-and Business Development Intern",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2015-07-01",
+                        "id": "200",
+                        "organizationId": 171,
+                        "position": "Sales Intern",
+                        "startDate": "2015-06-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "198",
+                        "organizationId": 169,
+                        "position": "Founder and Chairman",
+                        "startDate": "2013-11-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/metaprop.png",
+                        "name": "MetaProp"
+                    },
+                    "position": "Senior Associate",
+                    "startDate": "2023-09-01",
+                    "name": "MetaProp",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/metaprop.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 407827, \"name\": \"Pest Share\", \"uuid\": \"8ea1191d-d9f5-41c7-b3d8-4a37fda14647\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pest-share.png\", \"description\": \"Pest Share is a pest control coverage for the insurance program that allows tenants to report pest services and claim for the same.\", \"headcount\": \"11-50\", \"founding_date\": \"2021-01-01\", \"website\": \"https://pestshare.com/\", \"location\": \"Nampa\", \"country\": \"USA\", \"region\": \"Idaho\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/pest-share\", \"linkedin_url\": \"https://linkedin.com/company/pest-share\", \"twitter\": null, \"last_funding_round_date\": \"2023-07-27\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 6310000, \"company_li_name\": \"pest-share\", \"tags\": [{\"id\": 4100886, \"legal_entity_uuid\": \"8ea1191d-d9f5-41c7-b3d8-4a37fda14647\", \"name\": \"Property Management\", \"category\": \"Industry\"}, {\"id\": 4100885, \"legal_entity_uuid\": \"8ea1191d-d9f5-41c7-b3d8-4a37fda14647\", \"name\": \"Insurance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 146865, \"legal_entity_uuid\": \"8ea1191d-d9f5-41c7-b3d8-4a37fda14647\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 222841, \"uuid\": \"983b8d6c-d509-47ab-9c12-b0e75d442b88\", \"legal_entity_uuid\": \"8ea1191d-d9f5-41c7-b3d8-4a37fda14647\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 5310000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 222840, \"uuid\": \"d46a2c2c-687b-43d3-8051-b72c80786d92\", \"legal_entity_uuid\": \"8ea1191d-d9f5-41c7-b3d8-4a37fda14647\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pest-share.png",
+                        "name": "Pest Share"
+                    },
+                    "position": "Board Observer",
+                    "startDate": "2023-07-01",
+                    "name": "Pest Share",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pest-share.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1074486, \"name\": \"Tongo\", \"uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hbvnihd6ttjxo0ej2gwx\", \"description\": \"Tongo is an online financial services platform that provides commission workers with an easy way to access future commissions.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-01-01\", \"website\": \"http://www.gettongo.com\", \"location\": \"Brooklyn\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/tongo-44fc\", \"linkedin_url\": \"https://linkedin.com/company/tongocard\", \"twitter\": \"https:/twitter.com/gettongo\", \"last_funding_round_date\": \"2023-04-11\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 10000000, \"company_li_name\": \"tongocard\", \"tags\": [{\"id\": 570337, \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Real Estate\", \"category\": \"Industry\"}, {\"id\": 570336, \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Payments\", \"category\": \"Industry\"}, {\"id\": 570335, \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 570334, \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 570333, \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Debit Cards\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 178772, \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 2, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"50\", \"hc_growth_270_days\": \"50\", \"hc_growth_365_days\": \"50\"}, \"funding_rounds\": [{\"id\": 428257, \"uuid\": \"eea59a4b-4bd8-4d93-ae7b-b465be875174\", \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-11\", \"investors\": null}, {\"id\": 428256, \"uuid\": \"54bdd248-4ea5-4ac1-a200-b6043ec2896b\", \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-29\", \"investors\": null}, {\"id\": 428255, \"uuid\": \"8959d03d-5cf0-48c9-98cc-66fb770bb205\", \"legal_entity_uuid\": \"817408c3-b643-41c4-bf79-7fca06a844fc\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-02-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hbvnihd6ttjxo0ej2gwx",
+                        "name": "Tongo"
+                    },
+                    "position": "Board Member",
+                    "startDate": "2022-09-01",
+                    "name": "Tongo",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hbvnihd6ttjxo0ej2gwx"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Alumni  Venture Partner",
+                    "startDate": "2017-08-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/metaprop.png",
+                        "name": "MetaProp"
+                    },
+                    "position": "Associate",
+                    "startDate": "2021-11-01",
+                    "name": "MetaProp",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/metaprop.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-11-01",
+                    "legalEntity": "{\"id\": 1117524, \"name\": \"Armory Square Ventures\", \"uuid\": \"583aae93-2ffd-d994-3cfa-7638549eeac5\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vgxc4imgvji5j4zwokdw\", \"description\": \"Armory Square Ventures is an early-stage VC fund focused on B2B software, mobile, and technology-enabled services in under-ventured regions.\", \"headcount\": \"1-10\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.armorysv.com\", \"location\": \"Syracuse\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [484685], \"executive_people_profile_ids\": [1390700, 3276145, 484685, 768807, 2755221, 1731919], \"cb_permalink\": \"https://www.crunchbase.com/organization/armorysquare-ventures\", \"linkedin_url\": \"https://linkedin.com/company/armory-square-ventures\", \"twitter\": \"https:/twitter.com/armorysv\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"armory-square-ventures\", \"tags\": [{\"id\": 5897448, \"legal_entity_uuid\": \"583aae93-2ffd-d994-3cfa-7638549eeac5\", \"name\": \"B2B\", \"category\": \"Industry\"}, {\"id\": 5897450, \"legal_entity_uuid\": \"583aae93-2ffd-d994-3cfa-7638549eeac5\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 5897449, \"legal_entity_uuid\": \"583aae93-2ffd-d994-3cfa-7638549eeac5\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 180495, \"legal_entity_uuid\": \"583aae93-2ffd-d994-3cfa-7638549eeac5\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgxc4imgvji5j4zwokdw",
+                        "name": "Armory Square Ventures"
+                    },
+                    "position": "Investor",
+                    "startDate": "2019-02-01",
+                    "name": "Armory Square Ventures",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgxc4imgvji5j4zwokdw"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-05-01",
+                    "legalEntity": "{\"id\": 1753890, \"name\": \"Boston University Chobanian & Avedisian School of Medicine\", \"uuid\": \"6f0f3d0d-674a-4821-92b0-aadc6aab7474\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boston-university.png\", \"description\": \"Chobanian & Avedisian School of Medicine is dedicated to research and clinical medicine focusing on treating poor and underserved people.\", \"headcount\": \"unknown\", \"founding_date\": \"1848-01-01\", \"website\": \"https://www.bumc.bu.edu/busm\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/boston-university-chobanian-avedisian-school-of-medicine\", \"linkedin_url\": \"https://linkedin.com/company/boston-university\", \"twitter\": null, \"last_funding_round_date\": \"2023-09-15\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 17600000, \"company_li_name\": \"boston-university\", \"tags\": [{\"id\": 195343, \"legal_entity_uuid\": \"6f0f3d0d-674a-4821-92b0-aadc6aab7474\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7017243, \"legal_entity_uuid\": \"6f0f3d0d-674a-4821-92b0-aadc6aab7474\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 118318, \"legal_entity_uuid\": \"6f0f3d0d-674a-4821-92b0-aadc6aab7474\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 225, \"hc_estimate_90_days\": 220, \"hc_estimate_180_days\": 253, \"hc_estimate_270_days\": 247, \"hc_estimate_365_days\": 263, \"hc_growth_90_days\": \"2.270000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-11.07000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-8.910000000000000142108547152020037174224853515625\", \"hc_growth_365_days\": \"-14.449999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 490977, \"uuid\": \"73a08733-ce32-4125-8f64-7dea61774910\", \"legal_entity_uuid\": \"6f0f3d0d-674a-4821-92b0-aadc6aab7474\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 13700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-15\", \"investors\": null}, {\"id\": 397581, \"uuid\": \"149a2166-4ced-4d04-b38f-ba215803887a\", \"legal_entity_uuid\": \"6f0f3d0d-674a-4821-92b0-aadc6aab7474\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-03\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boston-university.png",
+                        "name": "Boston University"
+                    },
+                    "position": "Chair-Class Gift Committee",
+                    "startDate": "2018-09-01",
+                    "name": "Boston University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boston-university.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "UNIfy"
+                    },
+                    "position": "Venture Capital",
+                    "startDate": "2018-09-01",
+                    "name": "UNIfy",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boston-university-finance-club.png",
+                        "name": "BU Finance  Investment Club Student Managed Investment Fund"
+                    },
+                    "position": "Investment Research",
+                    "startDate": "2017-01-01",
+                    "name": "BU Finance  Investment Club Student Managed Investment Fund",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boston-university-finance-club.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 177906, \"name\": \"Bowery Capital\", \"uuid\": \"c341cbc3-7419-7ddc-da42-2bbc7a03ef41\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bowery-capital.png\", \"description\": \"Early-stage venture capital investors focused on helping our founders build the next generation of B2B market leaders.\", \"headcount\": \"1-10\", \"founding_date\": \"2013-05-01\", \"website\": \"http://www.bowerycap.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1388215], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/bowery-capital\", \"linkedin_url\": \"https://linkedin.com/company/bowery-capital\", \"twitter\": \"http:/twitter.com/bowerycapital\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bowery-capital\", \"tags\": [{\"id\": 1653685, \"legal_entity_uuid\": \"c341cbc3-7419-7ddc-da42-2bbc7a03ef41\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1653684, \"legal_entity_uuid\": \"c341cbc3-7419-7ddc-da42-2bbc7a03ef41\", \"name\": \"SaaS\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 11194, \"legal_entity_uuid\": \"c341cbc3-7419-7ddc-da42-2bbc7a03ef41\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 14, \"hc_estimate_90_days\": 13, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 13, \"hc_estimate_365_days\": 12, \"hc_growth_90_days\": \"7.69000000000000039079850466805510222911834716796875\", \"hc_growth_180_days\": \"7.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"7.69000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"16.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bowery-capital.png",
+                        "name": "Bowery Capital"
+                    },
+                    "position": "Venture Capital",
+                    "startDate": "2018-06-01",
+                    "name": "Bowery Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bowery-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 492663, \"name\": \"FINTRX\", \"uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/sa356x5sludanwzjw09q\", \"description\": \"FINTRX provides family office intelligence design to assist in the identification, access, and raising of family office capital.\", \"headcount\": \"51-100\", \"founding_date\": \"2014-01-01\", \"website\": \"https://www.fintrx.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [3109827], \"executive_people_profile_ids\": [3109827], \"cb_permalink\": \"https://www.crunchbase.com/organization/fintrx\", \"linkedin_url\": \"https://linkedin.com/company/fintrx\", \"twitter\": \"https:/twitter.com/fintrx\", \"last_funding_round_date\": \"2021-11-29\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 9000000, \"company_li_name\": \"fintrx\", \"tags\": [{\"id\": 1711758, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 1711759, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"Impact Investing\", \"category\": \"Industry\"}, {\"id\": 1711757, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 1711756, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1711755, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"Database\", \"category\": \"Industry\"}, {\"id\": 1711754, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"Big Data\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 122357, \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": \"28.57000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"80\", \"hc_growth_270_days\": \"50\", \"hc_growth_365_days\": \"50\"}, \"funding_rounds\": [{\"id\": 305508, \"uuid\": \"72244cf9-31d3-4571-90b7-39439b8a2c88\", \"legal_entity_uuid\": \"455f7567-6169-c410-d5da-e8c36a6a9a87\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 9000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-11-29\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sa356x5sludanwzjw09q",
+                        "name": "Capital Hedge FINTRX Family Office Intelligence Platform"
+                    },
+                    "position": "Investment Research",
+                    "startDate": "2017-06-01",
+                    "name": "Capital Hedge FINTRX Family Office Intelligence Platform",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sa356x5sludanwzjw09q"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Exxyte-LLC"
+                    },
+                    "position": "Founder  CEO",
+                    "startDate": "2013-11-01",
+                    "name": "Exxyte-LLC",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/hoplite-power.png",
+                        "name": "Hoplite Power"
+                    },
+                    "position": "Marketing-Analytics- Business Development",
+                    "startDate": "2016-06-01",
+                    "name": "Hoplite Power",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/hoplite-power.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-07-01",
+                    "legalEntity": "{\"id\": 1559423, \"name\": \"Machinery Network\", \"uuid\": \"c2bac9a9-877b-497e-920f-b67ea9b375f2\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vmsgc3u1yknpikzwa3s6\", \"description\": \"Machinery Network is inventory of used metalworking plastic and fabrication machinery, including late-model presses,\", \"headcount\": \"11-50\", \"founding_date\": \"1987-01-01\", \"website\": \"https://www.machinerynetwork.com\", \"location\": \"La Mirada\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/machinery-network\", \"linkedin_url\": \"https://linkedin.com/company/machinery-network\", \"twitter\": \"https:/www.twitter.com/https:/twitter.com/MachNetwork_\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"machinery-network\", \"tags\": [{\"id\": 2762257, \"legal_entity_uuid\": \"c2bac9a9-877b-497e-920f-b67ea9b375f2\", \"name\": \"Sales\", \"category\": \"Industry\"}, {\"id\": 2762256, \"legal_entity_uuid\": \"c2bac9a9-877b-497e-920f-b67ea9b375f2\", \"name\": \"Machinery Manufacturing\", \"category\": \"Industry\"}, {\"id\": 2762255, \"legal_entity_uuid\": \"c2bac9a9-877b-497e-920f-b67ea9b375f2\", \"name\": \"Auctions\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vmsgc3u1yknpikzwa3s6",
+                        "name": "Machinery Network"
+                    },
+                    "position": "Sales",
+                    "startDate": "2015-06-01",
+                    "name": "Machinery Network",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vmsgc3u1yknpikzwa3s6"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Beverly Hills High School"
+                    },
+                    "name": "Beverly Hills High School",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Concentrations in Finance",
+                    "degreeType": "Bachelor of Science in Business Administration (BSBA)",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Boston University Questrom School of Business"
+                    },
+                    "name": "Boston University Questrom School of Business",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "36"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

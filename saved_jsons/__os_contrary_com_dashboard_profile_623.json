@@ -1,0 +1,76 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "wiliam.tae@contrarycap.com",
+                "firstName": "Wiliam",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "623",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": true,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-16T10:02:27",
+                "lastName": "Tae Sung Lee",
+                "linkedinName": null,
+                "linkedinUrl": null,
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 24,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ACg8ocKHnp-Qy93biVVcLCEZ5BkFGHfcthizKGqeSRVLiHIp=s96-c",
+                "roles": [
+                    "HQ",
+                    "Event Admin"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "15",
+                    "value": "Freelancer"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "623"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

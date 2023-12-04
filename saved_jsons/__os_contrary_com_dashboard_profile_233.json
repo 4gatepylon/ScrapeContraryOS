@@ -1,0 +1,469 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Building & Vibing",
+                "educationExperiences": [
+                    {
+                        "degree": "Economics and Computer Science",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2023-01-01",
+                        "id": "437",
+                        "startDate": "2019-01-01",
+                        "universityId": 189
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "High School Diploma",
+                        "endDate": "2019-01-01",
+                        "id": "438",
+                        "startDate": "2015-01-01",
+                        "universityId": 252
+                    }
+                ],
+                "email": "jameswrogers8@gmail.com",
+                "firstName": "James",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "233",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-09-25T19:54:30",
+                "lastName": "Rogers",
+                "linkedinName": "james-rogers58",
+                "linkedinUrl": "https://linkedin.com/in/james-rogers58/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "f307774e-e611-4646-b8b1-9d56418a5e3d",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/233_James_Rogers.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "1533",
+                        "organizationId": 354,
+                        "position": "Advisor",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1534",
+                        "organizationId": 1112,
+                        "position": "Chief Of Staff",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "1536",
+                        "organizationId": 1113,
+                        "position": "Growth + Data",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1537",
+                        "organizationId": 71,
+                        "position": "Freelance Growth",
+                        "startDate": "2021-02-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1538",
+                        "organizationId": 1114,
+                        "position": "Growth",
+                        "startDate": "2020-10-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "1539",
+                        "organizationId": 901,
+                        "position": "Republic Venture Fellow",
+                        "startDate": "2020-10-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "1540",
+                        "organizationId": 1115,
+                        "position": "Building Breakthroughs Cohort Member",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-06-01",
+                        "id": "1542",
+                        "organizationId": 1117,
+                        "position": "Campus Ambassador",
+                        "startDate": "2020-02-01"
+                    },
+                    {
+                        "endDate": "2020-10-01",
+                        "id": "1541",
+                        "organizationId": 1116,
+                        "position": "Research Assistant",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "1535",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2019-10-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1543",
+                        "organizationId": 1118,
+                        "position": "Research Intern",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "1544",
+                        "organizationId": 893,
+                        "position": "Research Assistant",
+                        "startDate": "2018-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2096317, \"name\": \"Envision Accelerator\", \"uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png\", \"description\": \"The first virtual student-led, student-built accelerator - helping diverse founders build their companies.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.envisionaccelerator.com/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/envision-accelerator\", \"linkedin_url\": \"https://linkedin.com/company/envision-accelerator\", \"twitter\": \"https:/twitter.com/envisionaccel\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"envision-accelerator\", \"tags\": [{\"id\": 2931283, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 2931284, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 76227, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png",
+                        "name": "Envision Accelerator"
+                    },
+                    "position": "Advisor",
+                    "startDate": "2022-01-01",
+                    "name": "Envision Accelerator",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-07-01",
+                    "legalEntity": "{\"id\": 322568, \"name\": \"Contenda\", \"uuid\": \"4523729f-dd27-4dc3-aec7-d139a9ff958b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/p2xv0ornt9i6cufoztlz\", \"description\": \"Contenda helps repurpose old content into a new engagement.\", \"headcount\": \"1-10\", \"founding_date\": \"2000-01-01\", \"website\": \"https://contenda.co/\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/contenda\", \"linkedin_url\": \"https://linkedin.com/company/contendaco\", \"twitter\": \"https:/twitter.com/contendaco\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contendaco\", \"tags\": [{\"id\": 4391222, \"legal_entity_uuid\": \"4523729f-dd27-4dc3-aec7-d139a9ff958b\", \"name\": \"Content\", \"category\": \"Industry\"}, {\"id\": 4391223, \"legal_entity_uuid\": \"4523729f-dd27-4dc3-aec7-d139a9ff958b\", \"name\": \"CRM\", \"category\": \"Industry\"}, {\"id\": 4391224, \"legal_entity_uuid\": \"4523729f-dd27-4dc3-aec7-d139a9ff958b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 142920, \"legal_entity_uuid\": \"4523729f-dd27-4dc3-aec7-d139a9ff958b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"-16.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p2xv0ornt9i6cufoztlz",
+                        "name": "Contenda"
+                    },
+                    "position": "Chief Of Staff",
+                    "startDate": "2022-01-01",
+                    "name": "Contenda",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p2xv0ornt9i6cufoztlz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 2096317, \"name\": \"Envision Accelerator\", \"uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png\", \"description\": \"The first virtual student-led, student-built accelerator - helping diverse founders build their companies.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.envisionaccelerator.com/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/envision-accelerator\", \"linkedin_url\": \"https://linkedin.com/company/envision-accelerator\", \"twitter\": \"https:/twitter.com/envisionaccel\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"envision-accelerator\", \"tags\": [{\"id\": 2931283, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 2931284, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 76227, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png",
+                        "name": "Envision Accelerator"
+                    },
+                    "position": "Head Of Operations",
+                    "startDate": "2021-01-01",
+                    "name": "Envision Accelerator",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2019-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/getnabis.png",
+                        "name": "NABIS"
+                    },
+                    "position": "Product Intern",
+                    "startDate": "2021-05-01",
+                    "name": "NABIS",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/getnabis.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": "{\"id\": 1428711, \"name\": \"On Deck\", \"uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xf83gwfkqosjes5nz0up\", \"description\": \"On Deck builds a modern educational institution that unites people around the globe.\", \"headcount\": \"501-1000\", \"founding_date\": \"2019-01-01\", \"website\": \"http://beondeck.com/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1842531, 1499724, 1783703, 2228007, 642303, 2713247, 100436, 530120, 2930546], \"executive_people_profile_ids\": [194992, 1313134, 530120, 100436, 483060, 1783703, 2928986, 2713247, 2930546, 642303, 1842531, 3359659, 1499724, 532793, 2228007], \"cb_permalink\": \"https://www.crunchbase.com/organization/on-deck-a441\", \"linkedin_url\": \"https://linkedin.com/company/beondeck\", \"twitter\": \"https:/twitter.com/beondeck\", \"last_funding_round_date\": \"2021-03-25\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 20000000, \"company_li_name\": \"beondeck\", \"tags\": [{\"id\": 4037005, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 4037006, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Communities\", \"category\": \"Industry\"}, {\"id\": 4037007, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 4037008, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 4037009, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Professional Networking\", \"category\": \"Industry\"}, {\"id\": 4037010, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Publishing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 30015, \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1122, \"hc_estimate_90_days\": 1146, \"hc_estimate_180_days\": 1169, \"hc_estimate_270_days\": 1160, \"hc_estimate_365_days\": 1271, \"hc_growth_90_days\": \"-2.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-4.019999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": \"-3.279999999999999804600747665972448885440826416015625\", \"hc_growth_365_days\": \"-11.7200000000000006394884621840901672840118408203125\"}, \"funding_rounds\": [{\"id\": 159503, \"uuid\": \"863a6ca3-bc13-4b07-a503-f87b5f10223f\", \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-03-25\", \"investors\": null}, {\"id\": 159502, \"uuid\": \"7410e7a4-c851-4c26-b485-e569729476c4\", \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-02-20\", \"investors\": null}, {\"id\": 159501, \"uuid\": \"dabc5adb-ba63-48bf-b211-25e47cebf0de\", \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-27\", \"investors\": null}, {\"id\": 159500, \"uuid\": \"c46bea3f-993e-4b98-a6f9-3dbae66c394d\", \"legal_entity_uuid\": \"2f0b630c-e5be-46f0-953f-1cf4c2c1a441\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xf83gwfkqosjes5nz0up",
+                        "name": "On Deck"
+                    },
+                    "position": "Freelance Growth",
+                    "startDate": "2021-02-01",
+                    "name": "On Deck",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xf83gwfkqosjes5nz0up"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": "{\"id\": 982239, \"name\": \"dcdx\", \"uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/kicoqkzdohp90wj6xw0x\", \"description\": \"dcdx is a Gen Z research and strategy firm helping organizations attract Gen Z.\", \"headcount\": \"11-50\", \"founding_date\": \"2018-01-01\", \"website\": \"https://dcdx.co\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/genz-designs\", \"linkedin_url\": \"https://linkedin.com/company/dcdx\", \"twitter\": \"https:/twitter.com/dcdx_co\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"dcdx\", \"tags\": [{\"id\": 3106815, \"legal_entity_uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"name\": \"Advertising\", \"category\": \"Industry\"}, {\"id\": 3106816, \"legal_entity_uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 3106817, \"legal_entity_uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"name\": \"Digital Marketing\", \"category\": \"Industry\"}, {\"id\": 3106818, \"legal_entity_uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"name\": \"Generation Z\", \"category\": \"Industry\"}, {\"id\": 3106819, \"legal_entity_uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"name\": \"Market Research\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 105375, \"legal_entity_uuid\": \"6915ddaa-52e2-4562-a57f-cd76b17ae28d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": 1, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kicoqkzdohp90wj6xw0x",
+                        "name": "GenZ Designs"
+                    },
+                    "position": "Chief Financial Officer",
+                    "startDate": "2020-10-01",
+                    "name": "GenZ Designs",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kicoqkzdohp90wj6xw0x"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 514455, \"name\": \"Republic\", \"uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/uvaop7m83njvshwd9jld\", \"description\": \"Republic curates private investment opportunities with high growth potential across startups, gaming, real estate, and crypto.\", \"headcount\": \"501-1000\", \"founding_date\": \"2016-01-01\", \"website\": \"http://republic.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3325023, 3157107, 2963919], \"executive_people_profile_ids\": [1011719, 2546334, 991416, 1691862, 2344998, 478146, 410610, 2963919, 1716558, 1949594, 1648452, 1302098, 2919464, 323194, 292185, 448558, 1210198, 3146168, 1518266, 505678, 3268826, 3325023, 3157107], \"cb_permalink\": \"https://www.crunchbase.com/organization/republic-co\", \"linkedin_url\": \"https://linkedin.com/company/republic.co\", \"twitter\": \"https:/www.twitter.com/joinrepublic\", \"last_funding_round_date\": \"2022-02-01\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 226025000, \"company_li_name\": \"republic.co\", \"tags\": [{\"id\": 5885228, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Crowdfunding\", \"category\": \"Industry\"}, {\"id\": 5885229, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Cryptocurrency\", \"category\": \"Industry\"}, {\"id\": 5885230, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 106863, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 128, \"hc_estimate_90_days\": 128, \"hc_estimate_180_days\": 140, \"hc_estimate_270_days\": 144, \"hc_estimate_365_days\": 157, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-8.57000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-18.469999999999998863131622783839702606201171875\"}, \"funding_rounds\": [{\"id\": 455069, \"uuid\": \"d969705d-ee9a-4a82-9aa1-bc62972d183c\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-02-01\", \"investors\": null}, {\"id\": 455068, \"uuid\": \"caf72ee5-771d-4173-a8c9-b8ae321fe91f\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-01\", \"investors\": null}, {\"id\": 455067, \"uuid\": \"53d415b9-01c6-4390-9387-7bc6061e56dd\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-19\", \"investors\": null}, {\"id\": 455066, \"uuid\": \"f80d337b-5fd2-4c0a-a39f-89179d039ddc\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-09-01\", \"investors\": null}, {\"id\": 455065, \"uuid\": \"4a3c0188-1083-405a-8892-857231551a13\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-06-30\", \"investors\": null}, {\"id\": 455064, \"uuid\": \"b44a5daa-1b9a-468f-9b38-ee5f629134ae\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-20\", \"investors\": null}, {\"id\": 455063, \"uuid\": \"3693aad8-c6eb-46ad-91fd-79ac13af92f7\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 36000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-03-18\", \"investors\": null}, {\"id\": 455062, \"uuid\": \"d8f9f606-a8aa-4133-9b5b-264224ec478f\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 455061, \"uuid\": \"653a67bf-28ef-4394-b4ff-0992d2661018\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Initial Coin Offering\", \"cb_permalink\": null, \"investment_type\": \"initial_coin_offering\", \"raised_amount_usd\": 16000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-08-05\", \"investors\": null}, {\"id\": 455060, \"uuid\": \"482b34dd-6c4a-4bbd-8667-5594f9498317\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 455059, \"uuid\": \"738ed175-9ae2-4f0b-88f6-881ad1645adf\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-05\", \"investors\": null}, {\"id\": 455057, \"uuid\": \"0ef19108-0e31-4451-963f-cf8fec266493\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-08\", \"investors\": null}, {\"id\": 455058, \"uuid\": \"198afe63-7c12-48f7-8918-2e25baa2727c\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Initial Coin Offering\", \"cb_permalink\": null, \"investment_type\": \"initial_coin_offering\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-08\", \"investors\": null}, {\"id\": 455056, \"uuid\": \"f04ed1d7-d29a-488a-8b6a-b3d1a7c34d16\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Convertible Note\", \"cb_permalink\": null, \"investment_type\": \"convertible_note\", \"raised_amount_usd\": 25000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvaop7m83njvshwd9jld",
+                        "name": "Republic"
+                    },
+                    "position": "Republic Venture Fellow",
+                    "startDate": "2020-10-01",
+                    "name": "Republic",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvaop7m83njvshwd9jld"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 2096317, \"name\": \"Envision Accelerator\", \"uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png\", \"description\": \"The first virtual student-led, student-built accelerator - helping diverse founders build their companies.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.envisionaccelerator.com/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/envision-accelerator\", \"linkedin_url\": \"https://linkedin.com/company/envision-accelerator\", \"twitter\": \"https:/twitter.com/envisionaccel\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"envision-accelerator\", \"tags\": [{\"id\": 2931283, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 2931284, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 76227, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png",
+                        "name": "Envision Accelerator"
+                    },
+                    "position": "Head of Outreach/Founding-Team",
+                    "startDate": "2020-06-01",
+                    "name": "Envision Accelerator",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-12-01",
+                    "legalEntity": "{\"id\": 1105569, \"name\": \"Floodgate\", \"uuid\": \"03dab4e0-022c-0c56-b92e-b649077cdcfa\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/floodgate.png\", \"description\": \"Floodgate caters to digital businesses with early, seed, and later stage venture, and debt financing investments.\", \"headcount\": \"1-10\", \"founding_date\": \"2006-01-01\", \"website\": \"http://www.floodgate.com\", \"location\": \"Palo Alto\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764496, 3411808], \"executive_people_profile_ids\": [823002, 1184768, 3336837, 426488], \"cb_permalink\": \"https://www.crunchbase.com/organization/floodgate\", \"linkedin_url\": \"https://linkedin.com/company/floodgate\", \"twitter\": \"https:/www.twitter.com/floodgatefund\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"floodgate\", \"tags\": [{\"id\": 6426590, \"legal_entity_uuid\": \"03dab4e0-022c-0c56-b92e-b649077cdcfa\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6426591, \"legal_entity_uuid\": \"03dab4e0-022c-0c56-b92e-b649077cdcfa\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6426592, \"legal_entity_uuid\": \"03dab4e0-022c-0c56-b92e-b649077cdcfa\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 177298, \"legal_entity_uuid\": \"03dab4e0-022c-0c56-b92e-b649077cdcfa\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 23, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 29, \"hc_estimate_270_days\": 30, \"hc_estimate_365_days\": 21, \"hc_growth_90_days\": \"-14.8100000000000004973799150320701301097869873046875\", \"hc_growth_180_days\": \"-20.690000000000001278976924368180334568023681640625\", \"hc_growth_270_days\": \"-23.3299999999999982946974341757595539093017578125\", \"hc_growth_365_days\": \"9.519999999999999573674358543939888477325439453125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/floodgate.png",
+                        "name": "Floodgate"
+                    },
+                    "position": "Building Breakthroughs Cohort Member",
+                    "startDate": "2020-09-01",
+                    "name": "Floodgate",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/floodgate.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-10-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Kidambi Lab (Vanderbilt University)"
+                    },
+                    "position": "Research Assistant",
+                    "startDate": "2020-01-01",
+                    "name": "Kidambi Lab (Vanderbilt University)",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-06-01",
+                    "legalEntity": "{\"id\": 716390, \"name\": \"Accelerated\", \"uuid\": \"47d53b47-4bf7-cb46-4fd6-a45b6cd7687b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1502822986/y7zidkjeav4o8bxcol5d.png\", \"description\": \"Accelerated is a social enterprise that blends technology with behavior design to promote active learning in primary classrooms.\", \"headcount\": \"11-50\", \"founding_date\": \"2017-01-01\", \"website\": \"https://accelerated.carrd.co/\", \"location\": \"Addis Ababa\", \"country\": \"ETH\", \"region\": \"Adis Abeba\", \"founder_people_profile_ids\": [1544289], \"executive_people_profile_ids\": [1544289], \"cb_permalink\": \"https://www.crunchbase.com/organization/accelerated\", \"linkedin_url\": \"https://linkedin.com/company/acceleratednewsletter\", \"twitter\": null, \"last_funding_round_date\": \"2017-06-16\", \"last_funding_round_name\": \"Non Equity Assistance\", \"total_funding_amount\": 0, \"company_li_name\": \"acceleratednewsletter\", \"tags\": [{\"id\": 1817019, \"legal_entity_uuid\": \"47d53b47-4bf7-cb46-4fd6-a45b6cd7687b\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 1817020, \"legal_entity_uuid\": \"47d53b47-4bf7-cb46-4fd6-a45b6cd7687b\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1817021, \"legal_entity_uuid\": \"47d53b47-4bf7-cb46-4fd6-a45b6cd7687b\", \"name\": \"Social\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 86729, \"legal_entity_uuid\": \"47d53b47-4bf7-cb46-4fd6-a45b6cd7687b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 303826, \"uuid\": \"bff61dba-469f-5731-ea04-1641a9372ac1\", \"legal_entity_uuid\": \"47d53b47-4bf7-cb46-4fd6-a45b6cd7687b\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-06-16\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1502822986/y7zidkjeav4o8bxcol5d.png",
+                        "name": "Accelerated"
+                    },
+                    "position": "Campus Ambassador",
+                    "startDate": "2020-02-01",
+                    "name": "Accelerated",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1502822986/y7zidkjeav4o8bxcol5d.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 1784722, \"name\": \"South Shore Neurologic Associates\", \"uuid\": \"e8e0a5e7-f07c-4660-ac49-45ce6d01b694\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tmqprlahi2pdm1ef6por\", \"description\": \"South Shore Neurologic Associates provides healthcare services.\", \"headcount\": \"11-50\", \"founding_date\": \"1980-01-01\", \"website\": \"https://www.southshoreneurologic.com/\", \"location\": \"Patchogue\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/south-shore-neurologic-associates\", \"linkedin_url\": \"https://linkedin.com/company/south-shore-neurologic\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"south-shore-neurologic\", \"tags\": [{\"id\": 3708739, \"legal_entity_uuid\": \"e8e0a5e7-f07c-4660-ac49-45ce6d01b694\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 3708740, \"legal_entity_uuid\": \"e8e0a5e7-f07c-4660-ac49-45ce6d01b694\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 3708741, \"legal_entity_uuid\": \"e8e0a5e7-f07c-4660-ac49-45ce6d01b694\", \"name\": \"Hospital\", \"category\": \"Industry\"}, {\"id\": 3708742, \"legal_entity_uuid\": \"e8e0a5e7-f07c-4660-ac49-45ce6d01b694\", \"name\": \"Hospitality\", \"category\": \"Industry\"}, {\"id\": 3708743, \"legal_entity_uuid\": \"e8e0a5e7-f07c-4660-ac49-45ce6d01b694\", \"name\": \"Therapeutics\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tmqprlahi2pdm1ef6por",
+                        "name": "South Shore Neurologic"
+                    },
+                    "position": "Research Intern",
+                    "startDate": "2019-06-01",
+                    "name": "South Shore Neurologic",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tmqprlahi2pdm1ef6por"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": "{\"id\": 877605, \"name\": \"Stony Brook University\", \"uuid\": \"4312e2c5-1447-2490-7c5a-01218a4a71d1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v74b2sxdl2d6hneezlqv\", \"description\": \"Stony Brook University is an University department that specializes in Information Technology.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1957-01-01\", \"website\": \"https://it.stonybrook.edu\", \"location\": \"Stony Brook\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/suny-stony-brook-computing-center\", \"linkedin_url\": \"https://linkedin.com/company/stony-brook-university\", \"twitter\": \"https:/www.twitter.com/stonybrooku\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"stony-brook-university\", \"tags\": [{\"id\": 1655538, \"legal_entity_uuid\": \"4312e2c5-1447-2490-7c5a-01218a4a71d1\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1655539, \"legal_entity_uuid\": \"4312e2c5-1447-2490-7c5a-01218a4a71d1\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1655540, \"legal_entity_uuid\": \"4312e2c5-1447-2490-7c5a-01218a4a71d1\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 144576, \"legal_entity_uuid\": \"4312e2c5-1447-2490-7c5a-01218a4a71d1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 142, \"hc_estimate_90_days\": 138, \"hc_estimate_180_days\": 174, \"hc_estimate_270_days\": 181, \"hc_estimate_365_days\": 215, \"hc_growth_90_days\": \"2.899999999999999911182158029987476766109466552734375\", \"hc_growth_180_days\": \"-18.3900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"-21.550000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"-33.9500000000000028421709430404007434844970703125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v74b2sxdl2d6hneezlqv",
+                        "name": "Stony Brook University"
+                    },
+                    "position": "Research Assistant",
+                    "startDate": "2018-05-01",
+                    "name": "Stony Brook University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v74b2sxdl2d6hneezlqv"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2024-01-01",
+                    "legalEntity": "{\"id\": 1127494, \"name\": \"Vanderbilt University\", \"uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1443352465/du3wux6tmevgrzorph4u.jpg\", \"description\": \"Vanderbilt University is a private research university offering various learning programs.\", \"headcount\": \"10000+\", \"founding_date\": \"1873-01-01\", \"website\": \"http://www.vanderbilt.edu\", \"location\": \"Nashville\", \"country\": \"USA\", \"region\": \"Tennessee\", \"founder_people_profile_ids\": [1508937, 731389], \"executive_people_profile_ids\": [321014, 813444, 3225874, 2241435, 731389, 530189, 2767128, 3400808, 1189763, 2148567, 228119, 1047837, 2762600, 2128434, 1508937], \"cb_permalink\": \"https://www.crunchbase.com/organization/vanderbilt-university\", \"linkedin_url\": \"https://linkedin.com/company/vanderbilt-university\", \"twitter\": \"http:/twitter.com/vanderbiltu\", \"last_funding_round_date\": \"2018-11-07\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 28552273, \"company_li_name\": \"vanderbilt-university\", \"tags\": [{\"id\": 1653368, \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 1653369, \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1653370, \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1653371, \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1653372, \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Medical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 188348, \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 134, \"hc_estimate_90_days\": 126, \"hc_estimate_180_days\": 152, \"hc_estimate_270_days\": 155, \"hc_estimate_365_days\": 161, \"hc_growth_90_days\": \"6.3499999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-11.839999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-13.550000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"-16.769999999999999573674358543939888477325439453125\"}, \"funding_rounds\": [{\"id\": 452665, \"uuid\": \"95b92a51-e0ad-4666-913f-663f0dcb111c\", \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-07\", \"investors\": null}, {\"id\": 452664, \"uuid\": \"fc5073bd-5d5b-4562-bd10-aeb577ec41ed\", \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 552273, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-18\", \"investors\": null}, {\"id\": 452663, \"uuid\": \"ab69d7b3-cc1b-b2c8-0835-f510a36966c8\", \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 12800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-07-10\", \"investors\": null}, {\"id\": 452662, \"uuid\": \"31ced772-7a65-4c46-1daf-9c8b730c0153\", \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-06-01\", \"investors\": null}, {\"id\": 452661, \"uuid\": \"6c0ce9d2-6c33-94ba-64af-f264f1394518\", \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 6900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-02-18\", \"investors\": null}, {\"id\": 452660, \"uuid\": \"4d3b070e-6e0d-2ca2-6e93-f3a30f6e836e\", \"legal_entity_uuid\": \"f9512678-6bf3-831f-d450-9327dced53df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-12-19\", \"investors\": null}]}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1443352465/du3wux6tmevgrzorph4u.jpg",
+                        "name": "Vanderbilt University"
+                    },
+                    "name": "Vanderbilt University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1443352465/du3wux6tmevgrzorph4u.jpg"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "High School Diploma",
+                    "degreeType": "",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Smithtown High School-West"
+                    },
+                    "name": "Smithtown High School-West",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "35",
+                    "value": "Dev Tools"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "36",
+                    "value": "Ed Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "27",
+                    "value": "Transportation & Logistics"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "24",
+                    "value": "Robotics"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "233"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

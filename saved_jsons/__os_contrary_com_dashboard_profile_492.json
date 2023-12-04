@@ -1,0 +1,276 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "The Wharton School | Tidemark | Venture Partner @ Contrary | Co-President @ Wharton FinTech",
+                "educationExperiences": [
+                    {
+                        "degree": "Master of Business Administration - MBA",
+                        "degreeType": "",
+                        "endDate": "2024-01-01",
+                        "id": "863",
+                        "startDate": "2022-01-01",
+                        "universityId": 4
+                    },
+                    {
+                        "degree": "Finance",
+                        "degreeType": "Bachelor of Science",
+                        "endDate": null,
+                        "id": "861",
+                        "startDate": null,
+                        "universityId": 208
+                    },
+                    {
+                        "degree": "International Baccalaureate Diploma",
+                        "degreeType": "",
+                        "endDate": null,
+                        "id": "862",
+                        "startDate": null,
+                        "universityId": 441
+                    }
+                ],
+                "email": "rocky.gowni@vp.contrary.com",
+                "firstName": "Rocky",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Philadelphia",
+                "id": "492",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-12-04T02:43:07",
+                "lastName": "Gowni",
+                "linkedinName": "rocky-gowni-52774865",
+                "linkedinUrl": "https://linkedin.com/in/rocky-gowni-52774865/",
+                "location": "Philadelphia",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 14,
+                "prismUuid": "bb643236-227a-48ba-bd74-e3502b40be93",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp7U6r4beU-IKjgQyexJZP49i9y-QL22PI3HQwMt=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "rgowni18@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U0465R4B3TN",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4671",
+                        "organizationId": 355435,
+                        "position": "MBA Summer Associate",
+                        "startDate": "2023-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4672",
+                        "organizationId": 415793,
+                        "position": "Co-President",
+                        "startDate": "2023-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3953",
+                        "organizationId": 5,
+                        "position": "MBA Venture Partner",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3954",
+                        "organizationId": 2926,
+                        "position": "Venture Partner",
+                        "startDate": "2022-09-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3082",
+                        "organizationId": 2529,
+                        "position": "Corporate Strategy Analytics",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "3083",
+                        "organizationId": 1141,
+                        "position": "Private Investments & Data Science",
+                        "startDate": "2019-04-01"
+                    },
+                    {
+                        "endDate": "2019-04-01",
+                        "id": "3084",
+                        "organizationId": 1686,
+                        "position": "Consultant",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "3085",
+                        "organizationId": 2530,
+                        "position": "Business Analyst",
+                        "startDate": "2016-08-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1672900, \"name\": \"Tidemark Capital\", \"uuid\": \"1a200df5-c0c0-4195-9137-7eba348f4ea1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ubbbqm9arjz9ahvmpvmi\", \"description\": \"Tidemark is a venture capital company, foundation, and group designed to help category-leading technology businesses scale.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-01-01\", \"website\": \"https://tidemarkcap.com/\", \"location\": null, \"country\": null, \"region\": null, \"founder_people_profile_ids\": [2106455], \"executive_people_profile_ids\": [2490161, 2106455], \"cb_permalink\": \"https://www.crunchbase.com/organization/tidemark-4ea1\", \"linkedin_url\": \"https://linkedin.com/company/tidemarkcap\", \"twitter\": \"https:/twitter.com/tidemarkcap\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"tidemarkcap\", \"tags\": [{\"id\": 5481060, \"legal_entity_uuid\": \"1a200df5-c0c0-4195-9137-7eba348f4ea1\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 150499, \"legal_entity_uuid\": \"1a200df5-c0c0-4195-9137-7eba348f4ea1\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 27, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 26, \"hc_estimate_270_days\": 26, \"hc_estimate_365_days\": 26, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"3.850000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"3.850000000000000088817841970012523233890533447265625\", \"hc_growth_365_days\": \"3.850000000000000088817841970012523233890533447265625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubbbqm9arjz9ahvmpvmi",
+                        "name": "Tidemark"
+                    },
+                    "position": "MBA Summer Associate",
+                    "startDate": "2023-05-01",
+                    "name": "Tidemark",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubbbqm9arjz9ahvmpvmi"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/wharton-fintech.png",
+                        "name": "Wharton Fintech"
+                    },
+                    "position": "Co-President",
+                    "startDate": "2023-04-01",
+                    "name": "Wharton Fintech",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/wharton-fintech.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "MBA Venture Partner",
+                    "startDate": "2022-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 146291, \"name\": \"Chime\", \"uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/chime-card.png\", \"description\": \"Chime is a financial technology company that offers mobile banking services.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.chime.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2848600, 3359225], \"executive_people_profile_ids\": [2103453, 3340723, 3114358, 1794544, 1418279, 2377989, 440227, 1308442, 3100462, 24608, 3135137, 1818618, 2453057, 3167452, 3351276, 3525622, 2120698, 1265051, 368023, 1753971, 262711, 1223141, 3586572, 2298624, 745833, 2054711, 2902555, 78872, 605, 972710, 573922, 601904, 751711, 3590007, 540186, 1147128, 1021799, 2464902, 2313104, 2702398, 2736087, 455001, 2530133, 1733690, 2143087, 1540472, 2509176, 1141092, 577212, 2323540, 2690299, 1440221, 2503504, 1090126, 43636, 2800461, 2923381, 3356337, 2615838, 2801284, 2669574], \"cb_permalink\": \"https://www.crunchbase.com/organization/chime-2\", \"linkedin_url\": \"https://linkedin.com/company/chime-card\", \"twitter\": \"https:/twitter.com/chime\", \"last_funding_round_date\": \"2023-07-28\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 2292603117, \"company_li_name\": \"chime-card\", \"tags\": [{\"id\": 4883627, \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Debit Cards\", \"category\": \"Industry\"}, {\"id\": 4883628, \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 4883629, \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4883630, \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"FinTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4676, \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1097, \"hc_estimate_90_days\": 1108, \"hc_estimate_180_days\": 1074, \"hc_estimate_270_days\": 1075, \"hc_estimate_365_days\": 1150, \"hc_growth_90_days\": \"-0.9899999999999999911182158029987476766109466552734375\", \"hc_growth_180_days\": \"2.140000000000000124344978758017532527446746826171875\", \"hc_growth_270_days\": \"2.04999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"-4.61000000000000031974423109204508364200592041015625\"}, \"funding_rounds\": [{\"id\": 167510, \"uuid\": \"2fdece5b-28d0-480d-9fe1-6990fcb307cf\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 25000000000, \"announced_date\": \"2023-07-28\", \"investors\": null}, {\"id\": 167509, \"uuid\": \"41e4a92f-4f81-49ac-a105-2e32b26a319e\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 750000000, \"post_money_valuation_usd\": 25000000000, \"announced_date\": \"2021-08-13\", \"investors\": null}, {\"id\": 167508, \"uuid\": \"25c51e97-4810-4443-890e-0267d1a8d909\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 533828122, \"post_money_valuation_usd\": 14500828122, \"announced_date\": \"2020-09-18\", \"investors\": null}, {\"id\": 167507, \"uuid\": \"94f26af9-f420-4ce9-a776-d452c9a7b9e5\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 5799999995, \"announced_date\": \"2020-01-21\", \"investors\": null}, {\"id\": 167506, \"uuid\": \"4e9abb24-82c1-4278-ad06-0452238eefdf\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 699999995, \"post_money_valuation_usd\": 5799999995, \"announced_date\": \"2019-12-05\", \"investors\": null}, {\"id\": 167505, \"uuid\": \"17015dfb-2cf7-477c-9060-5a471287c120\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 1500000000, \"announced_date\": \"2019-03-05\", \"investors\": null}, {\"id\": 167504, \"uuid\": \"675978b9-c334-4b1b-8e7d-e2fbc40a74f8\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 70000000, \"post_money_valuation_usd\": 500000000, \"announced_date\": \"2018-05-31\", \"investors\": null}, {\"id\": 167503, \"uuid\": \"85e4b251-e2d4-ab4e-d47e-2d33ac2474ea\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 18000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-27\", \"investors\": null}, {\"id\": 167502, \"uuid\": \"fe0c05d4-84f0-1053-b1bf-4117bf1130e6\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 9000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-05-19\", \"investors\": null}, {\"id\": 167501, \"uuid\": \"9936b9c2-4d88-ccd5-d9f2-f8fb01edec3b\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-11-05\", \"investors\": null}, {\"id\": 167500, \"uuid\": \"b890e375-7175-95e0-7751-a353d8df8561\", \"legal_entity_uuid\": \"fc728475-9dbe-50f8-a6e0-7b6a74f71a3e\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3775000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-08-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/chime-card.png",
+                        "name": "Chime"
+                    },
+                    "position": "Corporate Strategy Analytics",
+                    "startDate": "2021-06-01",
+                    "name": "Chime",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/chime-card.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": "{\"id\": 254339, \"name\": \"Coatue Foundation\", \"uuid\": \"bdae6a16-5535-1ea8-1237-7d0f9ac11791\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1397197686/dd6cef707787dc2f5f304acef961386b.png\", \"description\": \"Coatue Foundation supports early and growth-stage tech venture capital firms in America\", \"headcount\": \"unknown\", \"founding_date\": \"2011-12-01\", \"website\": \"https://www.coatue.com/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/coatue-foundation\", \"linkedin_url\": \"https://linkedin.com/company/coatue\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"coatue\", \"tags\": [{\"id\": 1633630, \"legal_entity_uuid\": \"bdae6a16-5535-1ea8-1237-7d0f9ac11791\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1633631, \"legal_entity_uuid\": \"bdae6a16-5535-1ea8-1237-7d0f9ac11791\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 1633632, \"legal_entity_uuid\": \"bdae6a16-5535-1ea8-1237-7d0f9ac11791\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 42436, \"legal_entity_uuid\": \"bdae6a16-5535-1ea8-1237-7d0f9ac11791\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 68, \"hc_estimate_90_days\": 73, \"hc_estimate_180_days\": 71, \"hc_estimate_270_days\": 67, \"hc_estimate_365_days\": 75, \"hc_growth_90_days\": \"-6.8499999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-4.230000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"1.4899999999999999911182158029987476766109466552734375\", \"hc_growth_365_days\": \"-9.3300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397197686/dd6cef707787dc2f5f304acef961386b.png",
+                        "name": "Coatue Management"
+                    },
+                    "position": "Private Investments  Data Science",
+                    "startDate": "2019-04-01",
+                    "name": "Coatue Management",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397197686/dd6cef707787dc2f5f304acef961386b.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-04-01",
+                    "legalEntity": "{\"id\": 134644, \"name\": \"Deloitte\", \"uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1501089528/blyybcrxcn1of2xvigha.jpg\", \"description\": \"Deloitte is a business consulting company that offers audit, consulting, financialadvisory, and tax services.\", \"headcount\": \"10000+\", \"founding_date\": \"1845-01-01\", \"website\": \"https://www2.deloitte.com\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [953562], \"executive_people_profile_ids\": [225839, 211072, 123826, 590178, 1339849, 474644, 161007, 1443458, 1288318, 733690, 1589092, 644623, 1568912, 2680303, 2255227, 3146206, 3151077, 3156277, 3405495, 1694305, 765759, 1932482, 2568991, 2748857, 496993, 2736445, 2739230, 1692110, 2927932, 2129149, 3280322, 2131714, 2626209, 1504755, 1967797, 3225381, 3229819, 205490, 469721, 1436602, 655882, 799074, 128358, 2001607, 2298057, 951652, 2668543, 2254830, 2965069, 382152, 383777, 2712007, 1474287, 1694731, 767237, 2568814, 2581958, 2594222, 2886480, 1207687, 2271734, 1667079, 2448320, 2932190, 1889200, 2619178, 1728296, 2823702, 233417, 100954, 361655, 584566, 472723, 155571, 1435905, 733681, 1129712, 642502, 1601770, 964073, 275528, 521403, 2263283, 528171, 2709169, 2917410, 3400841, 3403937, 1819165, 1248100, 2568391, 2569843, 816933, 971722, 3080229, 2270684, 2269430, 1668319, 1889053, 2939820, 2132097, 2132194, 2847378, 1992140, 3056737, 3118088, 1990693, 114398, 886764, 1020648, 862792, 1316343, 936406, 937676, 648541, 796417, 2009909, 144372, 1402390, 1408437, 296061, 1091580, 2441178, 3399854, 1696895, 1939877, 1944753, 2595798, 494148, 501524, 505734, 506315, 1656305, 2286946, 1507028, 3255590, 3256447, 1991429, 578697, 592038, 182567, 926267, 634950, 655742, 789095, 1028219, 2684287, 1210323, 523406, 529618, 3157421, 1347415, 1113970, 1626383, 1944286, 543696, 1959100, 2151485, 2566193, 497546, 505179, 1657639, 1861368, 1890281, 3280686, 1509997, 1509471, 2808389, 2817732, 2819721, 96909, 206833, 101323, 578827, 464544, 266085, 483584, 1601297, 1072185, 2236264, 528806, 3161335, 1076275, 1625595, 1695791, 1942482, 2568511, 1385570, 489531, 2886859, 1667018, 494675, 509621, 1189642, 2076036, 3189933, 3190247, 2619556, 1499257, 1739604, 1982206, 2178794, 886968, 1306598, 1317270, 476850, 1329448, 1434296, 726970, 607920, 648474, 631579, 2017768, 450602, 2021251, 1050961, 1088365, 3387370, 1084292, 1693247, 1937705, 1717984, 1906032, 2086311, 2535776, 2572339, 1388584, 500948, 1207276, 2462296, 2736865, 2354896, 2823923, 1991538, 3341859, 2196289, 3210978, 207689, 578943, 362538, 998791, 261827, 471129, 1796609, 2017134, 2303275, 952012, 951664, 2025689, 2046653, 953562, 3305298, 3161809, 1347898, 755029, 1706005, 1207754, 1634206, 2270925, 2275156, 1497632, 1498543, 2137625, 3240644, 3212657], \"cb_permalink\": \"https://www.crunchbase.com/organization/deloitte\", \"linkedin_url\": \"https://linkedin.com/company/deloitte\", \"twitter\": \"https:/twitter.com/Deloitte\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"deloitte\", \"tags\": [{\"id\": 6374043, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Accounting\", \"category\": \"Industry\"}, {\"id\": 6374044, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6374045, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6374046, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Legal\", \"category\": \"Industry\"}, {\"id\": 6374047, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Professional Services\", \"category\": \"Industry\"}, {\"id\": 6374048, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Risk Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 11804, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3778, \"hc_estimate_90_days\": 3760, \"hc_estimate_180_days\": 3697, \"hc_estimate_270_days\": 3709, \"hc_estimate_365_days\": 3692, \"hc_growth_90_days\": \"0.479999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"2.189999999999999946709294817992486059665679931640625\", \"hc_growth_270_days\": \"1.8600000000000000976996261670137755572795867919921875\", \"hc_growth_365_days\": \"2.3300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1501089528/blyybcrxcn1of2xvigha.jpg",
+                        "name": "Deloitte Consulting"
+                    },
+                    "position": "Consultant",
+                    "startDate": "2018-09-01",
+                    "name": "Deloitte Consulting",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1501089528/blyybcrxcn1of2xvigha.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 134644, \"name\": \"Deloitte\", \"uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1501089528/blyybcrxcn1of2xvigha.jpg\", \"description\": \"Deloitte is a business consulting company that offers audit, consulting, financialadvisory, and tax services.\", \"headcount\": \"10000+\", \"founding_date\": \"1845-01-01\", \"website\": \"https://www2.deloitte.com\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [953562], \"executive_people_profile_ids\": [225839, 211072, 123826, 590178, 1339849, 474644, 161007, 1443458, 1288318, 733690, 1589092, 644623, 1568912, 2680303, 2255227, 3146206, 3151077, 3156277, 3405495, 1694305, 765759, 1932482, 2568991, 2748857, 496993, 2736445, 2739230, 1692110, 2927932, 2129149, 3280322, 2131714, 2626209, 1504755, 1967797, 3225381, 3229819, 205490, 469721, 1436602, 655882, 799074, 128358, 2001607, 2298057, 951652, 2668543, 2254830, 2965069, 382152, 383777, 2712007, 1474287, 1694731, 767237, 2568814, 2581958, 2594222, 2886480, 1207687, 2271734, 1667079, 2448320, 2932190, 1889200, 2619178, 1728296, 2823702, 233417, 100954, 361655, 584566, 472723, 155571, 1435905, 733681, 1129712, 642502, 1601770, 964073, 275528, 521403, 2263283, 528171, 2709169, 2917410, 3400841, 3403937, 1819165, 1248100, 2568391, 2569843, 816933, 971722, 3080229, 2270684, 2269430, 1668319, 1889053, 2939820, 2132097, 2132194, 2847378, 1992140, 3056737, 3118088, 1990693, 114398, 886764, 1020648, 862792, 1316343, 936406, 937676, 648541, 796417, 2009909, 144372, 1402390, 1408437, 296061, 1091580, 2441178, 3399854, 1696895, 1939877, 1944753, 2595798, 494148, 501524, 505734, 506315, 1656305, 2286946, 1507028, 3255590, 3256447, 1991429, 578697, 592038, 182567, 926267, 634950, 655742, 789095, 1028219, 2684287, 1210323, 523406, 529618, 3157421, 1347415, 1113970, 1626383, 1944286, 543696, 1959100, 2151485, 2566193, 497546, 505179, 1657639, 1861368, 1890281, 3280686, 1509997, 1509471, 2808389, 2817732, 2819721, 96909, 206833, 101323, 578827, 464544, 266085, 483584, 1601297, 1072185, 2236264, 528806, 3161335, 1076275, 1625595, 1695791, 1942482, 2568511, 1385570, 489531, 2886859, 1667018, 494675, 509621, 1189642, 2076036, 3189933, 3190247, 2619556, 1499257, 1739604, 1982206, 2178794, 886968, 1306598, 1317270, 476850, 1329448, 1434296, 726970, 607920, 648474, 631579, 2017768, 450602, 2021251, 1050961, 1088365, 3387370, 1084292, 1693247, 1937705, 1717984, 1906032, 2086311, 2535776, 2572339, 1388584, 500948, 1207276, 2462296, 2736865, 2354896, 2823923, 1991538, 3341859, 2196289, 3210978, 207689, 578943, 362538, 998791, 261827, 471129, 1796609, 2017134, 2303275, 952012, 951664, 2025689, 2046653, 953562, 3305298, 3161809, 1347898, 755029, 1706005, 1207754, 1634206, 2270925, 2275156, 1497632, 1498543, 2137625, 3240644, 3212657], \"cb_permalink\": \"https://www.crunchbase.com/organization/deloitte\", \"linkedin_url\": \"https://linkedin.com/company/deloitte\", \"twitter\": \"https:/twitter.com/Deloitte\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"deloitte\", \"tags\": [{\"id\": 6374043, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Accounting\", \"category\": \"Industry\"}, {\"id\": 6374044, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6374045, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6374046, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Legal\", \"category\": \"Industry\"}, {\"id\": 6374047, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Professional Services\", \"category\": \"Industry\"}, {\"id\": 6374048, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"name\": \"Risk Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 11804, \"legal_entity_uuid\": \"8c048fd6-de2d-4cc4-6a09-18d7a38cbc30\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3778, \"hc_estimate_90_days\": 3760, \"hc_estimate_180_days\": 3697, \"hc_estimate_270_days\": 3709, \"hc_estimate_365_days\": 3692, \"hc_growth_90_days\": \"0.479999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"2.189999999999999946709294817992486059665679931640625\", \"hc_growth_270_days\": \"1.8600000000000000976996261670137755572795867919921875\", \"hc_growth_365_days\": \"2.3300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1501089528/blyybcrxcn1of2xvigha.jpg",
+                        "name": "Deloitte Consulting - Strategy  Operations"
+                    },
+                    "position": "Business Analyst",
+                    "startDate": "2016-08-01",
+                    "name": "Deloitte Consulting - Strategy  Operations",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1501089528/blyybcrxcn1of2xvigha.jpg"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "None",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "The International School Bangalore"
+                    },
+                    "name": "The International School Bangalore",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "492"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

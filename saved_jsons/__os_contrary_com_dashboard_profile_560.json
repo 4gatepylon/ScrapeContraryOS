@@ -1,0 +1,54 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "danpaulalbert@gmail.com",
+                "firstName": "Dan",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "560",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-01T20:43:43",
+                "lastName": "Albert",
+                "linkedinName": null,
+                "linkedinUrl": null,
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": null,
+                "profilePicUrl": null,
+                "roles": [],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "560"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,75 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "diego.pasini@vp.contrary.com",
+                "firstName": "Diego",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "613",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-03T23:06:43",
+                "lastName": "Pasini",
+                "linkedinName": "diego-pasini",
+                "linkedinUrl": "https://linkedin.com/in/diego-pasini/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 14,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ACg8ocJz_fNfjXUXzlrqEwGyHzzLpla4rTTTtGpLVjq7G6Gr=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U060CPZHTFV",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "24",
+                    "value": "Robotics"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "613"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

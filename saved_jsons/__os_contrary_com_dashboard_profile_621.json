@@ -1,0 +1,75 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Would love to chat about your startup and connect you with the Contrary community.",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "jack.zhang@vp.contrary.com",
+                "firstName": "Jack",
+                "greeting": "Awesome to meet you!",
+                "greetingEmoji": "null",
+                "hqPosition": null,
+                "hubCity": "Philadelphia",
+                "id": "621",
+                "intro": "CS + Math @ Princeton. Interested in networks and deep tech.",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-04T02:41:28",
+                "lastName": "Zhang",
+                "linkedinName": "jackcharleszhang",
+                "linkedinUrl": "https://linkedin.com/in/jackcharleszhang/",
+                "location": "Princeton",
+                "lookingFor": "Looking to meet prospective founders + talent at or around Princeton!",
+                "meetWithBlurb": null,
+                "podId": 15,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-621-84F0A9E1-BD22-4B07-BC72-0EBA1994223C170A2535%20(1)%20(2).jpg",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "jczhang@princeton.edu",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U060CTYE658",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "15",
+                    "value": "Freelancer"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "621"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

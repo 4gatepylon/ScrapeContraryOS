@@ -1,0 +1,123 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I'm an expert in the history of payments. I'm talking late 1600s bartering your mother's necklace.",
+                "currentRole": "",
+                "educationExperiences": [
+                    {
+                        "degree": "B.S",
+                        "degreeType": "Computer Science",
+                        "endDate": "2021-08-01",
+                        "id": "852",
+                        "startDate": "2017-08-01",
+                        "universityId": 51
+                    }
+                ],
+                "email": "vp-demo@contrarycap.com",
+                "firstName": "Contrary VP",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Philadelphia",
+                "id": "467",
+                "intro": "I'm one of Contrary's finest venture partners. I find that being a venture partner is much more a lifestyle rather than a title.",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2022-10-31T23:47:57",
+                "lastName": "Demo Account",
+                "linkedinName": "contrary",
+                "linkedinUrl": "https://linkedin.com/in/contrary/",
+                "location": "Jamestown, VA",
+                "lookingFor": "I'm looking to create a payments startup. Any tips and tricks? ",
+                "meetWithBlurb": null,
+                "podId": 24,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ALm5wu35EsZwJI8rKeBeVI1xzXQauOP7TZg13OahVje9=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "nathan@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": "contrarycapital",
+                "twitterUrl": "https://twitter.com/contrarycapital/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3057",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2022-08-01"
+                    }
+                ]
+            },
+            "organizations": [
+                {
+                    "id": "5",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/contrarycapital.png",
+                    "name": "Contrary",
+                    "website": null
+                }
+            ],
+            "universities": [
+                {
+                    "id": "51",
+                    "logoUrl": "http://cdn.os.contrary.com.s3.us-east-2.amazonaws.com/img/universities/UTAustin.png",
+                    "name": "University of Texas at Austin",
+                    "website": null
+                }
+            ],
+            "workExperiences": [
+                {
+                    "endDate": null,
+                    "id": "5",
+                    "organizationId": 5,
+                    "position": "Venture Partner",
+                    "startDate": "2022-08-01",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/contrarycapital.png",
+                    "name": "Contrary",
+                    "website": null
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "degree": "B.S",
+                    "degreeType": "Computer Science",
+                    "endDate": "2021-08-01",
+                    "id": "51",
+                    "startDate": "2017-08-01",
+                    "universityId": 51,
+                    "logoUrl": "http://cdn.os.contrary.com.s3.us-east-2.amazonaws.com/img/universities/UTAustin.png",
+                    "name": "University of Texas at Austin",
+                    "website": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-23T21:33:09",
+                    "deleted": null,
+                    "id": "3",
+                    "value": "Growth / Marketing"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "467"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

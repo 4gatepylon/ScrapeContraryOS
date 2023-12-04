@@ -1,0 +1,105 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I love building! Experienced full-stack engineer willing to help in anyway possible.",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "jacob.wright@vp.contrary.com",
+                "firstName": "Jacob",
+                "greeting": "Heyo!",
+                "greetingEmoji": "\ud83d\udc4b",
+                "hqPosition": null,
+                "hubCity": "Salt Lake City",
+                "id": "605",
+                "intro": "Technical founder interested in AI, energy, and healthtech.",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-04T02:21:39",
+                "lastName": "Wright",
+                "linkedinName": "jacob-c-wright",
+                "linkedinUrl": "https://linkedin.com/in/jacob-c-wright/",
+                "location": "Utah",
+                "lookingFor": "Make friends in startups!",
+                "meetWithBlurb": null,
+                "podId": 3,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-605-IMG_4647.jpeg",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "jacob.wright.ut@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U06093UGRRT",
+                "twitterHandle": "jahvascript",
+                "twitterUrl": "https://twitter.com/jahvascript/",
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "605"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

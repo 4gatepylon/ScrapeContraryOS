@@ -1,0 +1,58 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "legacy-admin-demo@contrarycap.com",
+                "firstName": "Legacy",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "559",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": true,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-08-18T04:38:24",
+                "lastName": "Admin",
+                "linkedinName": null,
+                "linkedinUrl": null,
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": null,
+                "profilePicUrl": null,
+                "roles": [
+                    "HQ",
+                    "Admin",
+                    "Legacy Admin"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "559"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

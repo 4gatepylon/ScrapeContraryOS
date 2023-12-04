@@ -1,0 +1,345 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Growth @ Rippling",
+                "educationExperiences": [
+                    {
+                        "degree": "Economics",
+                        "degreeType": "Bachelor of Arts - BA",
+                        "endDate": null,
+                        "id": "316",
+                        "startDate": null,
+                        "universityId": 12
+                    }
+                ],
+                "email": "noadelstein@gmail.com",
+                "firstName": "Noah",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "172",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2022-12-23T01:54:05",
+                "lastName": "Adelstein",
+                "linkedinName": "noah-adelstein-311896b9",
+                "linkedinUrl": "https://linkedin.com/in/noah-adelstein-311896b9/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "c808040f-1f3c-4078-9c8e-5f942e0ccb54",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-172-headshot.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3449",
+                        "organizationId": 2715,
+                        "position": "Growth Manager",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1086",
+                        "organizationId": 807,
+                        "position": "Growth",
+                        "startDate": "2019-10-01"
+                    },
+                    {
+                        "endDate": "2019-09-01",
+                        "id": "1087",
+                        "organizationId": 808,
+                        "position": "Contractor",
+                        "startDate": "2019-08-01"
+                    },
+                    {
+                        "endDate": "2018-06-01",
+                        "id": "1091",
+                        "organizationId": 811,
+                        "position": "Intern",
+                        "startDate": "2018-05-01"
+                    },
+                    {
+                        "endDate": "2018-05-01",
+                        "id": "1092",
+                        "organizationId": 812,
+                        "position": "Cohort Leader",
+                        "startDate": "2017-08-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1094",
+                        "organizationId": 814,
+                        "position": "Growth",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "1088",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2017-03-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "1093",
+                        "organizationId": 813,
+                        "position": "Business Development",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1095",
+                        "organizationId": 815,
+                        "position": "Sales Associate Intern",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "1090",
+                        "organizationId": 810,
+                        "position": "Marketing and Growth",
+                        "startDate": "2015-12-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "1089",
+                        "organizationId": 809,
+                        "position": "Technology & Strategy",
+                        "startDate": "2015-10-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 726573, \"name\": \"Rippling\", \"uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zofsulj3hqgfkung3nkw\", \"description\": \"Rippling is a human resource management company that offers an overall platform to help manage HR and IT operations.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2016-01-01\", \"website\": \"https://www.rippling.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1165912, 1395806], \"executive_people_profile_ids\": [473224, 2081300, 3252304, 920521, 2929624, 1165912, 1395806, 1722121, 2607816, 1522791, 70277, 2116975, 1671216, 1637979, 3182221], \"cb_permalink\": \"https://www.crunchbase.com/organization/rippling\", \"linkedin_url\": \"https://linkedin.com/company/rippling\", \"twitter\": \"https:/www.twitter.com/rippling\", \"last_funding_round_date\": \"2023-03-17\", \"last_funding_round_name\": \"Series E\", \"total_funding_amount\": 1197000000, \"company_li_name\": \"rippling\", \"tags\": [{\"id\": 5990928, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}, {\"id\": 5990927, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"IT Management\", \"category\": \"Industry\"}, {\"id\": 5990926, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 5990925, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 5990923, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Employment\", \"category\": \"Industry\"}, {\"id\": 5990924, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Human Resources\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 78637, \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1700, \"hc_estimate_90_days\": 1671, \"hc_estimate_180_days\": 1558, \"hc_estimate_270_days\": 1435, \"hc_estimate_365_days\": 1378, \"hc_growth_90_days\": \"1.7399999999999999911182158029987476766109466552734375\", \"hc_growth_180_days\": \"9.1099999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"18.469999999999998863131622783839702606201171875\", \"hc_growth_365_days\": \"23.370000000000000994759830064140260219573974609375\"}, \"funding_rounds\": [{\"id\": 142394, \"uuid\": \"357e15ce-993d-4788-9310-66d70f88f205\", \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 500000000, \"post_money_valuation_usd\": 11250000000, \"announced_date\": \"2023-03-17\", \"investors\": null}, {\"id\": 142393, \"uuid\": \"0ae54cb9-7000-4356-9587-d0a34bdf0de1\", \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 11250000000, \"announced_date\": \"2022-05-11\", \"investors\": null}, {\"id\": 142392, \"uuid\": \"771f72a1-77d0-4c6d-a97c-2decc607e22a\", \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 6500000000, \"announced_date\": \"2021-10-21\", \"investors\": null}, {\"id\": 142391, \"uuid\": \"be46fb57-c6d1-4a80-a3a1-30bfc9d12ae2\", \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 145000000, \"post_money_valuation_usd\": 1350000000, \"announced_date\": \"2020-08-04\", \"investors\": null}, {\"id\": 142390, \"uuid\": \"4cce6919-6feb-4856-a6f0-579aec5424ee\", \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 45000000, \"post_money_valuation_usd\": 270000000, \"announced_date\": \"2019-04-03\", \"investors\": null}, {\"id\": 142389, \"uuid\": \"67845594-5e49-e176-33c8-f236df827058\", \"legal_entity_uuid\": \"e22cde2f-eb8d-7dda-934c-557593f7bed7\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-03-14\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zofsulj3hqgfkung3nkw",
+                        "name": "Rippling"
+                    },
+                    "position": "Growth",
+                    "startDate": "2022-08-01",
+                    "name": "Rippling",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zofsulj3hqgfkung3nkw"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 2145907, \"name\": \"Hearth\", \"uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/sp7shlocthjel8qyrpzi\", \"description\": \"Financial Technology for built for the Home Improvement industry\", \"headcount\": \"101-250\", \"founding_date\": \"2016-09-26\", \"website\": \"https://www.gethearth.com/\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [3182499], \"executive_people_profile_ids\": [2444554, 3182499], \"cb_permalink\": \"https://www.crunchbase.com/organization/gethearth\", \"linkedin_url\": \"https://linkedin.com/company/gethearth\", \"twitter\": \"https:/twitter.com/gethearth\", \"last_funding_round_date\": \"2021-05-17\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 47800000, \"company_li_name\": \"gethearth\", \"tags\": [{\"id\": 5939397, \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"name\": \"Construction\", \"category\": \"Industry\"}, {\"id\": 5939398, \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5939399, \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"name\": \"FinTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 65732, \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 125, \"hc_estimate_90_days\": 124, \"hc_estimate_180_days\": 127, \"hc_estimate_270_days\": 132, \"hc_estimate_365_days\": 134, \"hc_growth_90_days\": \"0.810000000000000053290705182007513940334320068359375\", \"hc_growth_180_days\": \"-1.5700000000000000621724893790087662637233734130859375\", \"hc_growth_270_days\": \"-5.29999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"-6.71999999999999975131004248396493494510650634765625\"}, \"funding_rounds\": [{\"id\": 120653, \"uuid\": \"384f9f78-0d43-4ee3-9f9f-e2a609d7315d\", \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 23000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-05-17\", \"investors\": null}, {\"id\": 120652, \"uuid\": \"822f3c60-d78c-491d-b007-43b2815987ab\", \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 16100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-22\", \"investors\": null}, {\"id\": 120651, \"uuid\": \"545725d8-21a6-414e-9dc2-0c096c74c223\", \"legal_entity_uuid\": \"a1cd740c-0c58-b934-846d-b420787000ab\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 8700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sp7shlocthjel8qyrpzi",
+                        "name": "Hearth"
+                    },
+                    "position": "Growth",
+                    "startDate": "2019-10-01",
+                    "name": "Hearth",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sp7shlocthjel8qyrpzi"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-09-01",
+                    "legalEntity": "{\"id\": 715866, \"name\": \"Outlier\", \"uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ba4qdtmjmhunnpuhyske\", \"description\": \"Outlier is an online education platform that offers intro-level college courses online at a relatively affordable price.\", \"headcount\": \"11-50\", \"founding_date\": \"2018-01-01\", \"website\": \"https://outlier.org/\", \"location\": \"Brooklyn\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1115801], \"executive_people_profile_ids\": [248312, 1397113, 771084, 181642, 1115801, 2271479], \"cb_permalink\": \"https://www.crunchbase.com/organization/outlier-org\", \"linkedin_url\": \"https://linkedin.com/company/outlier-org\", \"twitter\": \"https:/twitter.com/outlier_org\", \"last_funding_round_date\": \"2021-04-22\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 46000000, \"company_li_name\": \"outlier-org\", \"tags\": [{\"id\": 4078209, \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 4078210, \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4078211, \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 77573, \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 15, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 17, \"hc_estimate_270_days\": 17, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-11.7599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"-11.7599999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"-11.7599999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 267385, \"uuid\": \"4572dcfa-aa74-4b11-8a6c-dd1fb410d385\", \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-22\", \"investors\": null}, {\"id\": 267384, \"uuid\": \"9680e85e-4c9a-4c55-b549-31ba327383a2\", \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 11700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-09\", \"investors\": null}, {\"id\": 267383, \"uuid\": \"4110bd92-5593-4aae-831e-c4d4f42d5a88\", \"legal_entity_uuid\": \"b7e12bca-009f-4a36-b985-b584788783b6\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ba4qdtmjmhunnpuhyske",
+                        "name": "Outlier.org"
+                    },
+                    "position": "Contractor",
+                    "startDate": "2019-08-01",
+                    "name": "Outlier.org",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ba4qdtmjmhunnpuhyske"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2017-03-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cardsblog.png",
+                        "name": "Cardsblog"
+                    },
+                    "position": "Technology  Strategy",
+                    "startDate": "2015-10-01",
+                    "name": "Cardsblog",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cardsblog.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 1098846, \"name\": \"TopOPPS\", \"uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1445367504/v1yxgyjehxhj2qzfn7rs.png\", \"description\": \"Artificial Intelligence for Sales Forecasting and Pipeline Management\", \"headcount\": \"11-50\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.topopps.com\", \"location\": \"St. Charles\", \"country\": \"USA\", \"region\": \"Missouri\", \"founder_people_profile_ids\": [527378], \"executive_people_profile_ids\": [527378, 2811154], \"cb_permalink\": \"https://www.crunchbase.com/organization/topopps\", \"linkedin_url\": \"https://linkedin.com/company/topopps\", \"twitter\": \"http:/twitter.com/TopOPPSHQ\", \"last_funding_round_date\": \"2018-05-24\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 8300000, \"company_li_name\": \"topopps\", \"tags\": [{\"id\": 1772695, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 1772696, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1772697, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 1772698, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"CRM\", \"category\": \"Industry\"}, {\"id\": 1772699, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1772700, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 1772701, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"News\", \"category\": \"Industry\"}, {\"id\": 1772702, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Sales\", \"category\": \"Industry\"}, {\"id\": 1772703, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Sales Automation\", \"category\": \"Industry\"}, {\"id\": 1772704, \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 172803, \"uuid\": \"ec99e940-5024-4c8a-b7e6-61d25b15cb88\", \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-24\", \"investors\": null}, {\"id\": 172802, \"uuid\": \"2452e443-b784-2312-8666-6ceed30754b3\", \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-12-20\", \"investors\": null}, {\"id\": 172801, \"uuid\": \"7e7cceab-7cc0-4a5a-62db-3aa26d8a30e9\", \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-09-08\", \"investors\": null}, {\"id\": 172800, \"uuid\": \"61357ce2-cd78-e369-80cb-71ba9cb4aaf0\", \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-02-06\", \"investors\": null}, {\"id\": 172799, \"uuid\": \"08fe0f3b-5dfc-55df-fe08-a6850e5f21d1\", \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-09-24\", \"investors\": null}, {\"id\": 172798, \"uuid\": \"bce3d02f-cacb-db9a-f8ca-f2aea3fa17cd\", \"legal_entity_uuid\": \"91c36951-77d1-0b11-5413-6ed747f752f5\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-03-17\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1445367504/v1yxgyjehxhj2qzfn7rs.png",
+                        "name": "TopOPPS"
+                    },
+                    "position": "Marketing and Growth",
+                    "startDate": "2015-12-01",
+                    "name": "TopOPPS",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1445367504/v1yxgyjehxhj2qzfn7rs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/theyieldlab.png",
+                        "name": "The Yield Lab"
+                    },
+                    "position": "Intern",
+                    "startDate": "2018-05-01",
+                    "name": "The Yield Lab",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/theyieldlab.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "EdSurge Independent"
+                    },
+                    "position": "Cohort Leader",
+                    "startDate": "2017-08-01",
+                    "name": "EdSurge Independent",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-12-01",
+                    "legalEntity": "{\"id\": 2168198, \"name\": \"StackUp\", \"uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/n7qcsh3mixgruzyrbnjf\", \"description\": \"Stackup is an Artificial Intelligent Patent Pending System that Measure & Report all online reading & learning done across the web.\", \"headcount\": \"1-10\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.stackup.net\", \"location\": \"Denver\", \"country\": \"USA\", \"region\": \"Colorado\", \"founder_people_profile_ids\": [2818914], \"executive_people_profile_ids\": [3109502, 1113756, 2818914], \"cb_permalink\": \"https://www.crunchbase.com/organization/stackup-2\", \"linkedin_url\": \"https://linkedin.com/company/stackup\", \"twitter\": \"https:/twitter.com/StackupScore\", \"last_funding_round_date\": \"2018-02-01\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 500000, \"company_li_name\": \"stackup\", \"tags\": [{\"id\": 4912748, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Browser Extensions\", \"category\": \"Industry\"}, {\"id\": 4912749, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 4912750, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4912751, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Employment\", \"category\": \"Industry\"}, {\"id\": 4912752, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 4912753, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Reading Apps\", \"category\": \"Industry\"}, {\"id\": 4912754, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Recruiting\", \"category\": \"Industry\"}, {\"id\": 4912755, \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 155641, \"uuid\": \"0f0b40c4-da2d-4b12-8201-19b9ea654c24\", \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-02-01\", \"investors\": null}, {\"id\": 155640, \"uuid\": \"f38ff73d-99c9-e1c4-a054-ce67a24774e4\", \"legal_entity_uuid\": \"5865191c-36ab-eea5-d785-e5e708bfbfb1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-11-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/n7qcsh3mixgruzyrbnjf",
+                        "name": "StackUp"
+                    },
+                    "position": "Business Development",
+                    "startDate": "2016-06-01",
+                    "name": "StackUp",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/n7qcsh3mixgruzyrbnjf"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "EdSurge Independent"
+                    },
+                    "position": "Summer Fellow",
+                    "startDate": "2017-05-01",
+                    "name": "EdSurge Independent",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 1684916, \"name\": \"Siftery\", \"uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/siftery.png\", \"description\": \"Siftery helps the user to discover products that are a great fit for a company and explore what other top companies are using.\", \"headcount\": \"11-50\", \"founding_date\": \"2012-01-01\", \"website\": \"https://siftery.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2195538, 1430841], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/siftery\", \"linkedin_url\": \"https://linkedin.com/company/siftery\", \"twitter\": \"https:/twitter.com/siftery\", \"last_funding_round_date\": \"2016-03-01\", \"last_funding_round_name\": \"Angel Round\", \"total_funding_amount\": 4050000, \"company_li_name\": \"siftery\", \"tags\": [{\"id\": 6310758, \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6310759, \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6310760, \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 459953, \"uuid\": \"fee3de74-7c83-a6a8-c978-d2c09917a711\", \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Angel Round\", \"cb_permalink\": null, \"investment_type\": \"angel\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-01\", \"investors\": null}, {\"id\": 459952, \"uuid\": \"1b6bcd5b-f013-40f2-ebe8-18059df073c4\", \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-02-02\", \"investors\": null}, {\"id\": 459951, \"uuid\": \"c88557e8-c2b3-bd7c-e7ff-1eb39d177dd2\", \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Convertible Note\", \"cb_permalink\": null, \"investment_type\": \"convertible_note\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-05-14\", \"investors\": null}, {\"id\": 459950, \"uuid\": \"d11b0593-3a28-42cf-8268-df62769d2418\", \"legal_entity_uuid\": \"f0165c1a-2b65-d0d9-1afd-80d81e3d0b9c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-06-03\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/siftery.png",
+                        "name": "Siftery"
+                    },
+                    "position": "Growth",
+                    "startDate": "2017-05-01",
+                    "name": "Siftery",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/siftery.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 1048921, \"name\": \"Arrow Electronics\", \"uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/arrow-electronics.png\", \"description\": \"Arrow Electronics designs, manufactures and distributes electronic components for industrial and commercial sectors.\", \"headcount\": \"10000+\", \"founding_date\": \"1935-01-01\", \"website\": \"https://www.arrow.com/\", \"location\": \"Centennial\", \"country\": \"USA\", \"region\": \"Colorado\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [472931, 493251, 516763, 3142053, 1673110, 369414, 1841475, 211769, 1728160, 3225723, 494010], \"cb_permalink\": \"https://www.crunchbase.com/organization/arrow-electronics\", \"linkedin_url\": \"https://linkedin.com/company/arrow-electronics\", \"twitter\": \"http:/twitter.com/ArrowGlobal\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"arrow-electronics\", \"tags\": [{\"id\": 6445813, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Data Integration\", \"category\": \"Industry\"}, {\"id\": 6445814, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Electrical Distribution\", \"category\": \"Industry\"}, {\"id\": 6445815, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 6445816, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Lighting\", \"category\": \"Industry\"}, {\"id\": 6445817, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6445818, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Supply Chain Management\", \"category\": \"Industry\"}, {\"id\": 6445819, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Telecommunications\", \"category\": \"Industry\"}, {\"id\": 6445820, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Virtualization\", \"category\": \"Industry\"}, {\"id\": 6445821, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"name\": \"Wireless\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 177039, \"legal_entity_uuid\": \"a7bade90-87f9-4915-02e2-6f3d4ab241ec\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 154, \"hc_estimate_90_days\": 157, \"hc_estimate_180_days\": 149, \"hc_estimate_270_days\": 142, \"hc_estimate_365_days\": 139, \"hc_growth_90_days\": \"-1.9099999999999999200639422269887290894985198974609375\", \"hc_growth_180_days\": \"3.359999999999999875655021241982467472553253173828125\", \"hc_growth_270_days\": \"8.449999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"10.78999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/arrow-electronics.png",
+                        "name": "Arrow Electronics"
+                    },
+                    "position": "Sales Associate Intern",
+                    "startDate": "2016-06-01",
+                    "name": "Arrow Electronics",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/arrow-electronics.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Economics",
+                    "degreeType": "Bachelor of Arts - BA",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 190108, \"name\": \"Washington University in St. Louis\", \"uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/y6xkkil3v0obk8enxjcz\", \"description\": \"Washington Universitys mission is to discover and disseminate knowledge, and protect the freedom of inquiry through research, teaching.\", \"headcount\": \"10000+\", \"founding_date\": \"1853-02-22\", \"website\": \"https://wustl.edu/\", \"location\": \"St Louis\", \"country\": \"USA\", \"region\": \"Missouri\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [199170, 2021578, 2521524, 205419, 204939, 180904, 631088, 776615, 469251, 1556042, 766821, 2535945, 449923, 493753, 2149461, 1201976, 113979, 500969, 2269888], \"cb_permalink\": \"https://www.crunchbase.com/organization/washington-university-in-st-louis\", \"linkedin_url\": \"https://linkedin.com/company/washington-university-in-st-louis\", \"twitter\": \"http:/twitter.com/wustl\", \"last_funding_round_date\": \"2019-01-31\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 24600000, \"company_li_name\": \"washington-university-in-st-louis\", \"tags\": [{\"id\": 4830953, \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 4830954, \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"EBooks\", \"category\": \"Industry\"}, {\"id\": 4830955, \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4830956, \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 8809, \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 154, \"hc_estimate_90_days\": 144, \"hc_estimate_180_days\": 162, \"hc_estimate_270_days\": 163, \"hc_estimate_365_days\": 171, \"hc_growth_90_days\": \"6.94000000000000039079850466805510222911834716796875\", \"hc_growth_180_days\": \"-4.94000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-5.519999999999999573674358543939888477325439453125\", \"hc_growth_365_days\": \"-9.9399999999999995026200849679298698902130126953125\"}, \"funding_rounds\": [{\"id\": 377407, \"uuid\": \"2e16e84d-c742-4f51-bfb0-8d6fabdfdce3\", \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-31\", \"investors\": null}, {\"id\": 377406, \"uuid\": \"a610720d-b415-44ee-b4f4-0c1bf8605158\", \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-16\", \"investors\": null}, {\"id\": 377405, \"uuid\": \"a7ecd975-3258-47bd-9d80-1f791c5b0d63\", \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-02-20\", \"investors\": null}, {\"id\": 377404, \"uuid\": \"2b7a585d-f826-45ea-a6b3-8c3e60eb5dc6\", \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-14\", \"investors\": null}, {\"id\": 377403, \"uuid\": \"be0eed2c-a34f-4bf9-87d7-cf3db6a4e56a\", \"legal_entity_uuid\": \"6ae9957a-8fb4-0ab1-73fa-dd547c4d3da4\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-16\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/y6xkkil3v0obk8enxjcz",
+                        "name": "Washington University in St. Louis"
+                    },
+                    "name": "Washington University in St. Louis",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/y6xkkil3v0obk8enxjcz"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "15",
+                    "value": "Freelancer"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "172"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,342 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Founder at SpotDrop | Boston College 22 | Formerly at BeReal",
+                "educationExperiences": [
+                    {
+                        "degree": "Double Major in Finance and Information Systems",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2022-01-01",
+                        "id": "664",
+                        "startDate": "2018-01-01",
+                        "universityId": 356
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "International Baccalaureate",
+                        "endDate": "2017-01-01",
+                        "id": "665",
+                        "startDate": "2014-01-01",
+                        "universityId": 357
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2014-01-01",
+                        "id": "666",
+                        "startDate": "2006-01-01",
+                        "universityId": 358
+                    }
+                ],
+                "email": "arthurbrenninkmeijer@gmail.com",
+                "firstName": "Arthur",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "359",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-05-09T19:51:49",
+                "lastName": "Brenninkmeijer",
+                "linkedinName": "arthur-c-brenninkmeijer-22021b171",
+                "linkedinUrl": "https://linkedin.com/in/arthur-c-brenninkmeijer-22021b171/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "4e91ceda-3edc-451c-809d-12751748b458",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-359-ArthurLinkedIn.JPG",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "2406",
+                        "organizationId": 1667,
+                        "position": "Growth",
+                        "startDate": "2022-03-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3684",
+                        "organizationId": 2840,
+                        "position": "Founder",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2021-09-01",
+                        "id": "2408",
+                        "organizationId": 1668,
+                        "position": "Product Management Intern",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2405",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2020-10-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "2409",
+                        "organizationId": 1669,
+                        "position": "Associate",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2019-07-01",
+                        "id": "2410",
+                        "organizationId": 1670,
+                        "position": "Intern",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "2407",
+                        "organizationId": 1645,
+                        "position": "Executive Board Member",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2018-07-01",
+                        "id": "2411",
+                        "organizationId": 1671,
+                        "position": "Management Trainee",
+                        "startDate": "2017-09-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1337295, \"name\": \"SpotDrop\", \"uuid\": \"aa60426a-0a49-4ad2-b4a0-681e5563727e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/jsz7tmnrrn21fbtdfw8s\", \"description\": \"SpotDrop is a mobile application that helps users to the restaurants, cafes, and bars around them based on recommendations.\", \"headcount\": \"unknown\", \"founding_date\": \"2022-01-01\", \"website\": \"https://www.spotdropapp.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/spotdrop\", \"linkedin_url\": \"https://linkedin.com/company/spotdrop\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"spotdrop\", \"tags\": [{\"id\": 394211, \"legal_entity_uuid\": \"aa60426a-0a49-4ad2-b4a0-681e5563727e\", \"name\": \"Food Delivery\", \"category\": \"Industry\"}, {\"id\": 394212, \"legal_entity_uuid\": \"aa60426a-0a49-4ad2-b4a0-681e5563727e\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 394213, \"legal_entity_uuid\": \"aa60426a-0a49-4ad2-b4a0-681e5563727e\", \"name\": \"Restaurants\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jsz7tmnrrn21fbtdfw8s",
+                        "name": "SpotDrop"
+                    },
+                    "position": "Founder",
+                    "startDate": "2021-07-01",
+                    "name": "SpotDrop",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jsz7tmnrrn21fbtdfw8s"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2021-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 2166098, \"name\": \"BeReal.\", \"uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bereal-app.png\", \"description\": \"BeReal. is a photo-sharing app that randomly notifies everyone to capture and share a photo in 2 minutes.\", \"headcount\": \"11-50\", \"founding_date\": \"2020-01-01\", \"website\": \"https://bereal.com\", \"location\": \"Paris\", \"country\": \"FRA\", \"region\": \"Ile-de-France\", \"founder_people_profile_ids\": [952255], \"executive_people_profile_ids\": [2560914], \"cb_permalink\": \"https://www.crunchbase.com/organization/bereal\", \"linkedin_url\": \"https://linkedin.com/company/bereal-app\", \"twitter\": \"https:/twitter.com/bereal_app\", \"last_funding_round_date\": \"2022-05-22\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 0, \"company_li_name\": \"bereal-app\", \"tags\": [{\"id\": 9705, \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 9704, \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Apps\", \"category\": \"Industry\"}, {\"id\": 9708, \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 9707, \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Social Media\", \"category\": \"Industry\"}, {\"id\": 9706, \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Photo Sharing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 64758, \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 19, \"hc_estimate_90_days\": 20, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 16, \"hc_estimate_365_days\": 20, \"hc_growth_90_days\": \"-5\", \"hc_growth_180_days\": \"5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"18.75\", \"hc_growth_365_days\": \"-5\"}, \"funding_rounds\": [{\"id\": 244753, \"uuid\": \"7b2741f3-41cd-4579-bdac-ca245c995100\", \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 634230028, \"announced_date\": \"2022-05-22\", \"investors\": null}, {\"id\": 244752, \"uuid\": \"dffccb35-b7d8-437c-a13e-96c4ced35db0\", \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-06-03\", \"investors\": null}, {\"id\": 244751, \"uuid\": \"c2d760a1-c3dd-4ae0-a06c-4ceb22b4e6ff\", \"legal_entity_uuid\": \"92ed0b57-ee7e-4d25-bd2a-1ce3cb944f19\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-05-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bereal-app.png",
+                        "name": "BeReal."
+                    },
+                    "position": "Growth",
+                    "startDate": "2022-03-01",
+                    "name": "BeReal.",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bereal-app.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/startatshea.png",
+                        "name": "Start@Shea"
+                    },
+                    "position": "Executive Board Member",
+                    "startDate": "2018-09-01",
+                    "name": "Start@Shea",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/startatshea.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": "{\"id\": 1653911, \"name\": \"Wunderite\", \"uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/cw3wbifp0ngsxdzop1vz\", \"description\": \"Next-generation software for insurance agents\", \"headcount\": \"1-10\", \"founding_date\": \"2018-01-01\", \"website\": \"https://wunderite.com/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1690143, 2570565], \"executive_people_profile_ids\": [1690143, 2570565], \"cb_permalink\": \"https://www.crunchbase.com/organization/wunderite\", \"linkedin_url\": \"https://linkedin.com/company/wunderite\", \"twitter\": null, \"last_funding_round_date\": \"2023-01-03\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 10335193, \"company_li_name\": \"wunderite\", \"tags\": [{\"id\": 6564371, \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6564372, \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Insurance\", \"category\": \"Industry\"}, {\"id\": 6564373, \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 6564374, \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 148865, \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 4, \"hc_estimate_270_days\": 4, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-25\", \"hc_growth_270_days\": \"-25\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 101681, \"uuid\": \"a5cdfd8e-2987-4cda-8093-93d2504085a8\", \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 7205193, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-03\", \"investors\": null}, {\"id\": 101680, \"uuid\": \"08a5bab8-5076-43cc-b750-2ff3ce47d576\", \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-28\", \"investors\": null}, {\"id\": 101679, \"uuid\": \"1d093358-9190-4648-a72c-9800140c2260\", \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 120000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-17\", \"investors\": null}, {\"id\": 101678, \"uuid\": \"ac0a7c04-3897-4477-99ef-c9b5ba675935\", \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-01\", \"investors\": null}, {\"id\": 101677, \"uuid\": \"db6e4732-b6a7-4799-823e-25b089a01a7f\", \"legal_entity_uuid\": \"64c886d8-1f27-4a8d-941a-97b6a599b627\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cw3wbifp0ngsxdzop1vz",
+                        "name": "Wunderite"
+                    },
+                    "position": "Product Management Intern",
+                    "startDate": "2021-01-01",
+                    "name": "Wunderite",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cw3wbifp0ngsxdzop1vz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-12-01",
+                    "legalEntity": "{\"id\": 486666, \"name\": \"FJ Labs\", \"uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fj-labs.png\", \"description\": \"FJ Labs is a stage-agnostic investment firm that focuses on marketplaces and consumer facing startups.\", \"headcount\": \"51-100\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.fjlabs.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2849466, 1506699, 3182064], \"executive_people_profile_ids\": [1048280, 686294, 2821402], \"cb_permalink\": \"https://www.crunchbase.com/organization/fj-labs\", \"linkedin_url\": \"https://linkedin.com/company/fj-labs\", \"twitter\": \"https:/www.twitter.com/FjLabs\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"fj-labs\", \"tags\": [{\"id\": 4954088, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 4954087, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4954086, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 122190, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 20, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 15, \"hc_estimate_365_days\": 16, \"hc_growth_90_days\": \"-15\", \"hc_growth_180_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"13.3300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"6.25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fj-labs.png",
+                        "name": "FJ Labs"
+                    },
+                    "position": "Associate",
+                    "startDate": "2020-08-01",
+                    "name": "FJ Labs",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fj-labs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 486666, \"name\": \"FJ Labs\", \"uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fj-labs.png\", \"description\": \"FJ Labs is a stage-agnostic investment firm that focuses on marketplaces and consumer facing startups.\", \"headcount\": \"51-100\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.fjlabs.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2849466, 1506699, 3182064], \"executive_people_profile_ids\": [1048280, 686294, 2821402], \"cb_permalink\": \"https://www.crunchbase.com/organization/fj-labs\", \"linkedin_url\": \"https://linkedin.com/company/fj-labs\", \"twitter\": \"https:/www.twitter.com/FjLabs\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"fj-labs\", \"tags\": [{\"id\": 4954088, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 4954087, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4954086, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 122190, \"legal_entity_uuid\": \"20242b76-1950-6156-2811-f7171fc99de8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 20, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 15, \"hc_estimate_365_days\": 16, \"hc_growth_90_days\": \"-15\", \"hc_growth_180_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"13.3300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"6.25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fj-labs.png",
+                        "name": "FJ Labs"
+                    },
+                    "position": "Summer Associate",
+                    "startDate": "2020-05-01",
+                    "name": "FJ Labs",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fj-labs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Sutter Mills (Acq. by Accenture)"
+                    },
+                    "position": "Intern",
+                    "startDate": "2019-05-01",
+                    "name": "Sutter Mills (Acq. by Accenture)",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/eudonet-canada-inc.png",
+                        "name": "CA"
+                    },
+                    "position": "Management Trainee",
+                    "startDate": "2017-09-01",
+                    "name": "CA",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/eudonet-canada-inc.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Double Major in Finance and Information Systems",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 1294120, \"name\": \"Boston College Carroll School of Management\", \"uuid\": \"1fcbc1da-f9ff-45ae-aa06-828202052b5e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/cwuzpoock4isduaevtkz\", \"description\": \"Boston College Carroll School of Management educates undergraduates preparing for careers in management.\", \"headcount\": \"501-1000\", \"founding_date\": \"1863-01-01\", \"website\": \"https://www.bc.edu/bc-web/schools/carroll-school.html\", \"location\": \"Chestnut Hill\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/boston-college-honors-program-carroll-school-of-management\", \"linkedin_url\": \"https://linkedin.com/school/carroll-school-of-management\", \"twitter\": \"https:/twitter.com/BCCarrollSchool\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"carroll-school-of-management\", \"tags\": [{\"id\": 4078608, \"legal_entity_uuid\": \"1fcbc1da-f9ff-45ae-aa06-828202052b5e\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 4078607, \"legal_entity_uuid\": \"1fcbc1da-f9ff-45ae-aa06-828202052b5e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4078606, \"legal_entity_uuid\": \"1fcbc1da-f9ff-45ae-aa06-828202052b5e\", \"name\": \"Business Development\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 59142, \"legal_entity_uuid\": \"1fcbc1da-f9ff-45ae-aa06-828202052b5e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 10, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 16, \"hc_estimate_270_days\": 17, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-37.5\", \"hc_growth_270_days\": \"-41.17999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cwuzpoock4isduaevtkz",
+                        "name": "Boston College Carroll School of Management"
+                    },
+                    "name": "Boston College Carroll School of Management",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cwuzpoock4isduaevtkz"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "International Baccalaureate",
+                    "degreeType": "",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 2078606, \"name\": \"The British School of Brussels\", \"uuid\": \"8e409e02-6b86-4f39-a331-39da9e305c7e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-british-school-of-brussels.png\", \"description\": \"The British School of Brussels is an inclusive, international learning community for children.\", \"headcount\": \"101-250\", \"founding_date\": \"1969-01-01\", \"website\": \"https://www.britishschool.be/\", \"location\": \"Tervuren\", \"country\": \"BEL\", \"region\": \"Vlaams-Brabant\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/the-british-school-of-brussels\", \"linkedin_url\": \"https://linkedin.com/school/the-british-school-of-brussels\", \"twitter\": \"https:/www.twitter.com/BSB_Brussels\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"the-british-school-of-brussels\", \"tags\": [{\"id\": 3910651, \"legal_entity_uuid\": \"8e409e02-6b86-4f39-a331-39da9e305c7e\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-british-school-of-brussels.png",
+                        "name": "The British School of Brussels"
+                    },
+                    "name": "The British School of Brussels",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-british-school-of-brussels.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2014-01-01",
+                    "legalEntity": "{\"id\": 1523857, \"name\": \"St. Pauls School\", \"uuid\": \"e497c112-9544-42c5-9ef1-21f81a7ff89d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/nbqdb1e3jkx4itf3pnpr\", \"description\": \"St. Pauls School is a world-class school that has been recognized by the UK government as a British School Overseas.\", \"headcount\": \"251-500\", \"founding_date\": \"1926-01-01\", \"website\": \"https://www.stpauls.br/\", \"location\": \"S\\u00e3o Paulo\", \"country\": \"BRA\", \"region\": \"Sao Paulo\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/st-paul-s-school\", \"linkedin_url\": \"https://linkedin.com/school/stpaulsschool\", \"twitter\": \"https:/twitter.com/stpaulsschoolsp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"stpaulsschool\", \"tags\": [{\"id\": 3359973, \"legal_entity_uuid\": \"e497c112-9544-42c5-9ef1-21f81a7ff89d\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "startDate": "2006-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/nbqdb1e3jkx4itf3pnpr",
+                        "name": "St. Pauls School-Sao Paulo"
+                    },
+                    "name": "St. Pauls School-Sao Paulo",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/nbqdb1e3jkx4itf3pnpr"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "359"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

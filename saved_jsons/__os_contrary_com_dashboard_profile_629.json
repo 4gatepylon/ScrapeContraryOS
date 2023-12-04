@@ -1,0 +1,93 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendly.com/audrey-chow/30min",
+                "canProvide": "With design critique! I'm always happy to share feedback on creative projects of any kind, from websites and product design to graphics and branding. I can also share resources in the form of books reccs, design precedents, and general inspo.",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "audrey.chow@contrarycap.com",
+                "firstName": "Audrey",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83c\udf37",
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "629",
+                "intro": "I'm a graphic and interaction designer from Vancouver, Canada. I'm currently working with Contrary on their events visuals, branding, and ContraryOS. In the past, I've worked with Daybreak Studio, interviewed designers and architects in Italy, and designed new platforms to support people with cognitive disabilities in my province. Outside of design, I love life drawing, mural art, yoga, and running. ",
+                "isActiveFellow": null,
+                "isActiveHq": true,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-13T19:54:32",
+                "lastName": "Chow",
+                "linkedinName": "audreykchow",
+                "linkedinUrl": "https://linkedin.com/in/audreykchow/",
+                "location": "Vancouver, Canada",
+                "lookingFor": "Again, design critique! Good design never happens in a vacuum. If you have feedback or suggestions for Contrary's design resources for VPs or ContraryOS, please do share!",
+                "meetWithBlurb": "Happy to give design critique or talk about anything design-related \u2014 graphic design, user experience, typography, etc!",
+                "podId": null,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-629-headshot.jpeg",
+                "roles": [
+                    "HQ"
+                ],
+                "secondaryEmail": "audreykchow@gmail.com",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "15",
+                    "value": "Freelancer"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "52",
+                    "value": "Rock Climbing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "56",
+                    "value": "Running"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "629"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

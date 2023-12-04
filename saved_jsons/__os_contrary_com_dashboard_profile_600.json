@@ -1,0 +1,169 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [],
+                "email": "arnuv.tandon@vp.contrary.com",
+                "firstName": "Arnuv",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "600",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-04T08:51:33",
+                "lastName": "Tandon",
+                "linkedinName": "arnuv-tandon-b7009218a",
+                "linkedinUrl": "https://linkedin.com/in/arnuv-tandon-b7009218a/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 16,
+                "prismUuid": "b72a4814-9ce6-44ef-92b6-45d1f68faf98",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AAcHTtcFbCAoInnaNJymsnQEbq7L-qEKVJVSlhwyvdpFZONy=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U05PN9LECFM",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2023-09-01",
+                        "id": "4708",
+                        "organizationId": 361875,
+                        "position": "Deep Learning Intern",
+                        "startDate": "2023-06-01"
+                    },
+                    {
+                        "endDate": "2023-03-01",
+                        "id": "4709",
+                        "organizationId": 2999,
+                        "position": "Co-Founder/COO",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4707",
+                        "organizationId": 279,
+                        "position": "Researcher @ Fuller Lab",
+                        "startDate": "2020-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "position": "Researcher @ Fuller Lab",
+                    "startDate": "2020-03-01",
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-09-01",
+                    "legalEntity": "{\"id\": 442614, \"name\": \"Percipient.ai\", \"uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/qcaskktk5dnbkgtjiqc7\", \"description\": \"Percipient.ai is a provider of an artificial intelligence advanced analytics platform designed to provide solutions for Intelligence.\", \"headcount\": \"51-100\", \"founding_date\": \"2017-01-01\", \"website\": \"http://percipient.ai/\", \"location\": \"Santa Clara\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1153550, 2932878, 1711971], \"executive_people_profile_ids\": [1009580, 3309270, 3159172, 1153550, 496427, 2642767, 1079231, 1711971, 2148739, 2932878], \"cb_permalink\": \"https://www.crunchbase.com/organization/percipient-ai\", \"linkedin_url\": \"https://linkedin.com/company/percipient-ai\", \"twitter\": null, \"last_funding_round_date\": \"2021-04-23\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 87199995, \"company_li_name\": \"percipient-ai\", \"tags\": [{\"id\": 6570040, \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 6570041, \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 6570042, \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6570043, \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"National Security\", \"category\": \"Industry\"}, {\"id\": 6570044, \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Security\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 101798, \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 54, \"hc_estimate_90_days\": 55, \"hc_estimate_180_days\": 53, \"hc_estimate_270_days\": 54, \"hc_estimate_365_days\": 53, \"hc_growth_90_days\": \"-1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_180_days\": \"1.8899999999999999023003738329862244427204132080078125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"1.8899999999999999023003738329862244427204132080078125\"}, \"funding_rounds\": [{\"id\": 240276, \"uuid\": \"b8853374-52b5-4d26-bcb1-0e046daab315\", \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 49999997, \"post_money_valuation_usd\": 58500000, \"announced_date\": \"2021-04-23\", \"investors\": null}, {\"id\": 240275, \"uuid\": \"5a15f5d3-0949-4e7e-aa06-268bbf9fa7ff\", \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 19499998, \"post_money_valuation_usd\": 58500000, \"announced_date\": \"2019-10-01\", \"investors\": null}, {\"id\": 240274, \"uuid\": \"1ade1725-9b25-407d-8efe-82c7d6a13d23\", \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 14700000, \"post_money_valuation_usd\": 58500000, \"announced_date\": \"2018-03-13\", \"investors\": null}, {\"id\": 240273, \"uuid\": \"33bbedae-9c0f-466a-bda8-9f241e041542\", \"legal_entity_uuid\": \"16ab08cb-4b47-46d0-a1af-055807b72158\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-03-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/qcaskktk5dnbkgtjiqc7",
+                        "name": "percipient.ai"
+                    },
+                    "position": "Deep Learning Intern",
+                    "startDate": "2023-06-01",
+                    "name": "percipient.ai",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/qcaskktk5dnbkgtjiqc7"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-03-01",
+                    "legalEntity": "{\"id\": 2154348, \"name\": \"Otto\", \"uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zwbimfjjyhor8rwbzhya\", \"description\": \"Otto makes it easier to become a great pet owner by leveraging your pets data to connect you with personalized services and content.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-05-01\", \"website\": \"https://otto.pet\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2362707, 979819], \"executive_people_profile_ids\": [726298, 979819, 2362707], \"cb_permalink\": \"https://www.crunchbase.com/organization/ottopetshq\", \"linkedin_url\": \"https://linkedin.com/company/ottopetshq\", \"twitter\": \"https:/twitter.com/OttoPetsHQ\", \"last_funding_round_date\": \"2022-06-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 1845000, \"company_li_name\": \"ottopetshq\", \"tags\": [{\"id\": 1126580, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Internet of Things\", \"category\": \"Industry\"}, {\"id\": 1126579, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1126581, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 1126582, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Pet\", \"category\": \"Industry\"}, {\"id\": 1126583, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"QR Codes\", \"category\": \"Industry\"}, {\"id\": 1126584, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 59837, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 2, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-100\", \"hc_growth_365_days\": \"-100\"}, \"funding_rounds\": [{\"id\": 142663, \"uuid\": \"369db5b1-9700-494c-ab94-4b458d95f865\", \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-01\", \"investors\": null}, {\"id\": 142662, \"uuid\": \"ad4ed7b1-6164-4ca9-8047-6d82f4170676\", \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 235000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-01\", \"investors\": null}, {\"id\": 142661, \"uuid\": \"f54d65f8-2ad7-4c4b-aa07-7f4d8318707a\", \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Product Crowdfunding\", \"cb_permalink\": null, \"investment_type\": \"product_crowdfunding\", \"raised_amount_usd\": 10000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-05-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zwbimfjjyhor8rwbzhya",
+                        "name": "Otto"
+                    },
+                    "position": "Co-Founder/COO",
+                    "startDate": "2021-04-01",
+                    "name": "Otto",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zwbimfjjyhor8rwbzhya"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2022-01-01",
+                    "legalEntity": null,
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Homestead High School"
+                    },
+                    "name": "Homestead High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "600"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

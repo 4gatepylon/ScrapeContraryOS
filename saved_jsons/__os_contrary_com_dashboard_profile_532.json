@@ -1,0 +1,87 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "nicopei321@gmail.com",
+                "firstName": "Nico ",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "532",
+                "intro": null,
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-05-13T22:38:04",
+                "lastName": "Pei ",
+                "linkedinName": "nico-p-a2770a136",
+                "linkedinUrl": "https://linkedin.com/in/nico-p-a2770a136/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-532-1581553597300.jpg",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "532"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

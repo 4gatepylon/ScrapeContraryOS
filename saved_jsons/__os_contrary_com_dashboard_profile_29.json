@@ -1,0 +1,223 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Investor at Bessemer Venture Partners",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "Virginia Advanced Diploma",
+                        "endDate": null,
+                        "id": "41",
+                        "startDate": null,
+                        "universityId": 36
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "Bachelor's degree",
+                        "endDate": null,
+                        "id": "42",
+                        "startDate": null,
+                        "universityId": 37
+                    }
+                ],
+                "email": "sach2000@gmail.com",
+                "firstName": "Sachin",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "29",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Jain",
+                "linkedinName": "sachinja",
+                "linkedinUrl": "https://linkedin.com/in/sachinja/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "0510f8ea-c638-46fb-bde0-4218ecc71b2a",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/29_Sachin_Jain.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "144",
+                        "organizationId": 125,
+                        "position": "Investor",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "145",
+                        "organizationId": 126,
+                        "position": "Researcher",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "146",
+                        "organizationId": 127,
+                        "position": "Summer Analyst",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "3263",
+                        "organizationId": 2630,
+                        "position": "Summer Analyst",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "147",
+                        "organizationId": 128,
+                        "position": "Product Management Intern",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "3264",
+                        "organizationId": 2631,
+                        "position": "Product Management Intern",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "143",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2019-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 145717, \"name\": \"Bessemer Venture Partners\", \"uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hy57qdfbratzazevphal\", \"description\": \"Bessemer Venture Partners is a venture capital firm that invests in enterprise, consumer, and healthcare early-to-late stage startups.\", \"headcount\": \"11-50\", \"founding_date\": \"1911-01-01\", \"website\": \"http://www.bvp.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [73689, 918920, 2043638, 2259644, 523858, 1606564, 1191419, 2456363, 2927897, 2945561, 2821845, 2821793, 114321, 114581, 1431952, 125902, 1516774, 295080, 1906396, 2107054, 3019554, 3019151, 1656930, 1671307, 1497583, 1497584, 2821219, 2821535, 457030, 764845, 3084023, 1670618, 2456066, 1878285, 2407753, 473333, 1004925, 1004973, 1126534, 1165423, 1164947, 1395879, 3394690, 1840966, 1906488, 1673469, 2116684, 1498951, 2821684, 2832703, 2196851, 2202321, 846188, 1316793, 1148298, 1176688, 1072248, 1191742, 2928444, 2833909, 2178992, 594948, 1148565, 2025443, 392121, 1606721, 1694759, 1722401, 2106991, 2108381, 1670617, 2455823, 2930649, 2606422, 1749532, 2832729, 1992286, 903171, 1316533, 449154, 1036698, 1395826, 2710661, 1959202, 1385284, 1638814, 3412177, 1498952, 183774, 1148566, 2021615, 1049648, 2679901, 1395880, 1231673, 1876942, 2945545, 3343592], \"cb_permalink\": \"https://www.crunchbase.com/organization/bessemer-venture-partners\", \"linkedin_url\": \"https://linkedin.com/company/bessemer-venture-partners\", \"twitter\": \"http:/www.twitter.com/bessemervp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bessemer-venture-partners\", \"tags\": [{\"id\": 6362737, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6362738, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6362739, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362740, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6362741, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 6362742, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 12851, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 222, \"hc_estimate_90_days\": 220, \"hc_estimate_180_days\": 210, \"hc_estimate_270_days\": 201, \"hc_estimate_365_days\": 191, \"hc_growth_90_days\": \"0.91000000000000003108624468950438313186168670654296875\", \"hc_growth_180_days\": \"5.70999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"10.449999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hy57qdfbratzazevphal",
+                        "name": "Bessemer Venture Partners"
+                    },
+                    "position": "Investor",
+                    "startDate": "2021-01-01",
+                    "name": "Bessemer Venture Partners",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hy57qdfbratzazevphal"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2019-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "CPMG-Inc."
+                    },
+                    "position": "Analyst",
+                    "startDate": "2020-01-01",
+                    "name": "CPMG-Inc.",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 1127335, \"name\": \"Stripes\", \"uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vkg4diogocjyzexw82mz\", \"description\": \"Stripes is a growth equity firm that invests in software and consumer businesses.\", \"headcount\": \"51-100\", \"founding_date\": \"2008-01-01\", \"website\": \"https://www.stripes.co\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1110391], \"executive_people_profile_ids\": [463027, 1126534, 3083658, 361923, 271650, 450276, 1089347, 497074, 2304449, 3164302, 1091160, 1178980, 730566, 1753776, 815306, 2138251, 1976322, 1693033, 1942733, 771271, 2752241, 2767479, 2939881, 2817384, 1110391, 1628106, 1906114, 1191358, 987365, 989711], \"cb_permalink\": \"https://www.crunchbase.com/organization/stripesco\", \"linkedin_url\": \"https://linkedin.com/company/stripesco\", \"twitter\": \"https:/twitter.com/stripesco_\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"stripesco\", \"tags\": [{\"id\": 6363219, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 6363218, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6363217, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 185503, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 20, \"hc_estimate_90_days\": 21, \"hc_estimate_180_days\": 21, \"hc_estimate_270_days\": 23, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-4.7599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"-4.7599999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"-13.03999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vkg4diogocjyzexw82mz",
+                        "name": "Stripes"
+                    },
+                    "position": "Researcher",
+                    "startDate": "2020-01-01",
+                    "name": "Stripes",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vkg4diogocjyzexw82mz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 442979, \"name\": \"ICX Media\", \"uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/d1vg30e6v0hybwhsm0f1\", \"description\": \"ICX Media is a leading video intelligence provider offering data-driven content and analytics solutions.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-04-23\", \"website\": \"http://www.icxmedia.com\", \"location\": \"Washington\", \"country\": \"USA\", \"region\": \"District of Columbia\", \"founder_people_profile_ids\": [204878, 144056], \"executive_people_profile_ids\": [98399, 144056, 1518124, 204878, 1602427, 449773, 3236688, 976362], \"cb_permalink\": \"https://www.crunchbase.com/organization/icx-media-inc\", \"linkedin_url\": \"https://linkedin.com/company/icx-media-inc\", \"twitter\": \"https:/twitter.com/icxmedia\", \"last_funding_round_date\": \"2019-08-07\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 16200000, \"company_li_name\": \"icx-media-inc\", \"tags\": [{\"id\": 6240770, \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6240769, \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Digital Media\", \"category\": \"Industry\"}, {\"id\": 6240768, \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Content\", \"category\": \"Industry\"}, {\"id\": 6240767, \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Business Intelligence\", \"category\": \"Industry\"}, {\"id\": 6240766, \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Analytics\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 108306, \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 264777, \"uuid\": \"9efa8871-3a35-4ef0-a673-f0bbf31b9a8d\", \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 6600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-07\", \"investors\": null}, {\"id\": 264776, \"uuid\": \"ac9d6ac0-ae64-49ee-a296-3c3825d2270f\", \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-02-02\", \"investors\": null}, {\"id\": 264775, \"uuid\": \"6181e663-6789-4a55-a5bf-a1b09e3fbef9\", \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 6600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-12\", \"investors\": null}, {\"id\": 264774, \"uuid\": \"7c9b523e-56f4-4612-a1a6-fadc75161d39\", \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Angel Round\", \"cb_permalink\": null, \"investment_type\": \"angel\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-03-01\", \"investors\": null}, {\"id\": 264773, \"uuid\": \"0f9fa2d1-2f20-b09f-e55d-cae906120f70\", \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-11-10\", \"investors\": null}, {\"id\": 264772, \"uuid\": \"b6999789-5ac0-1bb6-1b36-b8a7b292b781\", \"legal_entity_uuid\": \"7dd54281-a976-f10c-5fc8-357dceddcf85\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-03\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/d1vg30e6v0hybwhsm0f1",
+                        "name": "ICX Media-Inc."
+                    },
+                    "position": "Product",
+                    "startDate": "2019-01-01",
+                    "name": "ICX Media-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/d1vg30e6v0hybwhsm0f1"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Virginia Advanced Diploma",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Thomas Jefferson High School for Science and Technology"
+                    },
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Bachelors degree",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 747133, \"name\": \"University of Virginia\", \"uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-virginia.png\", \"description\": \"University of Virginia is an educational institution that offers undergraduate, graduate, postgraduate, and professional degree programs.\", \"headcount\": \"10000+\", \"founding_date\": \"1819-01-01\", \"website\": \"http://www.virginia.edu/\", \"location\": \"Charlottesville\", \"country\": \"USA\", \"region\": \"Virginia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2690579, 1990515, 3021965, 2283148, 2024108, 2088393, 1477843, 4155839, 1387285], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-virginia\", \"linkedin_url\": \"https://linkedin.com/school/university-of-virginia\", \"twitter\": \"http:/twitter.com/uva\", \"last_funding_round_date\": \"2023-08-08\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 217075000, \"company_li_name\": \"university-of-virginia\", \"tags\": [{\"id\": 1795816, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1795815, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 1795814, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"E-Learning\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 87834, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 196, \"hc_estimate_90_days\": 185, \"hc_estimate_180_days\": 212, \"hc_estimate_270_days\": 218, \"hc_estimate_365_days\": 228, \"hc_growth_90_days\": \"5.95000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-7.54999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"-10.089999999999999857891452847979962825775146484375\", \"hc_growth_365_days\": \"-14.03999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 147114, \"uuid\": \"ea8b00ec-d355-4f5a-8b3d-f920d7c15a6b\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 75000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-08\", \"investors\": null}, {\"id\": 147113, \"uuid\": \"cd45a711-cb97-4a0d-bf2f-4ee166016793\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 68000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-24\", \"investors\": null}, {\"id\": 147112, \"uuid\": \"177694a6-48f7-4c6b-87a4-adce17cea104\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 120000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-19\", \"investors\": null}, {\"id\": 147111, \"uuid\": \"18c7f9c3-ede9-4156-a2c7-3719e91ef8c5\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-01\", \"investors\": null}, {\"id\": 147110, \"uuid\": \"cd2e398f-2165-65fb-15cf-28c938f4fbe4\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-02-04\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-virginia.png",
+                        "name": "University of Virginia"
+                    },
+                    "name": "University of Virginia",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-virginia.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "29"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

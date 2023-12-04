@@ -1,0 +1,376 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "471",
+                        "startDate": null,
+                        "universityId": 266
+                    },
+                    {
+                        "degree": "Computer Science and Statistics",
+                        "degreeType": "Bachelor of Science",
+                        "endDate": null,
+                        "id": "472",
+                        "startDate": null,
+                        "universityId": 193
+                    }
+                ],
+                "email": "janezhang282@gmail.com",
+                "firstName": "Jane",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "253",
+                "intro": "Data & SWE @Atomic Labs and Replicant AI, CS @ Duke, Co-founder @ Tudrme, Director of Data @ Duke Impact Investing Group\n",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-04-19T16:26:17",
+                "lastName": "Zhang",
+                "linkedinName": "jjanezhang",
+                "linkedinUrl": "https://linkedin.com/in/jjanezhang/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 7,
+                "prismUuid": "c5ede156-5d04-4f34-9518-c1908b6c1dd5",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/253_Jane_Zhang.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "janezhang@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2022-09-01",
+                        "id": "3524",
+                        "organizationId": 6,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1681",
+                        "organizationId": 1201,
+                        "position": "Advisor",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "1683",
+                        "organizationId": 1202,
+                        "position": "Product Management Intern",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "1684",
+                        "organizationId": 47,
+                        "position": "KP Engineering Fellow",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": "2021-07-01",
+                        "id": "1685",
+                        "organizationId": 1203,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": "2021-02-01",
+                        "id": "1686",
+                        "organizationId": 1204,
+                        "position": "Data Science Intern",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2021-02-01",
+                        "id": "3525",
+                        "organizationId": 2765,
+                        "position": "Data Science Intern",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2021-02-01",
+                        "id": "1687",
+                        "organizationId": 1205,
+                        "position": "Atomic Fellow",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "1688",
+                        "organizationId": 1206,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1682",
+                        "organizationId": 5,
+                        "position": "Chief Of Staff",
+                        "startDate": "2019-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4581",
+                        "organizationId": 2794,
+                        "position": "",
+                        "startDate": null
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4582",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1461514, \"name\": \"MosaicML\", \"uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mosaicml.png\", \"description\": \"MosaicML builds an efficient infrastructure for training language models.\", \"headcount\": \"101-250\", \"founding_date\": \"2021-01-01\", \"website\": \"https://www.mosaicml.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1335361, 2702362], \"cb_permalink\": \"https://www.crunchbase.com/organization/mosaic-ml\", \"linkedin_url\": \"https://linkedin.com/company/mosaicml\", \"twitter\": \"https:/www.twitter.com/mosaicml\", \"last_funding_round_date\": \"2023-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 37000000, \"company_li_name\": \"mosaicml\", \"tags\": [{\"id\": 3855156, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 3855157, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Computer Vision\", \"category\": \"Industry\"}, {\"id\": 3855158, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 3855159, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Natural Language Processing\", \"category\": \"Industry\"}, {\"id\": 3855160, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7352733, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 25701, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 56, \"hc_estimate_90_days\": 61, \"hc_estimate_180_days\": 55, \"hc_estimate_270_days\": 49, \"hc_estimate_365_days\": 45, \"hc_growth_90_days\": \"-8.199999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_270_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"24.440000000000001278976924368180334568023681640625\"}, \"funding_rounds\": [{\"id\": 304570, \"uuid\": \"c5e677c2-c339-4e14-9219-c5f75a73581e\", \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 222000000, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 304569, \"uuid\": \"4cc23298-6c39-4284-91c8-57b465bc055c\", \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 37000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-13\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mosaicml.png",
+                        "name": "MosaicML"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "MosaicML",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mosaicml.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science and Statistics",
+                    "degreeType": "Bachelor of Science",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2185779, \"name\": \"Duke University\", \"uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/duke-university.png\", \"description\": \"Duke University is a private research university providing undergraduate and postgraduate education in medicine and other disciplines.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1838-01-01\", \"website\": \"http://www.duke.edu\", \"location\": \"Durham\", \"country\": \"USA\", \"region\": \"North Carolina\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1198698, 1475497, 794675, 3087926, 632092, 3211876, 3825137, 2843250, 29081, 876903], \"cb_permalink\": \"https://www.crunchbase.com/organization/duke-university\", \"linkedin_url\": \"https://linkedin.com/school/duke-university\", \"twitter\": \"http:/twitter.com/DukeU\", \"last_funding_round_date\": \"2023-02-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 71154597, \"company_li_name\": \"duke-university\", \"tags\": [{\"id\": 6381395, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 6381394, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6381393, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6381392, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"EdTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 58108, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 309, \"hc_estimate_90_days\": 302, \"hc_estimate_180_days\": 348, \"hc_estimate_270_days\": 354, \"hc_estimate_365_days\": 369, \"hc_growth_90_days\": \"2.319999999999999840127884453977458178997039794921875\", \"hc_growth_180_days\": \"-11.21000000000000085265128291212022304534912109375\", \"hc_growth_270_days\": \"-12.71000000000000085265128291212022304534912109375\", \"hc_growth_365_days\": \"-16.260000000000001563194018672220408916473388671875\"}, \"funding_rounds\": [{\"id\": 180609, \"uuid\": \"f649ecbe-156c-4cc5-9265-7a7315e43f74\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 109845, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-02-17\", \"investors\": null}, {\"id\": 180608, \"uuid\": \"393c3bbf-a88e-4e33-aeb5-49a393426472\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-19\", \"investors\": null}, {\"id\": 180607, \"uuid\": \"128512f4-2a39-4cae-80a5-acd1c26b125f\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 496881, \"uuid\": \"14a38ed0-cf88-4e83-89e5-2016e20e0da5\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 180606, \"uuid\": \"4c4e7aff-b211-4497-a7bc-5fb13a38f007\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-03-05\", \"investors\": null}, {\"id\": 496880, \"uuid\": \"2ffa45bd-7610-4005-9c9d-e0be3af6e8cf\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1294752, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 180605, \"uuid\": \"38ef6507-fc3b-8c25-1c04-493d28f5fbf9\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-15\", \"investors\": null}, {\"id\": 180604, \"uuid\": \"a12d7cb1-c380-0826-8abf-1ffa26955835\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 8700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-12\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/duke-university.png",
+                        "name": "Duke University"
+                    },
+                    "name": "Duke University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/duke-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Statistics  Anthropology",
+                    "degreeType": "St. Catherines - Visiting Student",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1406133, \"name\": \"University of Oxford\", \"uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1503468710/jzkgvkjnwrdbqrfjsblk.png\", \"description\": \"Oxford is a center of learning, teaching and research, and the oldest university in the English-speaking world.\", \"headcount\": \"10000+\", \"founding_date\": \"1096-01-01\", \"website\": \"http://ox.ac.uk\", \"location\": \"Oxford\", \"country\": \"GBR\", \"region\": \"Oxfordshire\", \"founder_people_profile_ids\": [1993258], \"executive_people_profile_ids\": [1021152, 1993258, 1433791, 2682067, 2078108, 3403299, 1349781, 2017485, 2492034, 2084817, 2946132], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-oxford\", \"linkedin_url\": \"https://linkedin.com/school/oxforduni\", \"twitter\": \"http:/twitter.com/uniofoxford\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"oxforduni\", \"tags\": [{\"id\": 4838051, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Association\", \"category\": \"Industry\"}, {\"id\": 4838052, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 4838053, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4838054, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 4838055, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 40331, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 200, \"hc_estimate_90_days\": 203, \"hc_estimate_180_days\": 204, \"hc_estimate_270_days\": 202, \"hc_estimate_365_days\": 200, \"hc_growth_90_days\": \"-1.479999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-1.95999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"-0.9899999999999999911182158029987476766109466552734375\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1503468710/jzkgvkjnwrdbqrfjsblk.png",
+                        "name": "University of Oxford"
+                    },
+                    "name": "University of Oxford",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1503468710/jzkgvkjnwrdbqrfjsblk.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Westlake High School"
+                    },
+                    "name": "Westlake High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "253"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

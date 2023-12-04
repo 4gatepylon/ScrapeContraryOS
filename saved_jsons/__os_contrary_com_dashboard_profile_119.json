@@ -1,0 +1,355 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendar.app.google/XgzNEy536hTREXXZ8",
+                "canProvide": "Anything investing-related and helping companies go 0-1. Also love chatting about career development and growth.",
+                "currentRole": "Partner @ Contrary",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2016-01-01",
+                        "id": "214",
+                        "startDate": "2015-01-01",
+                        "universityId": 150
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "BA",
+                        "endDate": null,
+                        "id": "211",
+                        "startDate": null,
+                        "universityId": 38
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "Master of Business Administration - MBA",
+                        "endDate": null,
+                        "id": "212",
+                        "startDate": null,
+                        "universityId": 4
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "M.A. International Studies",
+                        "endDate": null,
+                        "id": "213",
+                        "startDate": null,
+                        "universityId": 149
+                    }
+                ],
+                "email": "jason@contrarycap.com",
+                "firstName": "Jason",
+                "greeting": "Hi!",
+                "greetingEmoji": "\ud83c\udf84",
+                "hqPosition": "Partner",
+                "hubCity": "Philadelphia",
+                "id": "119",
+                "intro": "I'm a Partner with Contrary on the early-stage team. I originally joined as a Venture Partner at Penn while getting my MBA/MA and am now on the full-time team. \n\nPrior to Contrary, I founded two companies (one in surplus food, one in enterprise SaaS for office management) and was a fractional COO doing growth/ops consulting work for early-stage organizations. I also previously spent time as a consultant with PwC and doing vaccine market access work with the Clinton Health Access Initiative. \n\nI went to Yale for undergrad, studying economics and English.",
+                "isActiveFellow": null,
+                "isActiveHq": true,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-12T00:18:24",
+                "lastName": "Chen",
+                "linkedinName": "jasonchen623",
+                "linkedinUrl": "https://linkedin.com/in/jasonchen623/",
+                "location": "Philadelphia, PA",
+                "lookingFor": "Meet more of the Contrary community - please reach out!",
+                "meetWithBlurb": "Happy to chat about anything investing-related and helping companies go 0-1. Also love chatting about career development and growth.",
+                "podId": 24,
+                "prismUuid": "002eff8c-3bc7-4993-9bea-b73539a45f6e",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp7nN62h1T4_TckM_rRSD4CjdG2epfhTCf3fOOXHqw=s96-c",
+                "roles": [
+                    "HQ",
+                    "HQ Admin"
+                ],
+                "secondaryEmail": "jchen623@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U01AK7DHWBT",
+                "twitterHandle": "jchen623",
+                "twitterUrl": "https://twitter.com/jchen623/",
+                "workExperiences": [
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "724",
+                        "organizationId": 554,
+                        "position": "Investor",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "722",
+                        "organizationId": 553,
+                        "position": "Angel Investor",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "723",
+                        "organizationId": 5,
+                        "position": "Partner",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-04-01",
+                        "id": "725",
+                        "organizationId": 555,
+                        "position": "Founder",
+                        "startDate": "2017-10-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "726",
+                        "organizationId": 556,
+                        "position": "Co-Founder",
+                        "startDate": "2015-01-01"
+                    },
+                    {
+                        "endDate": "2015-01-01",
+                        "id": "727",
+                        "organizationId": 557,
+                        "position": "Co-Founder",
+                        "startDate": "2014-01-01"
+                    },
+                    {
+                        "endDate": "2015-01-01",
+                        "id": "728",
+                        "organizationId": 558,
+                        "position": "Vaccine Markets",
+                        "startDate": "2014-01-01"
+                    },
+                    {
+                        "endDate": "2015-01-01",
+                        "id": "3393",
+                        "organizationId": 2694,
+                        "position": "Vaccine Markets",
+                        "startDate": "2014-01-01"
+                    },
+                    {
+                        "endDate": "2014-03-01",
+                        "id": "729",
+                        "organizationId": 559,
+                        "position": "Senior Associate - Advisory Strategy",
+                        "startDate": "2010-08-01"
+                    },
+                    {
+                        "endDate": "2009-09-01",
+                        "id": "730",
+                        "organizationId": 560,
+                        "position": "Publisher, Co-President",
+                        "startDate": "2007-10-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Lighthouse Point Ventures"
+                    },
+                    "position": "Angel Investor",
+                    "startDate": "2020-01-01",
+                    "name": "Lighthouse Point Ventures",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Partner",
+                    "startDate": "2019-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 454978, \"name\": \"Bullpen Capital\", \"uuid\": \"140367a9-165d-7f28-79cc-33a9b71a214c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bullpen-capital.png\", \"description\": \"Bullpen is a venture capital fund that invests in post-seed capital into early-stage companies.\", \"headcount\": \"11-50\", \"founding_date\": \"2010-02-01\", \"website\": \"http://bullpencap.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2928078, 1668875, 2927820], \"executive_people_profile_ids\": [2043528], \"cb_permalink\": \"https://www.crunchbase.com/organization/bullpen-capital\", \"linkedin_url\": \"https://linkedin.com/company/bullpen-capital\", \"twitter\": \"http:/twitter.com/bullpencap\", \"last_funding_round_date\": \"2018-06-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"bullpen-capital\", \"tags\": [{\"id\": 6453732, \"legal_entity_uuid\": \"140367a9-165d-7f28-79cc-33a9b71a214c\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6453731, \"legal_entity_uuid\": \"140367a9-165d-7f28-79cc-33a9b71a214c\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6453733, \"legal_entity_uuid\": \"140367a9-165d-7f28-79cc-33a9b71a214c\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 117795, \"legal_entity_uuid\": \"140367a9-165d-7f28-79cc-33a9b71a214c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 12, \"hc_estimate_90_days\": 13, \"hc_estimate_180_days\": 12, \"hc_estimate_270_days\": 13, \"hc_estimate_365_days\": 13, \"hc_growth_90_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"-7.69000000000000039079850466805510222911834716796875\"}, \"funding_rounds\": [{\"id\": 176674, \"uuid\": \"fc65bd77-1848-464c-83cf-45fc99c003b5\", \"legal_entity_uuid\": \"140367a9-165d-7f28-79cc-33a9b71a214c\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bullpen-capital.png",
+                        "name": "Bullpen Capital"
+                    },
+                    "position": "Investor",
+                    "startDate": "2020-01-01",
+                    "name": "Bullpen Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bullpen-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Tanager Advisors"
+                    },
+                    "position": "Founder",
+                    "startDate": "2017-01-01",
+                    "name": "Tanager Advisors",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 738677, \"name\": \"Vesper\", \"uuid\": \"b58197ef-7ec2-c4cd-d520-78328e60861c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vesper-.png\", \"description\": \"Vesper is the smart, scalable way to manage your office\", \"headcount\": \"11-50\", \"founding_date\": \"2015-09-01\", \"website\": null, \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3337907, 2704955], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/vesper-4\", \"linkedin_url\": \"https://linkedin.com/company/vesper-\", \"twitter\": null, \"last_funding_round_date\": \"2016-02-10\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 0, \"company_li_name\": \"vesper-\", \"tags\": [{\"id\": 6271785, \"legal_entity_uuid\": \"b58197ef-7ec2-c4cd-d520-78328e60861c\", \"name\": \"Professional Services\", \"category\": \"Industry\"}, {\"id\": 6271784, \"legal_entity_uuid\": \"b58197ef-7ec2-c4cd-d520-78328e60861c\", \"name\": \"Commercial Real Estate\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 449407, \"uuid\": \"ecc3c1e6-2e61-4a82-a153-d79f1c96ad23\", \"legal_entity_uuid\": \"b58197ef-7ec2-c4cd-d520-78328e60861c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-02-10\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vesper-.png",
+                        "name": "Vesper"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2015-01-01",
+                    "name": "Vesper",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vesper-.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-01-01",
+                    "legalEntity": "{\"id\": 1686065, \"name\": \"Clinton Health Access Initiative\", \"uuid\": \"128bd42b-1c34-7550-d3c9-1cc1d3b0ee39\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1456851385/ehwmnqwzdsu3v4g3vhaf.png\", \"description\": \"To save the lives of millions of people living with HIV/AIDS in the developing world by dramatically scaling up antiretroviral treatment.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2002-01-01\", \"website\": \"http://www.clintonhealthaccess.org/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [492903], \"cb_permalink\": \"https://www.crunchbase.com/organization/clinton-health-access-initiative\", \"linkedin_url\": \"https://linkedin.com/company/clinton-health-access-initiative\", \"twitter\": \"https:/www.twitter.com/clintonhealth\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"clinton-health-access-initiative\", \"tags\": [{\"id\": 6329464, \"legal_entity_uuid\": \"128bd42b-1c34-7550-d3c9-1cc1d3b0ee39\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 170280, \"legal_entity_uuid\": \"128bd42b-1c34-7550-d3c9-1cc1d3b0ee39\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 66, \"hc_estimate_90_days\": 67, \"hc_estimate_180_days\": 68, \"hc_estimate_270_days\": 70, \"hc_estimate_365_days\": 67, \"hc_growth_90_days\": \"-1.4899999999999999911182158029987476766109466552734375\", \"hc_growth_180_days\": \"-2.939999999999999946709294817992486059665679931640625\", \"hc_growth_270_days\": \"-5.70999999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-1.4899999999999999911182158029987476766109466552734375\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1456851385/ehwmnqwzdsu3v4g3vhaf.png",
+                        "name": "Clinton Health Access Initiative-Inc."
+                    },
+                    "position": "Senior Associate-Vaccine Markets",
+                    "startDate": "2014-01-01",
+                    "name": "Clinton Health Access Initiative-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1456851385/ehwmnqwzdsu3v4g3vhaf.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-01-01",
+                    "legalEntity": "{\"id\": 486708, \"name\": \"PareUp\", \"uuid\": \"2335aabd-e763-798e-7b05-9452f649c33f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1412684660/jaqwdohsdkx6abqdqqwq.jpg\", \"description\": \"PareUp, an online platform, creating opportunities for commercial retailers and eaters to save money and prevent waste through its platform.\", \"headcount\": \"1-10\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.pareup.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2704955, 3337907], \"executive_people_profile_ids\": [2704955, 3337907], \"cb_permalink\": \"https://www.crunchbase.com/organization/pareup\", \"linkedin_url\": \"https://linkedin.com/company/pareup\", \"twitter\": \"http:/twitter.com/letspareup\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pareup\", \"tags\": [{\"id\": 4899201, \"legal_entity_uuid\": \"2335aabd-e763-798e-7b05-9452f649c33f\", \"name\": \"Food Processing\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1412684660/jaqwdohsdkx6abqdqqwq.jpg",
+                        "name": "PareUp"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2014-01-01",
+                    "name": "PareUp",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1412684660/jaqwdohsdkx6abqdqqwq.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-01-01",
+                    "legalEntity": "{\"id\": 1114758, \"name\": \"PwC\", \"uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pwc.png\", \"description\": \"PricewaterhouseCoopers is an accounting firm that provides tax, HR, transactions, performance improvement, and crisis management services.\", \"headcount\": \"10000+\", \"founding_date\": \"1998-01-01\", \"website\": \"http://pwc.com\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [1870794], \"executive_people_profile_ids\": [595747, 456906, 3217976, 4147862, 1297304, 1029797, 2431679, 607415, 2503689, 1494743, 3062883, 4161297, 2242559, 742335, 4148187, 2237829, 4159135, 3091085, 2847613, 1066004, 4122815, 4168769, 569902, 4123362, 1316727, 4188193, 4133542, 4161667, 3326168, 2499284, 4168361, 2619252, 3135561, 2256341, 2813513, 1701829, 2321882, 1723055, 4161366, 2850020, 4133288, 841178, 3212234, 2137972, 2342450, 331624, 2143056, 2923217, 2193221, 759672, 349438, 2206894, 247132, 1212034, 3819315, 3314679, 1240107, 691285, 1370010, 27376, 3058097, 3614929, 2689610, 1847317, 4122431, 159669, 239726, 1385439, 4168954, 301575, 887052, 791778, 2259301, 4122325, 2386985, 4154857, 2401725, 4168728, 4188322, 2414593, 57804, 1571670, 2924952, 4122280, 4085496, 2647989, 601995, 580243, 3104873, 4154926, 2459262, 1091416, 3134168, 663942, 1294147, 1559626, 4122531, 1743974, 4162096, 779486, 4188190, 2966867, 2312003, 2921061, 4161593, 4132597, 1085174, 2976525, 24404, 4148831, 385611, 4162278, 782628, 370028, 4160000, 3151702, 765576, 2220788, 2132653, 2439678, 2960673, 1019932, 1927621, 666474, 4158657, 4155254, 565615, 1977509, 2665868, 1440619, 1955377], \"cb_permalink\": \"https://www.crunchbase.com/organization/pwc\", \"linkedin_url\": \"https://linkedin.com/company/pwc\", \"twitter\": \"http:/twitter.com/PwC_LLP\", \"last_funding_round_date\": \"2023-09-19\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 0, \"company_li_name\": \"pwc\", \"tags\": [{\"id\": 6398469, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6398468, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6398467, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6398466, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6398465, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Accounting\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 184037, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1497, \"hc_estimate_90_days\": 1494, \"hc_estimate_180_days\": 1447, \"hc_estimate_270_days\": 1485, \"hc_estimate_365_days\": 1486, \"hc_growth_90_days\": \"0.200000000000000011102230246251565404236316680908203125\", \"hc_growth_180_days\": \"3.45999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"0.810000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"0.7399999999999999911182158029987476766109466552734375\"}, \"funding_rounds\": [{\"id\": 485388, \"uuid\": \"ab86f021-53ac-468b-a9c1-b7b2a2533f9a\", \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pwc.png",
+                        "name": "PwC"
+                    },
+                    "position": "Senior Associate-Advisory Strategy",
+                    "startDate": "2010-01-01",
+                    "name": "PwC",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pwc.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Master of Business Administration - MBA",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 758786, \"name\": \"Wharton School of the University of Pennsylvania\", \"uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez\", \"description\": \"Wharton School of the University of Pennsylvania is a business school driven to create economic and social value.\", \"headcount\": \"101-250\", \"founding_date\": \"1881-01-01\", \"website\": \"http://www.wharton.upenn.edu\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [1317406], \"executive_people_profile_ids\": [462276, 1714597, 505232, 1317406, 1088585, 124787, 3211833, 1834236, 1506941, 1189861], \"cb_permalink\": \"https://www.crunchbase.com/organization/wharton-school-of-the-university-of-pennsylvania\", \"linkedin_url\": \"https://linkedin.com/company/the-wharton-school\", \"twitter\": \"http:/www.twitter.com/Wharton\", \"last_funding_round_date\": \"2020-05-18\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5000000, \"company_li_name\": \"the-wharton-school\", \"tags\": [{\"id\": 4836118, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4836117, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4836116, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 91791, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 240, \"hc_estimate_90_days\": 218, \"hc_estimate_180_days\": 256, \"hc_estimate_270_days\": 254, \"hc_estimate_365_days\": 255, \"hc_growth_90_days\": \"10.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-6.25\", \"hc_growth_270_days\": \"-5.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-5.87999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 161240, \"uuid\": \"c8600870-76f2-42c2-879e-60dafb74fe81\", \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-18\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez",
+                        "name": "The Wharton School"
+                    },
+                    "name": "The Wharton School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "M.A. International Studies",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 561144, \"name\": \"Lauder Insitute\", \"uuid\": \"b112ee44-396e-9628-10b6-db11519d09fd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/olan4okgs4dpcltwlwey\", \"description\": \"The Lauder Institute is a graduate program at the University of Pennsylvania focused on international studies\", \"headcount\": \"unknown\", \"founding_date\": \"1983-01-01\", \"website\": \"https://lauder.wharton.upenn.edu/\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/lander-institute\", \"linkedin_url\": \"https://linkedin.com/school/university-of-pennsylvania---the-lauder-institute\", \"twitter\": \"https:/twitter.com/lauderinstitute?lang=en\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"university-of-pennsylvania---the-lauder-institute\", \"tags\": [{\"id\": 6311020, \"legal_entity_uuid\": \"b112ee44-396e-9628-10b6-db11519d09fd\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 6311019, \"legal_entity_uuid\": \"b112ee44-396e-9628-10b6-db11519d09fd\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 52954, \"legal_entity_uuid\": \"b112ee44-396e-9628-10b6-db11519d09fd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": 1, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/olan4okgs4dpcltwlwey",
+                        "name": "University of Pennsylvania - The Lauder Institute"
+                    },
+                    "name": "University of Pennsylvania - The Lauder Institute",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/olan4okgs4dpcltwlwey"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "BA",
+                    "degreeType": "",
+                    "endDate": "2010-01-01",
+                    "legalEntity": "{\"id\": 499189, \"name\": \"Yale University\", \"uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/yale-university.png\", \"description\": \"Yale University is a research and education institution that prioritizes its students.\", \"headcount\": \"10000+\", \"founding_date\": \"1701-10-09\", \"website\": \"https://www.yale.edu\", \"location\": \"New Haven\", \"country\": \"USA\", \"region\": \"Connecticut\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [82924, 3060896], \"cb_permalink\": \"https://www.crunchbase.com/organization/yale-university\", \"linkedin_url\": \"https://linkedin.com/school/yale-university\", \"twitter\": \"https:/www.twitter.com/yale\", \"last_funding_round_date\": \"2023-01-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 42811855, \"company_li_name\": \"yale-university\", \"tags\": [{\"id\": 1652781, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Social Entrepreneurship\", \"category\": \"Industry\"}, {\"id\": 1652777, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Association\", \"category\": \"Industry\"}, {\"id\": 1652778, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1652779, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1652780, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Medical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 111709, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 236, \"hc_estimate_90_days\": 233, \"hc_estimate_180_days\": 259, \"hc_estimate_270_days\": 259, \"hc_estimate_365_days\": 256, \"hc_growth_90_days\": \"1.29000000000000003552713678800500929355621337890625\", \"hc_growth_180_days\": \"-8.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-8.8800000000000007815970093361102044582366943359375\", \"hc_growth_365_days\": \"-7.80999999999999960920149533194489777088165283203125\"}, \"funding_rounds\": [{\"id\": 487388, \"uuid\": \"fc293f92-93f9-4647-973c-f54d984cc071\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1275000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 100353, \"uuid\": \"38ab0f5b-a5c4-44c2-bfbe-d4b866befd73\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-27\", \"investors\": null}, {\"id\": 100352, \"uuid\": \"441b3baf-c2b9-440b-9bce-be01a3594c8a\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-04\", \"investors\": null}, {\"id\": 100351, \"uuid\": \"d3d64e30-9441-47f8-ba15-0edc7bc190c5\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-14\", \"investors\": null}, {\"id\": 100350, \"uuid\": \"1ac67c76-adbc-4bce-bed2-c01d1dde660b\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 487387, \"uuid\": \"9c9dbf5f-b333-40cd-92e2-46cce5a05893\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1329631, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 100349, \"uuid\": \"6c18da5f-2277-481b-9083-fdd906eb36e3\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-10\", \"investors\": null}, {\"id\": 487386, \"uuid\": \"9f6351f7-e251-4539-8440-1f619b5a354d\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 100348, \"uuid\": \"6a6b96a4-82e5-4b79-8704-970908a32c8b\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-08-18\", \"investors\": null}, {\"id\": 487385, \"uuid\": \"908fba72-0d07-4d29-9ee5-fb2d03606ef2\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1957224, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": "2006-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/yale-university.png",
+                        "name": "Yale University"
+                    },
+                    "name": "Yale University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/yale-university.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "62",
+                    "value": "Asian American"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "119"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

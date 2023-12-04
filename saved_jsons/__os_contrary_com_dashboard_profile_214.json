@@ -1,0 +1,475 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Senior Healthcare Consultant @ Optum",
+                "educationExperiences": [
+                    {
+                        "degree": "Biomedical Engineering",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2020-01-01",
+                        "id": "398",
+                        "startDate": "2016-01-01",
+                        "universityId": 138
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "High School",
+                        "endDate": "2016-01-01",
+                        "id": "399",
+                        "startDate": "2012-01-01",
+                        "universityId": 238
+                    }
+                ],
+                "email": "emilymarburnette@gmail.com",
+                "firstName": "Emily",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "214",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Burnette",
+                "linkedinName": "emilyburnette",
+                "linkedinUrl": "https://linkedin.com/in/emilyburnette/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "720c7b89-653f-4e3b-b81f-b234a6f10fb9",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/214_Emily_Burnette.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3493",
+                        "organizationId": 2290,
+                        "position": "Advisory Services Consultant",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": "2022-05-01",
+                        "id": "1401",
+                        "organizationId": 1025,
+                        "position": "Fixed Income and Derivatives Analyst",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "1405",
+                        "organizationId": 1027,
+                        "position": "Teaching Assistant | Neuroengineering",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1406",
+                        "organizationId": 1028,
+                        "position": "Summer Analyst",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "1404",
+                        "organizationId": 514,
+                        "position": "Advisory Board",
+                        "startDate": "2018-12-01"
+                    },
+                    {
+                        "endDate": "2020-06-01",
+                        "id": "1402",
+                        "organizationId": 1026,
+                        "position": "Founder and CEO",
+                        "startDate": "2018-11-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "1408",
+                        "organizationId": 1030,
+                        "position": "Patent Examination Extern",
+                        "startDate": "2018-05-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "1407",
+                        "organizationId": 1029,
+                        "position": "Undergraduate Researcher-Leung Biochemistry Lab",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2018-02-01",
+                        "id": "1410",
+                        "organizationId": 1032,
+                        "position": "Undergraduate Associate",
+                        "startDate": "2017-07-01"
+                    },
+                    {
+                        "endDate": "2020-06-01",
+                        "id": "1403",
+                        "organizationId": 5,
+                        "position": "Lead Venture Partner",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2018-07-01",
+                        "id": "1409",
+                        "organizationId": 1031,
+                        "position": "Co-Founder-Biomedical Engineer-and Intellectual Property Lead",
+                        "startDate": "2016-11-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1411",
+                        "organizationId": 727,
+                        "position": "Research Assistant-Herschlag Biochemistry Lab",
+                        "startDate": "2015-06-01"
+                    },
+                    {
+                        "endDate": "2014-08-01",
+                        "id": "1412",
+                        "organizationId": 1033,
+                        "position": "Summer Intern in General Surgery",
+                        "startDate": "2014-07-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1105360, \"name\": \"Optum\", \"uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/optum.png\", \"description\": \"Optum is a health service company.\", \"headcount\": \"10000+\", \"founding_date\": \"2011-01-01\", \"website\": \"https://optum.com\", \"location\": \"Eden Prairie\", \"country\": \"USA\", \"region\": \"Minnesota\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2287698, 1726474, 1006313, 1408281, 121234, 141649, 1296490, 2315354, 455634, 901751, 1590047, 2770073, 391129, 3368432, 4039959, 2609734, 1864895, 1682048, 2105907, 2033621, 2685413, 2991721, 2185178, 2684168, 2100451, 864760, 1152944, 2945574, 1725645, 3198199, 315481, 354300, 7284, 2885691, 891989, 1088964, 3189142, 198383, 2114282, 3305677, 2614231, 94390, 3794422, 824672, 46414, 98175, 3455170, 2419676, 907371, 18050, 2682092, 3119418, 493448, 2779705, 1441153, 478553, 610144, 2567075, 3075646, 263839, 832661, 1116141], \"cb_permalink\": \"https://www.crunchbase.com/organization/optum\", \"linkedin_url\": \"https://linkedin.com/company/optum\", \"twitter\": \"https:/twitter.com/Optum\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"optum\", \"tags\": [{\"id\": 1670690, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1670691, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1670692, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"name\": \"Medical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 187325, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 686, \"hc_estimate_90_days\": 689, \"hc_estimate_180_days\": 664, \"hc_estimate_270_days\": 647, \"hc_estimate_365_days\": 631, \"hc_growth_90_days\": \"-0.440000000000000002220446049250313080847263336181640625\", \"hc_growth_180_days\": \"3.310000000000000053290705182007513940334320068359375\", \"hc_growth_270_days\": \"6.03000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"8.7200000000000006394884621840901672840118408203125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/optum.png",
+                        "name": "Optum"
+                    },
+                    "position": "Senior Healthcare Consultant",
+                    "startDate": "2023-07-01",
+                    "name": "Optum",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/optum.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-07-01",
+                    "legalEntity": "{\"id\": 1105360, \"name\": \"Optum\", \"uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/optum.png\", \"description\": \"Optum is a health service company.\", \"headcount\": \"10000+\", \"founding_date\": \"2011-01-01\", \"website\": \"https://optum.com\", \"location\": \"Eden Prairie\", \"country\": \"USA\", \"region\": \"Minnesota\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2287698, 1726474, 1006313, 1408281, 121234, 141649, 1296490, 2315354, 455634, 901751, 1590047, 2770073, 391129, 3368432, 4039959, 2609734, 1864895, 1682048, 2105907, 2033621, 2685413, 2991721, 2185178, 2684168, 2100451, 864760, 1152944, 2945574, 1725645, 3198199, 315481, 354300, 7284, 2885691, 891989, 1088964, 3189142, 198383, 2114282, 3305677, 2614231, 94390, 3794422, 824672, 46414, 98175, 3455170, 2419676, 907371, 18050, 2682092, 3119418, 493448, 2779705, 1441153, 478553, 610144, 2567075, 3075646, 263839, 832661, 1116141], \"cb_permalink\": \"https://www.crunchbase.com/organization/optum\", \"linkedin_url\": \"https://linkedin.com/company/optum\", \"twitter\": \"https:/twitter.com/Optum\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"optum\", \"tags\": [{\"id\": 1670690, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1670691, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1670692, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"name\": \"Medical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 187325, \"legal_entity_uuid\": \"fee54cc9-9308-c9fc-90b2-2601dfeb6464\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 686, \"hc_estimate_90_days\": 689, \"hc_estimate_180_days\": 664, \"hc_estimate_270_days\": 647, \"hc_estimate_365_days\": 631, \"hc_growth_90_days\": \"-0.440000000000000002220446049250313080847263336181640625\", \"hc_growth_180_days\": \"3.310000000000000053290705182007513940334320068359375\", \"hc_growth_270_days\": \"6.03000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"8.7200000000000006394884621840901672840118408203125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/optum.png",
+                        "name": "Optum"
+                    },
+                    "position": "Healthcare Management Consultant",
+                    "startDate": "2022-06-01",
+                    "name": "Optum",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/optum.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 149322, \"name\": \"NISA Investment Advisors, LLC\", \"uuid\": \"7a7850cc-5fc7-41ed-b384-4ae9e8aa363c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1509760937/hd4l8xgocoafoea7ljr2.png\", \"description\": \"NISA Investment Advisors is a financial services company in St. Louis, Missouri.\", \"headcount\": \"251-500\", \"founding_date\": \"1994-01-01\", \"website\": \"http://nisa.com\", \"location\": \"St Louis\", \"country\": \"USA\", \"region\": \"Missouri\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/nisa-investment-advisors-llc\", \"linkedin_url\": \"https://linkedin.com/company/nisa-investment-advisors-l-l-c-\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"nisa-investment-advisors-l-l-c-\", \"tags\": [{\"id\": 1909406, \"legal_entity_uuid\": \"7a7850cc-5fc7-41ed-b384-4ae9e8aa363c\", \"name\": \"Crowdfunding\", \"category\": \"Industry\"}, {\"id\": 1909405, \"legal_entity_uuid\": \"7a7850cc-5fc7-41ed-b384-4ae9e8aa363c\", \"name\": \"Banking\", \"category\": \"Industry\"}, {\"id\": 1909407, \"legal_entity_uuid\": \"7a7850cc-5fc7-41ed-b384-4ae9e8aa363c\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 21938, \"legal_entity_uuid\": \"7a7850cc-5fc7-41ed-b384-4ae9e8aa363c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1509760937/hd4l8xgocoafoea7ljr2.png",
+                        "name": "NISA Investment Advisors-LLC"
+                    },
+                    "position": "Fixed Income and Derivatives Analyst",
+                    "startDate": "2020-06-01",
+                    "name": "NISA Investment Advisors-LLC",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1509760937/hd4l8xgocoafoea7ljr2.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "VestiTech"
+                    },
+                    "position": "Founder and CEO",
+                    "startDate": "2018-11-01",
+                    "name": "VestiTech",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Lead Venture Partner",
+                    "startDate": "2017-05-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": "{\"id\": 1271542, \"name\": \"Johns Hopkins Whiting School of Engineering\", \"uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png\", \"description\": \"Johns Hopkins Whiting School of Engineering is e-learning company.\", \"headcount\": \"unknown\", \"founding_date\": \"1876-01-01\", \"website\": \"https://engineering.jhu.edu/\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/johns-hopkins-whiting-school-of-engineering\", \"linkedin_url\": \"https://linkedin.com/school/johns-hopkins-whiting-school-of-engineering\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"johns-hopkins-whiting-school-of-engineering\", \"tags\": [{\"id\": 2624794, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7597486, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 104356, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 48, \"hc_estimate_90_days\": 44, \"hc_estimate_180_days\": 51, \"hc_estimate_270_days\": 51, \"hc_estimate_365_days\": 50, \"hc_growth_90_days\": \"9.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-4\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png",
+                        "name": "Johns Hopkins Whiting School of Engineering"
+                    },
+                    "position": "Teaching Assistant | Neuroengineering",
+                    "startDate": "2020-01-01",
+                    "name": "Johns Hopkins Whiting School of Engineering",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "MedHacks"
+                    },
+                    "position": "Advisory Board",
+                    "startDate": "2018-12-01",
+                    "name": "MedHacks",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-12-01",
+                    "legalEntity": "{\"id\": 1271542, \"name\": \"Johns Hopkins Whiting School of Engineering\", \"uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png\", \"description\": \"Johns Hopkins Whiting School of Engineering is e-learning company.\", \"headcount\": \"unknown\", \"founding_date\": \"1876-01-01\", \"website\": \"https://engineering.jhu.edu/\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/johns-hopkins-whiting-school-of-engineering\", \"linkedin_url\": \"https://linkedin.com/school/johns-hopkins-whiting-school-of-engineering\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"johns-hopkins-whiting-school-of-engineering\", \"tags\": [{\"id\": 2624794, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7597486, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 104356, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 48, \"hc_estimate_90_days\": 44, \"hc_estimate_180_days\": 51, \"hc_estimate_270_days\": 51, \"hc_estimate_365_days\": 50, \"hc_growth_90_days\": \"9.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-4\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png",
+                        "name": "Johns Hopkins Whiting School of Engineering"
+                    },
+                    "position": "Teaching Assistant | Computational Medicine",
+                    "startDate": "2019-09-01",
+                    "name": "Johns Hopkins Whiting School of Engineering",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 1609209, \"name\": \"Brown Advisory\", \"uuid\": \"f8d2861a-8344-ea92-f923-4d5d58f008c7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1464588091/f42vu9knglloefzv2qib.png\", \"description\": \"Brown Advisory is an independent investment management and strategic advisory firm.\", \"headcount\": \"501-1000\", \"founding_date\": \"1993-01-01\", \"website\": \"http://www.brownadvisory.com\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": [503700], \"executive_people_profile_ids\": [1329546, 3309431, 503700], \"cb_permalink\": \"https://www.crunchbase.com/organization/brown-advisory\", \"linkedin_url\": \"https://linkedin.com/company/brown-advisory\", \"twitter\": \"https:/www.twitter.com/brownadvisory\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brown-advisory\", \"tags\": [{\"id\": 4888670, \"legal_entity_uuid\": \"f8d2861a-8344-ea92-f923-4d5d58f008c7\", \"name\": \"Asset Management\", \"category\": \"Industry\"}, {\"id\": 4888671, \"legal_entity_uuid\": \"f8d2861a-8344-ea92-f923-4d5d58f008c7\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4888672, \"legal_entity_uuid\": \"f8d2861a-8344-ea92-f923-4d5d58f008c7\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 4888673, \"legal_entity_uuid\": \"f8d2861a-8344-ea92-f923-4d5d58f008c7\", \"name\": \"Wealth Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 150421, \"legal_entity_uuid\": \"f8d2861a-8344-ea92-f923-4d5d58f008c7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13, \"hc_estimate_90_days\": 13, \"hc_estimate_180_days\": 12, \"hc_estimate_270_days\": 13, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"8.3300000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464588091/f42vu9knglloefzv2qib.png",
+                        "name": "Brown Advisory"
+                    },
+                    "position": "Summer Analyst",
+                    "startDate": "2019-06-01",
+                    "name": "Brown Advisory",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464588091/f42vu9knglloefzv2qib.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-05-01",
+                    "legalEntity": "{\"id\": 1271542, \"name\": \"Johns Hopkins Whiting School of Engineering\", \"uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png\", \"description\": \"Johns Hopkins Whiting School of Engineering is e-learning company.\", \"headcount\": \"unknown\", \"founding_date\": \"1876-01-01\", \"website\": \"https://engineering.jhu.edu/\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/johns-hopkins-whiting-school-of-engineering\", \"linkedin_url\": \"https://linkedin.com/school/johns-hopkins-whiting-school-of-engineering\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"johns-hopkins-whiting-school-of-engineering\", \"tags\": [{\"id\": 2624794, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7597486, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 104356, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 48, \"hc_estimate_90_days\": 44, \"hc_estimate_180_days\": 51, \"hc_estimate_270_days\": 51, \"hc_estimate_365_days\": 50, \"hc_growth_90_days\": \"9.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-4\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png",
+                        "name": "Johns Hopkins Whiting School of Engineering"
+                    },
+                    "position": "Teaching Assistant | Law and the Internet",
+                    "startDate": "2018-12-01",
+                    "name": "Johns Hopkins Whiting School of Engineering",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-05-01",
+                    "legalEntity": "{\"id\": 1271542, \"name\": \"Johns Hopkins Whiting School of Engineering\", \"uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png\", \"description\": \"Johns Hopkins Whiting School of Engineering is e-learning company.\", \"headcount\": \"unknown\", \"founding_date\": \"1876-01-01\", \"website\": \"https://engineering.jhu.edu/\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/johns-hopkins-whiting-school-of-engineering\", \"linkedin_url\": \"https://linkedin.com/school/johns-hopkins-whiting-school-of-engineering\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"johns-hopkins-whiting-school-of-engineering\", \"tags\": [{\"id\": 2624794, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7597486, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 104356, \"legal_entity_uuid\": \"88078ac7-f12c-451c-8ee6-0aea9da4d3cb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 48, \"hc_estimate_90_days\": 44, \"hc_estimate_180_days\": 51, \"hc_estimate_270_days\": 51, \"hc_estimate_365_days\": 50, \"hc_growth_90_days\": \"9.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-4\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png",
+                        "name": "Johns Hopkins Whiting School of Engineering"
+                    },
+                    "position": "Teaching Assistant | Design Studio",
+                    "startDate": "2018-09-01",
+                    "name": "Johns Hopkins Whiting School of Engineering",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/johns-hopkins-whiting-school-of-engineering.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 1620993, \"name\": \"Johns Hopkins Bloomberg School of Public Health\", \"uuid\": \"c98fa14a-bf29-8bbd-7253-be272882322c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fivopydh6ffkifnpaooi\", \"description\": \"Johns Hopkins Bloomberg School of Public Health provides research, education, and practice to find solutions for health problems.\", \"headcount\": \"11-50\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.jhsph.edu\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2046125, 2975195], \"cb_permalink\": \"https://www.crunchbase.com/organization/the-johns-hopkins-bloomberg-school-of-public-health\", \"linkedin_url\": \"https://linkedin.com/company/johns-hopkins-bloomberg-school-of-public-health\", \"twitter\": \"http:/twitter.com/JohnsHopkinsSPH\", \"last_funding_round_date\": \"2022-04-07\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 0, \"company_li_name\": \"johns-hopkins-bloomberg-school-of-public-health\", \"tags\": [{\"id\": 4862361, \"legal_entity_uuid\": \"c98fa14a-bf29-8bbd-7253-be272882322c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4862363, \"legal_entity_uuid\": \"c98fa14a-bf29-8bbd-7253-be272882322c\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 4862362, \"legal_entity_uuid\": \"c98fa14a-bf29-8bbd-7253-be272882322c\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 153856, \"legal_entity_uuid\": \"c98fa14a-bf29-8bbd-7253-be272882322c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 19, \"hc_estimate_90_days\": 19, \"hc_estimate_180_days\": 21, \"hc_estimate_270_days\": 19, \"hc_estimate_365_days\": 20, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-9.519999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-5\"}, \"funding_rounds\": [{\"id\": 141689, \"uuid\": \"b4a723b9-e481-4e9e-9ab0-bfb59bc9bf67\", \"legal_entity_uuid\": \"c98fa14a-bf29-8bbd-7253-be272882322c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-07\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fivopydh6ffkifnpaooi",
+                        "name": "Johns Hopkins Bloomberg School of Public Health"
+                    },
+                    "position": "Undergraduate Researcher-Leung Biochemistry Lab",
+                    "startDate": "2017-09-01",
+                    "name": "Johns Hopkins Bloomberg School of Public Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fivopydh6ffkifnpaooi"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "MedHacks"
+                    },
+                    "position": "President",
+                    "startDate": "2017-10-01",
+                    "name": "MedHacks",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 729085, \"name\": \"United States Patent and Trademark Office (USPTO)\", \"uuid\": \"f4444e65-4abe-1e28-f113-f22efbf611dd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1416027768/tzqlu97zkfyb3rgywyyw.jpg\", \"description\": \"The United States Patent and Trademark Office (USPTO) is the federal agency for granting U.S. patents and registering trademarks.\", \"headcount\": \"10000+\", \"founding_date\": \"1975-01-01\", \"website\": \"http://www.uspto.gov\", \"location\": \"Alexandria\", \"country\": \"USA\", \"region\": \"Virginia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1933774], \"cb_permalink\": \"https://www.crunchbase.com/organization/united-states-patent-and-trademark\", \"linkedin_url\": \"https://linkedin.com/company/uspto\", \"twitter\": \"http:/twitter.com/uspto\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"uspto\", \"tags\": [{\"id\": 1732046, \"legal_entity_uuid\": \"f4444e65-4abe-1e28-f113-f22efbf611dd\", \"name\": \"Association\", \"category\": \"Industry\"}, {\"id\": 1732047, \"legal_entity_uuid\": \"f4444e65-4abe-1e28-f113-f22efbf611dd\", \"name\": \"Intellectual Property\", \"category\": \"Industry\"}, {\"id\": 1732048, \"legal_entity_uuid\": \"f4444e65-4abe-1e28-f113-f22efbf611dd\", \"name\": \"Legal\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 90010, \"legal_entity_uuid\": \"f4444e65-4abe-1e28-f113-f22efbf611dd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 77, \"hc_estimate_90_days\": 74, \"hc_estimate_180_days\": 74, \"hc_estimate_270_days\": 74, \"hc_estimate_365_days\": 72, \"hc_growth_90_days\": \"4.04999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"4.04999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"4.04999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"6.94000000000000039079850466805510222911834716796875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1416027768/tzqlu97zkfyb3rgywyyw.jpg",
+                        "name": "USPTO"
+                    },
+                    "position": "Patent Examination Extern",
+                    "startDate": "2018-05-01",
+                    "name": "USPTO",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1416027768/tzqlu97zkfyb3rgywyyw.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "CytoBloom"
+                    },
+                    "position": "Co-Founder-Biomedical Engineer-and Intellectual Property Lead",
+                    "startDate": "2016-11-01",
+                    "name": "CytoBloom",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-02-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Epicenter Law-PC"
+                    },
+                    "position": "Undergraduate Associate",
+                    "startDate": "2017-07-01",
+                    "name": "Epicenter Law-PC",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "MedHacks"
+                    },
+                    "position": "Logistics Team Lead",
+                    "startDate": "2016-09-01",
+                    "name": "MedHacks",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "MedHacks"
+                    },
+                    "position": "Technology Team Co-Lead",
+                    "startDate": "2016-05-01",
+                    "name": "MedHacks",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 354011, \"name\": \"Stanford School of Medicine\", \"uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/wzmb4mc6tzgsvrg1thec\", \"description\": \"Stanford Medicine improves health through leadership, diversity & collaborative discoveries and innovation in health care & education.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1908-01-01\", \"website\": \"https://www.med.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2849244], \"executive_people_profile_ids\": [2849244], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-school-of-medicine\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university-school-of-medicine\", \"twitter\": \"https:/twitter.com/StanfordMed\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"stanford-university-school-of-medicine\", \"tags\": [{\"id\": 1096620, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"name\": \"Training\", \"category\": \"Industry\"}, {\"id\": 1096615, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1096616, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1096617, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1096618, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1096619, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"name\": \"Non Profit\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 127149, \"legal_entity_uuid\": \"eab0d28e-633b-4898-ad98-c75d44552646\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 280, \"hc_estimate_90_days\": 276, \"hc_estimate_180_days\": 275, \"hc_estimate_270_days\": 270, \"hc_estimate_365_days\": 272, \"hc_growth_90_days\": \"1.4499999999999999555910790149937383830547332763671875\", \"hc_growth_180_days\": \"1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_270_days\": \"3.70000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"2.939999999999999946709294817992486059665679931640625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wzmb4mc6tzgsvrg1thec",
+                        "name": "Stanford University School of Medicine"
+                    },
+                    "position": "Research Assistant-Herschlag Biochemistry Lab",
+                    "startDate": "2015-06-01",
+                    "name": "Stanford University School of Medicine",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wzmb4mc6tzgsvrg1thec"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-08-01",
+                    "legalEntity": "{\"id\": 1671523, \"name\": \"University of California, San Francisco\", \"uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ucsf.png\", \"description\": \"Director of the Lab for Advanced Cytometry (LAC) and the Sony Biotechnology Center at UCSF in the Department of Laboratory Medicine\", \"headcount\": \"10000+\", \"founding_date\": \"1873-01-01\", \"website\": \"http://www.ucsf.edu\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1152970], \"executive_people_profile_ids\": [1676920, 937627, 3302673, 1152952, 2128045, 1940075, 4154613, 997772, 2354852, 104712, 541896, 1668178, 2275507, 2145447, 3159377, 2023040, 1949411, 1949994, 238034, 318957], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-san-francisco\", \"linkedin_url\": \"https://linkedin.com/company/ucsf\", \"twitter\": \"http:/twitter.com/ucsf\", \"last_funding_round_date\": \"2023-11-21\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 40554052, \"company_li_name\": \"ucsf\", \"tags\": [{\"id\": 6408853, \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Pharmaceutical\", \"category\": \"Industry\"}, {\"id\": 6408852, \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 6408851, \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6408850, \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 6408849, \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Association\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 156710, \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 288, \"hc_estimate_90_days\": 277, \"hc_estimate_180_days\": 286, \"hc_estimate_270_days\": 282, \"hc_estimate_365_days\": 282, \"hc_growth_90_days\": \"3.970000000000000195399252334027551114559173583984375\", \"hc_growth_180_days\": \"0.6999999999999999555910790149937383830547332763671875\", \"hc_growth_270_days\": \"2.12999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"2.12999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 490931, \"uuid\": \"99b18a3f-319c-48fa-9458-ba9647486e6d\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-11-21\", \"investors\": null}, {\"id\": 490930, \"uuid\": \"759130db-d339-4c4c-9c6f-923f4459678d\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-04\", \"investors\": null}, {\"id\": 396213, \"uuid\": \"1439986f-ebda-4dc6-b0fa-c31a13613046\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-21\", \"investors\": null}, {\"id\": 396212, \"uuid\": \"8d061ae1-70c3-4f9b-bc61-0de8ab3b052b\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 904052, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 396211, \"uuid\": \"4af5f82d-ad7c-4f4d-85c3-c817d2f47e5e\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-27\", \"investors\": null}, {\"id\": 396210, \"uuid\": \"618c7162-5014-42a9-83a5-356aae5be33a\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-09-17\", \"investors\": null}, {\"id\": 396209, \"uuid\": \"35268d0f-ac61-f310-5079-21217e74c8a6\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-11-17\", \"investors\": null}, {\"id\": 396208, \"uuid\": \"13911347-213d-a756-b9f6-3558abf2bd2b\", \"legal_entity_uuid\": \"a38a266b-7fbb-87c0-84a4-c0f07a794300\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9450000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-12-09\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ucsf.png",
+                        "name": "UCSF"
+                    },
+                    "position": "Summer Intern in General Surgery",
+                    "startDate": "2014-07-01",
+                    "name": "UCSF",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ucsf.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "High School",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 745383, \"name\": \"Castilleja School\", \"uuid\": \"124a3e3d-929d-4b3f-f76d-169c712d1a5b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ytynlwszjnxmfsdalovs\", \"description\": \"Castilleja School is a school.\", \"headcount\": \"101-250\", \"founding_date\": \"1907-01-01\", \"website\": \"http://www.castilleja.org\", \"location\": \"Palo Alto\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/castilleja-school\", \"linkedin_url\": \"https://linkedin.com/company/castilleja-school\", \"twitter\": \"https:/www.twitter.com/castillejanews\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"castilleja-school\", \"tags\": [{\"id\": 1660429, \"legal_entity_uuid\": \"124a3e3d-929d-4b3f-f76d-169c712d1a5b\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 76452, \"legal_entity_uuid\": \"124a3e3d-929d-4b3f-f76d-169c712d1a5b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4, \"hc_estimate_90_days\": 4, \"hc_estimate_180_days\": 4, \"hc_estimate_270_days\": 4, \"hc_estimate_365_days\": 4, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ytynlwszjnxmfsdalovs",
+                        "name": "Castilleja School"
+                    },
+                    "name": "Castilleja School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ytynlwszjnxmfsdalovs"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Biomedical Engineering",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1429605, \"name\": \"The Johns Hopkins University\", \"uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/nt47o0znw6xoginr2bgr\", \"description\": \"Johns Hopkins University is a research university that enrolls full and part-time students throughout nine academic divisions.\", \"headcount\": \"10000+\", \"founding_date\": \"1876-02-22\", \"website\": \"https://www.jhu.edu\", \"location\": \"Baltimore\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [198973, 207130, 728518, 796596, 1171261, 2075874, 2132959, 98486, 1587692, 1152099, 2680344, 1331046, 1434045, 1696816, 766768, 729433, 1072686, 1888027, 631395, 500952, 1887802, 114169, 1509966, 3077573, 2271729, 768023, 769531], \"cb_permalink\": \"https://www.crunchbase.com/organization/johns-hopkins-university\", \"linkedin_url\": \"https://linkedin.com/school/johns-hopkins-university\", \"twitter\": \"https:/twitter.com/johnshopkins\", \"last_funding_round_date\": \"2023-05-11\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 186500000, \"company_li_name\": \"johns-hopkins-university\", \"tags\": [{\"id\": 1793973, \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1793971, \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1793972, \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 33799, \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 227, \"hc_estimate_90_days\": 224, \"hc_estimate_180_days\": 246, \"hc_estimate_270_days\": 254, \"hc_estimate_365_days\": 263, \"hc_growth_90_days\": \"1.3400000000000000799360577730112709105014801025390625\", \"hc_growth_180_days\": \"-7.71999999999999975131004248396493494510650634765625\", \"hc_growth_270_days\": \"-10.6300000000000007815970093361102044582366943359375\", \"hc_growth_365_days\": \"-13.6899999999999995026200849679298698902130126953125\"}, \"funding_rounds\": [{\"id\": 113250, \"uuid\": \"72557e7f-d4af-44bd-ad2c-de9898fd918d\", \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-11\", \"investors\": null}, {\"id\": 489686, \"uuid\": \"d2d85adb-ce53-45e4-a476-5cadddb9e26e\", \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 113249, \"uuid\": \"cc19913a-1cda-46c2-9389-5fbb93001f07\", \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-21\", \"investors\": null}, {\"id\": 113248, \"uuid\": \"b1cc1eb8-2ba8-454f-ae23-d88847422256\", \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-08\", \"investors\": null}, {\"id\": 113247, \"uuid\": \"944badd1-2a00-4d07-a5bf-92c5588bc402\", \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 65000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-11-22\", \"investors\": null}, {\"id\": 113246, \"uuid\": \"5616d66d-e331-d5c3-65d6-510825f7fdc5\", \"legal_entity_uuid\": \"882b5335-962f-ea61-69f3-90f81f534e51\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/nt47o0znw6xoginr2bgr",
+                        "name": "The Johns Hopkins University"
+                    },
+                    "name": "The Johns Hopkins University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/nt47o0znw6xoginr2bgr"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "214"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,99 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Curr. exploring an idea in the journaling space. Trying to develop a way for people to text a phone number spontaneously throughout the day to add to their daily journals. Passion project that stems from my personal habit of journaling.",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "varoon.kodithala@vp.contrary.com",
+                "firstName": "Varoon",
+                "greeting": "Let's connect!",
+                "greetingEmoji": "\ud83e\udd20",
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "607",
+                "intro": "I'm a highly ambitious builder who's currently exploring automations in the transportation industry. Have been building and scaling products for the past four years and taught myself software development earlier this year + been going ham with it. Really passionate about startups exploring \"reality-warping\" ideas (as a fellow VP worded it on one of our onboarding calls). This is most SaaS solutions in the EdTech, healthcare, logistics, and productivity spaces.",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-04T13:42:38",
+                "lastName": "Kodithala",
+                "linkedinName": "vkodithala",
+                "linkedinUrl": "https://linkedin.com/in/vkodithala/",
+                "location": "Atlanta, GA",
+                "lookingFor": "Grow as an entrepreneur, investor, and human being. Contrary is a group of highly talented people that I'm looking to connect with (and hopefully absorb some of the wisdom that you all very clearly have).",
+                "meetWithBlurb": null,
+                "podId": 26,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-607-VSK-Headshot-Professional.jpg",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U060CL55A0J",
+                "twitterHandle": "varoonkodithala",
+                "twitterUrl": "https://twitter.com/varoonkodithala/",
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "607"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

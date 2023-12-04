@@ -1,0 +1,338 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "249",
+                        "startDate": null,
+                        "universityId": 13
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "250",
+                        "startDate": null,
+                        "universityId": 171
+                    }
+                ],
+                "email": "ladrishik@gmail.com",
+                "firstName": "Rishik",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "New York City",
+                "id": "139",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-04-25T01:05:54",
+                "lastName": "Lad",
+                "linkedinName": "rlad",
+                "linkedinUrl": "https://linkedin.com/in/rlad/",
+                "location": "Hanover, NH",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 6,
+                "prismUuid": "1e98390b-c162-4e4a-a0cd-ca161eb533c0",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp75voOIDvHH5XKoLfZFR8k0aFSLu6CiM0z0j4E=s96-c",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "rishik@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4534",
+                        "organizationId": 45507,
+                        "position": "Founder",
+                        "startDate": "2022-11-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3415",
+                        "organizationId": 47,
+                        "position": "Engineering Fellow",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3416",
+                        "organizationId": 998,
+                        "position": "ML Engineer Intern",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3417",
+                        "organizationId": 2705,
+                        "position": "Research Assistant",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "863",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2021-11-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "864",
+                        "organizationId": 323,
+                        "position": "Incoming Software Engineer Intern",
+                        "startDate": "2021-10-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "865",
+                        "organizationId": 648,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "4454",
+                        "organizationId": 2805,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "866",
+                        "organizationId": 649,
+                        "position": "Venture Capital Fellow",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "867",
+                        "organizationId": 650,
+                        "position": "Private Equity Intern",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "868",
+                        "organizationId": 651,
+                        "position": "Campus Partner",
+                        "startDate": "2020-02-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "869",
+                        "organizationId": 652,
+                        "position": "Summer Intern",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2019-04-01",
+                        "id": "870",
+                        "organizationId": 653,
+                        "position": "Co-Founder",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2017-09-01",
+                        "id": "871",
+                        "organizationId": 654,
+                        "position": "Founder",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4712",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/elythea.png",
+                        "name": "Elythea (YC S23)"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Elythea (YC S23)",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/elythea.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 359071, \"name\": \"Geisel School of Medicine at Dartmouth\", \"uuid\": \"83c9be62-a89f-ff1e-17d9-8fa82aea5853\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/http://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Geisel_School_of_Medicine_logo.svg/338px-Geisel_School_of_Medicine_logo.svg.png\", \"description\": \"The medical school of Dartmouth College\", \"headcount\": \"unknown\", \"founding_date\": \"2014-01-01\", \"website\": \"http://geiselmed.dartmouth.edu\", \"location\": \"Hanover\", \"country\": \"USA\", \"region\": \"New Hampshire\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2708682], \"cb_permalink\": \"https://www.crunchbase.com/organization/geisel-school-of-medicine\", \"linkedin_url\": \"https://linkedin.com/company/dartmouth-college\", \"twitter\": \"https:/www.twitter.com/dartmouth\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"dartmouth-college\", \"tags\": [{\"id\": 1793111, \"legal_entity_uuid\": \"83c9be62-a89f-ff1e-17d9-8fa82aea5853\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 146945, \"legal_entity_uuid\": \"83c9be62-a89f-ff1e-17d9-8fa82aea5853\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 87, \"hc_estimate_90_days\": 89, \"hc_estimate_180_days\": 107, \"hc_estimate_270_days\": 100, \"hc_estimate_365_days\": 100, \"hc_growth_90_days\": \"-2.25\", \"hc_growth_180_days\": \"-18.690000000000001278976924368180334568023681640625\", \"hc_growth_270_days\": \"-13\", \"hc_growth_365_days\": \"-13\"}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/http://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Geisel_School_of_Medicine_logo.svg/338px-Geisel_School_of_Medicine_logo.svg.png",
+                        "name": "Dartmouth College"
+                    },
+                    "name": "Dartmouth College",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/http://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Geisel_School_of_Medicine_logo.svg/338px-Geisel_School_of_Medicine_logo.svg.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "S23",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2144093, \"name\": \"Y Combinator\", \"uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/y-combinator.png\", \"description\": \"Y Combinator is a startup accelerator that invests in a wide range of startups.\", \"headcount\": \"101-250\", \"founding_date\": \"2005-03-01\", \"website\": \"http://www.ycombinator.com\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1385857, 610494, 399896, 1165060, 2145165, 604944, 2821425, 1037261, 2196909], \"cb_permalink\": \"https://www.crunchbase.com/organization/y-combinator\", \"linkedin_url\": \"https://linkedin.com/school/y-combinator\", \"twitter\": \"http:/www.twitter.com/ycombinator\", \"last_funding_round_date\": \"2020-10-25\", \"last_funding_round_name\": \"Funding Round\", \"total_funding_amount\": 0, \"company_li_name\": \"y-combinator\", \"tags\": [{\"id\": 6368282, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6368283, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6368284, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 56783, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 114, \"hc_estimate_90_days\": 121, \"hc_estimate_180_days\": 108, \"hc_estimate_270_days\": 112, \"hc_estimate_365_days\": 107, \"hc_growth_90_days\": \"-5.79000000000000003552713678800500929355621337890625\", \"hc_growth_180_days\": \"5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"1.79000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"6.54000000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 375181, \"uuid\": \"f03f98b4-0305-4579-baf8-77a40c73d723\", \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-25\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/y-combinator.png",
+                        "name": "Y Combinator"
+                    },
+                    "name": "Y Combinator",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/y-combinator.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "64",
+                    "value": "Indian"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "67",
+                    "value": "Immigrants"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "139"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

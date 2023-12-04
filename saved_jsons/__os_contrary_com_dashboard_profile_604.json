@@ -1,0 +1,117 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I can help with writing and editing memos, articles, etc. and giving feedback on UIUX! I'm also a casual architecture enthusiast so I might be able to help there as well.",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "ethan.wei@vp.contrary.com",
+                "firstName": "Ethan",
+                "greeting": "hello!",
+                "greetingEmoji": "\ud83e\udee0",
+                "hqPosition": null,
+                "hubCity": "Boston",
+                "id": "604",
+                "intro": "I'm a VP at Brown studying CS and Design Engineering. Working on a marketplace for 1:1 project mentorship and exploring UIUX and product design. ",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-12-04T06:00:46",
+                "lastName": "Wei",
+                "linkedinName": "ethancwei",
+                "linkedinUrl": "https://linkedin.com/in/ethancwei/",
+                "location": "Providence, Rhode Island",
+                "lookingFor": "absorb as much of the VC ecosystem as possible. ",
+                "meetWithBlurb": null,
+                "podId": 2,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-604-Screenshot%202023-10-13%20at%209.55.14%20AM.png",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "ethancwei@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U060E7E8YGL",
+                "twitterHandle": "@ethanweii",
+                "twitterUrl": "https://twitter.com/@ethanweii/",
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "62",
+                    "value": "Asian American"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "29",
+                    "value": "Web3 / Crypto"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "604"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

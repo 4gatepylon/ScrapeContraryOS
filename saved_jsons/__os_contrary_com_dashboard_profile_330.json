@@ -1,0 +1,123 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Research Engineer at DeepMind",
+                "educationExperiences": [
+                    {
+                        "degree": "B.S. Computer Science",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2018-01-01",
+                        "id": "616",
+                        "startDate": "2014-01-01",
+                        "universityId": 193
+                    }
+                ],
+                "email": "yixin1996@gmail.com",
+                "firstName": "Yixin",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "330",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Lin",
+                "linkedinName": "linyixin",
+                "linkedinUrl": "https://linkedin.com/in/linyixin/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "5274db43-c456-450a-9316-f58f2ad372a8",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/330_Yixin_Lin.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4499",
+                        "organizationId": 994,
+                        "position": "Research Engineer",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2158",
+                        "organizationId": 193,
+                        "position": "Research Engineer",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4000",
+                        "organizationId": 2945,
+                        "position": "Research Engineer",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4069",
+                        "organizationId": 29,
+                        "position": "Research Engineer",
+                        "startDate": "2018-09-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1416891, \"name\": \"DeepMind\", \"uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/googledeepmind.png\", \"description\": \"DeepMind aims to research and build safe artificial intelligence system to solve intelligence and advance science and humanity.\", \"headcount\": \"501-1000\", \"founding_date\": \"2010-01-01\", \"website\": \"https://deepmind.com\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [563412, 1968106], \"executive_people_profile_ids\": [2437311, 1809865, 2065039, 933783, 2155725, 3833505, 273182, 3134456, 2939829, 1818585], \"cb_permalink\": \"https://www.crunchbase.com/organization/deepmind\", \"linkedin_url\": \"https://linkedin.com/company/googledeepmind\", \"twitter\": \"https:/twitter.com/deepmindai\", \"last_funding_round_date\": \"2011-02-01\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 0, \"company_li_name\": \"googledeepmind\", \"tags\": [{\"id\": 1761273, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1761274, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1761275, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 7402397, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 24380, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 491, \"hc_estimate_90_days\": 474, \"hc_estimate_180_days\": 413, \"hc_estimate_270_days\": 378, \"hc_estimate_365_days\": 383, \"hc_growth_90_days\": \"3.589999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"18.8900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"29.8900000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"28.199999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 92127, \"uuid\": \"6420530d-7a28-4234-a746-05e93ece5eee\", \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-02-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/googledeepmind.png",
+                        "name": "DeepMind"
+                    },
+                    "position": "Research Engineer",
+                    "startDate": "2023-01-01",
+                    "name": "DeepMind",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/googledeepmind.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "B.S. Computer Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 2185779, \"name\": \"Duke University\", \"uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/duke-university.png\", \"description\": \"Duke University is a private research university providing undergraduate and postgraduate education in medicine and other disciplines.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1838-01-01\", \"website\": \"http://www.duke.edu\", \"location\": \"Durham\", \"country\": \"USA\", \"region\": \"North Carolina\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1198698, 1475497, 794675, 3087926, 632092, 3211876, 3825137, 2843250, 29081, 876903], \"cb_permalink\": \"https://www.crunchbase.com/organization/duke-university\", \"linkedin_url\": \"https://linkedin.com/school/duke-university\", \"twitter\": \"http:/twitter.com/DukeU\", \"last_funding_round_date\": \"2023-02-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 71154597, \"company_li_name\": \"duke-university\", \"tags\": [{\"id\": 6381395, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 6381394, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6381393, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6381392, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"EdTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 58108, \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 309, \"hc_estimate_90_days\": 302, \"hc_estimate_180_days\": 348, \"hc_estimate_270_days\": 354, \"hc_estimate_365_days\": 369, \"hc_growth_90_days\": \"2.319999999999999840127884453977458178997039794921875\", \"hc_growth_180_days\": \"-11.21000000000000085265128291212022304534912109375\", \"hc_growth_270_days\": \"-12.71000000000000085265128291212022304534912109375\", \"hc_growth_365_days\": \"-16.260000000000001563194018672220408916473388671875\"}, \"funding_rounds\": [{\"id\": 180609, \"uuid\": \"f649ecbe-156c-4cc5-9265-7a7315e43f74\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 109845, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-02-17\", \"investors\": null}, {\"id\": 180608, \"uuid\": \"393c3bbf-a88e-4e33-aeb5-49a393426472\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-19\", \"investors\": null}, {\"id\": 180607, \"uuid\": \"128512f4-2a39-4cae-80a5-acd1c26b125f\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 496881, \"uuid\": \"14a38ed0-cf88-4e83-89e5-2016e20e0da5\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 180606, \"uuid\": \"4c4e7aff-b211-4497-a7bc-5fb13a38f007\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-03-05\", \"investors\": null}, {\"id\": 496880, \"uuid\": \"2ffa45bd-7610-4005-9c9d-e0be3af6e8cf\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1294752, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 180605, \"uuid\": \"38ef6507-fc3b-8c25-1c04-493d28f5fbf9\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-15\", \"investors\": null}, {\"id\": 180604, \"uuid\": \"a12d7cb1-c380-0826-8abf-1ffa26955835\", \"legal_entity_uuid\": \"208fca08-b131-9527-1033-4c433760531a\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 8700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-12\", \"investors\": null}]}",
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/duke-university.png",
+                        "name": "Duke University"
+                    },
+                    "name": "Duke University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/duke-university.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "330"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

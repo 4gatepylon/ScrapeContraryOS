@@ -1,0 +1,81 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "loganankenbrandt@gmail.com",
+                "firstName": "Logan",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "519",
+                "intro": null,
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-04-20T20:10:30",
+                "lastName": "Ankenbrandt",
+                "linkedinName": null,
+                "linkedinUrl": null,
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AGNmyxalvX8NOCMibqXeAm_VdOLgGJHgKPg4G9X-rxI=s96-c",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "36",
+                    "value": "Ed Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "519"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

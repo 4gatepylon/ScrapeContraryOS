@@ -1,0 +1,440 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Things I love: going to F45, watching sports, cross-stitching, discussing existentialist philosophy, keeping a daily journal, curating Spotify playlists, eating McDonald\u2019s, and sleeping. ",
+                "currentRole": "Mem | Mayfield Fellow @ Stanford",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2022-01-01",
+                        "id": "114",
+                        "startDate": "2017-01-01",
+                        "universityId": 1
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "High School Diploma",
+                        "endDate": "2017-01-01",
+                        "id": "115",
+                        "startDate": "2013-01-01",
+                        "universityId": 92
+                    }
+                ],
+                "email": "alexotsai@gmail.com",
+                "firstName": "Alex",
+                "greeting": "Hi!",
+                "greetingEmoji": "\ud83e\udef6",
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "68",
+                "intro": "I'm Alex, former VP @ Stanford! I graduated this past June and am now working at Mem (get.mem.ai) and living in Russian Hill, SF!",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-01-12T23:38:28",
+                "lastName": "Tsai",
+                "linkedinName": "aotsai",
+                "linkedinUrl": "https://linkedin.com/in/aotsai/",
+                "location": "Russian Hill, SF",
+                "lookingFor": "Making new friends!!",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "7f54a8f2-e3db-49a2-85aa-8f4835e944ef",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/68_Alex_Tsai.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "alex@mem.ai",
+                "slackUrl": null,
+                "twitterHandle": "alexotsai",
+                "twitterUrl": "https://twitter.com/alexotsai/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4516",
+                        "organizationId": 405003,
+                        "position": "Chief of Staff",
+                        "startDate": "2023-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "409",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2020-10-01"
+                    },
+                    {
+                        "endDate": "2021-09-01",
+                        "id": "411",
+                        "organizationId": 332,
+                        "position": "Product Operations",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "408",
+                        "organizationId": 330,
+                        "position": "Head Of Fundraising",
+                        "startDate": "2020-04-01"
+                    },
+                    {
+                        "endDate": "2020-11-01",
+                        "id": "412",
+                        "organizationId": 304,
+                        "position": "Mayfield Fellow",
+                        "startDate": "2020-03-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "413",
+                        "organizationId": 333,
+                        "position": "Associate-Office of the CEO",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "407",
+                        "organizationId": 329,
+                        "position": "Senior Staff Writer",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2018-09-01",
+                        "id": "414",
+                        "organizationId": 334,
+                        "position": "Software Engineering Intern-Artificial Intelligence Team",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "410",
+                        "organizationId": 331,
+                        "position": "Student Athlete",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2016-09-01",
+                        "id": "415",
+                        "organizationId": 335,
+                        "position": "Research Intern-Computational Neurobiology Laboratory",
+                        "startDate": "2016-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1092578, \"name\": \"Mem\", \"uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva\", \"description\": \"The self-organizing workspace\", \"headcount\": \"11-50\", \"founding_date\": \"2021-04-06\", \"website\": \"https://mem.ai\", \"location\": \"Los Altos Hills\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1896237, 1780156], \"executive_people_profile_ids\": [1780156, 1896237], \"cb_permalink\": \"https://www.crunchbase.com/organization/mem-labs\", \"linkedin_url\": \"https://linkedin.com/company/memdotai\", \"twitter\": \"https:/twitter.com/memdotai\", \"last_funding_round_date\": \"2022-11-10\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 29100000, \"company_li_name\": \"memdotai\", \"tags\": [{\"id\": 1130493, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1130494, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 194276, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 9, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-30.769999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"28.57000000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 17415, \"uuid\": \"b8784203-a494-4ea3-bd3d-9accbba2ecfa\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 23500000, \"post_money_valuation_usd\": 110000000, \"announced_date\": \"2022-11-10\", \"investors\": null}, {\"id\": 17414, \"uuid\": \"17206262-9b8e-476a-8956-36a72ced3cd7\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-01\", \"investors\": null}, {\"id\": 17413, \"uuid\": \"da30608a-d750-4379-a0da-ffd0996bc81c\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 5600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-06\", \"investors\": null}, {\"id\": 17412, \"uuid\": \"2140f9e2-158e-4960-8ab5-640ff31d61aa\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva",
+                        "name": "Mem"
+                    },
+                    "position": "Chief of Staff",
+                    "startDate": "2023-04-01",
+                    "name": "Mem",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1092578, \"name\": \"Mem\", \"uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva\", \"description\": \"The self-organizing workspace\", \"headcount\": \"11-50\", \"founding_date\": \"2021-04-06\", \"website\": \"https://mem.ai\", \"location\": \"Los Altos Hills\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1896237, 1780156], \"executive_people_profile_ids\": [1780156, 1896237], \"cb_permalink\": \"https://www.crunchbase.com/organization/mem-labs\", \"linkedin_url\": \"https://linkedin.com/company/memdotai\", \"twitter\": \"https:/twitter.com/memdotai\", \"last_funding_round_date\": \"2022-11-10\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 29100000, \"company_li_name\": \"memdotai\", \"tags\": [{\"id\": 1130493, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1130494, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 194276, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 9, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-30.769999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"28.57000000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 17415, \"uuid\": \"b8784203-a494-4ea3-bd3d-9accbba2ecfa\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 23500000, \"post_money_valuation_usd\": 110000000, \"announced_date\": \"2022-11-10\", \"investors\": null}, {\"id\": 17414, \"uuid\": \"17206262-9b8e-476a-8956-36a72ced3cd7\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-01\", \"investors\": null}, {\"id\": 17413, \"uuid\": \"da30608a-d750-4379-a0da-ffd0996bc81c\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 5600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-06\", \"investors\": null}, {\"id\": 17412, \"uuid\": \"2140f9e2-158e-4960-8ab5-640ff31d61aa\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva",
+                        "name": "Mem Labs"
+                    },
+                    "position": "Growth  Community",
+                    "startDate": "2022-09-01",
+                    "name": "Mem Labs",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-farmlink-project.png",
+                        "name": "The Farmlink Project"
+                    },
+                    "position": "Head of Fundraising",
+                    "startDate": "2020-04-01",
+                    "name": "The Farmlink Project",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-farmlink-project.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-farmlink-project.png",
+                        "name": "The Farmlink Project"
+                    },
+                    "position": "Founding Team Member",
+                    "startDate": "2020-04-01",
+                    "name": "The Farmlink Project",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-farmlink-project.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": "{\"id\": 1092578, \"name\": \"Mem\", \"uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva\", \"description\": \"The self-organizing workspace\", \"headcount\": \"11-50\", \"founding_date\": \"2021-04-06\", \"website\": \"https://mem.ai\", \"location\": \"Los Altos Hills\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1896237, 1780156], \"executive_people_profile_ids\": [1780156, 1896237], \"cb_permalink\": \"https://www.crunchbase.com/organization/mem-labs\", \"linkedin_url\": \"https://linkedin.com/company/memdotai\", \"twitter\": \"https:/twitter.com/memdotai\", \"last_funding_round_date\": \"2022-11-10\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 29100000, \"company_li_name\": \"memdotai\", \"tags\": [{\"id\": 1130493, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1130494, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 194276, \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 9, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-30.769999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"28.57000000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 17415, \"uuid\": \"b8784203-a494-4ea3-bd3d-9accbba2ecfa\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 23500000, \"post_money_valuation_usd\": 110000000, \"announced_date\": \"2022-11-10\", \"investors\": null}, {\"id\": 17414, \"uuid\": \"17206262-9b8e-476a-8956-36a72ced3cd7\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-01\", \"investors\": null}, {\"id\": 17413, \"uuid\": \"da30608a-d750-4379-a0da-ffd0996bc81c\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 5600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-06\", \"investors\": null}, {\"id\": 17412, \"uuid\": \"2140f9e2-158e-4960-8ab5-640ff31d61aa\", \"legal_entity_uuid\": \"d3ea1a1b-d78e-49f1-9e61-d8c4c403a141\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva",
+                        "name": "Mem Labs"
+                    },
+                    "position": "Product Operations",
+                    "startDate": "2020-09-01",
+                    "name": "Mem Labs",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xu2z4f52ogmyunx7tvva"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-11-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Stanford Technology Ventures Program (STVP)"
+                    },
+                    "position": "Mayfield Fellow",
+                    "startDate": "2020-03-01",
+                    "name": "Stanford Technology Ventures Program (STVP)",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/mem-labs.png",
+                        "name": "Mem Labs"
+                    },
+                    "position": "Product Engineering Intern",
+                    "startDate": "2020-06-01",
+                    "name": "Mem Labs",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/mem-labs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 134107, \"name\": \"Rent the Runway\", \"uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1475675746/ipx2to9dztqj5gdaccq6.jpg\", \"description\": \"Rent the Runway is an online e-commerce website that allows women to rent designer apparel and accessories.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2009-01-01\", \"website\": \"http://www.renttherunway.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [607553, 1516716], \"executive_people_profile_ids\": [311529, 2220212, 1480932, 2270886, 2174382, 607553, 3117516, 633201, 383162, 785365, 2324726, 1403763, 2443327, 1840727, 1944130, 1027669, 480492, 729335, 1296066, 1516716, 494059, 978833, 975224, 3109965, 2745390, 3278054], \"cb_permalink\": \"https://www.crunchbase.com/organization/rent-the-runway\", \"linkedin_url\": \"https://linkedin.com/company/rent-the-runway\", \"twitter\": \"http:/twitter.com/RenttheRunway\", \"last_funding_round_date\": \"2020-06-17\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 526149985, \"company_li_name\": \"rent-the-runway\", \"tags\": [{\"id\": 6425408, \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Consumer Goods\", \"category\": \"Industry\"}, {\"id\": 6425409, \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6425410, \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Fashion\", \"category\": \"Industry\"}, {\"id\": 6425411, \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Retail\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4326, \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 63, \"hc_estimate_90_days\": 63, \"hc_estimate_180_days\": 56, \"hc_estimate_270_days\": 58, \"hc_estimate_365_days\": 63, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"12.5\", \"hc_growth_270_days\": \"8.6199999999999992184029906638897955417633056640625\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 374727, \"uuid\": \"c38d2f79-5fd3-452c-8f10-a94a354f2371\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2020-06-17\", \"investors\": null}, {\"id\": 374726, \"uuid\": \"294a9d09-1f90-42e9-a8a6-506d85506a09\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2019-04-01\", \"investors\": null}, {\"id\": 374725, \"uuid\": \"57b9ddfa-702c-47f3-9421-128a6f91ab45\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 125000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2019-03-21\", \"investors\": null}, {\"id\": 374724, \"uuid\": \"2e10755f-4e5b-4edd-8daa-c616a7656b98\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 800000000, \"announced_date\": \"2018-09-01\", \"investors\": null}, {\"id\": 374723, \"uuid\": \"b8b4be2d-28d3-498e-a8c3-fbf4e1249bca\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 800000000, \"announced_date\": \"2018-08-02\", \"investors\": null}, {\"id\": 374722, \"uuid\": \"9f7406f5-c03d-42a4-a453-d0ac20e29a53\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": 800000000, \"announced_date\": \"2018-03-09\", \"investors\": null}, {\"id\": 374721, \"uuid\": \"9e72d0b0-ccdb-4f56-a0bb-75720423b9aa\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-04-25\", \"investors\": null}, {\"id\": 374720, \"uuid\": \"96294f42-f411-e6ab-da26-85c8efc60faf\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 60000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-12-27\", \"investors\": null}, {\"id\": 374719, \"uuid\": \"666fcbbd-3aed-e0f6-49ef-469658a7aabf\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 60000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-12-19\", \"investors\": null}, {\"id\": 374718, \"uuid\": \"29c459f6-0308-cf4a-7332-03506a9c52ad\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 24399985, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-03-20\", \"investors\": null}, {\"id\": 374717, \"uuid\": \"c7982a65-b3e4-ce36-4f86-43107d9b3f0f\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-05-23\", \"investors\": null}, {\"id\": 374716, \"uuid\": \"bbdca227-911b-3810-4e1e-46b7358fc553\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-02-25\", \"investors\": null}, {\"id\": 374715, \"uuid\": \"7ac1b2cf-ed78-6d3d-1cc9-98254c4f974e\", \"legal_entity_uuid\": \"b0e99615-82f6-d22e-e29b-70ea22613fb5\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-07-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1475675746/ipx2to9dztqj5gdaccq6.jpg",
+                        "name": "Rent The Runway"
+                    },
+                    "position": "Associate-Office of the CEO",
+                    "startDate": "2019-06-01",
+                    "name": "Rent The Runway",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1475675746/ipx2to9dztqj5gdaccq6.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-09-01",
+                    "legalEntity": "{\"id\": 422572, \"name\": \"Aira\", \"uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/eiryinbjrfwcoqzq8sy1\", \"description\": \"Aira provides tech-enabled services for the 300 million visually impaired people around the globe.\", \"headcount\": \"101-250\", \"founding_date\": \"2014-01-01\", \"website\": \"https://aira.io\", \"location\": \"La Jolla\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [82498, 886579, 2392469, 2284137], \"executive_people_profile_ids\": [82498, 886579, 2505887, 2392469, 739703, 1482372, 1825582, 1670137, 2284137, 476021, 1327613, 2124614], \"cb_permalink\": \"https://www.crunchbase.com/organization/aira\", \"linkedin_url\": \"https://linkedin.com/company/airaio\", \"twitter\": \"https:/twitter.com/airaio\", \"last_funding_round_date\": \"2018-12-21\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 35565000, \"company_li_name\": \"airaio\", \"tags\": [{\"id\": 6202614, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Assistive Technology\", \"category\": \"Industry\"}, {\"id\": 6202615, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Augmented Reality\", \"category\": \"Industry\"}, {\"id\": 6202616, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Computer Vision\", \"category\": \"Industry\"}, {\"id\": 6202617, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6202618, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Internet of Things\", \"category\": \"Industry\"}, {\"id\": 6202619, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Social Impact\", \"category\": \"Industry\"}, {\"id\": 6202620, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 136587, \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 445468, \"uuid\": \"532a382d-807c-4323-ae0d-983d79f657ab\", \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-12-21\", \"investors\": null}, {\"id\": 445467, \"uuid\": \"ba3f5bf4-f2ff-46b3-8b5b-529d70c66ab6\", \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 225000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-10\", \"investors\": null}, {\"id\": 445466, \"uuid\": \"49f0c5f6-2cf1-a632-d8ef-67739cd16659\", \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-16\", \"investors\": null}, {\"id\": 445465, \"uuid\": \"37d72c63-b0c7-c048-c029-a8fdb3484293\", \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 2550000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-02\", \"investors\": null}, {\"id\": 445464, \"uuid\": \"a826647b-ec11-be9a-7134-f7b17099f24f\", \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 790000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-10-29\", \"investors\": null}, {\"id\": 445463, \"uuid\": \"58a7b6b6-5ade-b7b8-7287-37dd48c4a2dd\", \"legal_entity_uuid\": \"99083005-9388-f60c-67a8-2949c0cc0995\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-05-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/eiryinbjrfwcoqzq8sy1",
+                        "name": "Aira"
+                    },
+                    "position": "Software Engineering Intern-Artificial Intelligence Team",
+                    "startDate": "2018-06-01",
+                    "name": "Aira",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/eiryinbjrfwcoqzq8sy1"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-09-01",
+                    "legalEntity": "{\"id\": 758278, \"name\": \"Salk Institute for Biological Studies\", \"uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xtpwfkb6kwkp0hfqh8o3\", \"description\": \"Salk Institute for Biological Studies conducts research on molecular biology and genetics, neurosciences, and plant biology.\", \"headcount\": \"251-500\", \"founding_date\": \"1960-01-01\", \"website\": \"http://www.salk.edu/\", \"location\": \"La Jolla\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1587692, 768748, 1388547, 2076745], \"cb_permalink\": \"https://www.crunchbase.com/organization/salk-institute-for-biological-studies\", \"linkedin_url\": \"https://linkedin.com/company/salk-institute-for-biological-studies\", \"twitter\": \"https:/twitter.com/salkinstitute\", \"last_funding_round_date\": \"2019-10-23\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 77800000, \"company_li_name\": \"salk-institute-for-biological-studies\", \"tags\": [{\"id\": 4924915, \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 4924916, \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4924917, \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Genetics\", \"category\": \"Industry\"}, {\"id\": 4924918, \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 4924919, \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Non Profit\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94227, \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 11, \"hc_estimate_90_days\": 12, \"hc_estimate_180_days\": 12, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-8.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-8.3300000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 120456, \"uuid\": \"43ac99d8-1f23-4df3-ae23-db90d77f7768\", \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 14300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-23\", \"investors\": null}, {\"id\": 120455, \"uuid\": \"4fce05a9-7fc0-49cd-a46b-c11301c9d7ab\", \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 35000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-16\", \"investors\": null}, {\"id\": 120454, \"uuid\": \"f69edde8-ae9d-47d5-93da-bfe47218ae2a\", \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-15\", \"investors\": null}, {\"id\": 120453, \"uuid\": \"588e642e-5634-4319-823c-76a3e88c5a9c\", \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-13\", \"investors\": null}, {\"id\": 120452, \"uuid\": \"185d616a-2616-6a0e-8dcd-47aa2294b39d\", \"legal_entity_uuid\": \"78c31f29-548c-dd16-490e-60cc0385865b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-11-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xtpwfkb6kwkp0hfqh8o3",
+                        "name": "Salk Institute for Biological Studies"
+                    },
+                    "position": "Research Intern-Computational Neurobiology Laboratory",
+                    "startDate": "2016-06-01",
+                    "name": "Salk Institute for Biological Studies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xtpwfkb6kwkp0hfqh8o3"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Management Science and Engineering",
+                    "degreeType": "Master of Science - MS",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": "2021-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": "2017-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "High School Diploma",
+                    "degreeType": "",
+                    "endDate": "2017-01-01",
+                    "legalEntity": null,
+                    "startDate": "2013-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "The Bishops School"
+                    },
+                    "name": "The Bishops School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:33:09",
+                    "deleted": null,
+                    "id": "3",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "61",
+                    "value": "Asian"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "62",
+                    "value": "Asian American"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "68"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

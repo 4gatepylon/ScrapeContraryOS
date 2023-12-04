@@ -1,0 +1,93 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Dealflow in the Southeast region, planning events that push for a more diverse audience, making connections",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "nouf.alsoghyar@vp.contrary.com",
+                "firstName": "Nouf Al",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "474",
+                "intro": "CS @ Georgia Tech                               ",
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-26T22:03:32",
+                "lastName": "Soghyar",
+                "linkedinName": "nouf-al-soghyar-81ba34214/",
+                "linkedinUrl": "https://linkedin.com/in/nouf-al-soghyar-81ba34214//",
+                "location": "",
+                "lookingFor": "crypto stuff                ",
+                "meetWithBlurb": null,
+                "podId": 26,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ALm5wu1xuHF54E1A-084HPM8Pa7qd-QPW0WNeAJcvGoT=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U01U4GHKLMA",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "67",
+                    "value": "Immigrants"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "474"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

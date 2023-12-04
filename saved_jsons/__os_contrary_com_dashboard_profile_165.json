@@ -1,0 +1,321 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "building | Contrary | ex SpaceX - Jump - Space Systems Design Studio",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2023-01-01",
+                        "id": "303",
+                        "startDate": "2019-01-01",
+                        "universityId": 93
+                    },
+                    {
+                        "degree": "Aeronautical and Astronautical Engineering",
+                        "degreeType": "Aerospace",
+                        "endDate": "2019-01-01",
+                        "id": "304",
+                        "startDate": "2015-01-01",
+                        "universityId": 36
+                    }
+                ],
+                "email": "shihaocao@gmail.com",
+                "firstName": "Shihao",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "165",
+                "intro": "I'm Shihao, a junior at Cornell University, studying Computer Science.\n\nI love downhill longboarding, and photography -- but still learning both! I also love hiking, Formula 1, and EDM. My favorite book series is the Three Body Problem. I\u2019m interested in pushing for more startups in deep-tech, silicon, and aerospace to push humanity forward. My previous work has been in the aero sector working with SpaceX and my research labs on distributed software, rockets, CubeSats, and autonomous drones/cars",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2022-12-15T06:39:03",
+                "lastName": "Cao",
+                "linkedinName": "shihaocao",
+                "linkedinUrl": "https://linkedin.com/in/shihaocao/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 5,
+                "prismUuid": "7272ee68-6b60-49d8-8c45-87862e351de8",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp4iC8AgsQpSyigOYdxz3entZh4fyFix7yOVUFGJ=s96-c",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "shihao@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4433",
+                        "organizationId": 3088,
+                        "position": "Chief Technology Officer",
+                        "startDate": "2022-11-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3446",
+                        "organizationId": 1722,
+                        "position": "SWE Intern",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3444",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2021-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1038",
+                        "organizationId": 774,
+                        "position": "Starship Flight Software Intern",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3445",
+                        "organizationId": 2718,
+                        "position": "Project Lead",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1037",
+                        "organizationId": 773,
+                        "position": "Co Lead",
+                        "startDate": "2019-09-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1039",
+                        "organizationId": 775,
+                        "position": "Systems Engineering Intern",
+                        "startDate": "2019-07-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "1041",
+                        "organizationId": 777,
+                        "position": "President and Founder",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "1040",
+                        "organizationId": 776,
+                        "position": "Project Manager",
+                        "startDate": "2016-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/elastosorchard.png",
+                        "name": "Orchard"
+                    },
+                    "position": "Chief Technology Officer",
+                    "startDate": "2022-11-01",
+                    "name": "Orchard",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/elastosorchard.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-10-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2021-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/jump-trading.png",
+                        "name": "Jump Trading LLC"
+                    },
+                    "position": "SWE Intern",
+                    "startDate": "2022-06-01",
+                    "name": "Jump Trading LLC",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/jump-trading.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cornell-data-science.png",
+                        "name": "Cornell Data Science"
+                    },
+                    "position": "Project Lead",
+                    "startDate": "2021-01-01",
+                    "name": "Cornell Data Science",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cornell-data-science.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Pathfinder for Autonomous Navigation"
+                    },
+                    "position": "Co Lead",
+                    "startDate": "2019-09-01",
+                    "name": "Pathfinder for Autonomous Navigation",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 770817, \"name\": \"SpaceX\", \"uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spacex.png\", \"description\": \"SpaceX is an aviation and aerospace company that focuses on reducing costs associated with space travel.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2002-05-06\", \"website\": \"https://www.spacex.com\", \"location\": \"Hawthorne\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [423340, 52032, 2520714, 3390991, 1653208, 3565630, 2825173, 3409124, 517201, 2053902, 2698173, 3605204, 1880433, 1361095, 2222098, 1613525, 1492255, 481697, 3048520, 2431820, 1081660, 1635167, 2781775, 1324876, 1180162, 3382408, 904633, 11879, 1662117, 2583165, 3307548, 34292, 1661439, 1257850, 3230241, 68114, 2144417, 372887, 1157178, 995913, 2204360, 3298152, 1203230, 3100208, 862474, 4050499, 822957, 658926, 1609510, 1074800, 3199877, 3233934, 3279765, 803150, 3577349, 3304019, 2200895, 11745, 3170459, 1430101, 2074516, 3834344, 2971939, 3055965, 882555, 2638349, 2499470, 3580075, 1784362, 1827084, 2910863, 2727520, 2419389, 3404752, 1308993, 572089, 2517669, 2087824, 1244658, 2252141, 1711540, 253607, 3015481, 2360817, 2370701, 3299926, 2801019, 436452, 705864, 2978685, 1436803, 1016948, 1496156, 280887, 2618121, 1631347, 321684, 2637232, 895819, 3321228, 2699729, 3635626, 3085073, 979135, 1982234, 1665365, 2005236, 3203645, 263811, 2756922, 2404421, 3291799, 1304769, 2746891, 3197262, 2897907, 3316063, 3573611, 2187720, 4069204, 821144, 2280730, 2030278, 1853083, 1537551, 667221, 1652595, 628312, 3324060, 841234, 2688740, 3170666, 3636281, 2806754, 1622106, 637331, 3545796, 3791410, 484353, 1379521, 876543, 3029098, 3529980, 2999401, 3075334, 2659815, 1200598, 2695554, 2590858, 2544819, 1365262, 184758, 668668, 536429, 703427, 3104596, 2959523, 2071415, 3748576, 171505, 1411991, 11499, 2565684, 823861, 1492564, 283168, 1950755, 907862, 1235720, 2995286, 987480, 2367802, 2033869, 1734456, 3285834, 2666078, 1493855, 2126331, 3612944, 2409602, 2991708, 1462413, 1989937, 1330797, 4066268, 3177892, 1909770, 333471, 77513, 1904517, 666608, 1746511, 2420729, 2747942, 2563283, 2477702, 1686033, 997588, 3274068, 2356791, 3047274, 119467, 3806730, 3529259, 2878022, 1864033, 440907, 1551238, 2502342, 1109928, 3281415, 2121781, 695231, 1039324, 2502202, 3249485, 1343855, 622090, 3177713, 1403504, 258817, 2922723, 1534514, 2549476, 3633620, 3537055, 525516, 3836788, 714944, 1500401, 1168184, 1380687, 2118221, 344103, 2157309, 4043819, 3053901, 3324068, 2120843, 3834718, 430992, 673119, 940548, 920606, 628330, 1782206, 3786096, 2537087, 2117989, 3101594, 388292, 3407167, 2804701, 865756, 2315639, 258794, 1622268, 657465, 729028, 3417556, 3821823, 1779378, 3204703, 2249688, 3180720, 1921757, 390954, 1231774, 1082979, 3384723, 2258670, 649418, 1955482, 2292292, 3046499, 806803, 1753410, 252455, 1575654, 2161764, 3581058, 1615434, 393354, 3304946, 130400, 1264120, 171859, 1785483, 726695, 2413554, 2244867, 1333019, 1201372, 3199189, 466675, 3585663, 646278, 306207, 2118667, 1203131, 928685, 483158, 2264389, 3566379, 2495802, 1343233, 3012558, 1313927, 3531902, 1359588, 1898134, 2253613, 89087, 946569, 3326858, 3094093, 252036, 2869334, 2370331, 3816606, 611288, 316679, 1722451, 2842089, 1096659, 3675849, 2716396, 662458, 2696894, 634861, 3286595, 1454380, 1820607, 3045999, 1056549, 191960, 3804528, 675125, 2933827, 341112, 652838, 3415779, 213423, 1626975, 3090697, 653915, 2121245, 226499, 1192545, 148639, 1854145, 1430916, 3112503, 742701, 2861789, 1846566, 2950310, 3419537, 3803191, 2188801, 726667, 2035210, 599080, 3830797, 2097344, 1441570, 3087112, 2178068, 2362961, 1071608, 1310478, 1456013, 1961564, 3590702, 3056044, 1621757, 554000, 1753482, 378524, 2552484, 3273213, 1630110, 33358, 327723, 311224, 1033870, 160294, 913730, 1485011, 3368182, 3568231, 1234060, 1966433, 1804376, 716259, 804957, 3339583, 371632, 2987253, 363354, 2287000, 1253309, 2650076, 2525950, 24277, 1632019, 1785771, 995612, 1140012, 1267602, 2249363, 1149764, 3595213, 252235, 914562, 3515073, 1719549, 1070569, 849449, 2735990, 582246, 2513706, 2482779, 701189, 2901078, 3373786, 1220994, 3802139, 1416832, 627899, 3607808, 2055721, 1139808, 264513, 3299736, 4060222, 287519, 29125, 2356165, 4241, 2423352, 3231234, 1012993, 2812205, 593676, 337880, 1874110, 1650327, 3126532, 1438481, 3371363, 3186132, 3127058, 1455148, 3033359, 3096775, 2905564, 91995, 3327121, 2768849, 893387, 2462733, 287730, 278508, 939606, 2891635, 3176712, 3601676, 41301, 1451753, 1564775, 401085, 2723598, 3561114, 1138159, 3244771, 252503, 3569748, 516961, 3540314, 2700094, 2092170, 1116185, 1998177, 904760, 3357570, 2495913, 2830953, 166130, 1469590, 2407585, 3000817, 2472449, 1850648, 618395, 586556, 3609344, 915707, 3050706, 1419033, 2407386, 3382126, 2753078, 2621372, 2396143, 3044714, 2813457, 3256556, 2861861, 262040, 2432689, 33987, 3340271, 1341386, 3823872, 3578558, 2660277, 3527725, 2863287, 3200335, 1506374, 1120766, 2616264, 3612082, 3633395], \"cb_permalink\": \"https://www.crunchbase.com/organization/space-exploration-technologies\", \"linkedin_url\": \"https://linkedin.com/company/spacex\", \"twitter\": \"https:/www.twitter.com/SpaceX\", \"last_funding_round_date\": \"2023-10-06\", \"last_funding_round_name\": \"Debt Financing\", \"total_funding_amount\": 9760343846, \"company_li_name\": \"spacex\", \"tags\": [{\"id\": 6407596, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Advanced Materials\", \"category\": \"Industry\"}, {\"id\": 6407597, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}, {\"id\": 6407598, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6407599, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Space Travel\", \"category\": \"Industry\"}, {\"id\": 6407600, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 75497, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8001, \"hc_estimate_90_days\": 8215, \"hc_estimate_180_days\": 7690, \"hc_estimate_270_days\": 7527, \"hc_estimate_365_days\": 7404, \"hc_growth_90_days\": \"-2.609999999999999875655021241982467472553253173828125\", \"hc_growth_180_days\": \"4.04000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"6.29999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"8.0600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": [{\"id\": 485913, \"uuid\": \"c2fad7c2-efcf-4775-928b-f9cff49b1d56\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 125250000000, \"announced_date\": \"2023-10-06\", \"investors\": null}, {\"id\": 466479, \"uuid\": \"d1e65612-ffc3-4526-818a-df3b82801647\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 125250000000, \"announced_date\": \"2023-03-23\", \"investors\": null}, {\"id\": 466478, \"uuid\": \"5739b63b-c7c8-428f-83cf-fea1a04de87d\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 125250000000, \"announced_date\": \"2022-07-15\", \"investors\": null}, {\"id\": 466477, \"uuid\": \"f0a06a2e-c073-4e39-9fc4-a967af841414\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1724965480, \"post_money_valuation_usd\": 125044965480, \"announced_date\": \"2022-05-24\", \"investors\": null}, {\"id\": 466476, \"uuid\": \"79536525-ec70-4d16-8538-a0a3527c4aea\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 69950000, \"post_money_valuation_usd\": 100300000000, \"announced_date\": \"2022-04-21\", \"investors\": null}, {\"id\": 466475, \"uuid\": \"e478b06e-bf0b-467e-b52a-57bb8a53be2b\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 337355200, \"post_money_valuation_usd\": 100300000000, \"announced_date\": \"2021-12-30\", \"investors\": null}, {\"id\": 466474, \"uuid\": \"ea17a507-f67b-446a-ba15-dc09795f0965\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 755000000, \"post_money_valuation_usd\": 100300000000, \"announced_date\": \"2021-10-08\", \"investors\": null}, {\"id\": 466473, \"uuid\": \"3a332b0e-f86b-46db-af83-79b131d91b6b\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 14470000, \"post_money_valuation_usd\": 74000000000, \"announced_date\": \"2021-09-24\", \"investors\": null}, {\"id\": 466472, \"uuid\": \"e02622cc-280b-4a4a-8760-135e2b12e42e\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 314000000, \"post_money_valuation_usd\": 74000000000, \"announced_date\": \"2021-04-14\", \"investors\": null}, {\"id\": 466471, \"uuid\": \"8e90783e-9657-4fe8-9a28-fd46bbf6ac2d\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 850000000, \"post_money_valuation_usd\": 74000000000, \"announced_date\": \"2021-02-16\", \"investors\": null}, {\"id\": 466470, \"uuid\": \"f77c6368-0b92-4d24-83fc-110750a7e221\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 1900000000, \"post_money_valuation_usd\": 46000000000, \"announced_date\": \"2020-08-18\", \"investors\": null}, {\"id\": 466469, \"uuid\": \"09f7fd7d-3d04-4a8a-b73e-be6d7a4d6e10\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 346200000, \"post_money_valuation_usd\": 36000200000, \"announced_date\": \"2020-05-26\", \"investors\": null}, {\"id\": 466468, \"uuid\": \"fc4ed85f-1f06-47d5-ad56-4730cc8d412f\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2020-05-12\", \"investors\": null}, {\"id\": 466467, \"uuid\": \"81772c76-612f-48c1-a4fb-fb48800384e1\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 466466, \"uuid\": \"1ef57f18-d668-4f62-b997-1e69640c2b42\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2019-10-03\", \"investors\": null}, {\"id\": 466465, \"uuid\": \"b6af11e3-6b04-4e18-865f-bc752af54a2c\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2019-06-27\", \"investors\": null}, {\"id\": 466464, \"uuid\": \"45981878-1781-42ac-a507-56e655e51621\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 535744188, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2019-05-24\", \"investors\": null}, {\"id\": 466463, \"uuid\": \"007345bf-0cc2-4884-9f7d-22d3d49a58a0\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series J\", \"cb_permalink\": null, \"investment_type\": \"series_j\", \"raised_amount_usd\": 486198978, \"post_money_valuation_usd\": 30486198978, \"announced_date\": \"2018-12-19\", \"investors\": null}, {\"id\": 466462, \"uuid\": \"0a90c478-8c51-4e9a-9111-ba687a8dcfd6\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 23700000000, \"announced_date\": \"2018-11-20\", \"investors\": null}, {\"id\": 466461, \"uuid\": \"ec747f21-2995-40e6-98ad-9acbc88d8e96\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series I\", \"cb_permalink\": null, \"investment_type\": \"series_i\", \"raised_amount_usd\": 214000000, \"post_money_valuation_usd\": 23700000000, \"announced_date\": \"2018-04-18\", \"investors\": null}, {\"id\": 466460, \"uuid\": \"34ebbbad-8f5d-4358-a82a-cbfc903a1f97\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 21200000000, \"announced_date\": \"2017-11-27\", \"investors\": null}, {\"id\": 466459, \"uuid\": \"be184fe2-fb28-4d31-a68b-c29fed5b2284\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 351000000, \"post_money_valuation_usd\": 21200000000, \"announced_date\": \"2017-07-28\", \"investors\": null}, {\"id\": 466458, \"uuid\": \"3cbfa3a3-8fe9-a74b-04f6-eaae8b5bc478\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 1000000000, \"post_money_valuation_usd\": 12000000000, \"announced_date\": \"2015-01-20\", \"investors\": null}, {\"id\": 466457, \"uuid\": \"1b90688b-3cdc-3d63-20f0-ed65939eb331\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": 4030000000, \"announced_date\": \"2012-12-21\", \"investors\": null}, {\"id\": 466456, \"uuid\": \"db0fdef8-8311-af32-fc90-8b4711fe4ff7\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-11-08\", \"investors\": null}, {\"id\": 466455, \"uuid\": \"797d324b-01ec-99fd-1735-b86a00f1007b\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 30435000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-08-11\", \"investors\": null}, {\"id\": 466454, \"uuid\": \"1828a595-3018-1498-9fb2-ebb482d45963\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 15025000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-03-31\", \"investors\": null}, {\"id\": 466453, \"uuid\": \"8af7c4d2-d0be-6b90-524a-efed315b8689\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 29000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-08-01\", \"investors\": null}, {\"id\": 466452, \"uuid\": \"c334554e-6ec1-4bcd-9646-895edc042047\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 32000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-02-01\", \"investors\": null}, {\"id\": 466451, \"uuid\": \"3395625a-9ad2-476e-bb84-892f18707740\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 11000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-02-01\", \"investors\": null}, {\"id\": 466450, \"uuid\": \"3f3fa70a-4599-4eb8-8123-c13e0b64b309\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 61000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2002-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spacex.png",
+                        "name": "SpaceX"
+                    },
+                    "position": "Starship Flight Software Intern",
+                    "startDate": "2021-06-01",
+                    "name": "SpaceX",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spacex.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 770817, \"name\": \"SpaceX\", \"uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spacex.png\", \"description\": \"SpaceX is an aviation and aerospace company that focuses on reducing costs associated with space travel.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2002-05-06\", \"website\": \"https://www.spacex.com\", \"location\": \"Hawthorne\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [423340, 52032, 2520714, 3390991, 1653208, 3565630, 2825173, 3409124, 517201, 2053902, 2698173, 3605204, 1880433, 1361095, 2222098, 1613525, 1492255, 481697, 3048520, 2431820, 1081660, 1635167, 2781775, 1324876, 1180162, 3382408, 904633, 11879, 1662117, 2583165, 3307548, 34292, 1661439, 1257850, 3230241, 68114, 2144417, 372887, 1157178, 995913, 2204360, 3298152, 1203230, 3100208, 862474, 4050499, 822957, 658926, 1609510, 1074800, 3199877, 3233934, 3279765, 803150, 3577349, 3304019, 2200895, 11745, 3170459, 1430101, 2074516, 3834344, 2971939, 3055965, 882555, 2638349, 2499470, 3580075, 1784362, 1827084, 2910863, 2727520, 2419389, 3404752, 1308993, 572089, 2517669, 2087824, 1244658, 2252141, 1711540, 253607, 3015481, 2360817, 2370701, 3299926, 2801019, 436452, 705864, 2978685, 1436803, 1016948, 1496156, 280887, 2618121, 1631347, 321684, 2637232, 895819, 3321228, 2699729, 3635626, 3085073, 979135, 1982234, 1665365, 2005236, 3203645, 263811, 2756922, 2404421, 3291799, 1304769, 2746891, 3197262, 2897907, 3316063, 3573611, 2187720, 4069204, 821144, 2280730, 2030278, 1853083, 1537551, 667221, 1652595, 628312, 3324060, 841234, 2688740, 3170666, 3636281, 2806754, 1622106, 637331, 3545796, 3791410, 484353, 1379521, 876543, 3029098, 3529980, 2999401, 3075334, 2659815, 1200598, 2695554, 2590858, 2544819, 1365262, 184758, 668668, 536429, 703427, 3104596, 2959523, 2071415, 3748576, 171505, 1411991, 11499, 2565684, 823861, 1492564, 283168, 1950755, 907862, 1235720, 2995286, 987480, 2367802, 2033869, 1734456, 3285834, 2666078, 1493855, 2126331, 3612944, 2409602, 2991708, 1462413, 1989937, 1330797, 4066268, 3177892, 1909770, 333471, 77513, 1904517, 666608, 1746511, 2420729, 2747942, 2563283, 2477702, 1686033, 997588, 3274068, 2356791, 3047274, 119467, 3806730, 3529259, 2878022, 1864033, 440907, 1551238, 2502342, 1109928, 3281415, 2121781, 695231, 1039324, 2502202, 3249485, 1343855, 622090, 3177713, 1403504, 258817, 2922723, 1534514, 2549476, 3633620, 3537055, 525516, 3836788, 714944, 1500401, 1168184, 1380687, 2118221, 344103, 2157309, 4043819, 3053901, 3324068, 2120843, 3834718, 430992, 673119, 940548, 920606, 628330, 1782206, 3786096, 2537087, 2117989, 3101594, 388292, 3407167, 2804701, 865756, 2315639, 258794, 1622268, 657465, 729028, 3417556, 3821823, 1779378, 3204703, 2249688, 3180720, 1921757, 390954, 1231774, 1082979, 3384723, 2258670, 649418, 1955482, 2292292, 3046499, 806803, 1753410, 252455, 1575654, 2161764, 3581058, 1615434, 393354, 3304946, 130400, 1264120, 171859, 1785483, 726695, 2413554, 2244867, 1333019, 1201372, 3199189, 466675, 3585663, 646278, 306207, 2118667, 1203131, 928685, 483158, 2264389, 3566379, 2495802, 1343233, 3012558, 1313927, 3531902, 1359588, 1898134, 2253613, 89087, 946569, 3326858, 3094093, 252036, 2869334, 2370331, 3816606, 611288, 316679, 1722451, 2842089, 1096659, 3675849, 2716396, 662458, 2696894, 634861, 3286595, 1454380, 1820607, 3045999, 1056549, 191960, 3804528, 675125, 2933827, 341112, 652838, 3415779, 213423, 1626975, 3090697, 653915, 2121245, 226499, 1192545, 148639, 1854145, 1430916, 3112503, 742701, 2861789, 1846566, 2950310, 3419537, 3803191, 2188801, 726667, 2035210, 599080, 3830797, 2097344, 1441570, 3087112, 2178068, 2362961, 1071608, 1310478, 1456013, 1961564, 3590702, 3056044, 1621757, 554000, 1753482, 378524, 2552484, 3273213, 1630110, 33358, 327723, 311224, 1033870, 160294, 913730, 1485011, 3368182, 3568231, 1234060, 1966433, 1804376, 716259, 804957, 3339583, 371632, 2987253, 363354, 2287000, 1253309, 2650076, 2525950, 24277, 1632019, 1785771, 995612, 1140012, 1267602, 2249363, 1149764, 3595213, 252235, 914562, 3515073, 1719549, 1070569, 849449, 2735990, 582246, 2513706, 2482779, 701189, 2901078, 3373786, 1220994, 3802139, 1416832, 627899, 3607808, 2055721, 1139808, 264513, 3299736, 4060222, 287519, 29125, 2356165, 4241, 2423352, 3231234, 1012993, 2812205, 593676, 337880, 1874110, 1650327, 3126532, 1438481, 3371363, 3186132, 3127058, 1455148, 3033359, 3096775, 2905564, 91995, 3327121, 2768849, 893387, 2462733, 287730, 278508, 939606, 2891635, 3176712, 3601676, 41301, 1451753, 1564775, 401085, 2723598, 3561114, 1138159, 3244771, 252503, 3569748, 516961, 3540314, 2700094, 2092170, 1116185, 1998177, 904760, 3357570, 2495913, 2830953, 166130, 1469590, 2407585, 3000817, 2472449, 1850648, 618395, 586556, 3609344, 915707, 3050706, 1419033, 2407386, 3382126, 2753078, 2621372, 2396143, 3044714, 2813457, 3256556, 2861861, 262040, 2432689, 33987, 3340271, 1341386, 3823872, 3578558, 2660277, 3527725, 2863287, 3200335, 1506374, 1120766, 2616264, 3612082, 3633395], \"cb_permalink\": \"https://www.crunchbase.com/organization/space-exploration-technologies\", \"linkedin_url\": \"https://linkedin.com/company/spacex\", \"twitter\": \"https:/www.twitter.com/SpaceX\", \"last_funding_round_date\": \"2023-10-06\", \"last_funding_round_name\": \"Debt Financing\", \"total_funding_amount\": 9760343846, \"company_li_name\": \"spacex\", \"tags\": [{\"id\": 6407596, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Advanced Materials\", \"category\": \"Industry\"}, {\"id\": 6407597, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}, {\"id\": 6407598, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6407599, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Space Travel\", \"category\": \"Industry\"}, {\"id\": 6407600, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 75497, \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8001, \"hc_estimate_90_days\": 8215, \"hc_estimate_180_days\": 7690, \"hc_estimate_270_days\": 7527, \"hc_estimate_365_days\": 7404, \"hc_growth_90_days\": \"-2.609999999999999875655021241982467472553253173828125\", \"hc_growth_180_days\": \"4.04000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"6.29999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"8.0600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": [{\"id\": 485913, \"uuid\": \"c2fad7c2-efcf-4775-928b-f9cff49b1d56\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 125250000000, \"announced_date\": \"2023-10-06\", \"investors\": null}, {\"id\": 466479, \"uuid\": \"d1e65612-ffc3-4526-818a-df3b82801647\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 125250000000, \"announced_date\": \"2023-03-23\", \"investors\": null}, {\"id\": 466478, \"uuid\": \"5739b63b-c7c8-428f-83cf-fea1a04de87d\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 125250000000, \"announced_date\": \"2022-07-15\", \"investors\": null}, {\"id\": 466477, \"uuid\": \"f0a06a2e-c073-4e39-9fc4-a967af841414\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1724965480, \"post_money_valuation_usd\": 125044965480, \"announced_date\": \"2022-05-24\", \"investors\": null}, {\"id\": 466476, \"uuid\": \"79536525-ec70-4d16-8538-a0a3527c4aea\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 69950000, \"post_money_valuation_usd\": 100300000000, \"announced_date\": \"2022-04-21\", \"investors\": null}, {\"id\": 466475, \"uuid\": \"e478b06e-bf0b-467e-b52a-57bb8a53be2b\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 337355200, \"post_money_valuation_usd\": 100300000000, \"announced_date\": \"2021-12-30\", \"investors\": null}, {\"id\": 466474, \"uuid\": \"ea17a507-f67b-446a-ba15-dc09795f0965\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 755000000, \"post_money_valuation_usd\": 100300000000, \"announced_date\": \"2021-10-08\", \"investors\": null}, {\"id\": 466473, \"uuid\": \"3a332b0e-f86b-46db-af83-79b131d91b6b\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 14470000, \"post_money_valuation_usd\": 74000000000, \"announced_date\": \"2021-09-24\", \"investors\": null}, {\"id\": 466472, \"uuid\": \"e02622cc-280b-4a4a-8760-135e2b12e42e\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 314000000, \"post_money_valuation_usd\": 74000000000, \"announced_date\": \"2021-04-14\", \"investors\": null}, {\"id\": 466471, \"uuid\": \"8e90783e-9657-4fe8-9a28-fd46bbf6ac2d\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 850000000, \"post_money_valuation_usd\": 74000000000, \"announced_date\": \"2021-02-16\", \"investors\": null}, {\"id\": 466470, \"uuid\": \"f77c6368-0b92-4d24-83fc-110750a7e221\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 1900000000, \"post_money_valuation_usd\": 46000000000, \"announced_date\": \"2020-08-18\", \"investors\": null}, {\"id\": 466469, \"uuid\": \"09f7fd7d-3d04-4a8a-b73e-be6d7a4d6e10\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 346200000, \"post_money_valuation_usd\": 36000200000, \"announced_date\": \"2020-05-26\", \"investors\": null}, {\"id\": 466468, \"uuid\": \"fc4ed85f-1f06-47d5-ad56-4730cc8d412f\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2020-05-12\", \"investors\": null}, {\"id\": 466467, \"uuid\": \"81772c76-612f-48c1-a4fb-fb48800384e1\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 466466, \"uuid\": \"1ef57f18-d668-4f62-b997-1e69640c2b42\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2019-10-03\", \"investors\": null}, {\"id\": 466465, \"uuid\": \"b6af11e3-6b04-4e18-865f-bc752af54a2c\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2019-06-27\", \"investors\": null}, {\"id\": 466464, \"uuid\": \"45981878-1781-42ac-a507-56e655e51621\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 535744188, \"post_money_valuation_usd\": 33300744188, \"announced_date\": \"2019-05-24\", \"investors\": null}, {\"id\": 466463, \"uuid\": \"007345bf-0cc2-4884-9f7d-22d3d49a58a0\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series J\", \"cb_permalink\": null, \"investment_type\": \"series_j\", \"raised_amount_usd\": 486198978, \"post_money_valuation_usd\": 30486198978, \"announced_date\": \"2018-12-19\", \"investors\": null}, {\"id\": 466462, \"uuid\": \"0a90c478-8c51-4e9a-9111-ba687a8dcfd6\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 23700000000, \"announced_date\": \"2018-11-20\", \"investors\": null}, {\"id\": 466461, \"uuid\": \"ec747f21-2995-40e6-98ad-9acbc88d8e96\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series I\", \"cb_permalink\": null, \"investment_type\": \"series_i\", \"raised_amount_usd\": 214000000, \"post_money_valuation_usd\": 23700000000, \"announced_date\": \"2018-04-18\", \"investors\": null}, {\"id\": 466460, \"uuid\": \"34ebbbad-8f5d-4358-a82a-cbfc903a1f97\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 21200000000, \"announced_date\": \"2017-11-27\", \"investors\": null}, {\"id\": 466459, \"uuid\": \"be184fe2-fb28-4d31-a68b-c29fed5b2284\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 351000000, \"post_money_valuation_usd\": 21200000000, \"announced_date\": \"2017-07-28\", \"investors\": null}, {\"id\": 466458, \"uuid\": \"3cbfa3a3-8fe9-a74b-04f6-eaae8b5bc478\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 1000000000, \"post_money_valuation_usd\": 12000000000, \"announced_date\": \"2015-01-20\", \"investors\": null}, {\"id\": 466457, \"uuid\": \"1b90688b-3cdc-3d63-20f0-ed65939eb331\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": 4030000000, \"announced_date\": \"2012-12-21\", \"investors\": null}, {\"id\": 466456, \"uuid\": \"db0fdef8-8311-af32-fc90-8b4711fe4ff7\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-11-08\", \"investors\": null}, {\"id\": 466455, \"uuid\": \"797d324b-01ec-99fd-1735-b86a00f1007b\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 30435000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-08-11\", \"investors\": null}, {\"id\": 466454, \"uuid\": \"1828a595-3018-1498-9fb2-ebb482d45963\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 15025000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-03-31\", \"investors\": null}, {\"id\": 466453, \"uuid\": \"8af7c4d2-d0be-6b90-524a-efed315b8689\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 29000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-08-01\", \"investors\": null}, {\"id\": 466452, \"uuid\": \"c334554e-6ec1-4bcd-9646-895edc042047\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 32000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-02-01\", \"investors\": null}, {\"id\": 466451, \"uuid\": \"3395625a-9ad2-476e-bb84-892f18707740\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 11000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-02-01\", \"investors\": null}, {\"id\": 466450, \"uuid\": \"3f3fa70a-4599-4eb8-8123-c13e0b64b309\", \"legal_entity_uuid\": \"2372e88e-240a-a19c-c549-bd262c670ee1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 61000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2002-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spacex.png",
+                        "name": "SpaceX"
+                    },
+                    "position": "Vehicle Engineering Intern",
+                    "startDate": "2020-05-01",
+                    "name": "SpaceX",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spacex.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 758454, \"name\": \"ExoAnalytic Solutions\", \"uuid\": \"dcc4a04f-2e9b-46e9-827c-478be1c2666d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1509670520/ba2zwltlbpt3shogl7x1.png\", \"description\": \"ExoAnalytic Solutionsis a defense and space company providing missile defense, modelling, and simulation services.\", \"headcount\": \"101-250\", \"founding_date\": \"2008-04-22\", \"website\": \"http://exoanalytic.com\", \"location\": \"Foothill Ranch\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [210840, 1374416], \"executive_people_profile_ids\": [210840, 502479, 1374416], \"cb_permalink\": \"https://www.crunchbase.com/organization/exoanalytic-solutions\", \"linkedin_url\": \"https://linkedin.com/company/exoanalytic-solutions\", \"twitter\": \"https:/www.twitter.com/exoanalytic\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"exoanalytic-solutions\", \"tags\": [{\"id\": 1896196, \"legal_entity_uuid\": \"dcc4a04f-2e9b-46e9-827c-478be1c2666d\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 77273, \"legal_entity_uuid\": \"dcc4a04f-2e9b-46e9-827c-478be1c2666d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1509670520/ba2zwltlbpt3shogl7x1.png",
+                        "name": "ExoAnalytic Solutions"
+                    },
+                    "position": "Systems Engineering Intern",
+                    "startDate": "2019-07-01",
+                    "name": "ExoAnalytic Solutions",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1509670520/ba2zwltlbpt3shogl7x1.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "TJUAV"
+                    },
+                    "position": "President and Founder",
+                    "startDate": "2017-09-01",
+                    "name": "TJUAV",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "TJREVERB"
+                    },
+                    "position": "Full Team Lead",
+                    "startDate": "2016-06-01",
+                    "name": "TJREVERB",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 758454, \"name\": \"ExoAnalytic Solutions\", \"uuid\": \"dcc4a04f-2e9b-46e9-827c-478be1c2666d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1509670520/ba2zwltlbpt3shogl7x1.png\", \"description\": \"ExoAnalytic Solutionsis a defense and space company providing missile defense, modelling, and simulation services.\", \"headcount\": \"101-250\", \"founding_date\": \"2008-04-22\", \"website\": \"http://exoanalytic.com\", \"location\": \"Foothill Ranch\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [210840, 1374416], \"executive_people_profile_ids\": [210840, 502479, 1374416], \"cb_permalink\": \"https://www.crunchbase.com/organization/exoanalytic-solutions\", \"linkedin_url\": \"https://linkedin.com/company/exoanalytic-solutions\", \"twitter\": \"https:/www.twitter.com/exoanalytic\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"exoanalytic-solutions\", \"tags\": [{\"id\": 1896196, \"legal_entity_uuid\": \"dcc4a04f-2e9b-46e9-827c-478be1c2666d\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 77273, \"legal_entity_uuid\": \"dcc4a04f-2e9b-46e9-827c-478be1c2666d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1509670520/ba2zwltlbpt3shogl7x1.png",
+                        "name": "ExoAnalytic Solutions"
+                    },
+                    "position": "Systems Engineering Intern",
+                    "startDate": "2018-06-01",
+                    "name": "ExoAnalytic Solutions",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1509670520/ba2zwltlbpt3shogl7x1.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 1289184, \"name\": \"Cornell High Energy Synchrotron Source (CHESS)\", \"uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hqqd38qrkprit3scedpk\", \"description\": \"Cornell High Energy Synchrotron Source is an X-ray source that offers synchrotron radiation resources to consumers for scientific research.\", \"headcount\": \"11-50\", \"founding_date\": \"1978-01-01\", \"website\": \"https://www.chess.cornell.edu/\", \"location\": \"Ithaca\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/cornell-high-energy-synchrotron-source-chess\", \"linkedin_url\": \"https://linkedin.com/company/cornell-university\", \"twitter\": null, \"last_funding_round_date\": \"2019-08-28\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 17400000, \"company_li_name\": \"cornell-university\", \"tags\": [{\"id\": 4090525, \"legal_entity_uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"name\": \"Energy\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 11939, \"legal_entity_uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 499, \"hc_estimate_90_days\": 506, \"hc_estimate_180_days\": 554, \"hc_estimate_270_days\": 581, \"hc_estimate_365_days\": 571, \"hc_growth_90_days\": \"-1.37999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"-9.92999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"-14.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-12.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 116105, \"uuid\": \"13fb7c00-58e0-4633-ae78-29307bf5dbdc\", \"legal_entity_uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 17400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-28\", \"investors\": null}]}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqqd38qrkprit3scedpk",
+                        "name": "Cornell University"
+                    },
+                    "name": "Cornell University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqqd38qrkprit3scedpk"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Thomas Jefferson High School for Science and Technology"
+                    },
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "165"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

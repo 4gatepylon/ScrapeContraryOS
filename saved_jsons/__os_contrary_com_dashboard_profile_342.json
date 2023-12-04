@@ -1,0 +1,209 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Entrepreneur + Founder | Passionate about all things Health & Wellness",
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "Master of Business Administration - MBA",
+                        "endDate": "2023-01-01",
+                        "id": "633",
+                        "startDate": "2021-01-01",
+                        "universityId": 18
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "632",
+                        "startDate": null,
+                        "universityId": 274
+                    }
+                ],
+                "email": "kholland@mba2023.hbs.edu",
+                "firstName": "Kelsey",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "342",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Holland",
+                "linkedinName": "kelsey-holland-1129ab58",
+                "linkedinUrl": "https://linkedin.com/in/kelsey-holland-1129ab58/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 9,
+                "prismUuid": "6e3d8a97-533e-461b-b3e9-c01d76df38b9",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/342_Kelsey_Holland.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "kelsehol@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4615",
+                        "organizationId": 984432,
+                        "position": "Founder",
+                        "startDate": "2023-08-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "4486",
+                        "organizationId": 3126,
+                        "position": "Summer Associate",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3660",
+                        "organizationId": 2442,
+                        "position": "Summer Associate",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2251",
+                        "organizationId": 5,
+                        "position": "Investment Partner",
+                        "startDate": "2021-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2252",
+                        "organizationId": 1184,
+                        "position": "MBA Candidate",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "2253",
+                        "organizationId": 1562,
+                        "position": "Chief Digital Officer",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "2254",
+                        "organizationId": 1563,
+                        "position": "Vice President Product",
+                        "startDate": "2020-04-01"
+                    },
+                    {
+                        "endDate": "2020-04-01",
+                        "id": "2255",
+                        "organizationId": 1564,
+                        "position": "Vice President Product-New Ventures",
+                        "startDate": "2018-11-01"
+                    },
+                    {
+                        "endDate": "2018-11-01",
+                        "id": "2256",
+                        "organizationId": 1565,
+                        "position": "New Ventures & Incubation",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2018-11-01",
+                        "id": "2257",
+                        "organizationId": 1566,
+                        "position": "New Ventures & Incubation",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2017-06-01",
+                        "id": "2258",
+                        "organizationId": 1567,
+                        "position": "Senior Product Manager",
+                        "startDate": "2015-08-01"
+                    },
+                    {
+                        "endDate": "2015-09-01",
+                        "id": "2259",
+                        "organizationId": 1568,
+                        "position": "Product Managment",
+                        "startDate": "2014-05-01"
+                    },
+                    {
+                        "endDate": "2014-05-01",
+                        "id": "2260",
+                        "organizationId": 1569,
+                        "position": "Business Analyst",
+                        "startDate": "2013-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Balance Rock Partners"
+                    },
+                    "position": "Founder",
+                    "startDate": "2023-08-01",
+                    "name": "Balance Rock Partners",
+                    "logoUrl": null
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Master of Business Administration - MBA",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 792174, \"name\": \"Harvard Business School\", \"uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz\", \"description\": \"Harvard Business School is an educational institution that offers two-year residential programs leading to an MBA, Ph.D., or DBA degree.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1908-01-01\", \"website\": \"http://www.hbs.edu\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1840670, 2132509], \"executive_people_profile_ids\": [237328, 578426, 183787, 590194, 2595257, 3083443, 2132509, 689711, 382134, 1064944, 1778045, 2442373, 566483, 1718114, 724212, 1536108, 1634420, 1669495, 1840670, 2753067, 2337846], \"cb_permalink\": \"https://www.crunchbase.com/organization/harvard-business-school\", \"linkedin_url\": \"https://linkedin.com/school/harvard-business-school\", \"twitter\": \"http:/www.twitter.com/HarvardHBS\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"harvard-business-school\", \"tags\": [{\"id\": 4849161, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Alumni\", \"category\": \"Industry\"}, {\"id\": 4849164, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4849163, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4849162, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96186, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 330, \"hc_estimate_90_days\": 296, \"hc_estimate_180_days\": 336, \"hc_estimate_270_days\": 338, \"hc_estimate_365_days\": 331, \"hc_growth_90_days\": \"11.4900000000000002131628207280300557613372802734375\", \"hc_growth_180_days\": \"-1.79000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-2.37000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"-0.299999999999999988897769753748434595763683319091796875\"}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz",
+                        "name": "Harvard Business School"
+                    },
+                    "name": "Harvard Business School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Bachelors degree",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 124040, \"name\": \"New York University\", \"uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-york-university.png\", \"description\": \"New York University is a private research university that provides education in the arts and sciences, law, medicine, business, and others.\", \"headcount\": \"501-1000\", \"founding_date\": \"1831-04-18\", \"website\": \"http://www.nyu.edu\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2525926, 3275287, 3156295, 108492, 30052, 2581416, 1399624, 1948459, 1993258, 731554, 276386], \"cb_permalink\": \"https://www.crunchbase.com/organization/new-york-university\", \"linkedin_url\": \"https://linkedin.com/school/new-york-university\", \"twitter\": \"http:/twitter.com/nyuniversity\", \"last_funding_round_date\": \"2023-10-30\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 26927189, \"company_li_name\": \"new-york-university\", \"tags\": [{\"id\": 4851053, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4851054, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4851055, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Journalism\", \"category\": \"Industry\"}, {\"id\": 4851056, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Online Portals\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 18963, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 532, \"hc_estimate_90_days\": 498, \"hc_estimate_180_days\": 591, \"hc_estimate_270_days\": 587, \"hc_estimate_365_days\": 612, \"hc_growth_90_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-9.980000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-9.3699999999999992184029906638897955417633056640625\", \"hc_growth_365_days\": \"-13.07000000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 479630, \"uuid\": \"4ca3998e-0616-4f3f-9dec-b2a1f134c883\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-30\", \"investors\": null}, {\"id\": 3862, \"uuid\": \"391eb418-5e1e-4520-902b-ddffeb4e9dd3\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-08\", \"investors\": null}, {\"id\": 3861, \"uuid\": \"53e989c9-80f9-4aeb-9441-a46e11b477a2\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1939416, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-21\", \"investors\": null}, {\"id\": 3860, \"uuid\": \"38db9b3b-45fb-4444-842e-098d9d04dfe5\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-19\", \"investors\": null}, {\"id\": 3859, \"uuid\": \"63d61291-5f58-4f6d-a1b7-e02e5b30563c\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-18\", \"investors\": null}, {\"id\": 479629, \"uuid\": \"101eccd5-b283-41ce-9490-7501b77c7c97\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1499711, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 479628, \"uuid\": \"1e19490c-d978-4707-a5e7-67a256fec097\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2700737, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 3858, \"uuid\": \"f7f14492-5aa4-404c-94ee-2ba9f9c6f22f\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 479627, \"uuid\": \"ca6ab02d-850b-480f-9c04-789b89531ac1\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999053, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 479626, \"uuid\": \"b8376d3e-4536-4d2f-ba45-b41ee1fdcdf6\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 479625, \"uuid\": \"150dc5b9-74f4-4904-9812-0c1ebe03120f\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 479624, \"uuid\": \"b0e2cad2-b6ec-44bf-8b73-134fb340e299\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1126925, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 479623, \"uuid\": \"47609473-7b28-45f2-8b7e-6b42f700e6cd\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 479622, \"uuid\": \"0c8562c1-a686-487d-a518-720e8ba17b89\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 479621, \"uuid\": \"9cc13ae0-fd2f-4afe-8501-3fe91ad0a74a\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1075968, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}, {\"id\": 479620, \"uuid\": \"02c6e614-5d4b-4c04-9ee3-ac4667375d6c\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5035379, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-05-18\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-york-university.png",
+                        "name": "New York University"
+                    },
+                    "name": "New York University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-york-university.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "342"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

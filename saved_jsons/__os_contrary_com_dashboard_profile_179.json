@@ -1,0 +1,377 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "VP - Field CTO",
+                "educationExperiences": [
+                    {
+                        "degree": "Computing & Data Science",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2017-01-01",
+                        "id": "333",
+                        "startDate": "2014-01-01",
+                        "universityId": 208
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "92.3/100",
+                        "endDate": "2014-01-01",
+                        "id": "334",
+                        "startDate": "2013-01-01",
+                        "universityId": 209
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "High school diploma",
+                        "endDate": "2009-01-01",
+                        "id": "335",
+                        "startDate": "2006-01-01",
+                        "universityId": 210
+                    }
+                ],
+                "email": "thadassi@gmail.com",
+                "firstName": "Tomer",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "179",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Hadassi",
+                "linkedinName": "tomerhadassi",
+                "linkedinUrl": "https://linkedin.com/in/tomerhadassi/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "555f61b3-8a79-456e-b0b7-b65757da2b09",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/179_Tomer_Hadassi.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3455",
+                        "organizationId": 151,
+                        "position": "Vice President",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4549",
+                        "organizationId": 891488,
+                        "position": "VP-Field CTO",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1145",
+                        "organizationId": 852,
+                        "position": "Head Of Strategy - Spot by Netapp",
+                        "startDate": "2021-09-01"
+                    },
+                    {
+                        "endDate": "2021-09-01",
+                        "id": "1146",
+                        "organizationId": 853,
+                        "position": "Head of Field Engineering - Americas",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2021-09-01",
+                        "id": "4550",
+                        "organizationId": 984416,
+                        "position": "Head of Field Engineering",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2019-11-01",
+                        "id": "3456",
+                        "organizationId": 2722,
+                        "position": "Sr. Solutions Architect",
+                        "startDate": "2018-12-01"
+                    },
+                    {
+                        "endDate": "2018-05-01",
+                        "id": "1147",
+                        "organizationId": 854,
+                        "position": "Teaching Assistant",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2017-09-01",
+                        "id": "1148",
+                        "organizationId": 61,
+                        "position": "Digital Consultant",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2017-02-01",
+                        "id": "1150",
+                        "organizationId": 856,
+                        "position": "Product Manager",
+                        "startDate": "2016-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1144",
+                        "organizationId": 5,
+                        "position": "Investor / Founding Student Partner",
+                        "startDate": "2016-09-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1151",
+                        "organizationId": 857,
+                        "position": "Investment Banking Summer Analyst",
+                        "startDate": "2016-05-01"
+                    },
+                    {
+                        "endDate": "2015-12-01",
+                        "id": "1153",
+                        "organizationId": 859,
+                        "position": "Investment Analyst Intern",
+                        "startDate": "2015-07-01"
+                    },
+                    {
+                        "endDate": "2015-12-01",
+                        "id": "1152",
+                        "organizationId": 858,
+                        "position": "Investment Analyst Intern",
+                        "startDate": "2015-05-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "1149",
+                        "organizationId": 855,
+                        "position": "VP of Operations",
+                        "startDate": "2015-02-01"
+                    },
+                    {
+                        "endDate": "2014-08-01",
+                        "id": "1154",
+                        "organizationId": 860,
+                        "position": "Quality Engineer",
+                        "startDate": "2013-07-01"
+                    },
+                    {
+                        "endDate": "2013-03-01",
+                        "id": "1155",
+                        "organizationId": 861,
+                        "position": "System administrator / Team Leader",
+                        "startDate": "2010-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 395996, \"name\": \"Upwind Security\", \"uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/upwindsecurity.png\", \"description\": \"Upwind is the runtime-powered CNAPP that leverages runtime data to secure your cloud infrastructure.\", \"headcount\": \"51-100\", \"founding_date\": \"2022-01-01\", \"website\": \"https://www.upwind.io\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1373693], \"executive_people_profile_ids\": [1211019, 1446720, 162723], \"cb_permalink\": \"https://www.crunchbase.com/organization/upwind-security\", \"linkedin_url\": \"https://linkedin.com/company/upwindsecurity\", \"twitter\": \"https:/twitter.com/upwindsecurity\", \"last_funding_round_date\": \"2023-09-05\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 78000000, \"company_li_name\": \"upwindsecurity\", \"tags\": [{\"id\": 4788102, \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Cloud Infrastructure\", \"category\": \"Industry\"}, {\"id\": 4788103, \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Cloud Management\", \"category\": \"Industry\"}, {\"id\": 4788104, \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Cloud Security\", \"category\": \"Industry\"}, {\"id\": 4788105, \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4788106, \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 134484, \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 8, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"45.4500000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"77.780000000000001136868377216160297393798828125\", \"hc_growth_365_days\": \"100\"}, \"funding_rounds\": [{\"id\": 111207, \"uuid\": \"899680e8-75a2-441b-89d6-c79be5f40e02\", \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": 300000000, \"announced_date\": \"2023-09-05\", \"investors\": null}, {\"id\": 489634, \"uuid\": \"2848a510-f0ae-4241-8810-ff3b80e7d3da\", \"legal_entity_uuid\": \"a8cfb140-51ed-4b86-b76e-01be0cc005cc\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 28000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/upwindsecurity.png",
+                        "name": "Upwind Security"
+                    },
+                    "position": "VP-Field CTO",
+                    "startDate": "2022-08-01",
+                    "name": "Upwind Security",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/upwindsecurity.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Investor / Founding Student Partner",
+                    "startDate": "2016-09-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 476529, \"name\": \"NetApp\", \"uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/netapp.png\", \"description\": \"NetApp is a data storage & data management solutions company\", \"headcount\": \"10000+\", \"founding_date\": \"1992-01-01\", \"website\": \"http://netapp.com\", \"location\": \"San Jose\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2226570, 730897], \"executive_people_profile_ids\": [1109116, 3777786, 2670525, 2254893, 966202, 2450636, 1898588, 3153766, 2087598, 986964, 2867255, 1285626, 2307122, 3143017, 2495471, 3199579, 1244915, 2745484, 2902822, 2751809, 2942743, 2346913, 145474, 604856, 1621822, 1656233, 1417122, 1909557, 2609690, 1956085, 615055, 2991387, 1621706, 1498117, 271870, 1006941, 3106162, 47885, 1291323, 3075266, 2226042, 3055923, 575106, 2798958, 872713, 782809, 754780, 1644553, 3171449, 1083560, 1835825, 528809, 327101, 2969456, 710686, 3137751, 2155777, 83560, 1481703, 1328790, 695140, 668324, 2254202, 2315551, 2423217, 902786, 1309569, 2035541, 71484, 163532, 3254320, 50693, 164432, 594009, 1260503, 1093469, 629386, 2190600, 75336, 3261756, 849589, 1781239, 2495185, 1202900, 2869130, 1665790, 663016, 1347391, 2517655, 3208574, 3254272, 2117485, 1681297, 2791135, 3230923, 3080932, 2804784, 1894539, 1258582, 407844, 492325, 3395444, 2731328, 2990033, 1019576, 1081671, 1948780, 591176, 1006198, 1863766, 3371732, 2208311, 875513, 2364839, 850132, 1569407, 140956, 1312018, 3075547, 2453123, 387558, 2658328, 2812209, 1381947, 334175, 866103, 243057, 2462171, 1463203, 1182874, 3332314, 668776, 3299740, 1394809, 2385659, 961065, 2706310, 2365014, 119612, 1158304, 274070, 2398580, 3325263, 1586797, 3065903, 2083205, 1547743, 2375505, 601885, 1577735, 2150132, 1602294, 1792303, 2391070, 137558, 1913770, 1033975, 3200688, 1538028, 915398, 391949, 1937091, 2287658, 2453007, 3100000, 934196, 1492762, 2087766, 893662, 2941569, 674213, 1754992, 1671032, 1179666, 1849257, 2517663, 2814309, 53676, 2412694, 1932528, 269817, 3390945, 1843215, 149505, 759392, 440781, 957209, 71418, 788693, 415584, 2027170, 2715038, 927420, 417539, 422181, 3570153, 1275277, 2510432, 1087220, 485747, 2662381, 3128208, 2624335, 809721, 1240619, 791977, 249669, 2925539, 489668, 904211, 1088709, 2195246, 407866, 380812, 1892911, 2794243, 943535, 1046639], \"cb_permalink\": \"https://www.crunchbase.com/organization/netapp\", \"linkedin_url\": \"https://linkedin.com/company/netapp\", \"twitter\": \"http:/twitter.com/netapp\", \"last_funding_round_date\": \"1994-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"netapp\", \"tags\": [{\"id\": 6364297, \"legal_entity_uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}, {\"id\": 6364298, \"legal_entity_uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"name\": \"Data Storage\", \"category\": \"Industry\"}, {\"id\": 6364299, \"legal_entity_uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 7082103, \"legal_entity_uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"name\": \"Data Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 115998, \"legal_entity_uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5543, \"hc_estimate_90_days\": 5569, \"hc_estimate_180_days\": 5564, \"hc_estimate_270_days\": 5712, \"hc_estimate_365_days\": 5698, \"hc_growth_90_days\": \"-0.4699999999999999733546474089962430298328399658203125\", \"hc_growth_180_days\": \"-0.38000000000000000444089209850062616169452667236328125\", \"hc_growth_270_days\": \"-2.95999999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-2.720000000000000195399252334027551114559173583984375\"}, \"funding_rounds\": [{\"id\": 390134, \"uuid\": \"67bd501d-6a78-4c42-8b6e-f29c3d2fb278\", \"legal_entity_uuid\": \"bbd3ae58-58e2-d81c-42bf-97d4a07ac0d1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"1994-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/netapp.png",
+                        "name": "NetApp"
+                    },
+                    "position": "Head Of Strategy - Spot by Netapp",
+                    "startDate": "2021-09-01",
+                    "name": "NetApp",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/netapp.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": "{\"id\": 389713, \"name\": \"Spot\", \"uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png\", \"description\": \"Spot specializes in cloud cost analysis, reserved capacity management, auto scaling applications, and big data services.\", \"headcount\": \"101-250\", \"founding_date\": \"2014-01-01\", \"website\": \"https://spot.io/\", \"location\": \"San Jose\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1446720, 1373693, 2282886], \"executive_people_profile_ids\": [836371, 1656191, 1889306, 83058, 1663480], \"cb_permalink\": \"https://www.crunchbase.com/organization/spot-io\", \"linkedin_url\": \"https://linkedin.com/company/spothq\", \"twitter\": \"https:/www.twitter.com/spot_by_netapp\", \"last_funding_round_date\": \"2020-03-06\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 52600000, \"company_li_name\": \"spothq\", \"tags\": [{\"id\": 1259316, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 1259317, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}, {\"id\": 1259318, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Infrastructure\", \"category\": \"Industry\"}, {\"id\": 1259319, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 1259320, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7657299, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Data Services\", \"category\": \"Industry\"}, {\"id\": 7657300, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132821, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 52, \"hc_estimate_90_days\": 55, \"hc_estimate_180_days\": 58, \"hc_estimate_270_days\": 59, \"hc_estimate_365_days\": 59, \"hc_growth_90_days\": \"-5.45000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-10.339999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-11.8599999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-11.8599999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 463348, \"uuid\": \"23ba775d-b754-430b-af70-a942385b1b3f\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-06\", \"investors\": null}, {\"id\": 463347, \"uuid\": \"b3918d8c-9602-40d9-b54d-a8b168803ae6\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 35000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-28\", \"investors\": null}, {\"id\": 463346, \"uuid\": \"146f6c69-c88c-586f-a5b2-186d42116a6c\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-02\", \"investors\": null}, {\"id\": 463345, \"uuid\": \"c56150e0-226b-ee0b-5020-0937f9197b1e\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-06\", \"investors\": null}, {\"id\": 463344, \"uuid\": \"d76631f0-ad4c-426d-7562-88a3e86bc95d\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-10-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png",
+                        "name": "Spot.io"
+                    },
+                    "position": "Head of Field Engineering",
+                    "startDate": "2019-06-01",
+                    "name": "Spot.io",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-11-01",
+                    "legalEntity": "{\"id\": 389713, \"name\": \"Spot\", \"uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png\", \"description\": \"Spot specializes in cloud cost analysis, reserved capacity management, auto scaling applications, and big data services.\", \"headcount\": \"101-250\", \"founding_date\": \"2014-01-01\", \"website\": \"https://spot.io/\", \"location\": \"San Jose\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1446720, 1373693, 2282886], \"executive_people_profile_ids\": [836371, 1656191, 1889306, 83058, 1663480], \"cb_permalink\": \"https://www.crunchbase.com/organization/spot-io\", \"linkedin_url\": \"https://linkedin.com/company/spothq\", \"twitter\": \"https:/www.twitter.com/spot_by_netapp\", \"last_funding_round_date\": \"2020-03-06\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 52600000, \"company_li_name\": \"spothq\", \"tags\": [{\"id\": 1259316, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 1259317, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}, {\"id\": 1259318, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Infrastructure\", \"category\": \"Industry\"}, {\"id\": 1259319, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 1259320, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7657299, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Data Services\", \"category\": \"Industry\"}, {\"id\": 7657300, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132821, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 52, \"hc_estimate_90_days\": 55, \"hc_estimate_180_days\": 58, \"hc_estimate_270_days\": 59, \"hc_estimate_365_days\": 59, \"hc_growth_90_days\": \"-5.45000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-10.339999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-11.8599999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-11.8599999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 463348, \"uuid\": \"23ba775d-b754-430b-af70-a942385b1b3f\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-06\", \"investors\": null}, {\"id\": 463347, \"uuid\": \"b3918d8c-9602-40d9-b54d-a8b168803ae6\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 35000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-28\", \"investors\": null}, {\"id\": 463346, \"uuid\": \"146f6c69-c88c-586f-a5b2-186d42116a6c\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-02\", \"investors\": null}, {\"id\": 463345, \"uuid\": \"c56150e0-226b-ee0b-5020-0937f9197b1e\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-06\", \"investors\": null}, {\"id\": 463344, \"uuid\": \"d76631f0-ad4c-426d-7562-88a3e86bc95d\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-10-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png",
+                        "name": "Spot HQ"
+                    },
+                    "position": "Sr. Solutions Architect",
+                    "startDate": "2018-12-01",
+                    "name": "Spot HQ",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": "{\"id\": 389713, \"name\": \"Spot\", \"uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png\", \"description\": \"Spot specializes in cloud cost analysis, reserved capacity management, auto scaling applications, and big data services.\", \"headcount\": \"101-250\", \"founding_date\": \"2014-01-01\", \"website\": \"https://spot.io/\", \"location\": \"San Jose\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1446720, 1373693, 2282886], \"executive_people_profile_ids\": [836371, 1656191, 1889306, 83058, 1663480], \"cb_permalink\": \"https://www.crunchbase.com/organization/spot-io\", \"linkedin_url\": \"https://linkedin.com/company/spothq\", \"twitter\": \"https:/www.twitter.com/spot_by_netapp\", \"last_funding_round_date\": \"2020-03-06\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 52600000, \"company_li_name\": \"spothq\", \"tags\": [{\"id\": 1259316, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 1259317, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}, {\"id\": 1259318, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Infrastructure\", \"category\": \"Industry\"}, {\"id\": 1259319, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 1259320, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7657299, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Data Services\", \"category\": \"Industry\"}, {\"id\": 7657300, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Cloud Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132821, \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 52, \"hc_estimate_90_days\": 55, \"hc_estimate_180_days\": 58, \"hc_estimate_270_days\": 59, \"hc_estimate_365_days\": 59, \"hc_growth_90_days\": \"-5.45000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-10.339999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-11.8599999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-11.8599999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 463348, \"uuid\": \"23ba775d-b754-430b-af70-a942385b1b3f\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-06\", \"investors\": null}, {\"id\": 463347, \"uuid\": \"b3918d8c-9602-40d9-b54d-a8b168803ae6\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 35000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-28\", \"investors\": null}, {\"id\": 463346, \"uuid\": \"146f6c69-c88c-586f-a5b2-186d42116a6c\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-02\", \"investors\": null}, {\"id\": 463345, \"uuid\": \"c56150e0-226b-ee0b-5020-0937f9197b1e\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-06\", \"investors\": null}, {\"id\": 463344, \"uuid\": \"d76631f0-ad4c-426d-7562-88a3e86bc95d\", \"legal_entity_uuid\": \"3e61a8c3-afff-4b16-a7ec-7fd73a18d3c9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-10-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png",
+                        "name": "Spot HQ"
+                    },
+                    "position": "Solutions Architect",
+                    "startDate": "2018-02-01",
+                    "name": "Spot HQ",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/spothq.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 179039, \"name\": \"McKinsey & Company\", \"uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png\", \"description\": \"McKinsey & Company is a global management consulting firm and trusted advisor by businesses, governments, and institutions.\", \"headcount\": \"10000+\", \"founding_date\": \"1926-01-01\", \"website\": \"http://www.mckinsey.com\", \"location\": \"Vienna\", \"country\": \"AUT\", \"region\": \"Wien\", \"founder_people_profile_ids\": [4133473, 1825782], \"executive_people_profile_ids\": [3053042, 791339, 815946, 769621, 183812, 3130727, 1967068, 271389, 3245, 1344763, 2741793, 3024633, 1941985, 418717, 1514270, 2471698, 681625, 1992042, 275511, 109582, 2990793, 2708985, 577686, 1840759, 2243371, 235041, 2412722, 2924419, 2425564], \"cb_permalink\": \"https://www.crunchbase.com/organization/mckinsey-company\", \"linkedin_url\": \"https://linkedin.com/company/mckinsey\", \"twitter\": \"http:/twitter.com/McKinsey\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mckinsey\", \"tags\": [{\"id\": 6371856, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6371857, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6371858, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Professional Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 3461, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1972, \"hc_estimate_90_days\": 1903, \"hc_estimate_180_days\": 1858, \"hc_estimate_270_days\": 1846, \"hc_estimate_365_days\": 1800, \"hc_growth_90_days\": \"3.62999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"6.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"9.5600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png",
+                        "name": "McKinsey  Company"
+                    },
+                    "position": "Digital Consultant",
+                    "startDate": "2017-01-01",
+                    "name": "McKinsey  Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tamidgroup.png",
+                        "name": "TAMID Group"
+                    },
+                    "position": "VP of Operations",
+                    "startDate": "2015-02-01",
+                    "name": "TAMID Group",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tamidgroup.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 1548110, \"name\": \"CSG Partners\", \"uuid\": \"151b578a-0370-46d9-8508-c1dc28aaeac7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/cqx30iqy4a2n1xbnm91x\", \"description\": \"The nations leading leveraged ESOP advisory practice.\", \"headcount\": \"11-50\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.csgpartners.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/csg-partners\", \"linkedin_url\": \"https://linkedin.com/company/csgpartners\", \"twitter\": \"https:/twitter.com/CSGPartners\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"csgpartners\", \"tags\": [{\"id\": 1095437, \"legal_entity_uuid\": \"151b578a-0370-46d9-8508-c1dc28aaeac7\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cqx30iqy4a2n1xbnm91x",
+                        "name": "CSG Partners"
+                    },
+                    "position": "Investment Banking Summer Analyst",
+                    "startDate": "2016-05-01",
+                    "name": "CSG Partners",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cqx30iqy4a2n1xbnm91x"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-12-01",
+                    "legalEntity": "{\"id\": 367632, \"name\": \"OurCrowd\", \"uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/oakjndlqw7tlhuxbmdx1\", \"description\": \"OurCrowd is a venture investing platform that enables institutions and individuals to invest and engage in emerging companies.\", \"headcount\": \"101-250\", \"founding_date\": \"2013-02-01\", \"website\": \"http://www.ourcrowd.com\", \"location\": \"Jerusalem\", \"country\": \"ISR\", \"region\": \"Yerushalayim\", \"founder_people_profile_ids\": [462418], \"executive_people_profile_ids\": [228591, 1209350, 524565, 3399097, 1692205, 98113, 1335803, 1329595, 1291558, 1777103, 2870617, 97404, 362222, 1806482, 952511, 529787, 3389087, 1695794, 1697704, 1705321, 2885804, 581454, 1306499, 1335356, 1602185, 1091888, 1503719, 633052, 1999544, 291355, 1074385, 1347468, 2943537, 2818862, 3077718, 126200, 952257, 2964943, 501759, 580359, 1433361, 785965, 567052, 1072343, 1937770, 1970035, 462418, 2021501, 2238606, 2567773, 2943256, 3238235], \"cb_permalink\": \"https://www.crunchbase.com/organization/ourcrowd\", \"linkedin_url\": \"https://linkedin.com/company/ourcrowd-llc\", \"twitter\": \"https:/twitter.com/OurCrowd\", \"last_funding_round_date\": \"2023-06-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 197500000, \"company_li_name\": \"ourcrowd-llc\", \"tags\": [{\"id\": 6537578, \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Angel Investment\", \"category\": \"Industry\"}, {\"id\": 6537579, \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Crowdfunding\", \"category\": \"Industry\"}, {\"id\": 6537580, \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6537581, \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Funding Platform\", \"category\": \"Industry\"}, {\"id\": 6537582, \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 145260, \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 33, \"hc_estimate_90_days\": 33, \"hc_estimate_180_days\": 34, \"hc_estimate_270_days\": 34, \"hc_estimate_365_days\": 34, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-2.939999999999999946709294817992486059665679931640625\", \"hc_growth_270_days\": \"-2.939999999999999946709294817992486059665679931640625\", \"hc_growth_365_days\": \"-2.939999999999999946709294817992486059665679931640625\"}, \"funding_rounds\": [{\"id\": 44098, \"uuid\": \"2eff16d1-0602-4857-95fd-0d2b3f47eb7e\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-01\", \"investors\": null}, {\"id\": 44097, \"uuid\": \"1abb9f1b-c09c-40cd-ac65-ebba1ec781e3\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-27\", \"investors\": null}, {\"id\": 44096, \"uuid\": \"4446af1b-8af4-4d14-84c7-a4e8e150dab0\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Corporate Round\", \"cb_permalink\": null, \"investment_type\": \"corporate_round\", \"raised_amount_usd\": 60000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-11-19\", \"investors\": null}, {\"id\": 44095, \"uuid\": \"dbe3bcdd-64b3-67ba-4bf8-0cf80ad2ed2c\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 72000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-09-21\", \"investors\": null}, {\"id\": 44094, \"uuid\": \"d1865e83-f908-48d2-8bb6-89bc62684178\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-03\", \"investors\": null}, {\"id\": 44093, \"uuid\": \"4645bee4-423d-6f34-40f3-0ea2baa45431\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-04-28\", \"investors\": null}, {\"id\": 44092, \"uuid\": \"e817efc8-3c3e-147f-35e2-f977256772f0\", \"legal_entity_uuid\": \"8522a0e8-ae31-22f7-bc76-42d0d76eecfe\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-02-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/oakjndlqw7tlhuxbmdx1",
+                        "name": "OurCrowd"
+                    },
+                    "position": "Investment Analyst",
+                    "startDate": "2015-07-01",
+                    "name": "OurCrowd",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/oakjndlqw7tlhuxbmdx1"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-08-01",
+                    "legalEntity": "{\"id\": 725574, \"name\": \"VMware\", \"uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vmware.png\", \"description\": \"VMware is a cloud services company that provides cloud infrastructure, cloud management, security, and networking.\", \"headcount\": \"10000+\", \"founding_date\": \"1998-01-01\", \"website\": \"https://www.vmware.com\", \"location\": \"Palo Alto\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1036854, 3307241], \"executive_people_profile_ids\": [2042004, 1955220, 3075297, 2842416, 3568199, 2246683, 868168, 1820622, 2685820, 2997706, 1138041, 2990426, 441702, 1739801, 190554, 1452664, 365967, 2168245, 1411611, 2221464, 1388062, 1831755, 596563, 2544556, 367552, 1829147, 2863513, 452858, 1104426, 504722, 453748, 457468, 2678440, 1235530, 847500, 178402, 682228, 2243159, 2969547, 3026482, 2942426, 1179532, 2731448, 2614155, 2256883, 550516, 45752, 3400248, 1666600, 1296964, 404872, 1570704, 2584946, 2650568, 3237238, 819335, 61997, 4184, 2565193, 386563, 571410, 662475, 1783810, 2031448, 3115660, 3358471, 1019623, 1417700, 1725578, 662460, 1473781, 782750, 1579710, 2200812, 1983905, 2672771, 1511128, 3305562, 1792297, 641118, 243136, 379407, 2899872, 2072669, 3129700, 1798221, 1909869, 1519882, 903791, 371893, 195890, 526359, 1511351, 3239822, 1640895, 3317294, 982669, 2525904, 2377812, 1387108, 1980795, 3333024, 847852, 3316864, 2528573, 639961, 872207, 597304, 933849, 2300473, 951027, 71077, 1853358, 1866875, 974518, 1496900, 991737, 2169181, 3156785, 2940198, 2891452, 1077986, 622439, 1181501, 1980254, 128767, 2900095, 1620889, 1304345, 1038533, 2728294, 1327201, 2722691, 1078819, 3376427, 2210438, 1907224, 1904758, 933640, 3056814, 2807202, 2791215, 3096360, 3322985, 1961084, 1791954, 2327363, 2593974, 954770, 838485, 715063, 3119021, 525777, 1916856, 2904827, 2432850, 2268205, 3162356, 1554226, 677840, 144885, 1350465, 140416, 2670713, 1074868, 119873, 3552457, 3171576, 1810979, 2579876, 179113, 2299758, 3066287, 1707904, 3201732, 2431844, 1715289, 2476767, 1493768, 1236277, 440578, 764454, 1556700, 189131, 198194, 1797643, 343919, 56563, 2030261, 1251213, 1894766, 3181822, 311404, 713912, 1093560, 2013222, 1853699, 376598, 1025474, 2579780, 2253427, 2192223, 324196, 778721, 197317, 1912924, 2405693, 1124490, 1623926, 585750, 88250, 1340754, 571896, 785389, 2206582, 1915348, 1950540, 123197, 2842760, 2799336, 609835, 2584572, 2685437, 1504227, 1267031, 772548, 1675125, 2001306, 252894, 1857186, 1485856, 1003816, 1648856, 1296887, 4073001, 2327515, 1123892, 2730481, 2140187, 3323203, 2756966, 2707964, 3167925, 2151909, 306104, 3395647, 316311, 920691, 1170849, 3171908, 2751251, 3171159, 946946, 2157538, 2210014, 1033650, 139445, 986058, 478508, 1835594, 2935206, 968674, 3112680, 1085463, 1539317, 1559132, 3354045, 782047, 2622004, 550132, 1430778, 2536283, 1857672, 1719338, 2739114, 1179639, 1223089, 1767069, 1674449, 2842850, 1578789, 832506, 405663, 2510141, 387537, 367863, 969083, 636078, 651512, 2220974, 433049, 4066730, 3309833, 1302323, 1223547, 1743201, 2434684, 193040, 2545045, 1369640, 1131334, 1558650, 3355135, 1941922, 2526816, 71295, 1924411, 1666215, 525495, 1240403, 2382739, 1302508, 930569, 2428953, 2176545, 3806095, 2745863, 1495411, 618071, 1334937, 2526350, 2160442, 79505, 2364811, 1457487, 1674817, 2990692, 225088, 2490598, 2753084, 661603, 1829215, 488492, 982814, 3401224, 2176430, 3204607, 670836, 2615438, 1067052, 637190, 809891, 2722960, 280437, 2145471, 2015155, 1438959, 2631330, 208023, 404259, 132434, 2522761, 3100429, 2087537, 2168437, 1978265, 701298, 87183, 2252333, 794091, 2940100, 1218139, 97140, 1260344, 2143522, 1690525, 422803, 1793913, 588594, 2586964, 570006, 1489862, 1701875, 404425, 64610, 1107131, 378789, 3067076, 224837, 1735347, 2847201, 2943531, 1492224, 321192, 2435799, 2449900, 2882003, 2180551, 1579366, 1627204, 3349945, 2687703, 2576848, 338340, 841281, 1864314, 2715955, 992298, 872249, 197719, 1230598, 1738774, 353596, 872359, 1330582, 1829465, 4038506, 1132087, 2139977, 2147213, 1198758, 541627, 1957509, 2900195, 497180, 1288401, 2610238, 660496, 2449496, 2465231, 75603, 2869969, 1081166, 3275165, 1289817, 2627063, 974688, 1417734, 2231507, 862636, 288000, 2840026, 398584, 868038, 1018744, 184140, 1025559, 342277, 2315585, 1234059, 46020, 803300, 782224, 1354202, 1864601, 2161696, 2986356, 3097095, 681426, 3349271, 1137762, 639396, 667721, 1722339, 272245, 1684150, 392688, 351362, 1009273, 3513867, 2341699, 1030709, 2118785, 2685025, 2624184, 1797683, 1006461, 2514646, 907025, 2242469, 3186576, 74956, 1431209, 616908, 351073, 3300619, 514093, 2706556, 3419358, 375089, 2175301, 3183677, 2875271, 1111760, 726386, 262790, 1135976, 2210369, 2649965, 1480709, 1677785, 403795, 2027561, 3334673, 1677136, 1094168, 3787262, 1598787, 1147075, 2598835, 400945, 1115699, 1006493, 1528515, 1059828, 113420, 159204, 1387896, 1817135, 1178395, 2714479, 1956490, 2745799, 873636, 693006, 2375067, 2598627, 1115848, 1754529, 1186310, 2360331, 299316, 160653, 840614, 1050054, 2761573, 996229, 2606179, 2661860, 1712132, 408740, 2333897, 2358855, 3098196, 2934213, 3020561, 574020, 2674897, 649662, 3138208, 464003, 1425811, 1677149, 464354, 50962, 2187535, 1344962, 1263583, 1618389, 1093854, 717818, 1736485, 2902395, 2745045, 1493962, 151007, 1743637, 891913, 2096921, 4080265, 2700351, 2143796, 1327197, 662884, 2191908, 873503, 1412008, 3323198, 2097073, 2707643, 1454983, 347278, 2120521, 2152925, 1571439, 1725149, 2686352, 1935128, 269406, 1464230, 2204096, 2627259, 2376050, 1118080, 2073746, 2540810, 1454213, 2717983, 75477, 1159529, 1937237, 929405, 1618408, 780356, 61636, 551351, 2140657, 1357331, 1286147, 1930367, 146713, 2918841, 321148, 1441104, 1869185, 2756653, 1327662, 422734, 3374163, 1622344, 1845606, 1285737, 207440, 2616076, 4144203, 2804080, 3075800, 617617, 2881995, 599286, 1395388, 3326706, 892497, 958538, 974983, 2443548, 448946, 3327335, 1622038, 1936910, 2627645, 1754112, 3332767, 186693, 3176111, 1356092, 263652, 1131645, 2168652, 1517692, 2545041, 164363, 1772201, 1621843, 2412393, 3408556, 344740, 2422361, 1964003, 1723528, 1743594, 2456553, 2496819, 4078127, 3359079, 373073, 3054868, 299494, 1881601, 1723102, 569734, 1838904, 1186303, 2051934, 2452035, 597458, 943014, 2955588, 2197323, 1733665, 339055, 2937924, 2616793, 1007181, 1697807, 3308184, 1158644, 2926916, 2510756, 806687, 1892280, 3183559, 759214, 831053, 2813837, 3063417, 333214, 448071, 809269, 3509180, 2727888, 1882683, 1500306, 3214488, 689469, 3390354, 3257149, 1784200, 3606407, 972548, 1104206, 41266, 2756355, 2854539, 1096364, 258969, 262206, 2616794, 2260440, 1855094, 1857696, 1803324, 485741, 1964502, 447504, 946274, 1569447, 2749241, 780103, 2838664, 2126088, 2919161, 2288253, 2295933, 611290, 1849309, 2301115, 3317794, 1839387, 658757, 583918, 2398192, 2745469, 1111741, 3100679, 2181735, 3350620, 858910, 2134696, 1368289, 2410820, 594075, 264224, 1492909, 1396518, 2667118, 304594, 43800, 421574, 2670980, 816933, 1070822, 819552, 1137299, 1293866, 1803585, 136252, 3230612, 3270772, 1755266, 1203531, 2365173, 1981945, 3398414, 3307881, 1078830, 1257988, 256901], \"cb_permalink\": \"https://www.crunchbase.com/organization/vmware\", \"linkedin_url\": \"https://linkedin.com/company/vmware\", \"twitter\": \"http:/twitter.com/VMware\", \"last_funding_round_date\": \"2007-07-30\", \"last_funding_round_name\": \"Private Equity Round\", \"total_funding_amount\": 393500000, \"company_li_name\": \"vmware\", \"tags\": [{\"id\": 4831421, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Cloud Infrastructure\", \"category\": \"Industry\"}, {\"id\": 4831422, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Cloud Management\", \"category\": \"Industry\"}, {\"id\": 4831423, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 4831424, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4831425, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Private Cloud\", \"category\": \"Industry\"}, {\"id\": 4831426, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Virtualization\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 82332, \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 14733, \"hc_estimate_90_days\": 14807, \"hc_estimate_180_days\": 14874, \"hc_estimate_270_days\": 14971, \"hc_estimate_365_days\": 15135, \"hc_growth_90_days\": \"-0.5\", \"hc_growth_180_days\": \"-0.9499999999999999555910790149937383830547332763671875\", \"hc_growth_270_days\": \"-1.5900000000000000799360577730112709105014801025390625\", \"hc_growth_365_days\": \"-2.660000000000000142108547152020037174224853515625\"}, \"funding_rounds\": [{\"id\": 128449, \"uuid\": \"d48a9723-fb27-f713-54cd-3d36f2d59b83\", \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-07-30\", \"investors\": null}, {\"id\": 128448, \"uuid\": \"61b80706-07d3-b1ce-1690-cb2a395569b5\", \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 218500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-07-09\", \"investors\": null}, {\"id\": 128447, \"uuid\": \"cc5ed671-5c22-5545-4305-d1ec783f01fd\", \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2000-08-16\", \"investors\": null}, {\"id\": 128446, \"uuid\": \"de016695-c502-1b0b-0170-2d269168240d\", \"legal_entity_uuid\": \"fb1e0239-94df-a94c-56d9-28956a629ed9\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2000-05-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vmware.png",
+                        "name": "VMware"
+                    },
+                    "position": "Quality Engineer",
+                    "startDate": "2013-07-01",
+                    "name": "VMware",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vmware.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2013-03-01",
+                    "legalEntity": "{\"id\": 388733, \"name\": \"Israeli Intelligence Corps\", \"uuid\": \"6cc7dd9e-ffd1-5bcc-b6d7-35f917c150fc\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1457925422/piopke7uaog67mgcn132.jpg\", \"description\": \"Israeli Intelligence Corps\", \"headcount\": \"unknown\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.aman.idf.il/modiin/general.aspx?catId=59930\", \"location\": \"Tel Aviv\", \"country\": \"ISR\", \"region\": \"Tel Aviv\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [998525, 1776237, 2964897, 3386236, 1502905, 1176580, 2407763], \"cb_permalink\": \"https://www.crunchbase.com/organization/israeli-intelligence-corps\", \"linkedin_url\": \"https://linkedin.com/company/israelimilitaryintelligence\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"israelimilitaryintelligence\", \"tags\": [{\"id\": 1725505, \"legal_entity_uuid\": \"6cc7dd9e-ffd1-5bcc-b6d7-35f917c150fc\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 137095, \"legal_entity_uuid\": \"6cc7dd9e-ffd1-5bcc-b6d7-35f917c150fc\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 18, \"hc_estimate_180_days\": 19, \"hc_estimate_270_days\": 20, \"hc_estimate_365_days\": 24, \"hc_growth_90_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_180_days\": \"-10.5299999999999993605115378159098327159881591796875\", \"hc_growth_270_days\": \"-15\", \"hc_growth_365_days\": \"-29.1700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1457925422/piopke7uaog67mgcn132.jpg",
+                        "name": "Israel Defense Forces - Military Intelligence"
+                    },
+                    "position": "System administrator / Team Leader",
+                    "startDate": "2010-03-01",
+                    "name": "Israel Defense Forces - Military Intelligence",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1457925422/piopke7uaog67mgcn132.jpg"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computing  Data Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 346095, \"name\": \"NYU Stern School of Business\", \"uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/b2cp9j5rf1jzx5xn0yrm\", \"description\": \"NYU Stern School of Business is a private research university in New York City, US.\", \"headcount\": \"10000+\", \"founding_date\": \"1900-01-01\", \"website\": \"http://www.stern.nyu.edu\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [99598, 1197006, 1804672, 1714494, 1405790, 2766378], \"cb_permalink\": \"https://www.crunchbase.com/organization/new-york-university-stern-school-of-business\", \"linkedin_url\": \"https://linkedin.com/company/nyu-stern-school-of-business\", \"twitter\": \"http:/twitter.com/NYUStern\", \"last_funding_round_date\": \"2019-09-19\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5000000, \"company_li_name\": \"nyu-stern-school-of-business\", \"tags\": [{\"id\": 4835730, \"legal_entity_uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"name\": \"Corporate Training\", \"category\": \"Industry\"}, {\"id\": 4835731, \"legal_entity_uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835732, \"legal_entity_uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835733, \"legal_entity_uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 123976, \"legal_entity_uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 124, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 140, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 139, \"hc_growth_90_days\": \"13.7599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"-11.42999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"-8.82000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"-10.78999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 429561, \"uuid\": \"e16679bb-2ebd-48f5-b0f3-6f11b43bec12\", \"legal_entity_uuid\": \"6af72884-ceb8-82b9-a495-a6cd923aa85e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-09-19\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2cp9j5rf1jzx5xn0yrm",
+                        "name": "NYU Stern School of Business"
+                    },
+                    "name": "NYU Stern School of Business",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2cp9j5rf1jzx5xn0yrm"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "179"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

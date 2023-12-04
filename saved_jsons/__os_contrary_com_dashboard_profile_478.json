@@ -1,0 +1,56 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "david.doepfner@outlook.com",
+                "firstName": "David",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "478",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-06-16T09:08:05",
+                "lastName": "Doepfner",
+                "linkedinName": "David ",
+                "linkedinUrl": "https://linkedin.com/in/David /",
+                "location": "",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 17,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ALm5wu0dpC8nw8CYtlpmlbE8KpsYbV4BUr7stjlpun-B=s96-c",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "ddoepfner@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "478"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

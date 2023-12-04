@@ -1,0 +1,113 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "",
+                "canProvide": "I spend much of my time on portfolios, estate planning, tax strategy, philanthropy, and other fun topics. Feel free to reach out with any questions.",
+                "currentRole": "Partner at Multifamily Office",
+                "educationExperiences": [],
+                "email": "albert@contrarycap.com",
+                "firstName": "Albert",
+                "greeting": "Shots on goal",
+                "greetingEmoji": "\ud83c\udfd2",
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "487",
+                "intro": "Hello - my primary role is to help people in a personal COO/CFO capacity. I previously worked with ICONIQ and EPIQ Capital. Look forward to working with the broader Contrary community!",
+                "isActiveFellow": false,
+                "isActiveHq": true,
+                "isActiveVp": false,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-12-01T20:05:32",
+                "lastName": "Wang",
+                "linkedinName": "ajwang",
+                "linkedinUrl": "https://linkedin.com/in/ajwang/",
+                "location": "San Francisco, CA",
+                "lookingFor": "Working alongside the best and most driven people I can find",
+                "meetWithBlurb": "",
+                "podId": 24,
+                "prismUuid": "a2f5a2c0-d74e-49de-8107-233dc4b0b9c5",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-487-Headshot%20(Carmel)%20In%20.jpg",
+                "roles": [
+                    "HQ",
+                    "Legacy Admin"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Multi-Family Office"
+                    },
+                    "position": "Partner",
+                    "startDate": "2023-02-01",
+                    "name": "Multi-Family Office",
+                    "logoUrl": null
+                }
+            ],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "487"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

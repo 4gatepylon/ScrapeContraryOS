@@ -1,0 +1,146 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Engineer @ Meta | MIT CS",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science and Engineering",
+                        "degreeType": "Bachelors",
+                        "endDate": null,
+                        "id": "766",
+                        "startDate": null,
+                        "universityId": 16
+                    }
+                ],
+                "email": "cchrstna@gmail.com",
+                "firstName": "Christina",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "413",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2022-12-21T02:39:20",
+                "lastName": "Chen",
+                "linkedinName": "christina-chen-194b5b76",
+                "linkedinUrl": "https://linkedin.com/in/christina-chen-194b5b76/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "9f1079ca-450c-4653-8061-9345d9342053",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/9a08c41dca34a58c8ba91f9016024a80/a292e31c/head1.png?ts=1659020056&userId=usrMxTlLuLWjeji2x&cs=6d693d92cad94364",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science and Engineering",
+                    "degreeType": "Bachelors",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "35",
+                    "value": "Dev Tools"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "37",
+                    "value": "Creator Economy"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "413"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

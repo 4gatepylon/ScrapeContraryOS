@@ -1,0 +1,359 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Founder & CEO @ Kinetic",
+                "educationExperiences": [
+                    {
+                        "degree": "Applied Mathematics and Computer Science (Double Major)",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2020-01-01",
+                        "id": "283",
+                        "startDate": "2017-01-01",
+                        "universityId": 32
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2017-01-01",
+                        "id": "284",
+                        "startDate": "2014-01-01",
+                        "universityId": 190
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2014-01-01",
+                        "id": "285",
+                        "startDate": "2013-01-01",
+                        "universityId": 191
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2013-01-01",
+                        "id": "286",
+                        "startDate": "2001-01-01",
+                        "universityId": 192
+                    }
+                ],
+                "email": "gstenger98@gmail.com",
+                "firstName": "Grant",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "153",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Stenger",
+                "linkedinName": "grant-stenger",
+                "linkedinUrl": "https://linkedin.com/in/grant-stenger/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "cfde12fc-4914-4b48-8f7d-146fc03b8d28",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/153_Grant_Stenger.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3428",
+                        "organizationId": 2590,
+                        "position": "Founder & CEO",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "951",
+                        "organizationId": 710,
+                        "position": "Founder & CEO",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "952",
+                        "organizationId": 711,
+                        "position": "Cryptocurrency Research",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "953",
+                        "organizationId": 459,
+                        "position": "Quantitative Trading",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "955",
+                        "organizationId": 712,
+                        "position": "Quantitative Researcher",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "3988",
+                        "organizationId": 2940,
+                        "position": "Quantitative Research",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "3989",
+                        "organizationId": 688,
+                        "position": "Founder-Instructor",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "954",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "958",
+                        "organizationId": 713,
+                        "position": "Machine Learning Engineer",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-10-01",
+                        "id": "957",
+                        "organizationId": 691,
+                        "position": "Undergraduate Researcher",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "956",
+                        "organizationId": 690,
+                        "position": "AI Researcher",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "3429",
+                        "organizationId": 413,
+                        "position": "AI Researcher",
+                        "startDate": "2017-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1302992, \"name\": \"Kinetic\", \"uuid\": \"3f7329f4-b98a-4f7b-adc5-d78dad82a9db\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gakkohfne3dpabfowcfl\", \"description\": \"Frontier technology lab\", \"headcount\": \"1-10\", \"founding_date\": \"2022-04-19\", \"website\": \"https://kinetic.xyz\", \"location\": \"Santa Monica\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/kinetic-a9db\", \"linkedin_url\": \"https://linkedin.com/company/kineticxyz\", \"twitter\": \"https:/twitter.com/kinetic_xyz\", \"last_funding_round_date\": \"2022-08-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 7200000, \"company_li_name\": \"kineticxyz\", \"tags\": [{\"id\": 599532, \"legal_entity_uuid\": \"3f7329f4-b98a-4f7b-adc5-d78dad82a9db\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 22009, \"legal_entity_uuid\": \"3f7329f4-b98a-4f7b-adc5-d78dad82a9db\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-33.3299999999999982946974341757595539093017578125\"}, \"funding_rounds\": [{\"id\": 440633, \"uuid\": \"22890a5b-ecf2-49a2-89d9-7a1331821c51\", \"legal_entity_uuid\": \"3f7329f4-b98a-4f7b-adc5-d78dad82a9db\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 7200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gakkohfne3dpabfowcfl",
+                        "name": "Kinetic"
+                    },
+                    "position": "Founder  CEO",
+                    "startDate": "2022-05-01",
+                    "name": "Kinetic",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gakkohfne3dpabfowcfl"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 1408079, \"name\": \"Polychain\", \"uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/polychain-capital.png\", \"description\": \"Polychain Capital invests in cryptocurrency and blockchain assets.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"http://polychain.capital\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1673311], \"executive_people_profile_ids\": [1652368, 3129127, 2833801], \"cb_permalink\": \"https://www.crunchbase.com/organization/polychain-capital\", \"linkedin_url\": \"https://linkedin.com/company/polychain-capital\", \"twitter\": null, \"last_funding_round_date\": \"2016-12-11\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 10000000, \"company_li_name\": \"polychain-capital\", \"tags\": [{\"id\": 5955285, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 5955286, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 5955284, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Cryptocurrency\", \"category\": \"Industry\"}, {\"id\": 5955283, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Bitcoin\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 38978, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 35, \"hc_estimate_90_days\": 36, \"hc_estimate_180_days\": 38, \"hc_estimate_270_days\": 38, \"hc_estimate_365_days\": 37, \"hc_growth_90_days\": \"-2.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-7.88999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"-7.88999999999999968025576890795491635799407958984375\", \"hc_growth_365_days\": \"-5.410000000000000142108547152020037174224853515625\"}, \"funding_rounds\": [{\"id\": 163346, \"uuid\": \"b213b69a-bffb-3046-aa9b-91437f628d3c\", \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-12-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/polychain-capital.png",
+                        "name": "Polychain Capital"
+                    },
+                    "position": "Quant Research",
+                    "startDate": "2021-01-01",
+                    "name": "Polychain Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/polychain-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/jane-street-global.png",
+                        "name": "Jane Street"
+                    },
+                    "position": "Quant Trading",
+                    "startDate": "2020-01-01",
+                    "name": "Jane Street",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/jane-street-global.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 1388257, \"name\": \"QuantRes\", \"uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"logo_url\": \"https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png\", \"description\": \"QuantRes is a proprietary quantitative trading firm and global private investor\", \"headcount\": \"11-50\", \"founding_date\": \"1989-01-01\", \"website\": \"https://quantres.com/home-ba/\", \"location\": \"Nassau\", \"country\": \"BAH\", \"region\": \"New Providence\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/quantres\", \"linkedin_url\": \"https://linkedin.com/company/quantres.com\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"quantres.com\", \"tags\": [{\"id\": 7622351, \"legal_entity_uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 5917553, \"legal_entity_uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 361292, \"legal_entity_uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "QuantRes"
+                    },
+                    "position": "Quant Research",
+                    "startDate": "2019-01-01",
+                    "name": "QuantRes",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/svdti.png",
+                        "name": "Silicon Valley Design Thinking Institute"
+                    },
+                    "position": "Founder-Instructor",
+                    "startDate": "2019-01-01",
+                    "name": "Silicon Valley Design Thinking Institute",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/svdti.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Fellow  Venture Partner",
+                    "startDate": "2018-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "USC Center for AI in Societys Student Branch (CAIS++)"
+                    },
+                    "position": "AI Research",
+                    "startDate": "2017-01-01",
+                    "name": "USC Center for AI in Societys Student Branch (CAIS++)",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-10-01",
+                    "legalEntity": "{\"id\": 444170, \"name\": \"University of Southern California\", \"uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png\", \"description\": \"University of Southern California is a private research university offering opportunities for interdisciplinary study and collaboration.\", \"headcount\": \"10000+\", \"founding_date\": \"1880-01-01\", \"website\": \"http://www.usc.edu\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1977034], \"executive_people_profile_ids\": [1010974, 3082228, 971665, 2577100, 3140496, 335148, 2039214, 2237588, 743160, 2661081, 766105], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-southern-california\", \"linkedin_url\": \"https://linkedin.com/school/university-of-southern-california\", \"twitter\": \"https:/twitter.com/USC\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2370000, \"company_li_name\": \"university-of-southern-california\", \"tags\": [{\"id\": 1795270, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1795271, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1795272, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 107849, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 553, \"hc_estimate_90_days\": 515, \"hc_estimate_180_days\": 620, \"hc_estimate_270_days\": 628, \"hc_estimate_365_days\": 671, \"hc_growth_90_days\": \"7.37999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"-10.8100000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"-11.9399999999999995026200849679298698902130126953125\", \"hc_growth_365_days\": \"-17.589999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 485590, \"uuid\": \"2b593b67-18ea-4883-9e12-cb4a472ebec1\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 454802, \"uuid\": \"bb9b89bb-3e2e-40e6-b4ee-216f801e8c70\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 454801, \"uuid\": \"deca1823-7f88-4859-a646-7bdb985295fb\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-20\", \"investors\": null}, {\"id\": 454800, \"uuid\": \"1344422d-5ddd-4a18-b67d-88ceb61c40e0\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 485589, \"uuid\": \"2ea9bb08-4a76-40b5-825a-9a716bd1ba68\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-07-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png",
+                        "name": "University of Southern California"
+                    },
+                    "position": "Undergraduate Researcher",
+                    "startDate": "2017-09-01",
+                    "name": "University of Southern California",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 770568, \"name\": \"Numerai\", \"uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1481569750/lyfivmxrim4teahruoh5.png\", \"description\": \"Numerai transforms and regularizes financial data into machine learning problems for global network of data scientists.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-10-05\", \"website\": \"https://numer.ai\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [237765], \"executive_people_profile_ids\": [237765, 2238137, 1104038, 2681248, 2077462, 3348953], \"cb_permalink\": \"https://www.crunchbase.com/organization/numerai\", \"linkedin_url\": \"https://linkedin.com/company/numerai\", \"twitter\": \"https:/twitter.com/numerai\", \"last_funding_round_date\": \"2023-02-08\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 31500000, \"company_li_name\": \"numerai\", \"tags\": [{\"id\": 6288235, \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6288234, \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 6288233, \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6288232, \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6288231, \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 92615, \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 6, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 7, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-14.28999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-14.28999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 436546, \"uuid\": \"5c41963d-6a36-436a-be9b-531faf86e127\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2023-02-08\", \"investors\": null}, {\"id\": 436545, \"uuid\": \"04a57c29-90fb-4088-925b-a459f48518fa\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2020-06-03\", \"investors\": null}, {\"id\": 436544, \"uuid\": \"138dd69b-1a6d-4857-8c4d-bcd7fccfff19\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2019-05-05\", \"investors\": null}, {\"id\": 436543, \"uuid\": \"80c74639-e9ee-4dba-b141-3e34b3e4f61d\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": 11000000, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2019-03-21\", \"investors\": null}, {\"id\": 436542, \"uuid\": \"86957e00-d767-4941-ba72-17febb348c60\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2018-06-01\", \"investors\": null}, {\"id\": 436541, \"uuid\": \"b06f9408-ffc6-4764-bc8a-b8fa107eea6e\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2017-09-10\", \"investors\": null}, {\"id\": 436540, \"uuid\": \"464be442-71b1-954e-edaf-5f4cd3566d3e\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 6000000, \"post_money_valuation_usd\": 30000000, \"announced_date\": \"2016-12-12\", \"investors\": null}, {\"id\": 436539, \"uuid\": \"a6f55b72-15d4-b04b-b3fd-dd63ac733176\", \"legal_entity_uuid\": \"8c7b7bb5-a56b-007d-833a-9d51bb682cf1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-04-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1481569750/lyfivmxrim4teahruoh5.png",
+                        "name": "Numerai"
+                    },
+                    "position": "Machine Learning Engineer",
+                    "startDate": "2018-01-01",
+                    "name": "Numerai",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1481569750/lyfivmxrim4teahruoh5.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-07-01",
+                    "legalEntity": "{\"id\": 1388257, \"name\": \"QuantRes\", \"uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"logo_url\": \"https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png\", \"description\": \"QuantRes is a proprietary quantitative trading firm and global private investor\", \"headcount\": \"11-50\", \"founding_date\": \"1989-01-01\", \"website\": \"https://quantres.com/home-ba/\", \"location\": \"Nassau\", \"country\": \"BAH\", \"region\": \"New Providence\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/quantres\", \"linkedin_url\": \"https://linkedin.com/company/quantres.com\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"quantres.com\", \"tags\": [{\"id\": 7622351, \"legal_entity_uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 5917553, \"legal_entity_uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 361292, \"legal_entity_uuid\": \"f68fefce-bb26-c7a4-fc8c-ca262eb12c3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "QuantRes"
+                    },
+                    "position": "Quant Research Intern",
+                    "startDate": "2016-07-01",
+                    "name": "QuantRes",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1731531, \"name\": \"Head-Royce School\", \"uuid\": \"6fda2762-2954-4cdc-92c8-9d18a96a3ffd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rptzpksoc9nemvwczuyq\", \"description\": \"Head-Royce School operates as a nationally recognized K-12 independent school in Oakland.\", \"headcount\": \"51-100\", \"founding_date\": \"1887-01-01\", \"website\": \"https://www.headroyce.org/\", \"location\": \"Oakland\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/head-royce-school\", \"linkedin_url\": \"https://linkedin.com/school/head-royce-school\", \"twitter\": \"https:/twitter.com/headroyceschool\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"head-royce-school\", \"tags\": [{\"id\": 2254257, \"legal_entity_uuid\": \"6fda2762-2954-4cdc-92c8-9d18a96a3ffd\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 2254256, \"legal_entity_uuid\": \"6fda2762-2954-4cdc-92c8-9d18a96a3ffd\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 2254255, \"legal_entity_uuid\": \"6fda2762-2954-4cdc-92c8-9d18a96a3ffd\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 102264, \"legal_entity_uuid\": \"6fda2762-2954-4cdc-92c8-9d18a96a3ffd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rptzpksoc9nemvwczuyq",
+                        "name": "Head-Royce School"
+                    },
+                    "name": "Head-Royce School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rptzpksoc9nemvwczuyq"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 126451, \"name\": \"think global school\", \"uuid\": \"d672dc18-d774-438e-8a4e-bab10482639f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gxlnldlyovhpuwo705oq\", \"description\": \"think global school is a worlds first mobile, global high school. Integrating education, travel and technology.\", \"headcount\": \"11-50\", \"founding_date\": \"2009-01-01\", \"website\": \"https://thinkglobalschool.org/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1516093], \"executive_people_profile_ids\": [1516093], \"cb_permalink\": \"https://www.crunchbase.com/organization/think-global-school\", \"linkedin_url\": \"https://linkedin.com/school/think-global-school\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"think-global-school\", \"tags\": [{\"id\": 1108427, \"legal_entity_uuid\": \"d672dc18-d774-438e-8a4e-bab10482639f\", \"name\": \"Secondary Education\", \"category\": \"Industry\"}, {\"id\": 1108426, \"legal_entity_uuid\": \"d672dc18-d774-438e-8a4e-bab10482639f\", \"name\": \"Primary Education\", \"category\": \"Industry\"}, {\"id\": 1108425, \"legal_entity_uuid\": \"d672dc18-d774-438e-8a4e-bab10482639f\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 20809, \"legal_entity_uuid\": \"d672dc18-d774-438e-8a4e-bab10482639f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 0, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gxlnldlyovhpuwo705oq",
+                        "name": "THINK Global School"
+                    },
+                    "name": "THINK Global School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gxlnldlyovhpuwo705oq"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Applied Mathematics and Computer Science (Dual Degree)",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 444170, \"name\": \"University of Southern California\", \"uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png\", \"description\": \"University of Southern California is a private research university offering opportunities for interdisciplinary study and collaboration.\", \"headcount\": \"10000+\", \"founding_date\": \"1880-01-01\", \"website\": \"http://www.usc.edu\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1977034], \"executive_people_profile_ids\": [1010974, 3082228, 971665, 2577100, 3140496, 335148, 2039214, 2237588, 743160, 2661081, 766105], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-southern-california\", \"linkedin_url\": \"https://linkedin.com/school/university-of-southern-california\", \"twitter\": \"https:/twitter.com/USC\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2370000, \"company_li_name\": \"university-of-southern-california\", \"tags\": [{\"id\": 1795270, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1795271, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1795272, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 107849, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 553, \"hc_estimate_90_days\": 515, \"hc_estimate_180_days\": 620, \"hc_estimate_270_days\": 628, \"hc_estimate_365_days\": 671, \"hc_growth_90_days\": \"7.37999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"-10.8100000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"-11.9399999999999995026200849679298698902130126953125\", \"hc_growth_365_days\": \"-17.589999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 485590, \"uuid\": \"2b593b67-18ea-4883-9e12-cb4a472ebec1\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 454802, \"uuid\": \"bb9b89bb-3e2e-40e6-b4ee-216f801e8c70\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 454801, \"uuid\": \"deca1823-7f88-4859-a646-7bdb985295fb\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-20\", \"investors\": null}, {\"id\": 454800, \"uuid\": \"1344422d-5ddd-4a18-b67d-88ceb61c40e0\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 485589, \"uuid\": \"2ea9bb08-4a76-40b5-825a-9a716bd1ba68\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-07-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png",
+                        "name": "University of Southern California"
+                    },
+                    "name": "University of Southern California",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "153"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

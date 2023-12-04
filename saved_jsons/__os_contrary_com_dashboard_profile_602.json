@@ -1,0 +1,117 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Would love to talk about deep tech / academic -> startup work! ",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "claire.wang@vp.contrary.com",
+                "firstName": "Claire",
+                "greeting": "dftba! ",
+                "greetingEmoji": "\ud83d\udc4b",
+                "hqPosition": null,
+                "hubCity": "Boston",
+                "id": "602",
+                "intro": "venture partner @ mit co'2027, studying cs+neuro & public policy!",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-06T07:34:12",
+                "lastName": "Wang",
+                "linkedinName": "claire-bookworm",
+                "linkedinUrl": "https://linkedin.com/in/claire-bookworm/",
+                "location": "Boston, MA",
+                "lookingFor": "to learn more about contrary & vp! ",
+                "meetWithBlurb": null,
+                "podId": 27,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-602-headshot-claire%20copy-min.png",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U05QNA5T5D5",
+                "twitterHandle": "clairebookworm1",
+                "twitterUrl": "https://twitter.com/clairebookworm1/",
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "24",
+                    "value": "Robotics"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "27",
+                    "value": "Transportation & Logistics"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "55",
+                    "value": "Hackathons"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "602"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

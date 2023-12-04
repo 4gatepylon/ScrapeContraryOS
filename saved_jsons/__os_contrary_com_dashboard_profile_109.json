@@ -1,0 +1,344 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Machine Learning Engineer at Atomic",
+                "educationExperiences": [],
+                "email": "neff.samuelg@gmail.com",
+                "firstName": "Sam",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "109",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-01-31T02:11:36",
+                "lastName": "Neff",
+                "linkedinName": "samuel-neff-20385b124",
+                "linkedinUrl": "https://linkedin.com/in/samuel-neff-20385b124/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "cfbcff28-03d5-4015-b442-baa16aed717c",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/109_Sam_Neff.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-04-01",
+                    "legalEntity": "{\"id\": 1096722, \"name\": \"atomic\", \"uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/sfdroimkkcipjnychkee\", \"description\": \"atomic is an online platform that specializes in lending and financial services.\", \"headcount\": \"101-250\", \"founding_date\": \"2019-01-01\", \"website\": \"https://atomic.financial\", \"location\": \"Salt Lake City\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [1602800], \"executive_people_profile_ids\": [396836, 1602800, 2344186], \"cb_permalink\": \"https://www.crunchbase.com/organization/atomic-fi\", \"linkedin_url\": \"https://linkedin.com/company/atomic-fi\", \"twitter\": \"https:/twitter.com/atomic_fi_dev\", \"last_funding_round_date\": \"2022-03-03\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 68564983, \"company_li_name\": \"atomic-fi\", \"tags\": [{\"id\": 5308160, \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Banking\", \"category\": \"Industry\"}, {\"id\": 5308161, \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5308162, \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Lending\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 179821, \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 12, \"hc_estimate_90_days\": 13, \"hc_estimate_180_days\": 15, \"hc_estimate_270_days\": 20, \"hc_estimate_365_days\": 22, \"hc_growth_90_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_180_days\": \"-20\", \"hc_growth_270_days\": \"-40\", \"hc_growth_365_days\": \"-45.4500000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 377133, \"uuid\": \"86aec130-e931-43c4-a866-978bc4f3b434\", \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-03\", \"investors\": null}, {\"id\": 377132, \"uuid\": \"3262da4c-3ee9-408c-9c31-c681ac92f2f8\", \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 22000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-12\", \"investors\": null}, {\"id\": 377131, \"uuid\": \"b2099a88-3b2e-44d4-8b59-e0145b4d4884\", \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-06-04\", \"investors\": null}, {\"id\": 377130, \"uuid\": \"03a9141b-0d7b-46a5-b6e2-fa4815dbc8d5\", \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 5914983, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-07-06\", \"investors\": null}, {\"id\": 377129, \"uuid\": \"bbe09068-0b1f-494e-a035-dd151a134c6f\", \"legal_entity_uuid\": \"8c209557-1d58-4b13-bb54-4e92748d4f83\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 650000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sfdroimkkcipjnychkee",
+                        "name": "Atomic"
+                    },
+                    "position": "Machine Learning Engineer",
+                    "startDate": "2021-10-01",
+                    "name": "Atomic",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sfdroimkkcipjnychkee"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "IDEA Labs"
+                    },
+                    "position": "Research Assistant",
+                    "startDate": "2017-04-01",
+                    "name": "IDEA Labs",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-10-01",
+                    "legalEntity": "{\"id\": 506062, \"name\": \"Applied Invention\", \"uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/wvmnsu20e2rc87b982vt\", \"description\": \"Applied Invention designs, builds, and develops technology solutions in partnership with companies and entrepreneurs.\", \"headcount\": \"11-50\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.appliedinvention.com\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/applied-invention\", \"linkedin_url\": \"https://linkedin.com/company/applied-invention\", \"twitter\": \"https:/twitter.com/appliedinv\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"applied-invention\", \"tags\": [{\"id\": 5465990, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 5465993, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Web Design\", \"category\": \"Industry\"}, {\"id\": 5465992, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 5465991, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 117871, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wvmnsu20e2rc87b982vt",
+                        "name": "Applied Invention"
+                    },
+                    "position": "Data Scientist",
+                    "startDate": "2018-05-01",
+                    "name": "Applied Invention",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wvmnsu20e2rc87b982vt"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 748819, \"name\": \"Brigham Young University (BYU)\", \"uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc\", \"description\": \"Brigham Young University is a private university owned and operated by The Church of Jesus Christ of Latter-day Saints.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1875-10-16\", \"website\": \"http://www.byu.edu\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2238075, 2043630, 2812130, 3246369, 494414], \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university\", \"linkedin_url\": \"https://linkedin.com/company/brigham-young-university\", \"twitter\": \"http:/twitter.com/byu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brigham-young-university\", \"tags\": [{\"id\": 4833905, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94434, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 289, \"hc_estimate_90_days\": 289, \"hc_estimate_180_days\": 308, \"hc_estimate_270_days\": 342, \"hc_estimate_365_days\": 345, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-6.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-15.5\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc",
+                        "name": "Brigham Young University"
+                    },
+                    "position": "Computer Science Instructor",
+                    "startDate": "2021-06-01",
+                    "name": "Brigham Young University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2017-12-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 158028, \"name\": \"Fifth Partners\", \"uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-partners.png\", \"description\": \"Fifth Partners is a investment management company that provides the human, intellectual, and financial capital.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"https://fifthpartners.com\", \"location\": \"Dallas\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [4188557], \"cb_permalink\": \"https://www.crunchbase.com/organization/fifth-partners\", \"linkedin_url\": \"https://linkedin.com/company/fifth-partners\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"fifth-partners\", \"tags\": [{\"id\": 5640526, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 5640525, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5640527, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"name\": \"Service Industry\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 2398, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-partners.png",
+                        "name": "Fifth Partners"
+                    },
+                    "position": "Data Science Fellow",
+                    "startDate": "2019-05-01",
+                    "name": "Fifth Partners",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-partners.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Achilles Heel Technologies"
+                    },
+                    "position": "Data Scientist",
+                    "startDate": "2018-09-01",
+                    "name": "Achilles Heel Technologies",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-04-01",
+                    "legalEntity": "{\"id\": 506062, \"name\": \"Applied Invention\", \"uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/wvmnsu20e2rc87b982vt\", \"description\": \"Applied Invention designs, builds, and develops technology solutions in partnership with companies and entrepreneurs.\", \"headcount\": \"11-50\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.appliedinvention.com\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/applied-invention\", \"linkedin_url\": \"https://linkedin.com/company/applied-invention\", \"twitter\": \"https:/twitter.com/appliedinv\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"applied-invention\", \"tags\": [{\"id\": 5465990, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 5465993, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Web Design\", \"category\": \"Industry\"}, {\"id\": 5465992, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 5465991, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 117871, \"legal_entity_uuid\": \"d8c9ada5-e36b-43f6-ac60-bbfd9bf8b76d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wvmnsu20e2rc87b982vt",
+                        "name": "Applied Invention"
+                    },
+                    "position": "Data Science Intern",
+                    "startDate": "2018-05-01",
+                    "name": "Applied Invention",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wvmnsu20e2rc87b982vt"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-05-01",
+                    "legalEntity": "{\"id\": 748819, \"name\": \"Brigham Young University (BYU)\", \"uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc\", \"description\": \"Brigham Young University is a private university owned and operated by The Church of Jesus Christ of Latter-day Saints.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1875-10-16\", \"website\": \"http://www.byu.edu\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2238075, 2043630, 2812130, 3246369, 494414], \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university\", \"linkedin_url\": \"https://linkedin.com/company/brigham-young-university\", \"twitter\": \"http:/twitter.com/byu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brigham-young-university\", \"tags\": [{\"id\": 4833905, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94434, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 289, \"hc_estimate_90_days\": 289, \"hc_estimate_180_days\": 308, \"hc_estimate_270_days\": 342, \"hc_estimate_365_days\": 345, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-6.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-15.5\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc",
+                        "name": "Brigham Young University"
+                    },
+                    "position": "VP Communications - Eclub",
+                    "startDate": "2017-11-01",
+                    "name": "Brigham Young University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/missionary-training-center.png",
+                        "name": "Missionary Training Center"
+                    },
+                    "position": "Investigator",
+                    "startDate": "2016-05-01",
+                    "name": "Missionary Training Center",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/missionary-training-center.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Masters degree",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 748819, \"name\": \"Brigham Young University (BYU)\", \"uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc\", \"description\": \"Brigham Young University is a private university owned and operated by The Church of Jesus Christ of Latter-day Saints.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1875-10-16\", \"website\": \"http://www.byu.edu\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2238075, 2043630, 2812130, 3246369, 494414], \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university\", \"linkedin_url\": \"https://linkedin.com/company/brigham-young-university\", \"twitter\": \"http:/twitter.com/byu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brigham-young-university\", \"tags\": [{\"id\": 4833905, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94434, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 289, \"hc_estimate_90_days\": 289, \"hc_estimate_180_days\": 308, \"hc_estimate_270_days\": 342, \"hc_estimate_365_days\": 345, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-6.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-15.5\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc",
+                        "name": "Brigham Young University"
+                    },
+                    "name": "Brigham Young University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Vocal Performance/Computer Science",
+                    "degreeType": "Bachelor of Arts (B.A.)",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 748819, \"name\": \"Brigham Young University (BYU)\", \"uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc\", \"description\": \"Brigham Young University is a private university owned and operated by The Church of Jesus Christ of Latter-day Saints.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1875-10-16\", \"website\": \"http://www.byu.edu\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2238075, 2043630, 2812130, 3246369, 494414], \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university\", \"linkedin_url\": \"https://linkedin.com/company/brigham-young-university\", \"twitter\": \"http:/twitter.com/byu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brigham-young-university\", \"tags\": [{\"id\": 4833905, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94434, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 289, \"hc_estimate_90_days\": 289, \"hc_estimate_180_days\": 308, \"hc_estimate_270_days\": 342, \"hc_estimate_365_days\": 345, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-6.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-15.5\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc",
+                        "name": "Brigham Young University"
+                    },
+                    "name": "Brigham Young University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Software Engineering",
+                    "degreeType": "Full Stack Web Development Certification",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 759268, \"name\": \"freeCodeCamp\", \"uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ikqra03zdnggljdu5vv0\", \"description\": \"Learn to code and help nonprofits\", \"headcount\": \"11-50\", \"founding_date\": \"2014-10-15\", \"website\": \"https://www.freecodecamp.org\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1157415], \"executive_people_profile_ids\": [1157415], \"cb_permalink\": \"https://www.crunchbase.com/organization/free-code-camp\", \"linkedin_url\": \"https://linkedin.com/school/free-code-camp\", \"twitter\": \"https:/twitter.com/freeCodeCamp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"free-code-camp\", \"tags\": [{\"id\": 4918624, \"legal_entity_uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 4918623, \"legal_entity_uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 93622, \"legal_entity_uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 21, \"hc_estimate_90_days\": 22, \"hc_estimate_180_days\": 21, \"hc_estimate_270_days\": 20, \"hc_estimate_365_days\": 21, \"hc_growth_90_days\": \"-4.54999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"5\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ikqra03zdnggljdu5vv0",
+                        "name": "freeCodeCamp"
+                    },
+                    "name": "freeCodeCamp",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ikqra03zdnggljdu5vv0"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "38",
+                    "value": "Hardware"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "30",
+                    "value": "Cybersecurity"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "44",
+                    "value": "Gaming"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "52",
+                    "value": "Rock Climbing"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "56",
+                    "value": "Running"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "55",
+                    "value": "Hackathons"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "109"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

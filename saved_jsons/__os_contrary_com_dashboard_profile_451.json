@@ -1,0 +1,54 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [],
+                "email": "mehak.garg@vp.contrary.com",
+                "firstName": "Mehak",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "451",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-06T07:48:28",
+                "lastName": "Garg",
+                "linkedinName": "mehak--garg",
+                "linkedinUrl": "https://linkedin.com/in/mehak--garg/",
+                "location": "",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 4,
+                "prismUuid": "e549cffa-b17e-4e71-952d-91e383927b08",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp7Ramc-s4_C28VbDPO2ZAWYnkTz8-zE6h5XwQRE=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "meh.garg7@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U02J36NHCGZ",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "451"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

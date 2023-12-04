@@ -1,0 +1,87 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "joshl@contrarycap.com",
+                "firstName": "Joshua",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "631",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": true,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-29T18:21:57",
+                "lastName": "Lesko",
+                "linkedinName": "joshua-lesko-27409233/",
+                "linkedinUrl": "https://linkedin.com/in/joshua-lesko-27409233//",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 24,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-631-Headshot1.jpg",
+                "roles": [
+                    "HQ"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "24",
+                    "value": "Robotics"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "631"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,317 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Software Engineer at Pave",
+                "educationExperiences": [],
+                "email": "karthik.s814@gmail.com",
+                "firstName": "Karthik",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "230",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2022-12-21T03:05:43",
+                "lastName": "Suresh",
+                "linkedinName": "karthiksuresh814",
+                "linkedinUrl": "https://linkedin.com/in/karthiksuresh814/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "8e44a81b-2478-437a-ab1b-06e7a4a460d5",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-230-Screen%20Shot%202022-07-20%20at%2010.54.05%20AM.png",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4569",
+                        "organizationId": 1874,
+                        "position": "Software Engineer",
+                        "startDate": "2022-07-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1510",
+                        "organizationId": 18,
+                        "position": "Software Engineer",
+                        "startDate": "2020-02-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1511",
+                        "organizationId": 1096,
+                        "position": "Angel Investor",
+                        "startDate": "2019-08-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1513",
+                        "organizationId": 198,
+                        "position": "Fellow",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "1514",
+                        "organizationId": 528,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2019-12-01",
+                        "id": "1512",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2018-03-01"
+                    },
+                    {
+                        "endDate": "2018-05-01",
+                        "id": "1515",
+                        "organizationId": 1097,
+                        "position": "Undergraduate TA",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1516",
+                        "organizationId": 1098,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "4570",
+                        "organizationId": 984423,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1517",
+                        "organizationId": 1099,
+                        "position": "Intern",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "3513",
+                        "organizationId": 2758,
+                        "position": "Intern",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "1518",
+                        "organizationId": 279,
+                        "position": "Research Intern",
+                        "startDate": "2015-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1451990, \"name\": \"Pave\", \"uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/kilu9orbjckx279wwb5o\", \"description\": \"Pave is a real-time compensation platform that helps organizations plan, communicate, and benchmark employees compensation.\", \"headcount\": \"101-250\", \"founding_date\": \"2019-10-01\", \"website\": \"https://www.pave.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [43486, 3065665], \"executive_people_profile_ids\": [43486, 1580629, 801572, 2675961, 2725918, 3065665, 2022387, 1980130], \"cb_permalink\": \"https://www.crunchbase.com/organization/pave\", \"linkedin_url\": \"https://linkedin.com/company/pave\", \"twitter\": \"https:/twitter.com/pavecomp\", \"last_funding_round_date\": \"2022-06-28\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 162950000, \"company_li_name\": \"pave\", \"tags\": [{\"id\": 6534607, \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6534606, \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6534605, \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Real Time\", \"category\": \"Industry\"}, {\"id\": 6534604, \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6534603, \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Employee Benefits\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 48322, \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 134, \"hc_estimate_90_days\": 140, \"hc_estimate_180_days\": 147, \"hc_estimate_270_days\": 151, \"hc_estimate_365_days\": 146, \"hc_growth_90_days\": \"-4.29000000000000003552713678800500929355621337890625\", \"hc_growth_180_days\": \"-8.839999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-11.2599999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-8.2200000000000006394884621840901672840118408203125\"}, \"funding_rounds\": [{\"id\": 355341, \"uuid\": \"fbd72baa-1293-4f10-b876-f14b5a0e2ff4\", \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 1600000000, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 355340, \"uuid\": \"17cacc11-a301-4e79-b344-ee7c7d28e770\", \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 46000000, \"post_money_valuation_usd\": 400000000, \"announced_date\": \"2021-08-10\", \"investors\": null}, {\"id\": 355339, \"uuid\": \"8260542a-354e-4d0a-bc82-da266bbede69\", \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 16000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-03\", \"investors\": null}, {\"id\": 355338, \"uuid\": \"961ed79a-37b6-b8d1-8185-a7201c1fa7c1\", \"legal_entity_uuid\": \"a58bea81-faa3-5a29-b99c-ed112a9dde41\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 950000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-31\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kilu9orbjckx279wwb5o",
+                        "name": "Pave"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2022-07-01",
+                    "name": "Pave",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kilu9orbjckx279wwb5o"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1430116, \"name\": \"Startups\", \"uuid\": \"2a476af1-8461-4030-bcea-0d4fdc1a1ef4\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/london-startup-network.png\", \"description\": \"Early Stage Startup Investor and Advisor\", \"headcount\": \"unknown\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.networkly.org/london-startup-network\", \"location\": null, \"country\": null, \"region\": null, \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/startups-1ef4\", \"linkedin_url\": \"https://linkedin.com/company/london-startup-network\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"london-startup-network\", \"tags\": [{\"id\": 2961484, \"legal_entity_uuid\": \"2a476af1-8461-4030-bcea-0d4fdc1a1ef4\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7607144, \"legal_entity_uuid\": \"2a476af1-8461-4030-bcea-0d4fdc1a1ef4\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 25733, \"legal_entity_uuid\": \"2a476af1-8461-4030-bcea-0d4fdc1a1ef4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 35, \"hc_estimate_90_days\": 36, \"hc_estimate_180_days\": 36, \"hc_estimate_270_days\": 36, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-2.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-2.779999999999999804600747665972448885440826416015625\", \"hc_growth_270_days\": \"-2.779999999999999804600747665972448885440826416015625\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/london-startup-network.png",
+                        "name": "Startups"
+                    },
+                    "position": "Angel Investor",
+                    "startDate": "2019-08-01",
+                    "name": "Startups",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/london-startup-network.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 1407537, \"name\": \"Blend\", \"uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/mnbbz4llef0xdismgyh3\", \"description\": \"Blend is a digital lending platform that supports and simplifies applications for mortgages, consumer loans, and deposit accounts.\", \"headcount\": \"501-1000\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.blend.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [347626, 930177, 2077662, 1968026], \"executive_people_profile_ids\": [347626, 930177, 1606341, 2566543, 1600132, 1944050, 3190112, 2681284, 1968026, 1514347, 3106121, 1974088, 2853894, 3406215, 522729, 1533070, 2811678, 2077662], \"cb_permalink\": \"https://www.crunchbase.com/organization/blend-labs\", \"linkedin_url\": \"https://linkedin.com/company/blend-\", \"twitter\": \"http:/www.twitter.com/blendlabsinc\", \"last_funding_round_date\": \"2021-02-08\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 665000000, \"company_li_name\": \"blend-\", \"tags\": [{\"id\": 1778760, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1778761, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 1778762, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Lending\", \"category\": \"Industry\"}, {\"id\": 1778763, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 41743, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 145, \"hc_estimate_90_days\": 150, \"hc_estimate_180_days\": 155, \"hc_estimate_270_days\": 174, \"hc_estimate_365_days\": 188, \"hc_growth_90_days\": \"-3.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-6.45000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"-22.870000000000000994759830064140260219573974609375\"}, \"funding_rounds\": [{\"id\": 193554, \"uuid\": \"2b5309f7-6b08-400f-9e2a-6ce98828ea93\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 3300000000, \"announced_date\": \"2021-02-08\", \"investors\": null}, {\"id\": 193553, \"uuid\": \"07fc2d33-b6e2-453e-89ef-7a179b50438f\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 3300000000, \"announced_date\": \"2021-01-13\", \"investors\": null}, {\"id\": 193552, \"uuid\": \"926c743f-1a2f-4ac8-868d-84f9a6921ce3\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 75000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2020-08-12\", \"investors\": null}, {\"id\": 193551, \"uuid\": \"90a881bd-14d1-44d1-bfd6-4b73f8da624a\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": 950000000, \"announced_date\": \"2019-06-24\", \"investors\": null}, {\"id\": 193550, \"uuid\": \"abbf5e2e-6949-4a67-a979-ca96fe8d25a6\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 600000000, \"announced_date\": \"2018-08-30\", \"investors\": null}, {\"id\": 193549, \"uuid\": \"b2a0d49d-b91c-2bca-e95e-31133d6193a3\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 600000000, \"announced_date\": \"2017-08-24\", \"investors\": null}, {\"id\": 193548, \"uuid\": \"3cd1fe38-6d7a-950c-7c4f-f5850fb3236a\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-20\", \"investors\": null}, {\"id\": 193547, \"uuid\": \"0bf7dc76-9535-113a-7a7e-3dcd30f33df8\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-07-15\", \"investors\": null}, {\"id\": 193546, \"uuid\": \"6ead157e-7dcb-5f99-bbe4-3054efdb271e\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-12-12\", \"investors\": null}, {\"id\": 193545, \"uuid\": \"bc743939-b27b-896f-af46-36c8ef0ac0e7\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mnbbz4llef0xdismgyh3",
+                        "name": "Blend"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-02-01",
+                    "name": "Blend",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mnbbz4llef0xdismgyh3"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-12-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2018-03-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 410153, \"name\": \"8VC\", \"uuid\": \"53377857-8995-2128-8f85-bfc8c4a2178e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1456898862/yzrhoc4y1poi37ffcrry.png\", \"description\": \"8VC aims to transform the technology infrastructure behind many industries.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.8vc.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [852764, 912234, 1599540, 1906346, 1959306, 3083931, 1670810, 412963, 1514295, 1671153, 689680, 2108304, 1496740, 294649, 1878488, 1497299, 1522600, 1178701, 294793, 1718008], \"cb_permalink\": \"https://www.crunchbase.com/organization/8vc\", \"linkedin_url\": \"https://linkedin.com/company/8vc\", \"twitter\": \"https:/twitter.com/8partners\", \"last_funding_round_date\": \"2018-05-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"8vc\", \"tags\": [{\"id\": 6324440, \"legal_entity_uuid\": \"53377857-8995-2128-8f85-bfc8c4a2178e\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6324441, \"legal_entity_uuid\": \"53377857-8995-2128-8f85-bfc8c4a2178e\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6324442, \"legal_entity_uuid\": \"53377857-8995-2128-8f85-bfc8c4a2178e\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132742, \"legal_entity_uuid\": \"53377857-8995-2128-8f85-bfc8c4a2178e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 98, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 95, \"hc_estimate_270_days\": 90, \"hc_estimate_365_days\": 88, \"hc_growth_90_days\": \"-10.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"8.8900000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"11.3599999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 235388, \"uuid\": \"422174c1-a254-4a31-9aed-a47c9eda55d6\", \"legal_entity_uuid\": \"53377857-8995-2128-8f85-bfc8c4a2178e\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1456898862/yzrhoc4y1poi37ffcrry.png",
+                        "name": "8VC"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2019-06-01",
+                    "name": "8VC",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1456898862/yzrhoc4y1poi37ffcrry.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 1407537, \"name\": \"Blend\", \"uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/mnbbz4llef0xdismgyh3\", \"description\": \"Blend is a digital lending platform that supports and simplifies applications for mortgages, consumer loans, and deposit accounts.\", \"headcount\": \"501-1000\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.blend.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [347626, 930177, 2077662, 1968026], \"executive_people_profile_ids\": [347626, 930177, 1606341, 2566543, 1600132, 1944050, 3190112, 2681284, 1968026, 1514347, 3106121, 1974088, 2853894, 3406215, 522729, 1533070, 2811678, 2077662], \"cb_permalink\": \"https://www.crunchbase.com/organization/blend-labs\", \"linkedin_url\": \"https://linkedin.com/company/blend-\", \"twitter\": \"http:/www.twitter.com/blendlabsinc\", \"last_funding_round_date\": \"2021-02-08\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 665000000, \"company_li_name\": \"blend-\", \"tags\": [{\"id\": 1778760, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1778761, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 1778762, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Lending\", \"category\": \"Industry\"}, {\"id\": 1778763, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 41743, \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 145, \"hc_estimate_90_days\": 150, \"hc_estimate_180_days\": 155, \"hc_estimate_270_days\": 174, \"hc_estimate_365_days\": 188, \"hc_growth_90_days\": \"-3.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-6.45000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"-22.870000000000000994759830064140260219573974609375\"}, \"funding_rounds\": [{\"id\": 193554, \"uuid\": \"2b5309f7-6b08-400f-9e2a-6ce98828ea93\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 3300000000, \"announced_date\": \"2021-02-08\", \"investors\": null}, {\"id\": 193553, \"uuid\": \"07fc2d33-b6e2-453e-89ef-7a179b50438f\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 3300000000, \"announced_date\": \"2021-01-13\", \"investors\": null}, {\"id\": 193552, \"uuid\": \"926c743f-1a2f-4ac8-868d-84f9a6921ce3\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 75000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2020-08-12\", \"investors\": null}, {\"id\": 193551, \"uuid\": \"90a881bd-14d1-44d1-bfd6-4b73f8da624a\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": 950000000, \"announced_date\": \"2019-06-24\", \"investors\": null}, {\"id\": 193550, \"uuid\": \"abbf5e2e-6949-4a67-a979-ca96fe8d25a6\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 600000000, \"announced_date\": \"2018-08-30\", \"investors\": null}, {\"id\": 193549, \"uuid\": \"b2a0d49d-b91c-2bca-e95e-31133d6193a3\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 600000000, \"announced_date\": \"2017-08-24\", \"investors\": null}, {\"id\": 193548, \"uuid\": \"3cd1fe38-6d7a-950c-7c4f-f5850fb3236a\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-20\", \"investors\": null}, {\"id\": 193547, \"uuid\": \"0bf7dc76-9535-113a-7a7e-3dcd30f33df8\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-07-15\", \"investors\": null}, {\"id\": 193546, \"uuid\": \"6ead157e-7dcb-5f99-bbe4-3054efdb271e\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-12-12\", \"investors\": null}, {\"id\": 193545, \"uuid\": \"bc743939-b27b-896f-af46-36c8ef0ac0e7\", \"legal_entity_uuid\": \"5058d5cd-4c08-c241-1659-23dec5136c9d\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mnbbz4llef0xdismgyh3",
+                        "name": "Blend"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2019-05-01",
+                    "name": "Blend",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mnbbz4llef0xdismgyh3"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": "{\"id\": 726512, \"name\": \"Coursera\", \"uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/coursera.png\", \"description\": \"Coursera is an online education company that partners with universities and organizations to offer classes on their platform.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2012-01-01\", \"website\": \"http://www.coursera.org\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [125993, 1144680], \"executive_people_profile_ids\": [176775, 113806, 488615, 2941910, 2233623, 981227, 751845, 1348173, 91033, 3348143, 2304776, 1774813, 237522, 1915545, 1289558, 2858378, 440185, 935865, 3023437, 1802818, 586807, 483498, 1509610, 4162678, 693812, 1621713, 1362516, 3139195, 1937717, 1067257], \"cb_permalink\": \"https://www.crunchbase.com/organization/coursera\", \"linkedin_url\": \"https://linkedin.com/company/coursera\", \"twitter\": \"http:/www.twitter.com/coursera\", \"last_funding_round_date\": \"2021-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 458900000, \"company_li_name\": \"coursera\", \"tags\": [{\"id\": 6501997, \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 6501998, \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 6501999, \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6502000, \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 88220, \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 287, \"hc_estimate_90_days\": 284, \"hc_estimate_180_days\": 282, \"hc_estimate_270_days\": 287, \"hc_estimate_365_days\": 315, \"hc_growth_90_days\": \"1.060000000000000053290705182007513940334320068359375\", \"hc_growth_180_days\": \"1.770000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-8.8900000000000005684341886080801486968994140625\"}, \"funding_rounds\": [{\"id\": 229864, \"uuid\": \"0252018a-4f90-4a52-9916-9c290ce3f85c\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": 2500000000, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 229863, \"uuid\": \"ae63a85d-780c-4a30-88b8-a10558fef5de\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": 2500000000, \"announced_date\": \"2020-10-23\", \"investors\": null}, {\"id\": 229862, \"uuid\": \"ef69e362-56eb-4e15-ac8f-3bf078653746\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 13700000, \"post_money_valuation_usd\": 2500000000, \"announced_date\": \"2020-08-01\", \"investors\": null}, {\"id\": 229861, \"uuid\": \"2f25eda9-c230-44a2-9846-44b5f7d3f188\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": 2500000000, \"announced_date\": \"2020-07-17\", \"investors\": null}, {\"id\": 229860, \"uuid\": \"d12efe41-44d2-47b5-852c-185d4d56558d\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1103000000, \"announced_date\": \"2019-08-28\", \"investors\": null}, {\"id\": 229859, \"uuid\": \"c8080372-6468-413e-a306-37ec20dc6fbe\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 103000000, \"post_money_valuation_usd\": 1103000000, \"announced_date\": \"2019-04-25\", \"investors\": null}, {\"id\": 229858, \"uuid\": \"04c3b854-fcd4-7272-7e77-6a1f257996de\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 64000000, \"post_money_valuation_usd\": 800000000, \"announced_date\": \"2017-06-07\", \"investors\": null}, {\"id\": 229857, \"uuid\": \"0f67d472-87d4-489d-94a6-326bf2109559\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-21\", \"investors\": null}, {\"id\": 229856, \"uuid\": \"a8d4b3a0-1382-1a60-4e91-3381227174da\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 11600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-10-27\", \"investors\": null}, {\"id\": 229855, \"uuid\": \"8c5708e3-3db8-4d6c-b54f-7a6bbe38c13c\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 49500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-08-25\", \"investors\": null}, {\"id\": 229854, \"uuid\": \"72d440be-1e42-4362-1dc2-7917b915014f\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-11-24\", \"investors\": null}, {\"id\": 229853, \"uuid\": \"b41f9740-8dad-c37b-f8a2-4bb13ada3686\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 43000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-07-10\", \"investors\": null}, {\"id\": 229852, \"uuid\": \"3ec44b38-66f1-f6c6-b504-768711b49314\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 6000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-07-17\", \"investors\": null}, {\"id\": 229851, \"uuid\": \"e0ed9bb1-7ba2-3fa7-6278-7fba3aa9bf60\", \"legal_entity_uuid\": \"4ddbfe0a-f3f9-9227-634a-163ed847a4f8\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 16000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-04-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/coursera.png",
+                        "name": "Coursera"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2018-09-01",
+                    "name": "Coursera",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/coursera.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 1661841, \"name\": \"KloudData Inc.\", \"uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1456222275/ztkfppcjfh4hcebx9fkf.png\", \"description\": \"KloudData is providing software solutions and services.\", \"headcount\": \"251-500\", \"founding_date\": \"2011-01-01\", \"website\": \"http://www.klouddata.com\", \"location\": \"Fremont\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1524342, 1433703, 835479], \"executive_people_profile_ids\": [1433703, 2766062, 1524342, 835479], \"cb_permalink\": \"https://www.crunchbase.com/organization/klouddata-com\", \"linkedin_url\": \"https://linkedin.com/company/klouddata\", \"twitter\": \"http:/twitter.com/klouddata\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"klouddata\", \"tags\": [{\"id\": 6477120, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"name\": \"Android\", \"category\": \"Industry\"}, {\"id\": 6477121, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}, {\"id\": 6477122, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6477123, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6477124, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"name\": \"iOS\", \"category\": \"Industry\"}, {\"id\": 6477125, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 164643, \"legal_entity_uuid\": \"11565cd0-82b7-5931-c5f6-b50d4934621d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1456222275/ztkfppcjfh4hcebx9fkf.png",
+                        "name": "KloudData Inc."
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2017-06-01",
+                    "name": "KloudData Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1456222275/ztkfppcjfh4hcebx9fkf.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Biomedtrics-Inc."
+                    },
+                    "position": "Intern",
+                    "startDate": "2016-06-01",
+                    "name": "Biomedtrics-Inc.",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "position": "Research Intern",
+                    "startDate": "2015-06-01",
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                }
+            ],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "230"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

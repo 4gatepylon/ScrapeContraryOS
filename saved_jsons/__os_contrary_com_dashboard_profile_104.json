@@ -1,0 +1,316 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "fionahsinger@gmail.com",
+                "firstName": "Fiona",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "New York City",
+                "id": "104",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-03-17T16:35:52",
+                "lastName": "Singer",
+                "linkedinName": "fiona-singer",
+                "linkedinUrl": "https://linkedin.com/in/fiona-singer/",
+                "location": "New York",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": null,
+                "profilePicUrl": "https://dl.airtable.com/.attachments/4b2d1f7f954caf96cb9ae82d2ef94fbd/787874b3/fsinger.jpg?ts=1659018022&userId=usrMxTlLuLWjeji2x&cs=d20dee0a90bc43cd",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3370",
+                        "organizationId": 6,
+                        "position": "Privacy Engineer",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3371",
+                        "organizationId": 5,
+                        "position": "Contrary Fellow",
+                        "startDate": "2021-11-01"
+                    },
+                    {
+                        "endDate": "2022-04-01",
+                        "id": "3372",
+                        "organizationId": 1257,
+                        "position": "Privacy and Civil Liberties Engineer",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "3374",
+                        "organizationId": 2686,
+                        "position": "2019 Circumnavigator Grant Winner",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-05-01",
+                        "id": "3375",
+                        "organizationId": 2687,
+                        "position": "Intern",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2018-07-01",
+                        "id": "3376",
+                        "organizationId": 39,
+                        "position": "Summer Securities Analyst",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "3377",
+                        "organizationId": 2688,
+                        "position": "Legal Intern",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "3373",
+                        "organizationId": 2685,
+                        "position": "Mortara Undergraduate Research Fellow",
+                        "startDate": "2017-02-01"
+                    }
+                ]
+            },
+            "organizations": [
+                {
+                    "id": "5",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/contrarycapital.png",
+                    "name": "Contrary",
+                    "website": null
+                },
+                {
+                    "id": "6",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                    "name": "Google",
+                    "website": null
+                },
+                {
+                    "id": "39",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                    "name": "Goldman Sachs",
+                    "website": null
+                },
+                {
+                    "id": "1257",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/palantir-technologies.png",
+                    "name": "Palantir Technologies",
+                    "website": null
+                },
+                {
+                    "id": "2685",
+                    "logoUrl": null,
+                    "name": "Mortara Center",
+                    "website": null
+                },
+                {
+                    "id": "2686",
+                    "logoUrl": null,
+                    "name": "Georgetown University Walsh School of Foreign Service",
+                    "website": null
+                },
+                {
+                    "id": "2687",
+                    "logoUrl": null,
+                    "name": "Center for Democracy & Technology",
+                    "website": null
+                },
+                {
+                    "id": "2688",
+                    "logoUrl": null,
+                    "name": "Legal Momentum",
+                    "website": null
+                }
+            ],
+            "universities": [],
+            "workExperiences": [
+                {
+                    "endDate": null,
+                    "id": "6",
+                    "organizationId": 6,
+                    "position": "Privacy Engineer",
+                    "startDate": "2022-05-01",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                    "name": "Google",
+                    "website": null
+                },
+                {
+                    "endDate": null,
+                    "id": "5",
+                    "organizationId": 5,
+                    "position": "Contrary Fellow",
+                    "startDate": "2021-11-01",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/contrarycapital.png",
+                    "name": "Contrary",
+                    "website": null
+                },
+                {
+                    "endDate": "2022-04-01",
+                    "id": "1257",
+                    "organizationId": 1257,
+                    "position": "Privacy and Civil Liberties Engineer",
+                    "startDate": "2020-08-01",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/palantir-technologies.png",
+                    "name": "Palantir Technologies",
+                    "website": null
+                },
+                {
+                    "endDate": "2019-08-01",
+                    "id": "2686",
+                    "organizationId": 2686,
+                    "position": "2019 Circumnavigator Grant Winner",
+                    "startDate": "2019-01-01",
+                    "logoUrl": null,
+                    "name": "Georgetown University Walsh School of Foreign Service",
+                    "website": null
+                },
+                {
+                    "endDate": "2019-05-01",
+                    "id": "2687",
+                    "organizationId": 2687,
+                    "position": "Intern",
+                    "startDate": "2019-01-01",
+                    "logoUrl": null,
+                    "name": "Center for Democracy & Technology",
+                    "website": null
+                },
+                {
+                    "endDate": "2018-07-01",
+                    "id": "39",
+                    "organizationId": 39,
+                    "position": "Summer Securities Analyst",
+                    "startDate": "2018-06-01",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                    "name": "Goldman Sachs",
+                    "website": null
+                },
+                {
+                    "endDate": "2017-08-01",
+                    "id": "2688",
+                    "organizationId": 2688,
+                    "position": "Legal Intern",
+                    "startDate": "2017-05-01",
+                    "logoUrl": null,
+                    "name": "Legal Momentum",
+                    "website": null
+                },
+                {
+                    "endDate": "2020-05-01",
+                    "id": "2685",
+                    "organizationId": 2685,
+                    "position": "Mortara Undergraduate Research Fellow",
+                    "startDate": "2017-02-01",
+                    "logoUrl": null,
+                    "name": "Mortara Center",
+                    "website": null
+                }
+            ],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "67",
+                    "value": "Immigrants"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "30",
+                    "value": "Cybersecurity"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "104"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

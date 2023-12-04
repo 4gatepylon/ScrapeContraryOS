@@ -1,0 +1,361 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "If you are looking for: contacts in traditional media, Govtech, US Senate, US House, or CPG companies... I can probably help! ",
+                "currentRole": "Junior at Wharton",
+                "educationExperiences": [
+                    {
+                        "degree": "Finance & CS",
+                        "degreeType": "Bachelors degree",
+                        "endDate": null,
+                        "id": "864",
+                        "startDate": null,
+                        "universityId": 4
+                    }
+                ],
+                "email": "brett.seaton@vp.contrary.com",
+                "firstName": "Brett",
+                "greeting": "null",
+                "greetingEmoji": "null",
+                "hqPosition": null,
+                "hubCity": "Philadelphia",
+                "id": "493",
+                "intro": "Passionate about local media. Poetry enthusiast.",
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-27T01:26:03",
+                "lastName": "Seaton",
+                "linkedinName": "brettseaton",
+                "linkedinUrl": "https://linkedin.com/in/brettseaton/",
+                "location": "Philadelphia, PA",
+                "lookingFor": "Looking for SWE or PM internships 2024!",
+                "meetWithBlurb": null,
+                "podId": 14,
+                "prismUuid": "ffb774f3-8be0-461c-af87-72dc6f446c0a",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp5lJGLv71ezjNW4KQams4z1o4eg-wYjvkuKLwJp=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "brettseaton0@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U046F75E2QH",
+                "twitterHandle": "https://twitter.com/BrettSeaton0",
+                "twitterUrl": "https://twitter.com/https://twitter.com/BrettSeaton0/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4673",
+                        "organizationId": 539857,
+                        "position": "Software Engineer",
+                        "startDate": "2023-08-01"
+                    },
+                    {
+                        "endDate": "2023-08-01",
+                        "id": "4674",
+                        "organizationId": 383871,
+                        "position": "Intern",
+                        "startDate": "2023-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4033",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4034",
+                        "organizationId": 2611,
+                        "position": "Technology Contributor",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4035",
+                        "organizationId": 2532,
+                        "position": "Co-Founder & CEO",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4036",
+                        "organizationId": 2531,
+                        "position": "Investment Team",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": "2021-04-01",
+                        "id": "4037",
+                        "organizationId": 273,
+                        "position": "Financial Policy Intern",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "4038",
+                        "organizationId": 271,
+                        "position": "Financial Policy Intern",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-09-01",
+                        "id": "4039",
+                        "organizationId": 2533,
+                        "position": "Product Manager",
+                        "startDate": "2020-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 523953, \"name\": \"Brandywine Realty Trust\", \"uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v6ulnismwrvgfwi0fc2b\", \"description\": \"Brandywine Realty Trust is a self-administered and self-managed REIT\", \"headcount\": \"251-500\", \"founding_date\": \"1985-01-01\", \"website\": \"http://brandywinerealty.com\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/brandywine-realty-trust\", \"linkedin_url\": \"https://linkedin.com/company/brandywine-realty-trust\", \"twitter\": \"http:/twitter.com/BDNRealtyTrust\", \"last_funding_round_date\": \"2022-12-06\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 350000000, \"company_li_name\": \"brandywine-realty-trust\", \"tags\": [{\"id\": 1764726, \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"name\": \"Building Material\", \"category\": \"Industry\"}, {\"id\": 1764727, \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"name\": \"Construction\", \"category\": \"Industry\"}, {\"id\": 1764728, \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"name\": \"Property Management\", \"category\": \"Industry\"}, {\"id\": 1764729, \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"name\": \"Real Estate\", \"category\": \"Industry\"}, {\"id\": 1764730, \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"name\": \"Search Engine\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 102398, \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 468613, \"uuid\": \"8faab423-3df5-4a3b-be03-8fe975b12978\", \"legal_entity_uuid\": \"249a37dc-bcf7-084b-9640-8f74efaa27b4\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-12-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v6ulnismwrvgfwi0fc2b",
+                        "name": "Brandywine Realty Trust"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2023-08-01",
+                    "name": "Brandywine Realty Trust",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v6ulnismwrvgfwi0fc2b"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2022-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/knightfoundation.png",
+                        "name": "Knight Foundation"
+                    },
+                    "position": "Intern",
+                    "startDate": "2023-06-01",
+                    "name": "Knight Foundation",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/knightfoundation.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": "{\"id\": 233026, \"name\": \"The Daily Pennsylvanian\", \"uuid\": \"275c78d5-dad7-7c68-dd64-c90850b6ba78\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/srxysofzfavvhhsew9j4\", \"description\": \"The Daily Pennsylvanian is the independent student news organization of the University of Pennsylvania.\", \"headcount\": \"101-250\", \"founding_date\": \"1885-01-01\", \"website\": \"https://www.thedp.com/\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/the-daily-pennsylvanian\", \"linkedin_url\": \"https://linkedin.com/company/the-daily-pennsylvanian\", \"twitter\": \"https:/twitter.com/dailypenn\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"the-daily-pennsylvanian\", \"tags\": [{\"id\": 4939721, \"legal_entity_uuid\": \"275c78d5-dad7-7c68-dd64-c90850b6ba78\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 177817, \"legal_entity_uuid\": \"275c78d5-dad7-7c68-dd64-c90850b6ba78\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 8, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 12, \"hc_growth_90_days\": \"-12.5\", \"hc_growth_180_days\": \"-12.5\", \"hc_growth_270_days\": \"-22.219999999999998863131622783839702606201171875\", \"hc_growth_365_days\": \"-41.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/srxysofzfavvhhsew9j4",
+                        "name": "The Daily Pennsylvanian-Inc."
+                    },
+                    "position": "Technology Contributor",
+                    "startDate": "2022-10-01",
+                    "name": "The Daily Pennsylvanian-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/srxysofzfavvhhsew9j4"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-03-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tryvest.png",
+                        "name": "Tryvest"
+                    },
+                    "position": "Co-Founder  CEO",
+                    "startDate": "2022-05-01",
+                    "name": "Tryvest",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tryvest.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-04-01",
+                    "legalEntity": "{\"id\": 199826, \"name\": \"United States Senate\", \"uuid\": \"ab8749b5-96cb-5124-80a1-88ee1ad7f577\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rpye955rqocy0bqzmk2x\", \"description\": \"U.S. Senate is a legislative chamber in the bicameral legislature of the United States of America.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1789-01-01\", \"website\": \"http://www.senate.gov/\", \"location\": \"Washington\", \"country\": \"USA\", \"region\": \"District of Columbia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1302153, 1698471, 1576767, 731373, 1101807, 2176069, 2025395, 2577771, 2196183], \"cb_permalink\": \"https://www.crunchbase.com/organization/u-s-senate\", \"linkedin_url\": \"https://linkedin.com/company/ussenate\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"ussenate\", \"tags\": [{\"id\": 1651001, \"legal_entity_uuid\": \"ab8749b5-96cb-5124-80a1-88ee1ad7f577\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 1651000, \"legal_entity_uuid\": \"ab8749b5-96cb-5124-80a1-88ee1ad7f577\", \"name\": \"National Security\", \"category\": \"Industry\"}, {\"id\": 1650999, \"legal_entity_uuid\": \"ab8749b5-96cb-5124-80a1-88ee1ad7f577\", \"name\": \"Government\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 1742, \"legal_entity_uuid\": \"ab8749b5-96cb-5124-80a1-88ee1ad7f577\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 29, \"hc_estimate_90_days\": 32, \"hc_estimate_180_days\": 31, \"hc_estimate_270_days\": 32, \"hc_estimate_365_days\": 29, \"hc_growth_90_days\": \"-9.3800000000000007815970093361102044582366943359375\", \"hc_growth_180_days\": \"-6.45000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-9.3800000000000007815970093361102044582366943359375\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rpye955rqocy0bqzmk2x",
+                        "name": "United States Senate"
+                    },
+                    "position": "Intern",
+                    "startDate": "2021-01-01",
+                    "name": "United States Senate",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rpye955rqocy0bqzmk2x"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 1103370, \"name\": \"U.S. House of Representatives\", \"uuid\": \"0a903212-b27c-1db8-0b16-6770f395a5bc\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/enu5ticnuh6ugkyudmlk\", \"description\": \"The U.S. House of Representatives makes and passes federal laws.\", \"headcount\": \"10000+\", \"founding_date\": \"1789-01-01\", \"website\": \"http://www.house.gov/\", \"location\": \"Washington\", \"country\": \"USA\", \"region\": \"District of Columbia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [468944, 1913455, 1959202, 815170, 1747464, 2179074, 547218, 2176069], \"cb_permalink\": \"https://www.crunchbase.com/organization/united-states-house-of-representatives\", \"linkedin_url\": \"https://linkedin.com/company/u.s.-house-of-representatives\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"u.s.-house-of-representatives\", \"tags\": [{\"id\": 1660580, \"legal_entity_uuid\": \"0a903212-b27c-1db8-0b16-6770f395a5bc\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 1660579, \"legal_entity_uuid\": \"0a903212-b27c-1db8-0b16-6770f395a5bc\", \"name\": \"Legal\", \"category\": \"Industry\"}, {\"id\": 1660578, \"legal_entity_uuid\": \"0a903212-b27c-1db8-0b16-6770f395a5bc\", \"name\": \"Government\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 193553, \"legal_entity_uuid\": \"0a903212-b27c-1db8-0b16-6770f395a5bc\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 56, \"hc_estimate_90_days\": 54, \"hc_estimate_180_days\": 49, \"hc_estimate_270_days\": 41, \"hc_estimate_365_days\": 48, \"hc_growth_90_days\": \"3.70000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"36.590000000000003410605131648480892181396484375\", \"hc_growth_365_days\": \"16.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/enu5ticnuh6ugkyudmlk",
+                        "name": "U.S. House of Representatives"
+                    },
+                    "position": "Intern",
+                    "startDate": "2020-09-01",
+                    "name": "U.S. House of Representatives",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/enu5ticnuh6ugkyudmlk"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": "{\"id\": 191710, \"name\": \"Column\", \"uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/buytdcjmpxkpuymsekyj\", \"description\": \"Column is a public benefit corporation building technology to help media, governments and legal services work together to notify the public.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-01-01\", \"website\": \"https://www.column.us/\", \"location\": \"Miami\", \"country\": \"USA\", \"region\": \"Florida\", \"founder_people_profile_ids\": [2197871, 2945997], \"executive_people_profile_ids\": [1973118, 2945997, 2197871, 770444], \"cb_permalink\": \"https://www.crunchbase.com/organization/column-98c0\", \"linkedin_url\": \"https://linkedin.com/company/columnsoftwarepbc\", \"twitter\": \"https:/www.twitter.com/columnpbc\", \"last_funding_round_date\": \"2022-08-06\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 30000000, \"company_li_name\": \"columnsoftwarepbc\", \"tags\": [{\"id\": 2770553, \"legal_entity_uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 5135, \"legal_entity_uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 10, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-10\", \"hc_growth_180_days\": \"-10\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 371111, \"uuid\": \"18aaac82-cb68-4960-b86a-bc6bb3f2f1c2\", \"legal_entity_uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/buytdcjmpxkpuymsekyj",
+                        "name": "Column"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2020-03-01",
+                    "name": "Column",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/buytdcjmpxkpuymsekyj"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-04-01",
+                    "legalEntity": "{\"id\": 191710, \"name\": \"Column\", \"uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/buytdcjmpxkpuymsekyj\", \"description\": \"Column is a public benefit corporation building technology to help media, governments and legal services work together to notify the public.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-01-01\", \"website\": \"https://www.column.us/\", \"location\": \"Miami\", \"country\": \"USA\", \"region\": \"Florida\", \"founder_people_profile_ids\": [2197871, 2945997], \"executive_people_profile_ids\": [1973118, 2945997, 2197871, 770444], \"cb_permalink\": \"https://www.crunchbase.com/organization/column-98c0\", \"linkedin_url\": \"https://linkedin.com/company/columnsoftwarepbc\", \"twitter\": \"https:/www.twitter.com/columnpbc\", \"last_funding_round_date\": \"2022-08-06\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 30000000, \"company_li_name\": \"columnsoftwarepbc\", \"tags\": [{\"id\": 2770553, \"legal_entity_uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 5135, \"legal_entity_uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 10, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-10\", \"hc_growth_180_days\": \"-10\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 371111, \"uuid\": \"18aaac82-cb68-4960-b86a-bc6bb3f2f1c2\", \"legal_entity_uuid\": \"6f827f64-8ebd-4718-94bb-ec49a4bc98c0\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/buytdcjmpxkpuymsekyj",
+                        "name": "Column"
+                    },
+                    "position": "Product Intern",
+                    "startDate": "2020-04-01",
+                    "name": "Column",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/buytdcjmpxkpuymsekyj"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Finance",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2025-01-01",
+                    "legalEntity": "{\"id\": 758786, \"name\": \"Wharton School of the University of Pennsylvania\", \"uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez\", \"description\": \"Wharton School of the University of Pennsylvania is a business school driven to create economic and social value.\", \"headcount\": \"101-250\", \"founding_date\": \"1881-01-01\", \"website\": \"http://www.wharton.upenn.edu\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [1317406], \"executive_people_profile_ids\": [462276, 1714597, 505232, 1317406, 1088585, 124787, 3211833, 1834236, 1506941, 1189861], \"cb_permalink\": \"https://www.crunchbase.com/organization/wharton-school-of-the-university-of-pennsylvania\", \"linkedin_url\": \"https://linkedin.com/company/the-wharton-school\", \"twitter\": \"http:/www.twitter.com/Wharton\", \"last_funding_round_date\": \"2020-05-18\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5000000, \"company_li_name\": \"the-wharton-school\", \"tags\": [{\"id\": 4836116, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4836117, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4836118, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 91791, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 240, \"hc_estimate_90_days\": 218, \"hc_estimate_180_days\": 256, \"hc_estimate_270_days\": 254, \"hc_estimate_365_days\": 255, \"hc_growth_90_days\": \"10.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-6.25\", \"hc_growth_270_days\": \"-5.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-5.87999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 161240, \"uuid\": \"c8600870-76f2-42c2-879e-60dafb74fe81\", \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-18\", \"investors\": null}]}",
+                    "startDate": "2021-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez",
+                        "name": "The Wharton School"
+                    },
+                    "name": "The Wharton School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "40",
+                    "value": "D2C"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-23T21:33:09",
+                    "deleted": null,
+                    "id": "3",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "55",
+                    "value": "Hackathons"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "493"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

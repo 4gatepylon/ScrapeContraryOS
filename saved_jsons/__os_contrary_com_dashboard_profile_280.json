@@ -1,0 +1,278 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Co-Founder at Fizz (YC S21) - We are hiring! | Forbes 30u30",
+                "educationExperiences": [
+                    {
+                        "degree": "Concentration in Statistics & Economics",
+                        "degreeType": "Bachelors degree",
+                        "endDate": null,
+                        "id": "528",
+                        "startDate": "2019-01-01",
+                        "universityId": 6
+                    },
+                    {
+                        "degree": "1st in Class",
+                        "degreeType": "Exchange year: Assist scholar",
+                        "endDate": "2017-01-01",
+                        "id": "530",
+                        "startDate": "2016-01-01",
+                        "universityId": 291
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "529",
+                        "startDate": null,
+                        "universityId": 84
+                    }
+                ],
+                "email": "carlo@joinfizz.com",
+                "firstName": "Carlo",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "280",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-01-27T18:14:27",
+                "lastName": "Kobe",
+                "linkedinName": "carlokobe",
+                "linkedinUrl": "https://linkedin.com/in/carlokobe/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "9f671814-c659-4916-be2a-22f750912fdf",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-280-8a1f0471-0e6c-45ee-9e0f-9c4130bbdfc0.jpg",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "1875",
+                        "organizationId": 862,
+                        "position": "Co-Founder & CEO",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "1876",
+                        "organizationId": 1327,
+                        "position": "Product Manager",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "1877",
+                        "organizationId": 1328,
+                        "position": "Summer Growth Equity Analyst",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "1878",
+                        "organizationId": 1329,
+                        "position": "Business Analyst",
+                        "startDate": "2019-08-01"
+                    },
+                    {
+                        "endDate": "2018-07-01",
+                        "id": "1879",
+                        "organizationId": 1330,
+                        "position": "Intern",
+                        "startDate": "2018-07-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "1880",
+                        "organizationId": 1331,
+                        "position": "Intern",
+                        "startDate": "2017-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 428464, \"name\": \"Fizz\", \"uuid\": \"32c7908d-f1f7-4fb9-a88d-d5612034f39a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/joinfizz.png\", \"description\": \"Fizz is building the financial ally for young adults, starting with a debit card that helps college students build credit.\", \"headcount\": \"11-50\", \"founding_date\": \"2021-01-01\", \"website\": \"https://www.joinfizz.com/\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/fizz-f39a\", \"linkedin_url\": \"https://linkedin.com/company/joinfizz\", \"twitter\": null, \"last_funding_round_date\": \"2021-08-31\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 125000, \"company_li_name\": \"joinfizz\", \"tags\": [{\"id\": 3353832, \"legal_entity_uuid\": \"32c7908d-f1f7-4fb9-a88d-d5612034f39a\", \"name\": \"Credit Cards\", \"category\": \"Industry\"}, {\"id\": 3353833, \"legal_entity_uuid\": \"32c7908d-f1f7-4fb9-a88d-d5612034f39a\", \"name\": \"Debit Cards\", \"category\": \"Industry\"}, {\"id\": 3353834, \"legal_entity_uuid\": \"32c7908d-f1f7-4fb9-a88d-d5612034f39a\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 135789, \"legal_entity_uuid\": \"32c7908d-f1f7-4fb9-a88d-d5612034f39a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 9, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 9, \"hc_growth_90_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_180_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-11.1099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 265548, \"uuid\": \"102efe2c-66c3-4edf-b751-58fbc36f90d7\", \"legal_entity_uuid\": \"32c7908d-f1f7-4fb9-a88d-d5612034f39a\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 125000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-31\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/joinfizz.png",
+                        "name": "Fizz (YC S21)"
+                    },
+                    "position": "Co-Founder  CEO",
+                    "startDate": "2021-07-01",
+                    "name": "Fizz (YC S21)",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/joinfizz.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-04-01",
+                    "legalEntity": "{\"id\": 2142341, \"name\": \"Merantix\", \"uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/yzpnsrkk4scnmjijr5k9\", \"description\": \"Merantix is the worlds first AI venture studio - ideating, building and scaling AI ventures.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-03-01\", \"website\": \"http://merantix.com\", \"location\": \"Berlin\", \"country\": \"DEU\", \"region\": \"Berlin\", \"founder_people_profile_ids\": [530053, 2148210], \"executive_people_profile_ids\": [272628, 2148210, 678535, 530053], \"cb_permalink\": \"https://www.crunchbase.com/organization/merantix\", \"linkedin_url\": \"https://linkedin.com/company/merantix\", \"twitter\": \"https:/twitter.com/merantix\", \"last_funding_round_date\": \"2021-09-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 37548634, \"company_li_name\": \"merantix\", \"tags\": [{\"id\": 5870436, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 5870435, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Predictive Analytics\", \"category\": \"Industry\"}, {\"id\": 5870434, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 5870433, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Health Diagnostics\", \"category\": \"Industry\"}, {\"id\": 5870432, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 5870431, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 72114, \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 11, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": 10, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"10\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"10\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 294552, \"uuid\": \"8129e0e6-4ead-40a3-9b40-5a488a96c8bf\", \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-09-01\", \"investors\": null}, {\"id\": 294551, \"uuid\": \"5c030c00-bea2-4ab8-9f49-c0edf3ad4628\", \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 27548634, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-27\", \"investors\": null}, {\"id\": 294550, \"uuid\": \"62da206d-d2bb-4fc5-9c8c-7ed2ec8a13ea\", \"legal_entity_uuid\": \"a096857e-7929-9fde-aa01-6c07acdfa8ee\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-07-31\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/yzpnsrkk4scnmjijr5k9",
+                        "name": "Merantix"
+                    },
+                    "position": "Product Management",
+                    "startDate": "2020-09-01",
+                    "name": "Merantix",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/yzpnsrkk4scnmjijr5k9"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": "{\"id\": 1628943, \"name\": \"DTCP\", \"uuid\": \"5f179d40-9f32-672f-ef1e-aade22c090b4\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/dtcp-capital.png\", \"description\": \"DTCP is an investment management firm focused on growth equity and digital infrastructure.\", \"headcount\": \"51-100\", \"founding_date\": \"2015-01-01\", \"website\": \"https://www.dtcp.capital\", \"location\": \"Hamburg\", \"country\": \"DEU\", \"region\": \"Hamburg\", \"founder_people_profile_ids\": [310640], \"executive_people_profile_ids\": [586943, 2681692], \"cb_permalink\": \"https://www.crunchbase.com/organization/dtcp\", \"linkedin_url\": \"https://linkedin.com/company/dtcp-capital\", \"twitter\": \"https:/twitter.com/dtcp_capital\", \"last_funding_round_date\": \"2023-08-29\", \"last_funding_round_name\": \"Funding Round\", \"total_funding_amount\": 0, \"company_li_name\": \"dtcp-capital\", \"tags\": [{\"id\": 5910592, \"legal_entity_uuid\": \"5f179d40-9f32-672f-ef1e-aade22c090b4\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5910593, \"legal_entity_uuid\": \"5f179d40-9f32-672f-ef1e-aade22c090b4\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 148999, \"legal_entity_uuid\": \"5f179d40-9f32-672f-ef1e-aade22c090b4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 10, \"hc_estimate_90_days\": 9, \"hc_estimate_180_days\": 8, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"11.1099999999999994315658113919198513031005859375\", \"hc_growth_180_days\": \"25\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 452706, \"uuid\": \"cd287b44-8ae6-46a8-8cbd-0040f855c4c8\", \"legal_entity_uuid\": \"5f179d40-9f32-672f-ef1e-aade22c090b4\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-29\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/dtcp-capital.png",
+                        "name": "DTCP"
+                    },
+                    "position": "Summer Growth Equity Analyst",
+                    "startDate": "2020-05-01",
+                    "name": "DTCP",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/dtcp-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": "{\"id\": 531329, \"name\": \"Harvard University Consulting Group\", \"uuid\": \"ac494e45-352c-43ab-b926-97f1ab94da14\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/jzlvebq777gryi2y5zio\", \"description\": \"HCCG is a voluntary business consultancy.\", \"headcount\": \"101-250\", \"founding_date\": \"2000-01-01\", \"website\": \"https://harvardconsulting.org\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/harvard-university-consulting-group\", \"linkedin_url\": \"https://linkedin.com/company/harvard-college-consulting-group\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"harvard-college-consulting-group\", \"tags\": [{\"id\": 5653017, \"legal_entity_uuid\": \"ac494e45-352c-43ab-b926-97f1ab94da14\", \"name\": \"STEM Education\", \"category\": \"Industry\"}, {\"id\": 5653016, \"legal_entity_uuid\": \"ac494e45-352c-43ab-b926-97f1ab94da14\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 5653015, \"legal_entity_uuid\": \"ac494e45-352c-43ab-b926-97f1ab94da14\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 5653014, \"legal_entity_uuid\": \"ac494e45-352c-43ab-b926-97f1ab94da14\", \"name\": \"Business Development\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141982, \"legal_entity_uuid\": \"ac494e45-352c-43ab-b926-97f1ab94da14\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 12, \"hc_estimate_365_days\": 20, \"hc_growth_90_days\": \"12.5\", \"hc_growth_180_days\": \"-30.769999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": \"-25\", \"hc_growth_365_days\": \"-55\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jzlvebq777gryi2y5zio",
+                        "name": "Harvard College Consulting Group"
+                    },
+                    "position": "Business Analyst",
+                    "startDate": "2019-08-01",
+                    "name": "Harvard College Consulting Group",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jzlvebq777gryi2y5zio"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-07-01",
+                    "legalEntity": "{\"id\": 1775644, \"name\": \"Die Zeit\", \"uuid\": \"1aa9a289-9dbe-449d-e418-96bf30988fb4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1499694204/ugtxxjxxm9gank1pkzyg.jpg\", \"description\": \"Die Zeit is a German national weekly newspaper published in Hamburg in north Germany\", \"headcount\": \"unknown\", \"founding_date\": \"1946-01-01\", \"website\": \"https://www.zeit-verlagsgruppe.de/    T\", \"location\": null, \"country\": null, \"region\": null, \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/die-zeit\", \"linkedin_url\": \"https://linkedin.com/company/die-zeit-\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"die-zeit-\", \"tags\": [{\"id\": 1802278, \"legal_entity_uuid\": \"1aa9a289-9dbe-449d-e418-96bf30988fb4\", \"name\": \"News\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 158504, \"legal_entity_uuid\": \"1aa9a289-9dbe-449d-e418-96bf30988fb4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1499694204/ugtxxjxxm9gank1pkzyg.jpg",
+                        "name": "DIE ZEIT"
+                    },
+                    "position": "Intern",
+                    "startDate": "2018-07-01",
+                    "name": "DIE ZEIT",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1499694204/ugtxxjxxm9gank1pkzyg.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": "{\"id\": 2165117, \"name\": \"Berenberg\", \"uuid\": \"9da63ce2-1c0c-1164-f9c9-3abb567390e0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1467624021/ssq5y0sltbe9gqiuiyra.png\", \"description\": \"Berenberg is a company that provides asset management, corporate and investment banking services primarily to the European areas.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1590-01-01\", \"website\": \"http://www.berenberg.de\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [1339903], \"executive_people_profile_ids\": [729472, 482709, 1339903], \"cb_permalink\": \"https://www.crunchbase.com/organization/berenberg\", \"linkedin_url\": \"https://linkedin.com/company/berenberg-bank\", \"twitter\": \"https:/www.twitter.com/berenberg_econ\", \"last_funding_round_date\": \"2016-07-04\", \"last_funding_round_name\": \"Private Equity Round\", \"total_funding_amount\": 500000000, \"company_li_name\": \"berenberg-bank\", \"tags\": [{\"id\": 5888709, \"legal_entity_uuid\": \"9da63ce2-1c0c-1164-f9c9-3abb567390e0\", \"name\": \"Banking\", \"category\": \"Industry\"}, {\"id\": 5888711, \"legal_entity_uuid\": \"9da63ce2-1c0c-1164-f9c9-3abb567390e0\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5888710, \"legal_entity_uuid\": \"9da63ce2-1c0c-1164-f9c9-3abb567390e0\", \"name\": \"Credit\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57759, \"legal_entity_uuid\": \"9da63ce2-1c0c-1164-f9c9-3abb567390e0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_180_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-16.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": [{\"id\": 302705, \"uuid\": \"b7b6ad19-3c30-7cb5-641c-bf3ea9340910\", \"legal_entity_uuid\": \"9da63ce2-1c0c-1164-f9c9-3abb567390e0\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 500000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-07-04\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1467624021/ssq5y0sltbe9gqiuiyra.png",
+                        "name": "Berenberg"
+                    },
+                    "position": "Intern",
+                    "startDate": "2017-05-01",
+                    "name": "Berenberg",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1467624021/ssq5y0sltbe9gqiuiyra.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "None",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Albert Schweitzer Gymnasium"
+                    },
+                    "name": "Albert Schweitzer Gymnasium",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "46",
+                    "value": "Cycling"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "56",
+                    "value": "Running"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "67",
+                    "value": "Immigrants"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "280"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,98 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Engineer @ Vivodyne | UPenn MechE/ROBO",
+                "educationExperiences": [],
+                "email": "akash.chauhan@vp.contrary.com",
+                "firstName": "Akash",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "80",
+                "intro": "\n",
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-26T22:12:16",
+                "lastName": "Chauhan",
+                "linkedinName": "akashkchauhan",
+                "linkedinUrl": "https://linkedin.com/in/akashkchauhan/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 14,
+                "prismUuid": "48f39aef-2075-476e-afb9-6321552c6fc9",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ALm5wu1Myv9ps8E9Ul84kCQ5d-BJ20pYCu9DiXfrN-BO=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "akashc@seas.upenn.edu",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U02HC58L0Q4",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3349",
+                        "organizationId": 2672,
+                        "position": "Engineer I",
+                        "startDate": "2022-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3350",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2021-10-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1609666, \"name\": \"Vivodyne\", \"uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vivodyne.png\", \"description\": \"Vivodyne develops an automated robotic system that discovers life-changing drugs and cellular therapies.\", \"headcount\": \"11-50\", \"founding_date\": \"2020-01-01\", \"website\": \"https://vivodyne.com/\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/vivodyne\", \"linkedin_url\": \"https://linkedin.com/company/vivodyne\", \"twitter\": null, \"last_funding_round_date\": \"2023-11-22\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 39999996, \"company_li_name\": \"vivodyne\", \"tags\": [{\"id\": 5523858, \"legal_entity_uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 5523859, \"legal_entity_uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"name\": \"Lifestyle\", \"category\": \"Industry\"}, {\"id\": 5523860, \"legal_entity_uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"name\": \"Medical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 150234, \"legal_entity_uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": 1, \"hc_estimate_180_days\": 1, \"hc_estimate_270_days\": 1, \"hc_estimate_365_days\": 1, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 490366, \"uuid\": \"8bce682c-309e-4f42-9802-27611bd0ae1c\", \"legal_entity_uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 38000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-11-22\", \"investors\": null}, {\"id\": 376903, \"uuid\": \"20b848f4-03b7-442f-acd5-972484039089\", \"legal_entity_uuid\": \"fadda4aa-3c83-4b58-84f3-0f45fbee59ef\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1999996, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-03-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vivodyne.png",
+                        "name": "Vivodyne"
+                    },
+                    "position": "Engineer I",
+                    "startDate": "2022-09-01",
+                    "name": "Vivodyne",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vivodyne.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2021-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                }
+            ],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "80"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,605 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "Economics",
+                        "degreeType": "Bachelors degree",
+                        "endDate": "2023-01-01",
+                        "id": "431",
+                        "startDate": "2019-01-01",
+                        "universityId": 60
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "Mathematics",
+                        "endDate": "2019-01-01",
+                        "id": "433",
+                        "startDate": "2018-01-01",
+                        "universityId": 1
+                    },
+                    {
+                        "degree": "Drew University",
+                        "degreeType": "Biophysics Research",
+                        "endDate": "2018-01-01",
+                        "id": "434",
+                        "startDate": "2017-01-01",
+                        "universityId": 250
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": "2019-01-01",
+                        "id": "432",
+                        "startDate": "2015-01-01",
+                        "universityId": 249
+                    }
+                ],
+                "email": "naomibenenson@gmail.com",
+                "firstName": "Naomi",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "231",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-04-25T20:55:04",
+                "lastName": "Benenson",
+                "linkedinName": "naomi-benenson-99a518b2",
+                "linkedinUrl": "https://linkedin.com/in/naomi-benenson-99a518b2/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 15,
+                "prismUuid": "01effbe3-c3a3-4f35-b59d-e690c5c787a6",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp5kSoYa8OY_IXO3rL5JYGkl5UMVIZ6dTgPTbN3P=s96-c",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "nbenenson@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4571",
+                        "organizationId": 94078,
+                        "position": "Leadership Development Program-ION Group",
+                        "startDate": "2023-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3514",
+                        "organizationId": 2759,
+                        "position": "Research Assistant",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1522",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2021-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1523",
+                        "organizationId": 1102,
+                        "position": "Investment Analyst",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1521",
+                        "organizationId": 205,
+                        "position": "Lewis Arts Complex Student Manager",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1525",
+                        "organizationId": 1104,
+                        "position": "Board of Directors",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1524",
+                        "organizationId": 1103,
+                        "position": "Fellow",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1519",
+                        "organizationId": 1100,
+                        "position": "Research Fellow",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-09-01",
+                        "id": "1527",
+                        "organizationId": 1106,
+                        "position": "Design and Marketing Intern",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2021-03-01",
+                        "id": "1526",
+                        "organizationId": 1105,
+                        "position": "Business Development Intern",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1520",
+                        "organizationId": 1101,
+                        "position": "Jewish Leader Advisory Board",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1530",
+                        "organizationId": 1109,
+                        "position": "Data Analyst Summer Intern",
+                        "startDate": "2019-08-01"
+                    },
+                    {
+                        "endDate": "2019-09-01",
+                        "id": "1528",
+                        "organizationId": 1107,
+                        "position": "Volunteer.im Founder",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "1531",
+                        "organizationId": 1110,
+                        "position": "Teacher and Choreographer",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2019-09-01",
+                        "id": "1529",
+                        "organizationId": 1108,
+                        "position": "Technical Consultant",
+                        "startDate": "2017-04-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "1532",
+                        "organizationId": 1111,
+                        "position": "Peer Tutor",
+                        "startDate": "2016-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4714",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1385873, \"name\": \"ION\", \"uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/iongroup.png\", \"description\": \"ION Group provides solutions for electronic trading, position management, pricing, risk management, and downstream processing for clients.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1998-01-01\", \"website\": \"https://iongroup.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [499507, 2933261, 3347903, 2852084, 2148498, 1587689], \"cb_permalink\": \"https://www.crunchbase.com/organization/ion-group\", \"linkedin_url\": \"https://linkedin.com/company/iongroup\", \"twitter\": \"https:/twitter.com/iongroup\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"iongroup\", \"tags\": [{\"id\": 6027810, \"legal_entity_uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"name\": \"Accounting\", \"category\": \"Industry\"}, {\"id\": 6027811, \"legal_entity_uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"name\": \"Asset Management\", \"category\": \"Industry\"}, {\"id\": 6027812, \"legal_entity_uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6027813, \"legal_entity_uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6027814, \"legal_entity_uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 34325, \"legal_entity_uuid\": \"4d336b73-85fc-4aff-0624-2a10f07fadc2\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 49, \"hc_estimate_90_days\": 47, \"hc_estimate_180_days\": 46, \"hc_estimate_270_days\": 45, \"hc_estimate_365_days\": 45, \"hc_growth_90_days\": \"4.2599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"6.519999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": \"8.8900000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"8.8900000000000005684341886080801486968994140625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/iongroup.png",
+                        "name": "ION"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "ION",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/iongroup.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Economics",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2023-01-01",
+                    "legalEntity": "{\"id\": 366802, \"name\": \"Princeton University\", \"uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ir7h0ty5q9dlwdjx5cqz\", \"description\": \"Princeton University is a private Ivy League university that offers a variety of masters degrees and Ph. D.s.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1764-01-01\", \"website\": \"http://www.princeton.edu\", \"location\": \"Princeton\", \"country\": \"USA\", \"region\": \"New Jersey\", \"founder_people_profile_ids\": [3157819], \"executive_people_profile_ids\": [235936, 1152864, 1036977, 1020229, 903051, 2254422, 2962482, 730517, 1667747, 412377, 3405905, 485380, 1728640, 383648, 1503513, 3157819, 1954390, 1974013, 3077842, 2181645], \"cb_permalink\": \"https://www.crunchbase.com/organization/princeton-university\", \"linkedin_url\": \"https://linkedin.com/school/princeton-university\", \"twitter\": \"http:/www.twitter.com/princeton\", \"last_funding_round_date\": \"2023-08-14\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 9439264, \"company_li_name\": \"princeton-university\", \"tags\": [{\"id\": 1793218, \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1793217, \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1793216, \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1793215, \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Alumni\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 139250, \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 281, \"hc_estimate_90_days\": 270, \"hc_estimate_180_days\": 309, \"hc_estimate_270_days\": 305, \"hc_estimate_365_days\": 310, \"hc_growth_90_days\": \"4.07000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"-9.0600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"-7.87000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"-9.3499999999999996447286321199499070644378662109375\"}, \"funding_rounds\": [{\"id\": 304838, \"uuid\": \"d2841976-bb68-4e72-b10b-2ee3ac449223\", \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-14\", \"investors\": null}, {\"id\": 304837, \"uuid\": \"d3284e55-141b-45d9-ac18-5d7c5b7e2c40\", \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-02-15\", \"investors\": null}, {\"id\": 481270, \"uuid\": \"39c96eae-b97f-450f-84d6-049d1c9f2aec\", \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1539264, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 304836, \"uuid\": \"ed3b2366-83bd-4627-b4dc-c84cb6af2765\", \"legal_entity_uuid\": \"f44448e4-ff35-c96a-b7c0-3bd2ebcb4f72\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-21\", \"investors\": null}]}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ir7h0ty5q9dlwdjx5cqz",
+                        "name": "Princeton University"
+                    },
+                    "name": "Princeton University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ir7h0ty5q9dlwdjx5cqz"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Mathematics",
+                    "degreeType": "",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Voorhees High School"
+                    },
+                    "name": "Voorhees High School",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Drew University",
+                    "degreeType": "Biophysics Research",
+                    "endDate": "2018-01-01",
+                    "legalEntity": null,
+                    "startDate": "2017-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Governors STEM Scholar"
+                    },
+                    "name": "Governors STEM Scholar",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "231"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,278 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor of Science (BS)",
+                        "endDate": "2019-01-01",
+                        "id": "464",
+                        "startDate": "2015-01-01",
+                        "universityId": 38
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2015-01-01",
+                        "id": "465",
+                        "startDate": "2012-01-01",
+                        "universityId": 135
+                    }
+                ],
+                "email": "shanelleroman@gmail.com",
+                "firstName": "Shanelle",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "248",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-02-28T23:24:13",
+                "lastName": "Roman",
+                "linkedinName": "shanelle-roman-37baa6103",
+                "linkedinUrl": "https://linkedin.com/in/shanelle-roman-37baa6103/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "be0777ed-67f9-406c-943a-575b67ddcebe",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/f3f345f746285b198ad7e3d8889f5c6d/9bddc931/photo.jpg?ts=1659018023&userId=usrMxTlLuLWjeji2x&cs=d54838cde660c07d",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4402",
+                        "organizationId": 3054,
+                        "position": "Co-Founder & CEO",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3521",
+                        "organizationId": 244,
+                        "position": "Co-Founder",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1648",
+                        "organizationId": 6,
+                        "position": "Product Manager",
+                        "startDate": "2019-08-01"
+                    },
+                    {
+                        "endDate": "2019-05-01",
+                        "id": "1649",
+                        "organizationId": 930,
+                        "position": "Venture Fellow",
+                        "startDate": "2018-08-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "1650",
+                        "organizationId": 1180,
+                        "position": "Product Manager",
+                        "startDate": "2018-08-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1651",
+                        "organizationId": 833,
+                        "position": "Software Engineer",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "1652",
+                        "organizationId": 1181,
+                        "position": "Extern",
+                        "startDate": "2015-06-01"
+                    },
+                    {
+                        "endDate": "2015-05-01",
+                        "id": "1653",
+                        "organizationId": 1182,
+                        "position": "Intern",
+                        "startDate": "2015-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4579",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/nebula.png",
+                        "name": "Nebula"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Nebula",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/nebula.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "None",
+                    "degreeType": "",
+                    "endDate": "2015-01-01",
+                    "legalEntity": null,
+                    "startDate": "2012-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Edina High School"
+                    },
+                    "name": "Edina High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "248"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

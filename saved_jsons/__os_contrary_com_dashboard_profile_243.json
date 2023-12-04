@@ -1,0 +1,186 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor\u2019s Degree",
+                        "endDate": null,
+                        "id": "453",
+                        "startDate": null,
+                        "universityId": 41
+                    }
+                ],
+                "email": "shivam@lazertechnologies.com",
+                "firstName": "Shivam",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "243",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Sharma",
+                "linkedinName": "imshiv",
+                "linkedinUrl": "https://linkedin.com/in/imshiv/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "133349f4-8b7e-472d-a2de-58b0c806d462",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/7c8953081d2b6c76c97fc739f1bd3055/9c16bc8e/shivDP.jpg?ts=1659018023&userId=usrMxTlLuLWjeji2x&cs=4c2d326f7d7bba83",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "1606",
+                        "organizationId": 1153,
+                        "position": "Partner & CTO",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-07-01",
+                        "id": "1607",
+                        "organizationId": 1154,
+                        "position": "Founder",
+                        "startDate": "2019-08-01"
+                    },
+                    {
+                        "endDate": "2019-07-01",
+                        "id": "1608",
+                        "organizationId": 1155,
+                        "position": "Principal Engineer",
+                        "startDate": "2018-08-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1609",
+                        "organizationId": 268,
+                        "position": "Machine Learning Engineer",
+                        "startDate": "2016-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4576",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 397649, \"name\": \"Lazer Technologies\", \"uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz\", \"description\": \"Lazer Technologies is a digital product studio that designs and engineers products and helps companies bring ideas to the market.\", \"headcount\": \"51-100\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.lazertechnologies.com/\", \"location\": \"Toronto\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/lazer-technologies\", \"linkedin_url\": \"https://linkedin.com/company/lazer-technologies\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"lazer-technologies\", \"tags\": [{\"id\": 2145316, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 2145317, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Product Design\", \"category\": \"Industry\"}, {\"id\": 2145318, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141168, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 18, \"hc_estimate_365_days\": 18, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-5.55999999999999960920149533194489777088165283203125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz",
+                        "name": "Lazer Technologies"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Lazer Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 397649, \"name\": \"Lazer Technologies\", \"uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz\", \"description\": \"Lazer Technologies is a digital product studio that designs and engineers products and helps companies bring ideas to the market.\", \"headcount\": \"51-100\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.lazertechnologies.com/\", \"location\": \"Toronto\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/lazer-technologies\", \"linkedin_url\": \"https://linkedin.com/company/lazer-technologies\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"lazer-technologies\", \"tags\": [{\"id\": 2145316, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 2145317, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Product Design\", \"category\": \"Industry\"}, {\"id\": 2145318, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141168, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 18, \"hc_estimate_365_days\": 18, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-5.55999999999999960920149533194489777088165283203125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz",
+                        "name": "Lazer Technologies"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Lazer Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelors Degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 166744, \"name\": \"University of Waterloo\", \"uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png\", \"description\": \"University of Waterloo is a public research university that operates colleges which offer undergraduate and graduate programs.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1957-07-01\", \"website\": \"https://uwaterloo.ca\", \"location\": \"Waterloo\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [1298406], \"executive_people_profile_ids\": [1407569, 2507258, 566104, 1943746, 1040346], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-waterloo\", \"linkedin_url\": \"https://linkedin.com/school/uwaterloo\", \"twitter\": \"http:/twitter.com/uWaterloo\", \"last_funding_round_date\": \"2023-10-12\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5819194, \"company_li_name\": \"uwaterloo\", \"tags\": [{\"id\": 6420576, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6420577, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 6420578, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4318, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 226, \"hc_estimate_90_days\": 213, \"hc_estimate_180_days\": 209, \"hc_estimate_270_days\": 249, \"hc_estimate_365_days\": 250, \"hc_growth_90_days\": \"6.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"8.1300000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-9.2400000000000002131628207280300557613372802734375\", \"hc_growth_365_days\": \"-9.5999999999999996447286321199499070644378662109375\"}, \"funding_rounds\": [{\"id\": 486495, \"uuid\": \"17e8a13b-6a10-41ea-8fb2-c371980e60ae\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 550000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-12\", \"investors\": null}, {\"id\": 69606, \"uuid\": \"ebc66534-c8a5-449c-a3ac-bc1229aa7741\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-22\", \"investors\": null}, {\"id\": 69605, \"uuid\": \"23f3cfc4-7647-4cf9-bb0f-778f23ff1678\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1119194, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-13\", \"investors\": null}, {\"id\": 69604, \"uuid\": \"1327800c-7081-46a0-94db-367837b180ff\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-29\", \"investors\": null}, {\"id\": 69603, \"uuid\": \"dd42184a-98ac-c5f8-1bdb-f306dc736a6b\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png",
+                        "name": "University of Waterloo"
+                    },
+                    "name": "University of Waterloo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "243"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

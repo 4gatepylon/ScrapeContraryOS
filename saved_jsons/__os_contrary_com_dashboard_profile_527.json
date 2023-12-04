@@ -1,0 +1,108 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendar.app.google/3khxyoHCL1qAUfKM7",
+                "canProvide": "I can help with software development, career switching and the occasional back-of-the-envelope calculations for your SAFEs or priced round",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "skye@contrarycap.com",
+                "firstName": "Skye",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83e\udd21",
+                "hqPosition": "Software Engineer",
+                "hubCity": "Seattle",
+                "id": "527",
+                "intro": "I'm originally from Viet Nam and a chemical engineer turned SWE",
+                "isActiveFellow": false,
+                "isActiveHq": true,
+                "isActiveVp": false,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-10-02T21:53:42",
+                "lastName": "Nguyen",
+                "linkedinName": "sn94",
+                "linkedinUrl": "https://linkedin.com/in/sn94/",
+                "location": "Seattle, WA",
+                "lookingFor": "Chat with people from different backgrounds about their career journey",
+                "meetWithBlurb": "Software development, career switching, fund accounting",
+                "podId": 24,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp4qdLVGAp477CPbLAIdaCsSCz9SifF5kR1kheXi=s96-c",
+                "roles": [
+                    "HQ",
+                    "Event Admin",
+                    "Legacy Admin",
+                    "HQ Admin"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "35",
+                    "value": "Dev Tools"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "29",
+                    "value": "Web3 / Crypto"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "44",
+                    "value": "Gaming"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "527"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

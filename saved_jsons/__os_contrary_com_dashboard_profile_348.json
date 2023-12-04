@@ -1,0 +1,152 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Founder at SellScale.com",
+                "currentRole": "Co-Founder & CTO @ SellScale",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "Computer Science",
+                        "endDate": null,
+                        "id": "644",
+                        "startDate": null,
+                        "universityId": 7
+                    }
+                ],
+                "email": "aakash.adesara@gmail.com",
+                "firstName": "Aakash",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83d\ude01",
+                "hqPosition": null,
+                "hubCity": "South Bay",
+                "id": "348",
+                "intro": "\ud83e\udd16 founder @sellscale\n\ud83d\ude80 editor @ http://dailydropout.fyi\n\ud83c\udf0a prev @athelas @nextdoor @ucbids",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-01-13T19:34:20",
+                "lastName": "Adesara",
+                "linkedinName": "aaadesara",
+                "linkedinUrl": "https://linkedin.com/in/aaadesara/",
+                "location": "San Francisco / San Jose",
+                "lookingFor": "Generative AI, Growth Tech, Product Design + Development, Early Founders",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "964204cb-359c-4bab-a589-ccb02b5d9d48",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/348_Aakash_Adesara.jpeg",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "aakashadesara@berkeley.edu",
+                "slackUrl": null,
+                "twitterHandle": "aakashadesara",
+                "twitterUrl": "https://twitter.com/aakashadesara/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4070",
+                        "organizationId": 2981,
+                        "position": "Co-Founder & CTO",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2297",
+                        "organizationId": 1595,
+                        "position": "Lead Engineer (Growth)",
+                        "startDate": "2021-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1657700, \"name\": \"SellScale\", \"uuid\": \"dba6a627-81d4-4eb4-9179-45ed73708c5f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ulfseptvgevizmgnimsu\", \"description\": \"SellScale is a sales and marketing software that uses artificial intelligence to generate better marketing emails.\", \"headcount\": \"1-10\", \"founding_date\": \"2022-01-01\", \"website\": \"https://www.sellscale.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2511709], \"executive_people_profile_ids\": [2511709], \"cb_permalink\": \"https://www.crunchbase.com/organization/sellscale\", \"linkedin_url\": \"https://linkedin.com/company/sellscale\", \"twitter\": \"https:/twitter.com/sellscale\", \"last_funding_round_date\": \"2022-12-06\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 3400000, \"company_li_name\": \"sellscale\", \"tags\": [{\"id\": 4176678, \"legal_entity_uuid\": \"dba6a627-81d4-4eb4-9179-45ed73708c5f\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 4176679, \"legal_entity_uuid\": \"dba6a627-81d4-4eb4-9179-45ed73708c5f\", \"name\": \"Marketing\", \"category\": \"Industry\"}, {\"id\": 4176680, \"legal_entity_uuid\": \"dba6a627-81d4-4eb4-9179-45ed73708c5f\", \"name\": \"Sales\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 155200, \"legal_entity_uuid\": \"dba6a627-81d4-4eb4-9179-45ed73708c5f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"66.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": [{\"id\": 87544, \"uuid\": \"f13736e8-9141-481f-9be6-27ba942402b9\", \"legal_entity_uuid\": \"dba6a627-81d4-4eb4-9179-45ed73708c5f\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-12-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ulfseptvgevizmgnimsu",
+                        "name": "SellScale"
+                    },
+                    "position": "Co-Founder  CTO",
+                    "startDate": "2022-09-01",
+                    "name": "SellScale",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ulfseptvgevizmgnimsu"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                },
+                {
+                    "created": "2022-08-23T21:33:09",
+                    "deleted": null,
+                    "id": "3",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "348"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

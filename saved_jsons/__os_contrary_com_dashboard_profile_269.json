@@ -1,0 +1,471 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "McKinsey & Co",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "MIT Launch",
+                        "endDate": null,
+                        "id": "507",
+                        "startDate": null,
+                        "universityId": 16
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "508",
+                        "startDate": null,
+                        "universityId": 282
+                    },
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Master of Science - MS",
+                        "endDate": null,
+                        "id": "509",
+                        "startDate": null,
+                        "universityId": 17
+                    }
+                ],
+                "email": "natalia.dorogi@columbia.edu",
+                "firstName": "Natalia",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "269",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Dorogi",
+                "linkedinName": "natalia-dorogi",
+                "linkedinUrl": "https://linkedin.com/in/natalia-dorogi/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "fca28de6-33ed-4964-9833-40bb053901e5",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/269_Natalia_Dorogi.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "1794",
+                        "organizationId": 39,
+                        "position": "Investment Banking Analyst",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "1795",
+                        "organizationId": 1120,
+                        "position": "Office of the Provost",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1791",
+                        "organizationId": 1275,
+                        "position": "Business Development",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "1796",
+                        "organizationId": 126,
+                        "position": "Investor",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1792",
+                        "organizationId": 1123,
+                        "position": "Operating & Data Science",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "4493",
+                        "organizationId": 3130,
+                        "position": "Hypothesis tester",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "4416",
+                        "organizationId": 3068,
+                        "position": "Hypothesis tester",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "1798",
+                        "organizationId": 930,
+                        "position": "Venture Fellow",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "1801",
+                        "organizationId": 1278,
+                        "position": "Brand",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "1800",
+                        "organizationId": 61,
+                        "position": "Business Analyst",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "1797",
+                        "organizationId": 1276,
+                        "position": "Teaching Assistant",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "1799",
+                        "organizationId": 1277,
+                        "position": "College Fellow",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "1802",
+                        "organizationId": 146,
+                        "position": "Associate",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "1803",
+                        "organizationId": 68,
+                        "position": "FEP",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "1804",
+                        "organizationId": 1279,
+                        "position": "Strategy",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "4495",
+                        "organizationId": 3132,
+                        "position": "Product development",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "1793",
+                        "organizationId": 5,
+                        "position": "Venture Partner, Columbia Pod Lead",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "4496",
+                        "organizationId": 3133,
+                        "position": "Co-Founder",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "3550",
+                        "organizationId": 76,
+                        "position": "Various Roles",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2016-01-01",
+                        "id": "1805",
+                        "organizationId": 1280,
+                        "position": "Entrepreneur",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "4494",
+                        "organizationId": 3131,
+                        "position": "Co-Founder",
+                        "startDate": "2013-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 179039, \"name\": \"McKinsey & Company\", \"uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png\", \"description\": \"McKinsey & Company is a global management consulting firm and trusted advisor by businesses, governments, and institutions.\", \"headcount\": \"10000+\", \"founding_date\": \"1926-01-01\", \"website\": \"http://www.mckinsey.com\", \"location\": \"Vienna\", \"country\": \"AUT\", \"region\": \"Wien\", \"founder_people_profile_ids\": [4133473, 1825782], \"executive_people_profile_ids\": [3053042, 791339, 815946, 769621, 183812, 3130727, 1967068, 271389, 3245, 1344763, 2741793, 3024633, 1941985, 418717, 1514270, 2471698, 681625, 1992042, 275511, 109582, 2990793, 2708985, 577686, 1840759, 2243371, 235041, 2412722, 2924419, 2425564], \"cb_permalink\": \"https://www.crunchbase.com/organization/mckinsey-company\", \"linkedin_url\": \"https://linkedin.com/company/mckinsey\", \"twitter\": \"http:/twitter.com/McKinsey\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mckinsey\", \"tags\": [{\"id\": 6371856, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6371857, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6371858, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Professional Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 3461, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1972, \"hc_estimate_90_days\": 1903, \"hc_estimate_180_days\": 1858, \"hc_estimate_270_days\": 1846, \"hc_estimate_365_days\": 1800, \"hc_growth_90_days\": \"3.62999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"6.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"9.5600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png",
+                        "name": "McKinsey  Company"
+                    },
+                    "position": "Consultant",
+                    "startDate": "2022-01-01",
+                    "name": "McKinsey  Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 2121204, \"name\": \"General Atlantic\", \"uuid\": \"8b8d96f8-9dfe-b27a-8f57-7d266a051dc9\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/general-atlantic.png\", \"description\": \"General Atlantic is a private equity firm that provides capital and strategic support for growth companies.\", \"headcount\": \"501-1000\", \"founding_date\": \"1980-04-01\", \"website\": \"http://www.generalatlantic.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [472425, 1887392, 2312269, 2822275, 1777437, 489898, 1777351, 1991904, 1752062, 469253, 1942866, 2448153, 478292, 594072, 1176916, 1369426, 1509929, 501699, 590178, 1623562, 204947, 1432042, 2870810, 1940157, 2498362, 2664548, 493313, 2683112, 198954, 1318243, 976492, 728604, 1691572], \"cb_permalink\": \"https://www.crunchbase.com/organization/general-atlantic\", \"linkedin_url\": \"https://linkedin.com/company/general-atlantic\", \"twitter\": \"http:/www.twitter.com/generalatlantic\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"general-atlantic\", \"tags\": [{\"id\": 6411860, \"legal_entity_uuid\": \"8b8d96f8-9dfe-b27a-8f57-7d266a051dc9\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6411861, \"legal_entity_uuid\": \"8b8d96f8-9dfe-b27a-8f57-7d266a051dc9\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6411862, \"legal_entity_uuid\": \"8b8d96f8-9dfe-b27a-8f57-7d266a051dc9\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 64226, \"legal_entity_uuid\": \"8b8d96f8-9dfe-b27a-8f57-7d266a051dc9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 104, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 91, \"hc_estimate_270_days\": 93, \"hc_estimate_365_days\": 94, \"hc_growth_90_days\": \"-4.589999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"11.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"10.6400000000000005684341886080801486968994140625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/general-atlantic.png",
+                        "name": "General Atlantic"
+                    },
+                    "position": "Data Science and Operating",
+                    "startDate": "2019-01-01",
+                    "name": "General Atlantic",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/general-atlantic.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "(Alumni) Venture Partner",
+                    "startDate": "2017-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 2176714, \"name\": \"Goldman Sachs\", \"uuid\": \"30b3efdf-6024-804d-ea55-c4d1a8dfc86c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/goldman-sachs.png\", \"description\": \"Goldman Sachs is a multinational financial services firm providing securities, investment banking, and management services.\", \"headcount\": \"10000+\", \"founding_date\": \"1869-01-01\", \"website\": \"http://www.goldmansachs.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2845197, 1091170, 2092543, 2269200], \"executive_people_profile_ids\": [2914232, 2182985, 2373148, 2370202, 1824371, 275394, 2341211, 2776244, 4158538, 385125, 2990572, 423075, 1012014, 2246551, 2946472, 517864, 683762, 4161405, 2763363, 1826559, 4188535, 1019324, 1194781, 2163941, 1138308, 3102592, 2355799, 99127, 1965390, 70776, 409630, 2956185, 3390599, 433393, 4189453, 3222950, 850795, 1472523, 3147782, 1451575, 4123230, 4168895, 790830, 2150422, 1151741, 1838921, 1063919, 1680548, 3026078, 1620964, 4169411, 2322226, 2069783, 288393, 2269162, 3276788, 2313318, 301573, 4168671, 1737333, 3045446, 1659194, 2213832, 3188883, 2762909, 430263, 2004645, 571589, 1017415, 2609945, 2413777, 2381964, 292005, 3107132, 1438507, 3232757, 1306162, 2065289, 2428377, 1742726, 3109080, 732289, 2186426, 1388388, 175604, 2206586, 1388056, 1095645, 4161526, 2584658, 129097, 1462632, 807574, 1871880, 2135386, 2326854, 2990040, 2169372, 1627292, 505978, 1961522, 1306324, 2293913, 3060424, 1037636, 1485801, 4122167, 784629, 3255277, 2297726, 119660, 2735461, 535866, 2201892, 1481559, 1202184, 2189699, 1815903, 790271, 277103, 802220, 376619, 2239834, 1005226, 253173, 3015740, 645660, 794211, 3236169, 1434457, 2131704, 4189527, 2554703, 2494759, 657938, 4144116, 816432, 4122317, 1116315, 658599, 136299, 1943398, 692924, 352005, 3188700, 1639512, 1154975, 2442035, 2139899, 3542068, 3408634, 777191, 1088913, 672948, 344858, 2726569, 2276861, 2991289, 1822426, 2541593, 2814207, 3032046, 1572030, 723312, 444114, 132691, 734494, 894387, 201894, 1878114], \"cb_permalink\": \"https://www.crunchbase.com/organization/goldman-sachs\", \"linkedin_url\": \"https://linkedin.com/company/goldman-sachs\", \"twitter\": \"http:/twitter.com/goldmansachs\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"goldman-sachs\", \"tags\": [{\"id\": 6362537, \"legal_entity_uuid\": \"30b3efdf-6024-804d-ea55-c4d1a8dfc86c\", \"name\": \"Banking\", \"category\": \"Industry\"}, {\"id\": 6362538, \"legal_entity_uuid\": \"30b3efdf-6024-804d-ea55-c4d1a8dfc86c\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6362539, \"legal_entity_uuid\": \"30b3efdf-6024-804d-ea55-c4d1a8dfc86c\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362540, \"legal_entity_uuid\": \"30b3efdf-6024-804d-ea55-c4d1a8dfc86c\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 53821, \"legal_entity_uuid\": \"30b3efdf-6024-804d-ea55-c4d1a8dfc86c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1585, \"hc_estimate_90_days\": 1647, \"hc_estimate_180_days\": 1514, \"hc_estimate_270_days\": 1637, \"hc_estimate_365_days\": 1675, \"hc_growth_90_days\": \"-3.7599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"4.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-3.180000000000000159872115546022541821002960205078125\", \"hc_growth_365_days\": \"-5.37000000000000010658141036401502788066864013671875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/goldman-sachs.png",
+                        "name": "Goldman Sachs"
+                    },
+                    "position": "Investment Banking",
+                    "startDate": "2020-01-01",
+                    "name": "Goldman Sachs",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/goldman-sachs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 1127335, \"name\": \"Stripes\", \"uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vkg4diogocjyzexw82mz\", \"description\": \"Stripes is a growth equity firm that invests in software and consumer businesses.\", \"headcount\": \"51-100\", \"founding_date\": \"2008-01-01\", \"website\": \"https://www.stripes.co\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1110391], \"executive_people_profile_ids\": [463027, 1126534, 3083658, 361923, 271650, 450276, 1089347, 497074, 2304449, 3164302, 1091160, 1178980, 730566, 1753776, 815306, 2138251, 1976322, 1693033, 1942733, 771271, 2752241, 2767479, 2939881, 2817384, 1110391, 1628106, 1906114, 1191358, 987365, 989711], \"cb_permalink\": \"https://www.crunchbase.com/organization/stripesco\", \"linkedin_url\": \"https://linkedin.com/company/stripesco\", \"twitter\": \"https:/twitter.com/stripesco_\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"stripesco\", \"tags\": [{\"id\": 6363217, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6363218, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6363219, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 185503, \"legal_entity_uuid\": \"8f34e608-329e-2c81-70b2-5893f058015f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 20, \"hc_estimate_90_days\": 21, \"hc_estimate_180_days\": 21, \"hc_estimate_270_days\": 23, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-4.7599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"-4.7599999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"-13.03999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vkg4diogocjyzexw82mz",
+                        "name": "Stripes"
+                    },
+                    "position": "Investor",
+                    "startDate": "2020-01-01",
+                    "name": "Stripes",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vkg4diogocjyzexw82mz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 2164130, \"name\": \"New Enterprise Associates\", \"uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-enterprise-associates.png\", \"description\": \"New Enterprise Associates is a global venture capital firm investing in technology and healthcare.\", \"headcount\": \"51-100\", \"founding_date\": \"1977-01-01\", \"website\": \"http://www.nea.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1497722], \"executive_people_profile_ids\": [1048362, 2037121, 147589, 1397850, 3179249, 151115, 4067876, 2945508, 2251181], \"cb_permalink\": \"https://www.crunchbase.com/organization/new-enterprise-associates\", \"linkedin_url\": \"https://linkedin.com/company/new-enterprise-associates\", \"twitter\": \"https:/www.twitter.com/NEA\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"new-enterprise-associates\", \"tags\": [{\"id\": 6363090, \"legal_entity_uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"name\": \"Consumer\", \"category\": \"Industry\"}, {\"id\": 6363091, \"legal_entity_uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6363092, \"legal_entity_uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6363093, \"legal_entity_uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 6363094, \"legal_entity_uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 64354, \"legal_entity_uuid\": \"47b84763-9727-7cdf-b194-2742e3963147\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 130, \"hc_estimate_90_days\": 131, \"hc_estimate_180_days\": 133, \"hc_estimate_270_days\": 132, \"hc_estimate_365_days\": 130, \"hc_growth_90_days\": \"-0.7600000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-2.2599999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"-1.520000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-enterprise-associates.png",
+                        "name": "New Enterprise Associates (NEA)"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2019-01-01",
+                    "name": "New Enterprise Associates (NEA)",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-enterprise-associates.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Columbia Business School"
+                    },
+                    "position": "Teaching Assistant",
+                    "startDate": "2018-01-01",
+                    "name": "Columbia Business School",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 144620, \"name\": \"N26\", \"uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/os4gsjylp8qjw44zvai0\", \"description\": \"N26 is a financial services company that offers mobile banking solutions.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2013-01-01\", \"website\": \"https://n26.com\", \"location\": \"Berlin\", \"country\": \"DEU\", \"region\": \"Berlin\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [580492, 272278, 1602260, 1716906, 489117, 581023, 2680948, 1020700, 838580, 2626036, 978951, 642255, 1054378, 1966822, 1779022, 1518038, 1073515, 504412, 1508830, 471481, 3210234, 2022225, 3303062, 2128421], \"cb_permalink\": \"https://www.crunchbase.com/organization/n26\", \"linkedin_url\": \"https://linkedin.com/company/n26\", \"twitter\": \"https:/twitter.com/n26\", \"last_funding_round_date\": \"2021-10-18\", \"last_funding_round_name\": \"Series E\", \"total_funding_amount\": 1719059587, \"company_li_name\": \"n26\", \"tags\": [{\"id\": 6297662, \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Banking\", \"category\": \"Industry\"}, {\"id\": 6297663, \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6297664, \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6297665, \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6297666, \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"InsurTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 18020, \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 78, \"hc_estimate_90_days\": 77, \"hc_estimate_180_days\": 81, \"hc_estimate_270_days\": 82, \"hc_estimate_365_days\": 85, \"hc_growth_90_days\": \"1.3000000000000000444089209850062616169452667236328125\", \"hc_growth_180_days\": \"-3.70000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-4.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-8.2400000000000002131628207280300557613372802734375\"}, \"funding_rounds\": [{\"id\": 162568, \"uuid\": \"6609a6fd-f9fd-4c2f-9185-0d04ca813205\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 900050287, \"post_money_valuation_usd\": 9000502866, \"announced_date\": \"2021-10-18\", \"investors\": null}, {\"id\": 162567, \"uuid\": \"c7eed1fc-4a32-4546-a35a-840f0c5a9e06\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 36216225, \"post_money_valuation_usd\": 3536216225, \"announced_date\": \"2021-02-26\", \"investors\": null}, {\"id\": 162566, \"uuid\": \"f1dd9539-bfaf-4e63-b352-9c8b7dd5304b\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 3500000000, \"announced_date\": \"2020-05-05\", \"investors\": null}, {\"id\": 162565, \"uuid\": \"17a07d34-3327-42a9-a08e-e5af6abbb5d0\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 3500000000, \"announced_date\": \"2019-10-01\", \"investors\": null}, {\"id\": 162564, \"uuid\": \"ab1c180f-4e62-480a-9d07-3f734d34770e\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 170000000, \"post_money_valuation_usd\": 3500000000, \"announced_date\": \"2019-07-17\", \"investors\": null}, {\"id\": 162563, \"uuid\": \"baf81c94-0046-4922-87d1-a1da5631c099\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 2700000000, \"announced_date\": \"2019-01-09\", \"investors\": null}, {\"id\": 162562, \"uuid\": \"90415dfe-ab81-4d40-b8ca-980ea73e66b7\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 160000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-03-19\", \"investors\": null}, {\"id\": 162561, \"uuid\": \"ac143790-bc96-c31a-f2cf-80aa3d274c8f\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-21\", \"investors\": null}, {\"id\": 162560, \"uuid\": \"14bec946-243b-0422-212f-34a8a1fea88d\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 10760116, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-04-16\", \"investors\": null}, {\"id\": 162559, \"uuid\": \"71c6e9dc-f4ea-caf0-e2dd-4d8845b37410\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-06-19\", \"investors\": null}, {\"id\": 162558, \"uuid\": \"f2b68e74-54e9-4907-399d-bbfca5eb58ac\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 32959, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-05-01\", \"investors\": null}, {\"id\": 162557, \"uuid\": \"ebbac1e7-0697-478f-9c2c-153ce493b681\", \"legal_entity_uuid\": \"251270ba-b3b8-6135-ed82-6657e1c8b046\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/os4gsjylp8qjw44zvai0",
+                        "name": "N26"
+                    },
+                    "position": "Strategy",
+                    "startDate": "2019-01-01",
+                    "name": "N26",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/os4gsjylp8qjw44zvai0"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 2134273, \"name\": \"Female Founders Fund\", \"uuid\": \"0cf8b1f2-eb34-c205-6eea-d72d2a33ebff\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/f-cubed-female-founders-fund-.png\", \"description\": \"Female Founders Fund is an early-stage fund investing in technology companies founded by women.\", \"headcount\": \"1-10\", \"founding_date\": \"2014-01-01\", \"website\": \"http://femalefoundersfund.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/female-founders-fund\", \"linkedin_url\": \"https://linkedin.com/company/f-cubed-female-founders-fund-\", \"twitter\": \"https:/www.twitter.com/fcubedvc\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"f-cubed-female-founders-fund-\", \"tags\": [{\"id\": 1786945, \"legal_entity_uuid\": \"0cf8b1f2-eb34-c205-6eea-d72d2a33ebff\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1786946, \"legal_entity_uuid\": \"0cf8b1f2-eb34-c205-6eea-d72d2a33ebff\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1786947, \"legal_entity_uuid\": \"0cf8b1f2-eb34-c205-6eea-d72d2a33ebff\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/f-cubed-female-founders-fund-.png",
+                        "name": "Female Founders Fund"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2018-01-01",
+                    "name": "Female Founders Fund",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/f-cubed-female-founders-fund-.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bitedrink.png",
+                        "name": "BITE"
+                    },
+                    "position": "Product Development",
+                    "startDate": "2018-01-01",
+                    "name": "BITE",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bitedrink.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 377828, \"name\": \"Romulus Capital\", \"uuid\": \"8efb7dcf-21b8-b266-f501-ff3d296434d9\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/romulus-capital.png\", \"description\": \"Romulus Capital is an American seed- and early-stage venture capital fund that invests in technology companies.\", \"headcount\": \"11-50\", \"founding_date\": \"2008-01-01\", \"website\": \"http://romuluscap.com\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [886006, 676901], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/romulus-capital\", \"linkedin_url\": \"https://linkedin.com/company/romulus-capital\", \"twitter\": \"http:/twitter.com/RomulusCap\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"romulus-capital\", \"tags\": [{\"id\": 6468489, \"legal_entity_uuid\": \"8efb7dcf-21b8-b266-f501-ff3d296434d9\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 138887, \"legal_entity_uuid\": \"8efb7dcf-21b8-b266-f501-ff3d296434d9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/romulus-capital.png",
+                        "name": "Romulus Capital"
+                    },
+                    "position": "Associate",
+                    "startDate": "2018-01-01",
+                    "name": "Romulus Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/romulus-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/clementine-adolescent-treatment-programs.png",
+                        "name": "Clementine"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2017-01-01",
+                    "name": "Clementine",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/clementine-adolescent-treatment-programs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Lighthouse Jewels"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2013-01-01",
+                    "name": "Lighthouse Jewels",
+                    "logoUrl": null
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science: Machine Learning",
+                    "degreeType": "Master of Science - MS",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 123469, \"name\": \"Columbia University\", \"uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/columbia-university.png\", \"description\": \"Columbia University is one of the centers of research and a distinctive and distinguished learning environment.\", \"headcount\": \"10000+\", \"founding_date\": \"1754-05-25\", \"website\": \"https://www.columbia.edu\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3163226], \"executive_people_profile_ids\": [2679998, 676829, 4122606, 755799, 1655439, 833355, 2659366, 536933, 55999, 1974274, 771948, 3157184, 2437947, 1806300, 720704], \"cb_permalink\": \"https://www.crunchbase.com/organization/columbia-university\", \"linkedin_url\": \"https://linkedin.com/school/columbia-university\", \"twitter\": \"https:/twitter.com/columbia\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 21819651, \"company_li_name\": \"columbia-university\", \"tags\": [{\"id\": 6496178, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6496179, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6496180, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 6496181, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Training\", \"category\": \"Industry\"}, {\"id\": 6496182, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16692, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 611, \"hc_estimate_90_days\": 589, \"hc_estimate_180_days\": 665, \"hc_estimate_270_days\": 680, \"hc_estimate_365_days\": 706, \"hc_growth_90_days\": \"3.7400000000000002131628207280300557613372802734375\", \"hc_growth_180_days\": \"-8.1199999999999992184029906638897955417633056640625\", \"hc_growth_270_days\": \"-10.1500000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-13.46000000000000085265128291212022304534912109375\"}, \"funding_rounds\": [{\"id\": 101344, \"uuid\": \"484cf7d7-eb15-41eb-bf11-7cd4620832eb\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 101343, \"uuid\": \"18719f80-e55e-4736-9d3a-12c98eaa726c\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-04\", \"investors\": null}, {\"id\": 101342, \"uuid\": \"931ea3ad-e8fc-4bd7-bb8e-15942ab8ece9\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 38860, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-13\", \"investors\": null}, {\"id\": 101341, \"uuid\": \"41e70c89-c01a-4b49-b15b-b0b45d51715f\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 487421, \"uuid\": \"8b1f5dff-863d-44e3-8729-a91a4274659a\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1486360, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 487420, \"uuid\": \"2baa38a1-3a69-45dd-9a44-86d5886b7152\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 244431, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-08-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/columbia-university.png",
+                        "name": "Columbia University in the City of New York"
+                    },
+                    "name": "Columbia University in the City of New York",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/columbia-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Operations Research",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 123469, \"name\": \"Columbia University\", \"uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/columbia-university.png\", \"description\": \"Columbia University is one of the centers of research and a distinctive and distinguished learning environment.\", \"headcount\": \"10000+\", \"founding_date\": \"1754-05-25\", \"website\": \"https://www.columbia.edu\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3163226], \"executive_people_profile_ids\": [2679998, 676829, 4122606, 755799, 1655439, 833355, 2659366, 536933, 55999, 1974274, 771948, 3157184, 2437947, 1806300, 720704], \"cb_permalink\": \"https://www.crunchbase.com/organization/columbia-university\", \"linkedin_url\": \"https://linkedin.com/school/columbia-university\", \"twitter\": \"https:/twitter.com/columbia\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 21819651, \"company_li_name\": \"columbia-university\", \"tags\": [{\"id\": 6496178, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6496179, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6496180, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 6496181, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Training\", \"category\": \"Industry\"}, {\"id\": 6496182, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16692, \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 611, \"hc_estimate_90_days\": 589, \"hc_estimate_180_days\": 665, \"hc_estimate_270_days\": 680, \"hc_estimate_365_days\": 706, \"hc_growth_90_days\": \"3.7400000000000002131628207280300557613372802734375\", \"hc_growth_180_days\": \"-8.1199999999999992184029906638897955417633056640625\", \"hc_growth_270_days\": \"-10.1500000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-13.46000000000000085265128291212022304534912109375\"}, \"funding_rounds\": [{\"id\": 101344, \"uuid\": \"484cf7d7-eb15-41eb-bf11-7cd4620832eb\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 101343, \"uuid\": \"18719f80-e55e-4736-9d3a-12c98eaa726c\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-04\", \"investors\": null}, {\"id\": 101342, \"uuid\": \"931ea3ad-e8fc-4bd7-bb8e-15942ab8ece9\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 38860, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-13\", \"investors\": null}, {\"id\": 101341, \"uuid\": \"41e70c89-c01a-4b49-b15b-b0b45d51715f\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 487421, \"uuid\": \"8b1f5dff-863d-44e3-8729-a91a4274659a\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1486360, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 487420, \"uuid\": \"2baa38a1-3a69-45dd-9a44-86d5886b7152\", \"legal_entity_uuid\": \"8d297d1e-3e3d-fadd-2963-57e0a40bff2a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 244431, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-08-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/columbia-university.png",
+                        "name": "Columbia University in the City of New York"
+                    },
+                    "name": "Columbia University in the City of New York",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/columbia-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "MIT Launch",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Northfield Mount Hermon"
+                    },
+                    "name": "Northfield Mount Hermon",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "269"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

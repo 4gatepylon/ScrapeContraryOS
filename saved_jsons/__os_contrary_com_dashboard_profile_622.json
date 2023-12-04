@@ -1,0 +1,56 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "rohit.datta@vp.contrary.com",
+                "firstName": "Rohit",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "622",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-20T04:26:20",
+                "lastName": "Datta",
+                "linkedinName": "rohitdatta4",
+                "linkedinUrl": "https://linkedin.com/in/rohitdatta4/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 25,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ACg8ocKrOC66NWQkbXMVaue43ECmv_mcLlNbTA7FOr5Qm_iG=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U060PN77PM3",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "622"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,262 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I've been deep down the crypto rabbit-hole the past year and a half",
+                "currentRole": "Eng @ Ramp | Berkeley CS",
+                "educationExperiences": [],
+                "email": "shivam.patel@berkeley.edu",
+                "firstName": "Shivam",
+                "greeting": "Howdy!",
+                "greetingEmoji": "\ud83d\udc4b",
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "528",
+                "intro": "Studying CS at Berkeley & chasing wicked sunsets :') ",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-01-12T06:35:27",
+                "lastName": "Patel",
+                "linkedinName": "shivam-patel25",
+                "linkedinUrl": "https://linkedin.com/in/shivam-patel25/",
+                "location": "Berkeley",
+                "lookingFor": "Always down to hack on projects together, watch Miyazaki Films, and explore good food!",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "92c57d94-97e3-4501-ae52-18dfde9ac898",
+                "profilePicUrl": null,
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4685",
+                        "organizationId": 77,
+                        "position": "Engineering",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "4688",
+                        "organizationId": 711,
+                        "position": "Research Engineer Intern",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": "2023-01-01",
+                        "id": "4686",
+                        "organizationId": 681,
+                        "position": "Engineering & Research",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2023-01-01",
+                        "id": "4687",
+                        "organizationId": 21,
+                        "position": "Director",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "4689",
+                        "organizationId": 180,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "4690",
+                        "organizationId": 984447,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "4691",
+                        "organizationId": 984448,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2020-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1071180, \"name\": \"Ramp\", \"uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/sshwc4pe2wfsfsm102id\", \"description\": \"Ramp is a finance automation platform that helps businesses spend less time and money.\", \"headcount\": \"501-1000\", \"founding_date\": \"2019-03-01\", \"website\": \"https://ramp.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2530585, 3406520, 1208572], \"executive_people_profile_ids\": [594867, 1208572, 1165355, 2178861, 2725821, 2945682, 2530585, 3406520, 2116926, 3182399], \"cb_permalink\": \"https://www.crunchbase.com/organization/ramp-financial\", \"linkedin_url\": \"https://linkedin.com/company/ramp\", \"twitter\": \"https:/www.twitter.com/tryramp\", \"last_funding_round_date\": \"2023-08-23\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 1667000000, \"company_li_name\": \"ramp\", \"tags\": [{\"id\": 4079719, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 4079718, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4079717, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 182585, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 494, \"hc_estimate_90_days\": 475, \"hc_estimate_180_days\": 430, \"hc_estimate_270_days\": 397, \"hc_estimate_365_days\": 387, \"hc_growth_90_days\": \"4\", \"hc_growth_180_days\": \"14.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"24.42999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"27.64999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 51141, \"uuid\": \"75e9e0b4-4b2f-4cdb-9f93-cc1e32c99d64\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 5800000000, \"announced_date\": \"2023-08-23\", \"investors\": null}, {\"id\": 51139, \"uuid\": \"2b274e79-1300-4e16-8f87-daeab1df34bd\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 8100000000, \"announced_date\": \"2022-03-21\", \"investors\": null}, {\"id\": 51140, \"uuid\": \"cc9ee43c-220d-4653-a736-b59e8e2ea30f\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 550000000, \"post_money_valuation_usd\": 8100000000, \"announced_date\": \"2022-03-21\", \"investors\": null}, {\"id\": 51138, \"uuid\": \"d4f66d47-5609-470d-bf23-f1909d81c0ee\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 3900000000, \"announced_date\": \"2021-08-24\", \"investors\": null}, {\"id\": 51137, \"uuid\": \"edccde11-a178-4f0e-aa22-09e71e560285\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 115000000, \"post_money_valuation_usd\": 1600000000, \"announced_date\": \"2021-04-08\", \"investors\": null}, {\"id\": 51136, \"uuid\": \"84e9fa27-118f-4d79-941c-0fdec823dd2a\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-02-10\", \"investors\": null}, {\"id\": 51135, \"uuid\": \"2dc821da-0029-4434-b0ae-440b5a5048c4\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-17\", \"investors\": null}, {\"id\": 51134, \"uuid\": \"54f8dc6f-96dd-4609-96e7-e30c127cbe9e\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-02-12\", \"investors\": null}, {\"id\": 51133, \"uuid\": \"30aaddd7-4d9d-42c3-a795-1356b13fcd35\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sshwc4pe2wfsfsm102id",
+                        "name": "Ramp"
+                    },
+                    "position": "Engineering",
+                    "startDate": "2023-01-01",
+                    "name": "Ramp",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sshwc4pe2wfsfsm102id"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/blockchain-at-berkeley.png",
+                        "name": "Blockchain at Berkeley"
+                    },
+                    "position": "Engineering  Research",
+                    "startDate": "2021-01-01",
+                    "name": "Blockchain at Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/blockchain-at-berkeley.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-01-01",
+                    "legalEntity": "{\"id\": 1110961, \"name\": \"Cal Hacks\", \"uuid\": \"7e203654-aacd-44a5-a6df-5a449ba3fdf7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zfazatfqkv4azjvhzqq4\", \"description\": \"Cal Hacks is a group of UC Berkeley students that organize hackathon & other educational computer science related events.\", \"headcount\": \"unknown\", \"founding_date\": \"2014-01-01\", \"website\": \"https://www.calhacks.io/\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1898636, 2511709], \"cb_permalink\": \"https://www.crunchbase.com/organization/cal-hacks\", \"linkedin_url\": \"https://linkedin.com/company/cal-hacks\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"cal-hacks\", \"tags\": [{\"id\": 3953468, \"legal_entity_uuid\": \"7e203654-aacd-44a5-a6df-5a449ba3fdf7\", \"name\": \"Events\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 194583, \"legal_entity_uuid\": \"7e203654-aacd-44a5-a6df-5a449ba3fdf7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4, \"hc_estimate_90_days\": 4, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 8, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-20\", \"hc_growth_270_days\": \"-20\", \"hc_growth_365_days\": \"-50\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zfazatfqkv4azjvhzqq4",
+                        "name": "Cal Hacks"
+                    },
+                    "position": "Director",
+                    "startDate": "2021-01-01",
+                    "name": "Cal Hacks",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zfazatfqkv4azjvhzqq4"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 1408079, \"name\": \"Polychain\", \"uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/polychain-capital.png\", \"description\": \"Polychain Capital invests in cryptocurrency and blockchain assets.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"http://polychain.capital\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1673311], \"executive_people_profile_ids\": [1652368, 3129127, 2833801], \"cb_permalink\": \"https://www.crunchbase.com/organization/polychain-capital\", \"linkedin_url\": \"https://linkedin.com/company/polychain-capital\", \"twitter\": null, \"last_funding_round_date\": \"2016-12-11\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 10000000, \"company_li_name\": \"polychain-capital\", \"tags\": [{\"id\": 5955283, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Bitcoin\", \"category\": \"Industry\"}, {\"id\": 5955284, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Cryptocurrency\", \"category\": \"Industry\"}, {\"id\": 5955285, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 5955286, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 38978, \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 35, \"hc_estimate_90_days\": 36, \"hc_estimate_180_days\": 38, \"hc_estimate_270_days\": 38, \"hc_estimate_365_days\": 37, \"hc_growth_90_days\": \"-2.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-7.88999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"-7.88999999999999968025576890795491635799407958984375\", \"hc_growth_365_days\": \"-5.410000000000000142108547152020037174224853515625\"}, \"funding_rounds\": [{\"id\": 163346, \"uuid\": \"b213b69a-bffb-3046-aa9b-91437f628d3c\", \"legal_entity_uuid\": \"b77dec60-40b6-6ae7-68d6-8286a75e8dfd\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-12-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/polychain-capital.png",
+                        "name": "Polychain Capital"
+                    },
+                    "position": "Research Engineer Intern",
+                    "startDate": "2022-01-01",
+                    "name": "Polychain Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/polychain-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 1384901, \"name\": \"Amazon Web Services\", \"uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/r4wsu8rl4jvpjydbhooy\", \"description\": \"Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.\", \"headcount\": \"10000+\", \"founding_date\": \"2012-01-01\", \"website\": \"http://aws.amazon.com\", \"location\": \"Seattle\", \"country\": \"USA\", \"region\": \"Washington\", \"founder_people_profile_ids\": [103316], \"executive_people_profile_ids\": [226976, 228064, 100141, 346926, 238282, 359192, 244626, 900520, 1307351, 853546, 669427, 732328, 733517, 648130, 1778110, 801196, 25720, 1171166, 2039865, 130301, 136691, 2684257, 1088403, 2982937, 3161597, 3309515, 571223, 1607213, 1621617, 1520045, 1074021, 1826718, 2207574, 1472733, 1357631, 1625803, 1940632, 533002, 1258711, 2767262, 2993560, 494685, 497949, 1657314, 2071331, 3084208, 978428, 1667510, 2927992, 3181350, 2615381, 2843597, 1749053, 1751001, 1973734, 2814231, 3241469, 3133495, 3139999, 2175981, 214149, 228157, 231314, 101614, 207128, 305178, 316357, 271027, 1018670, 666607, 1423633, 924132, 1295921, 1804149, 656451, 794312, 801376, 318629, 1998321, 439394, 938563, 2301245, 2297245, 1174205, 2670475, 2679755, 953463, 1034559, 1211915, 1409182, 522465, 2965177, 548498, 2715274, 3394281, 3309476, 3401008, 1829860, 1840788, 2211716, 1697531, 765403, 1912245, 1932607, 781312, 2219562, 2573238, 837552, 494144, 498348, 1189219, 1196697, 1196524, 1646297, 2276084, 2172021, 2127150, 3370703, 1512395, 1729274, 2809082, 3060269, 3250194, 2786157, 3025923, 97243, 456610, 117630, 469243, 591531, 845444, 935951, 606828, 1599714, 1555744, 631328, 653511, 2492442, 950802, 2038017, 1034138, 2680947, 1404942, 1407969, 1410556, 2428300, 3300898, 3300462, 3381215, 3402408, 1083317, 1357723, 1701081, 1700497, 767080, 1910656, 2541683, 2566124, 2569490, 1386410, 835584, 3362788, 493902, 498058, 503924, 1852884, 1862607, 1669525, 1667400, 1673688, 2120818, 2597152, 2331493, 1973670, 2819614, 3071329, 3240480, 3139175, 3322959, 1991717, 2782743, 228838, 47674, 203983, 205713, 207180, 266464, 591289, 470292, 471287, 1336397, 1315812, 1318513, 1435492, 483386, 1274597, 1287984, 929596, 2047424, 2239143, 381819, 3400019, 1066600, 1071425, 1697712, 1937933, 765757, 1943472, 1949535, 1959482, 2112122, 815769, 2572458, 827054, 490142, 2871011, 491586, 494614, 498877, 507169, 1190828, 1657196, 2066572, 3103388, 3262380, 3269377, 2277203, 2448482, 1692173, 3198307, 3278001, 2128569, 3374988, 1504791, 1504995, 1750040, 2532981, 2821942, 3245855, 2853915, 3111843, 2407708, 2795553, 3216075, 225930, 355824, 309365, 1009507, 905900, 675369, 159016, 167236, 182018, 1283100, 1285221, 1291736, 1550780, 1063681, 2025856, 2022404, 2316783, 948022, 1050961, 275958, 1409300, 2259891, 2426247, 547255, 2710590, 1480165, 1482176, 1701854, 761651, 2104281, 1253136, 2749713, 1390277, 488515, 1868791, 2066488, 780980, 2289230, 3175086, 1506480, 1968659, 2809099, 3246023, 3110533, 2174801, 3215609, 579101, 240402, 677413, 474416, 477570, 1331170, 1439254, 1135040, 412471, 639048, 2024158, 795461, 1778093, 323573, 2011012, 1174688, 1176092, 2051806, 2052309, 2048390, 1407756, 382571, 2976495, 2923477, 3159625, 3309483, 3392344, 1067136, 1817142, 1117749, 2218633, 2221010, 1361936, 2574594, 2885425, 2053773, 1666276, 1678235, 1879434, 1889139, 2359133, 2605322, 2137785, 1967939, 3237955, 3247394, 3250162, 3332817, 3342059, 1990787, 2203984, 2644326, 2804428, 3226339, 88843, 234160, 103316, 238431, 240719, 241988, 460156, 208485, 471561, 593080, 1315657, 1314605, 1317080, 1330908, 1427336, 1299514, 1797987, 125627, 812293, 2009685, 30003, 723544, 1172514, 2239204, 2684419, 2259184, 1091007, 3149515, 3164852, 3388058, 1347010, 1712917, 2574515, 975491, 781651, 1205809, 1853551, 1856969, 2061393, 2268809, 2269850, 3262517, 2448344, 2735021, 1874348, 3175123, 2113275, 2123899, 2601341, 2844307, 1736003, 2506096, 2526402, 1967823, 2815336, 1990201, 3251142, 3122201, 2799160, 3201238, 3215074, 199549, 40632, 42874, 97673, 344169, 353124, 206932, 361442, 361517, 468709, 263198, 1003319, 268342, 869914, 731232, 917947, 744008, 1134082, 810991, 432368, 953050, 2681215, 3161519, 3387372, 1614176, 1521816, 1074089, 1814210, 2206084, 1940615, 1714542, 1947407, 2109507, 2750012, 2572588, 2581411, 2594178, 2595340, 2271182, 2274613, 1668788, 2740193, 2603057, 2343052, 2404918], \"cb_permalink\": \"https://www.crunchbase.com/organization/amazon-web-services\", \"linkedin_url\": \"https://linkedin.com/company/amazon-web-services\", \"twitter\": \"http:/www.twitter.com/awscloud\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"amazon-web-services\", \"tags\": [{\"id\": 6443029, \"legal_entity_uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6443030, \"legal_entity_uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 6443031, \"legal_entity_uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6443032, \"legal_entity_uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6443033, \"legal_entity_uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"name\": \"Web Development\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 34834, \"legal_entity_uuid\": \"bd23a50d-2ae3-be33-2a35-383ea9ed13fd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16319, \"hc_estimate_90_days\": 16616, \"hc_estimate_180_days\": 16612, \"hc_estimate_270_days\": 16866, \"hc_estimate_365_days\": 16896, \"hc_growth_90_days\": \"-1.79000000000000003552713678800500929355621337890625\", \"hc_growth_180_days\": \"-1.7600000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"-3.2400000000000002131628207280300557613372802734375\", \"hc_growth_365_days\": \"-3.4199999999999999289457264239899814128875732421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r4wsu8rl4jvpjydbhooy",
+                        "name": "Amazon Web Services (AWS)"
+                    },
+                    "position": "Software Engineer Intern",
+                    "startDate": "2021-01-01",
+                    "name": "Amazon Web Services (AWS)",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r4wsu8rl4jvpjydbhooy"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 411047, \"name\": \"CaptivateIQ\", \"uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/pizb7hxntnoopftsmfxu\", \"description\": \"CaptivateIQ develops a sales compensation platform designed to help businesses leverage the power of incentives to motivate teams.\", \"headcount\": \"251-500\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.captivateiq.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1896262, 3376283], \"executive_people_profile_ids\": [751663, 3376283, 3338018, 1896262, 3303362, 573366, 2395201], \"cb_permalink\": \"https://www.crunchbase.com/organization/captivateiq\", \"linkedin_url\": \"https://linkedin.com/company/captivateiq\", \"twitter\": \"https:/www.twitter.com/captivateiq\", \"last_funding_round_date\": \"2022-01-26\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 164600000, \"company_li_name\": \"captivateiq\", \"tags\": [{\"id\": 6570322, \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Data Integration\", \"category\": \"Industry\"}, {\"id\": 6570323, \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Management Information Systems\", \"category\": \"Industry\"}, {\"id\": 6570324, \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6570325, \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Sales\", \"category\": \"Industry\"}, {\"id\": 6570326, \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132354, \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 244, \"hc_estimate_90_days\": 245, \"hc_estimate_180_days\": 249, \"hc_estimate_270_days\": 258, \"hc_estimate_365_days\": 279, \"hc_growth_90_days\": \"-0.409999999999999975575093458246556110680103302001953125\", \"hc_growth_180_days\": \"-2.0099999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"-5.42999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-12.53999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 199958, \"uuid\": \"7d93fd35-4a6a-4232-a856-ce875e92783e\", \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 1250000000, \"announced_date\": \"2022-01-26\", \"investors\": null}, {\"id\": 199957, \"uuid\": \"380160c5-459f-4651-9ebd-22828c64a3b3\", \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 48000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-07\", \"investors\": null}, {\"id\": 199956, \"uuid\": \"20d30d36-3cfa-4b76-a294-65e56d76470f\", \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 13000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-27\", \"investors\": null}, {\"id\": 199955, \"uuid\": \"2e2f7e09-21dd-4ac3-a84b-9f898c397a78\", \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3480000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-03-14\", \"investors\": null}, {\"id\": 199954, \"uuid\": \"3fb0d9c6-999f-4aa0-b4f2-e971c1a3340e\", \"legal_entity_uuid\": \"fceb37cf-4838-4dd9-b042-2ad34ac52de1\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 120000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-04\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/pizb7hxntnoopftsmfxu",
+                        "name": "CaptivateIQ"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2021-01-01",
+                    "name": "CaptivateIQ",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/pizb7hxntnoopftsmfxu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "TRAC - Third Round Analytics Capital"
+                    },
+                    "position": "Software Engineer Intern",
+                    "startDate": "2020-01-01",
+                    "name": "TRAC - Third Round Analytics Capital",
+                    "logoUrl": null
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "528"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

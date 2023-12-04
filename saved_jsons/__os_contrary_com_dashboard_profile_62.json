@@ -1,0 +1,345 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I'm a first-time founder so if you want to chat about product, sales, ops, or anything else that should be on my mind, I'm always down!",
+                "currentRole": "Reimagining the hospital experience ",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2023-01-01",
+                        "id": "103",
+                        "startDate": "2020-01-01",
+                        "universityId": 87
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "Computer Science",
+                        "endDate": "2020-01-01",
+                        "id": "104",
+                        "startDate": "2019-01-01",
+                        "universityId": 45
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "Senior",
+                        "endDate": "2019-01-01",
+                        "id": "105",
+                        "startDate": "2015-01-01",
+                        "universityId": 88
+                    }
+                ],
+                "email": "rcperecman@gmail.com",
+                "firstName": "Randy",
+                "greeting": "I'll be here working on startups until a ski company sponsors me",
+                "greetingEmoji": "\u26f7\ufe0f",
+                "hqPosition": null,
+                "hubCity": "Denver",
+                "id": "62",
+                "intro": "I am based in Boulder, CO (For now... taking recommendations for my next city) and working on my health-tech startup, Familyfirst!",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-04-18T23:18:44",
+                "lastName": "Perecman",
+                "linkedinName": "randy-perecman-475727122",
+                "linkedinUrl": "https://linkedin.com/in/randy-perecman-475727122/",
+                "location": "Boulder",
+                "lookingFor": "Looking to meet people who I can hang out with and learn from! If you're in the Boulder / Denver, area let's do something cool together outdoors!",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "d04bd167-926d-43a1-87b2-4fcbb7ba76b4",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/62_Randy_Perecman.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "rcperecman@gmail.com",
+                "slackUrl": null,
+                "twitterHandle": "https://twitter.com/randyperecman",
+                "twitterUrl": "https://twitter.com/https://twitter.com/randyperecman/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4480",
+                        "organizationId": 3123,
+                        "position": "Co-Founder",
+                        "startDate": "2022-11-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "368",
+                        "organizationId": 295,
+                        "position": "iOS Engineer",
+                        "startDate": "2022-03-01"
+                    },
+                    {
+                        "endDate": "2021-11-01",
+                        "id": "370",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2020-11-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "371",
+                        "organizationId": 297,
+                        "position": "Full Stack Web Developer Intern",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "372",
+                        "organizationId": 298,
+                        "position": "iOS Engineer Intern",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2017-09-01",
+                        "id": "373",
+                        "organizationId": 299,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "374",
+                        "organizationId": 300,
+                        "position": "Student",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "369",
+                        "organizationId": 296,
+                        "position": "Co-Founder",
+                        "startDate": "2016-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1511707, \"name\": \"Familyfirst Messenger\", \"uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tam9suqbybpsqyutfwgt\", \"description\": \"Familyfirst Messenger is a messaging platform that enables medical staff to send updates to patients families.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"https://www.familyfirst.io\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/familyfirst-messenger\", \"linkedin_url\": \"https://linkedin.com/company/familyfirst-messenger\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"familyfirst-messenger\", \"tags\": [{\"id\": 6953401, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"name\": \"Cloud Security\", \"category\": \"Industry\"}, {\"id\": 6953402, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"name\": \"Data Integration\", \"category\": \"Industry\"}, {\"id\": 6953403, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"name\": \"Messaging\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 90578, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 1, \"hc_estimate_180_days\": 1, \"hc_estimate_270_days\": 1, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"100\", \"hc_growth_180_days\": \"100\", \"hc_growth_270_days\": \"100\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tam9suqbybpsqyutfwgt",
+                        "name": "Familyfirst"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-11-01",
+                    "name": "Familyfirst",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tam9suqbybpsqyutfwgt"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-11-01",
+                    "legalEntity": "{\"id\": 1463213, \"name\": \"Opal\", \"uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl\", \"description\": \"Opal is the #1 screen time app. Opals mission is to help 1Bn people Focus better day to day, so they can accomplish their dreams.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://opal.so\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [428953], \"executive_people_profile_ids\": [428953], \"cb_permalink\": \"https://www.crunchbase.com/organization/opal-4768\", \"linkedin_url\": \"https://linkedin.com/company/withopal\", \"twitter\": \"https:/twitter.com/withopal\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 2600000, \"company_li_name\": \"withopal\", \"tags\": [{\"id\": 1096624, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Wellness\", \"category\": \"Industry\"}, {\"id\": 1096623, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}, {\"id\": 1096622, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 1096621, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Apps\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 31796, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 0, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 63754, \"uuid\": \"9dda317a-4201-4250-9707-454382a74f51\", \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 63753, \"uuid\": \"a678472c-60a0-44a5-afc6-064622fb9c2a\", \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 2600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl",
+                        "name": "Opal"
+                    },
+                    "position": "iOS Engineer",
+                    "startDate": "2022-03-01",
+                    "name": "Opal",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-03-01",
+                    "legalEntity": "{\"id\": 1463213, \"name\": \"Opal\", \"uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl\", \"description\": \"Opal is the #1 screen time app. Opals mission is to help 1Bn people Focus better day to day, so they can accomplish their dreams.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://opal.so\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [428953], \"executive_people_profile_ids\": [428953], \"cb_permalink\": \"https://www.crunchbase.com/organization/opal-4768\", \"linkedin_url\": \"https://linkedin.com/company/withopal\", \"twitter\": \"https:/twitter.com/withopal\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 2600000, \"company_li_name\": \"withopal\", \"tags\": [{\"id\": 1096624, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Wellness\", \"category\": \"Industry\"}, {\"id\": 1096623, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}, {\"id\": 1096622, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 1096621, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Apps\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 31796, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 0, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 63754, \"uuid\": \"9dda317a-4201-4250-9707-454382a74f51\", \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 63753, \"uuid\": \"a678472c-60a0-44a5-afc6-064622fb9c2a\", \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 2600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl",
+                        "name": "Opal"
+                    },
+                    "position": "Junior iOS Engineer",
+                    "startDate": "2021-08-01",
+                    "name": "Opal",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-11-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-11-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 1463213, \"name\": \"Opal\", \"uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl\", \"description\": \"Opal is the #1 screen time app. Opals mission is to help 1Bn people Focus better day to day, so they can accomplish their dreams.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://opal.so\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [428953], \"executive_people_profile_ids\": [428953], \"cb_permalink\": \"https://www.crunchbase.com/organization/opal-4768\", \"linkedin_url\": \"https://linkedin.com/company/withopal\", \"twitter\": \"https:/twitter.com/withopal\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 2600000, \"company_li_name\": \"withopal\", \"tags\": [{\"id\": 1096624, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Wellness\", \"category\": \"Industry\"}, {\"id\": 1096623, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}, {\"id\": 1096622, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 1096621, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Apps\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 31796, \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 0, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 63754, \"uuid\": \"9dda317a-4201-4250-9707-454382a74f51\", \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 63753, \"uuid\": \"a678472c-60a0-44a5-afc6-064622fb9c2a\", \"legal_entity_uuid\": \"9e83035f-9aed-43c0-91bb-59ad45f44768\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 2600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl",
+                        "name": "Opal"
+                    },
+                    "position": "Product  iOS Engineering Intern",
+                    "startDate": "2020-09-01",
+                    "name": "Opal",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gclbsxrviseiggezu8sl"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": "{\"id\": 1511707, \"name\": \"Familyfirst Messenger\", \"uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tam9suqbybpsqyutfwgt\", \"description\": \"Familyfirst Messenger is a messaging platform that enables medical staff to send updates to patients families.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"https://www.familyfirst.io\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/familyfirst-messenger\", \"linkedin_url\": \"https://linkedin.com/company/familyfirst-messenger\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"familyfirst-messenger\", \"tags\": [{\"id\": 6953401, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"name\": \"Cloud Security\", \"category\": \"Industry\"}, {\"id\": 6953402, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"name\": \"Data Integration\", \"category\": \"Industry\"}, {\"id\": 6953403, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"name\": \"Messaging\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 90578, \"legal_entity_uuid\": \"c99b5c0e-67e6-45a1-ab16-fbc4c1d3301e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 1, \"hc_estimate_180_days\": 1, \"hc_estimate_270_days\": 1, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"100\", \"hc_growth_180_days\": \"100\", \"hc_growth_270_days\": \"100\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tam9suqbybpsqyutfwgt",
+                        "name": "Familyfirst Messenger"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2017-01-01",
+                    "name": "Familyfirst Messenger",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tam9suqbybpsqyutfwgt"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/openclassai.png",
+                        "name": "OpenClass"
+                    },
+                    "position": "Full Stack Web Developer Intern",
+                    "startDate": "2020-06-01",
+                    "name": "OpenClass",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/openclassai.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 1420339, \"name\": \"Speechify\", \"uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/b2f985c6369aac27ab04\", \"description\": \"Speechify is a mobile and desktop app that allows people with dyslexia and low vision to read out using text to speech voice.\", \"headcount\": \"1-10\", \"founding_date\": \"2017-01-01\", \"website\": \"https://speechify.com\", \"location\": \"Miami\", \"country\": \"USA\", \"region\": \"Florida\", \"founder_people_profile_ids\": [524343, 1692777], \"executive_people_profile_ids\": [1692777, 524343], \"cb_permalink\": \"https://www.crunchbase.com/organization/speechify\", \"linkedin_url\": \"https://linkedin.com/company/getspeechify\", \"twitter\": \"https:/twitter.com/speechify_tts\", \"last_funding_round_date\": \"2020-01-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 0, \"company_li_name\": \"getspeechify\", \"tags\": [{\"id\": 2879326, \"legal_entity_uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 2879327, \"legal_entity_uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"name\": \"Reading Apps\", \"category\": \"Industry\"}, {\"id\": 2879328, \"legal_entity_uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 37911, \"legal_entity_uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 12, \"hc_estimate_90_days\": 14, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 14, \"hc_estimate_365_days\": 15, \"hc_growth_90_days\": \"-14.28999999999999914734871708787977695465087890625\", \"hc_growth_180_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-14.28999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"-20\"}, \"funding_rounds\": [{\"id\": 439771, \"uuid\": \"e0e2ef9d-c929-4637-8984-bb827ac36087\", \"legal_entity_uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 439770, \"uuid\": \"858e5b3c-c161-4449-acec-d54acbfe6128\", \"legal_entity_uuid\": \"bdd76bcb-a574-4729-96c4-ca353f53cada\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-02-22\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2f985c6369aac27ab04",
+                        "name": "Speechify"
+                    },
+                    "position": "iOS Engineer Intern",
+                    "startDate": "2018-06-01",
+                    "name": "Speechify",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2f985c6369aac27ab04"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-09-01",
+                    "legalEntity": "{\"id\": 117896, \"name\": \"Sealworks\", \"uuid\": \"24fd5ff6-9b3d-4fec-8d2e-69555bc23913\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vfbfjcdd3ojuewtovmrq\", \"description\": \"Sealworks created a series of educational resource notebooks based on recent presentations.\", \"headcount\": \"1-10\", \"founding_date\": \"1992-01-01\", \"website\": \"https://sealworks.com/\", \"location\": \"Washington Crossing\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/sealworks\", \"linkedin_url\": \"https://linkedin.com/company/sealworks-interactive-studios\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"sealworks-interactive-studios\", \"tags\": [{\"id\": 5506660, \"legal_entity_uuid\": \"24fd5ff6-9b3d-4fec-8d2e-69555bc23913\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfbfjcdd3ojuewtovmrq",
+                        "name": "Sealworks Interactive Studios"
+                    },
+                    "position": "Software Engineer Intern",
+                    "startDate": "2017-06-01",
+                    "name": "Sealworks Interactive Studios",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfbfjcdd3ojuewtovmrq"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 780919, \"name\": \"MakeSchool\", \"uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rqyaurczlpe2m3ugnjpy\", \"description\": \"MakeSchool provides a higher education degree program, creating a more direct connection between education and employment.\", \"headcount\": \"101-250\", \"founding_date\": \"2012-01-01\", \"website\": \"https://makeschool.org\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [24753], \"cb_permalink\": \"https://www.crunchbase.com/organization/MakeSchool\", \"linkedin_url\": \"https://linkedin.com/school/makeschool\", \"twitter\": \"http:/twitter.com/makeschool\", \"last_funding_round_date\": \"2020-06-01\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 27129992, \"company_li_name\": \"makeschool\", \"tags\": [{\"id\": 4844984, \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Career Planning\", \"category\": \"Industry\"}, {\"id\": 4844985, \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4844986, \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Training\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 78892, \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 451609, \"uuid\": \"eb124d57-efd2-4a5a-aa94-b5a1ee6c5657\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": 31000000, \"announced_date\": \"2020-06-01\", \"investors\": null}, {\"id\": 451608, \"uuid\": \"7ca27103-e091-4408-bc57-3f750a57442e\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-09\", \"investors\": null}, {\"id\": 451607, \"uuid\": \"209f9e87-f039-43bd-b28d-804286186ea4\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 10129992, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-10\", \"investors\": null}, {\"id\": 451606, \"uuid\": \"63124fa9-d71c-4421-1147-4c0a689069b9\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-01\", \"investors\": null}, {\"id\": 451605, \"uuid\": \"9dd77536-c91c-5b2a-cd47-85507a50f704\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-16\", \"investors\": null}, {\"id\": 451604, \"uuid\": \"6a44ec53-5eda-4b5f-84a2-31eb6cf2fed3\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Convertible Note\", \"cb_permalink\": null, \"investment_type\": \"convertible_note\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-04-12\", \"investors\": null}, {\"id\": 451603, \"uuid\": \"ad97d9a8-6f92-b083-8128-d734b4fd8e4f\", \"legal_entity_uuid\": \"c603d1dd-d451-f42f-fe98-b87ed0391580\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-03-28\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rqyaurczlpe2m3ugnjpy",
+                        "name": "Make School"
+                    },
+                    "position": "Student",
+                    "startDate": "2016-06-01",
+                    "name": "Make School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rqyaurczlpe2m3ugnjpy"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 759354, \"name\": \"University of Colorado Boulder\", \"uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cuboulder.png\", \"description\": \"University of Colorado Boulder is a bold, innovative community of scholars and learners who accelerate human potential\", \"headcount\": \"10000+\", \"founding_date\": \"1876-01-01\", \"website\": \"https://www.colorado.edu\", \"location\": \"Boulder\", \"country\": \"USA\", \"region\": \"Colorado\", \"founder_people_profile_ids\": [1626600], \"executive_people_profile_ids\": [2553960, 2765587, 461654, 3184121, 1316544, 527844, 2534346], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-colorado-boulder-566f\", \"linkedin_url\": \"https://linkedin.com/school/cuboulder\", \"twitter\": \"https:/twitter.com/cuboulder\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 29192668, \"company_li_name\": \"cuboulder\", \"tags\": [{\"id\": 5443311, \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 81926, \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 312, \"hc_estimate_90_days\": 298, \"hc_estimate_180_days\": 354, \"hc_estimate_270_days\": 353, \"hc_estimate_365_days\": 344, \"hc_growth_90_days\": \"4.70000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-11.8599999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-11.6099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-9.300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": [{\"id\": 481243, \"uuid\": \"18f0c992-b57c-4d1d-b3e2-e9210b56a0eb\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 303733, \"uuid\": \"6b7dbdd4-8a50-4d80-aa87-e9a75e0f1e9f\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 303732, \"uuid\": \"7305a401-14e2-4ef5-9489-163e4b32cb34\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 22000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-09-29\", \"investors\": null}, {\"id\": 481242, \"uuid\": \"ae148602-fc6b-449f-9c41-9c0a07560fb1\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1268213, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 481241, \"uuid\": \"8914dde3-93f5-4541-9cc5-42d66840c75b\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1251611, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 481240, \"uuid\": \"2f3653cf-d510-4544-bbe6-89edf951b2e9\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 481239, \"uuid\": \"8a5c1d02-b4a8-40ef-b2aa-64fe8fefb868\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1202738, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}, {\"id\": 481238, \"uuid\": \"4286ebb0-e523-49e7-9100-c21edf96d023\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1045106, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-01-01\", \"investors\": null}]}",
+                    "startDate": "2020-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cuboulder.png",
+                        "name": "University of Colorado Boulder"
+                    },
+                    "name": "University of Colorado Boulder",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cuboulder.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 1359650, \"name\": \"Penn State Research Foundation\", \"uuid\": \"7a6c5bd6-fcdf-6e4b-dee2-cb576fbdfcca\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/cukyucvvfqvfvumptzgr\", \"description\": \"Penn State Research Foundation facilitates a range of research that focus on improving human conditions.\", \"headcount\": \"11-50\", \"founding_date\": \"1934-01-01\", \"website\": \"https://www.research.psu.edu\", \"location\": \"University Park\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/penn-state-research-foundation\", \"linkedin_url\": \"https://linkedin.com/company/penn-state-university\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"penn-state-university\", \"tags\": [{\"id\": 1653375, \"legal_entity_uuid\": \"7a6c5bd6-fcdf-6e4b-dee2-cb576fbdfcca\", \"name\": \"Life Science\", \"category\": \"Industry\"}, {\"id\": 1653374, \"legal_entity_uuid\": \"7a6c5bd6-fcdf-6e4b-dee2-cb576fbdfcca\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1653373, \"legal_entity_uuid\": \"7a6c5bd6-fcdf-6e4b-dee2-cb576fbdfcca\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 138373, \"legal_entity_uuid\": \"7a6c5bd6-fcdf-6e4b-dee2-cb576fbdfcca\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 248, \"hc_estimate_90_days\": 253, \"hc_estimate_180_days\": 276, \"hc_estimate_270_days\": 278, \"hc_estimate_365_days\": 282, \"hc_growth_90_days\": \"-1.979999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-10.1400000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"-10.78999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"-12.0600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": []}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cukyucvvfqvfvumptzgr",
+                        "name": "Penn State University"
+                    },
+                    "name": "Penn State University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cukyucvvfqvfvumptzgr"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "62"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

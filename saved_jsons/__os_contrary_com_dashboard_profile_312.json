@@ -1,0 +1,54 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [],
+                "email": "henrygu1722@gmail.com",
+                "firstName": "Henry",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "312",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-04-17T06:00:22",
+                "lastName": "Gu",
+                "linkedinName": "hgu",
+                "linkedinUrl": "https://linkedin.com/in/hgu/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 18,
+                "prismUuid": "f472c7db-d3d0-49b1-8091-dfc5d3435cc8",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp5_o1HmwYH5F8uGcsSgG89hMmRiBcqNEbyj-xlv=s96-c",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "henry@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "312"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

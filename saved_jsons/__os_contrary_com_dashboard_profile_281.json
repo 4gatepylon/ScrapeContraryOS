@@ -1,0 +1,450 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Product Manager at Instacart",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2016-01-01",
+                        "id": "532",
+                        "startDate": "2012-01-01",
+                        "universityId": 292
+                    },
+                    {
+                        "degree": "Computing and Information Science; Minor in Applied Economics",
+                        "degreeType": "B.S.",
+                        "endDate": null,
+                        "id": "531",
+                        "startDate": null,
+                        "universityId": 93
+                    }
+                ],
+                "email": "pippathomas97@gmail.com",
+                "firstName": "Pippa",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "281",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-01-27T05:38:12",
+                "lastName": "Thomas",
+                "linkedinName": "pippajthomas",
+                "linkedinUrl": "https://linkedin.com/in/pippajthomas/",
+                "location": "San Francisco, cA",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "9dad1b72-ce42-4c28-8187-ecc4e560d0ac",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-281-large_311d326f-c340-4e5d-ac9b-d055376252aa.jpg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3558",
+                        "organizationId": 47,
+                        "position": "Product Fellow",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1881",
+                        "organizationId": 1332,
+                        "position": "Associate, Strategy & Business Operations",
+                        "startDate": "2021-10-01"
+                    },
+                    {
+                        "endDate": "2020-07-01",
+                        "id": "1882",
+                        "organizationId": 32,
+                        "position": "Product Design Intern",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2020-07-01",
+                        "id": "1884",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2018-10-01"
+                    },
+                    {
+                        "endDate": "2020-07-01",
+                        "id": "1883",
+                        "organizationId": 1333,
+                        "position": "Founding Member, Product",
+                        "startDate": "2018-03-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "1885",
+                        "organizationId": 1334,
+                        "position": "Co-Founder",
+                        "startDate": "2017-10-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "1886",
+                        "organizationId": 1335,
+                        "position": "Product Development Intern",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1887",
+                        "organizationId": 1336,
+                        "position": "Lead Software Engineering Instructor",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1888",
+                        "organizationId": 1337,
+                        "position": "Team Lead, Undergraduate Research",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1890",
+                        "organizationId": 1339,
+                        "position": "Ice Cream Scooper",
+                        "startDate": "2015-09-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1889",
+                        "organizationId": 1338,
+                        "position": "Product Development Intern",
+                        "startDate": "2013-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 344114, \"name\": \"Instacart\", \"uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png\", \"description\": \"Instacart is an online grocery platform that offers same-day delivery and pickup services for retailers and consumers.\", \"headcount\": \"10000+\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.instacart.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2626181, 2966253, 3212704], \"executive_people_profile_ids\": [2613177, 2930991, 359456, 2258611, 288406, 884967, 1675363, 913258, 53238, 2330543, 1488598, 3040736, 1652325, 1193588, 4169481, 423382, 1964444, 240792, 2768485, 57130, 1686454, 345968, 3105038, 1135302, 2832457, 2539008, 2414485, 2326236, 2008866, 899529, 2899181, 119950, 1538923, 4046555, 964709, 4161882, 1680294, 68299, 1099481, 917043, 785546, 1829263, 2514055, 572230, 3403191, 708284, 667480, 611970, 780257, 2561594, 2967612, 2584734, 447746, 51302, 2334606, 1569582, 984484, 74566, 2221422, 2425710, 948233, 2992419, 871663, 2528241, 3300814, 2065107, 3025818, 3312137, 2410003, 805726, 953619, 1421345, 1138967, 4161698, 2185382, 3037572, 99496, 2140002, 3401919, 384764, 2619094, 1804257, 3128211, 2580022, 1462877, 3623121, 2515921, 592528, 661577, 2850713, 3100210, 564278, 561176], \"cb_permalink\": \"https://www.crunchbase.com/organization/instacart\", \"linkedin_url\": \"https://linkedin.com/company/instacart\", \"twitter\": \"https:/www.twitter.com/Instacart\", \"last_funding_round_date\": \"2021-11-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 2919023124, \"company_li_name\": \"instacart\", \"tags\": [{\"id\": 6510161, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Shopping\", \"category\": \"Industry\"}, {\"id\": 6510160, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Grocery\", \"category\": \"Industry\"}, {\"id\": 6510159, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6510158, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Delivery Service\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141660, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1577, \"hc_estimate_90_days\": 1584, \"hc_estimate_180_days\": 1585, \"hc_estimate_270_days\": 1595, \"hc_estimate_365_days\": 1627, \"hc_growth_90_days\": \"-0.440000000000000002220446049250313080847263336181640625\", \"hc_growth_180_days\": \"-0.5\", \"hc_growth_270_days\": \"-1.12999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-3.069999999999999840127884453977458178997039794921875\"}, \"funding_rounds\": [{\"id\": 185021, \"uuid\": \"2cf09ada-6932-453c-be2f-8cf3d0139e7b\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 232000000, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-11-01\", \"investors\": null}, {\"id\": 185020, \"uuid\": \"2196dd8f-921d-4fc7-8437-395712b48b28\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-09-05\", \"investors\": null}, {\"id\": 185019, \"uuid\": \"38a5052c-1f76-449a-aaa3-d327ff5f4a8f\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 265000000, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-03-02\", \"investors\": null}, {\"id\": 185018, \"uuid\": \"001a86d6-841e-4bbd-b520-735c33d1c8a4\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 17700000000, \"announced_date\": \"2020-10-08\", \"investors\": null}, {\"id\": 185017, \"uuid\": \"c3204189-caed-49a5-84fd-63a00233af2a\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 13800000000, \"announced_date\": \"2020-07-03\", \"investors\": null}, {\"id\": 185016, \"uuid\": \"8aea401c-9759-42f7-a552-2dc11e8abfc8\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 225000000, \"post_money_valuation_usd\": 13700000000, \"announced_date\": \"2020-06-11\", \"investors\": null}, {\"id\": 185015, \"uuid\": \"1aaf672e-ed39-4569-bfe4-fec8146bc5f9\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 7800000000, \"announced_date\": \"2019-09-10\", \"investors\": null}, {\"id\": 185014, \"uuid\": \"3722b8f3-8071-45ed-bd0c-addb1bc55178\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 271000000, \"post_money_valuation_usd\": 7800000000, \"announced_date\": \"2018-11-15\", \"investors\": null}, {\"id\": 185013, \"uuid\": \"494d246c-8dee-44d6-98fe-d1918508f50b\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 600000000, \"post_money_valuation_usd\": 7600000000, \"announced_date\": \"2018-10-16\", \"investors\": null}, {\"id\": 185012, \"uuid\": \"5c7843e5-2168-4e2f-9f5d-f9705d0cfc52\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": 4350000000, \"announced_date\": \"2018-04-05\", \"investors\": null}, {\"id\": 185011, \"uuid\": \"63b4436f-87d1-42d5-9b46-ac5ae04ea204\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 4200000000, \"announced_date\": \"2018-02-12\", \"investors\": null}, {\"id\": 185010, \"uuid\": \"f889ed83-b7f3-80c6-211e-670ec0689191\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 400000000, \"post_money_valuation_usd\": 3400000000, \"announced_date\": \"2017-03-08\", \"investors\": null}, {\"id\": 185009, \"uuid\": \"c6969f04-f474-14d3-2502-7e314bf0e695\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Corporate Round\", \"cb_permalink\": null, \"investment_type\": \"corporate_round\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2016-03-10\", \"investors\": null}, {\"id\": 185008, \"uuid\": \"89239ff2-992b-7e21-1fb4-d7961052e7dd\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 220000000, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2015-01-13\", \"investors\": null}, {\"id\": 185007, \"uuid\": \"0819e41c-0886-58d6-89d1-218427bcfaf6\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 45030549, \"post_money_valuation_usd\": 401030549, \"announced_date\": \"2014-06-16\", \"investors\": null}, {\"id\": 185005, \"uuid\": \"ca2e4af1-776b-1138-dcdd-6bba6c0aec91\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}, {\"id\": 185006, \"uuid\": \"dbb513b4-10a4-4af3-8655-224754a9cb39\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 192575, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}, {\"id\": 185004, \"uuid\": \"a6602784-d5c3-2716-2401-984a62104008\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-10-15\", \"investors\": null}, {\"id\": 185003, \"uuid\": \"83d5b7dd-b099-cdc5-c045-07e419d6ce05\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png",
+                        "name": "Instacart"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2022-06-01",
+                    "name": "Instacart",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-12-01",
+                    "legalEntity": "{\"id\": 1104170, \"name\": \"Kleiner Perkins\", \"uuid\": \"2d0a5bf0-e53e-9a07-2243-9bcd561421ec\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kleinerperkins.png\", \"description\": \"Kleiner Perkins is a venture capital firm that specializes in investing in early-stage, incubation, and growth companies.\", \"headcount\": \"251-500\", \"founding_date\": \"1972-03-01\", \"website\": \"https://www.kleinerperkins.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1435959], \"executive_people_profile_ids\": [3095063, 2333989, 3007818, 1168649, 846187, 1919769], \"cb_permalink\": \"https://www.crunchbase.com/organization/kleiner-perkins-caufield-byers\", \"linkedin_url\": \"https://linkedin.com/company/kleinerperkins\", \"twitter\": \"https:/www.twitter.com/kleinerperkins\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"kleinerperkins\", \"tags\": [{\"id\": 6362541, \"legal_entity_uuid\": \"2d0a5bf0-e53e-9a07-2243-9bcd561421ec\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6362542, \"legal_entity_uuid\": \"2d0a5bf0-e53e-9a07-2243-9bcd561421ec\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362543, \"legal_entity_uuid\": \"2d0a5bf0-e53e-9a07-2243-9bcd561421ec\", \"name\": \"Incubators\", \"category\": \"Industry\"}, {\"id\": 6362544, \"legal_entity_uuid\": \"2d0a5bf0-e53e-9a07-2243-9bcd561421ec\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 193934, \"legal_entity_uuid\": \"2d0a5bf0-e53e-9a07-2243-9bcd561421ec\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 182, \"hc_estimate_90_days\": 189, \"hc_estimate_180_days\": 151, \"hc_estimate_270_days\": 152, \"hc_estimate_365_days\": 153, \"hc_growth_90_days\": \"-3.70000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"20.530000000000001136868377216160297393798828125\", \"hc_growth_270_days\": \"19.739999999999998436805981327779591083526611328125\", \"hc_growth_365_days\": \"18.949999999999999289457264239899814128875732421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kleinerperkins.png",
+                        "name": "Kleiner Perkins"
+                    },
+                    "position": "Product Fellow",
+                    "startDate": "2022-06-01",
+                    "name": "Kleiner Perkins",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kleinerperkins.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 344114, \"name\": \"Instacart\", \"uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png\", \"description\": \"Instacart is an online grocery platform that offers same-day delivery and pickup services for retailers and consumers.\", \"headcount\": \"10000+\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.instacart.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2626181, 2966253, 3212704], \"executive_people_profile_ids\": [2613177, 2930991, 359456, 2258611, 288406, 884967, 1675363, 913258, 53238, 2330543, 1488598, 3040736, 1652325, 1193588, 4169481, 423382, 1964444, 240792, 2768485, 57130, 1686454, 345968, 3105038, 1135302, 2832457, 2539008, 2414485, 2326236, 2008866, 899529, 2899181, 119950, 1538923, 4046555, 964709, 4161882, 1680294, 68299, 1099481, 917043, 785546, 1829263, 2514055, 572230, 3403191, 708284, 667480, 611970, 780257, 2561594, 2967612, 2584734, 447746, 51302, 2334606, 1569582, 984484, 74566, 2221422, 2425710, 948233, 2992419, 871663, 2528241, 3300814, 2065107, 3025818, 3312137, 2410003, 805726, 953619, 1421345, 1138967, 4161698, 2185382, 3037572, 99496, 2140002, 3401919, 384764, 2619094, 1804257, 3128211, 2580022, 1462877, 3623121, 2515921, 592528, 661577, 2850713, 3100210, 564278, 561176], \"cb_permalink\": \"https://www.crunchbase.com/organization/instacart\", \"linkedin_url\": \"https://linkedin.com/company/instacart\", \"twitter\": \"https:/www.twitter.com/Instacart\", \"last_funding_round_date\": \"2021-11-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 2919023124, \"company_li_name\": \"instacart\", \"tags\": [{\"id\": 6510161, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Shopping\", \"category\": \"Industry\"}, {\"id\": 6510160, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Grocery\", \"category\": \"Industry\"}, {\"id\": 6510159, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6510158, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Delivery Service\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141660, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1577, \"hc_estimate_90_days\": 1584, \"hc_estimate_180_days\": 1585, \"hc_estimate_270_days\": 1595, \"hc_estimate_365_days\": 1627, \"hc_growth_90_days\": \"-0.440000000000000002220446049250313080847263336181640625\", \"hc_growth_180_days\": \"-0.5\", \"hc_growth_270_days\": \"-1.12999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-3.069999999999999840127884453977458178997039794921875\"}, \"funding_rounds\": [{\"id\": 185021, \"uuid\": \"2cf09ada-6932-453c-be2f-8cf3d0139e7b\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 232000000, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-11-01\", \"investors\": null}, {\"id\": 185020, \"uuid\": \"2196dd8f-921d-4fc7-8437-395712b48b28\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-09-05\", \"investors\": null}, {\"id\": 185019, \"uuid\": \"38a5052c-1f76-449a-aaa3-d327ff5f4a8f\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 265000000, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-03-02\", \"investors\": null}, {\"id\": 185018, \"uuid\": \"001a86d6-841e-4bbd-b520-735c33d1c8a4\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 17700000000, \"announced_date\": \"2020-10-08\", \"investors\": null}, {\"id\": 185017, \"uuid\": \"c3204189-caed-49a5-84fd-63a00233af2a\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 13800000000, \"announced_date\": \"2020-07-03\", \"investors\": null}, {\"id\": 185016, \"uuid\": \"8aea401c-9759-42f7-a552-2dc11e8abfc8\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 225000000, \"post_money_valuation_usd\": 13700000000, \"announced_date\": \"2020-06-11\", \"investors\": null}, {\"id\": 185015, \"uuid\": \"1aaf672e-ed39-4569-bfe4-fec8146bc5f9\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 7800000000, \"announced_date\": \"2019-09-10\", \"investors\": null}, {\"id\": 185014, \"uuid\": \"3722b8f3-8071-45ed-bd0c-addb1bc55178\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 271000000, \"post_money_valuation_usd\": 7800000000, \"announced_date\": \"2018-11-15\", \"investors\": null}, {\"id\": 185013, \"uuid\": \"494d246c-8dee-44d6-98fe-d1918508f50b\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 600000000, \"post_money_valuation_usd\": 7600000000, \"announced_date\": \"2018-10-16\", \"investors\": null}, {\"id\": 185012, \"uuid\": \"5c7843e5-2168-4e2f-9f5d-f9705d0cfc52\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": 4350000000, \"announced_date\": \"2018-04-05\", \"investors\": null}, {\"id\": 185011, \"uuid\": \"63b4436f-87d1-42d5-9b46-ac5ae04ea204\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 4200000000, \"announced_date\": \"2018-02-12\", \"investors\": null}, {\"id\": 185010, \"uuid\": \"f889ed83-b7f3-80c6-211e-670ec0689191\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 400000000, \"post_money_valuation_usd\": 3400000000, \"announced_date\": \"2017-03-08\", \"investors\": null}, {\"id\": 185009, \"uuid\": \"c6969f04-f474-14d3-2502-7e314bf0e695\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Corporate Round\", \"cb_permalink\": null, \"investment_type\": \"corporate_round\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2016-03-10\", \"investors\": null}, {\"id\": 185008, \"uuid\": \"89239ff2-992b-7e21-1fb4-d7961052e7dd\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 220000000, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2015-01-13\", \"investors\": null}, {\"id\": 185007, \"uuid\": \"0819e41c-0886-58d6-89d1-218427bcfaf6\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 45030549, \"post_money_valuation_usd\": 401030549, \"announced_date\": \"2014-06-16\", \"investors\": null}, {\"id\": 185005, \"uuid\": \"ca2e4af1-776b-1138-dcdd-6bba6c0aec91\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}, {\"id\": 185006, \"uuid\": \"dbb513b4-10a4-4af3-8655-224754a9cb39\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 192575, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}, {\"id\": 185004, \"uuid\": \"a6602784-d5c3-2716-2401-984a62104008\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-10-15\", \"investors\": null}, {\"id\": 185003, \"uuid\": \"83d5b7dd-b099-cdc5-c045-07e419d6ce05\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png",
+                        "name": "Instacart"
+                    },
+                    "position": "Associate-Strategy  Business Operations",
+                    "startDate": "2021-10-01",
+                    "name": "Instacart",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": "{\"id\": 344114, \"name\": \"Instacart\", \"uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png\", \"description\": \"Instacart is an online grocery platform that offers same-day delivery and pickup services for retailers and consumers.\", \"headcount\": \"10000+\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.instacart.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2626181, 2966253, 3212704], \"executive_people_profile_ids\": [2613177, 2930991, 359456, 2258611, 288406, 884967, 1675363, 913258, 53238, 2330543, 1488598, 3040736, 1652325, 1193588, 4169481, 423382, 1964444, 240792, 2768485, 57130, 1686454, 345968, 3105038, 1135302, 2832457, 2539008, 2414485, 2326236, 2008866, 899529, 2899181, 119950, 1538923, 4046555, 964709, 4161882, 1680294, 68299, 1099481, 917043, 785546, 1829263, 2514055, 572230, 3403191, 708284, 667480, 611970, 780257, 2561594, 2967612, 2584734, 447746, 51302, 2334606, 1569582, 984484, 74566, 2221422, 2425710, 948233, 2992419, 871663, 2528241, 3300814, 2065107, 3025818, 3312137, 2410003, 805726, 953619, 1421345, 1138967, 4161698, 2185382, 3037572, 99496, 2140002, 3401919, 384764, 2619094, 1804257, 3128211, 2580022, 1462877, 3623121, 2515921, 592528, 661577, 2850713, 3100210, 564278, 561176], \"cb_permalink\": \"https://www.crunchbase.com/organization/instacart\", \"linkedin_url\": \"https://linkedin.com/company/instacart\", \"twitter\": \"https:/www.twitter.com/Instacart\", \"last_funding_round_date\": \"2021-11-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 2919023124, \"company_li_name\": \"instacart\", \"tags\": [{\"id\": 6510161, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Shopping\", \"category\": \"Industry\"}, {\"id\": 6510160, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Grocery\", \"category\": \"Industry\"}, {\"id\": 6510159, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6510158, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Delivery Service\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141660, \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1577, \"hc_estimate_90_days\": 1584, \"hc_estimate_180_days\": 1585, \"hc_estimate_270_days\": 1595, \"hc_estimate_365_days\": 1627, \"hc_growth_90_days\": \"-0.440000000000000002220446049250313080847263336181640625\", \"hc_growth_180_days\": \"-0.5\", \"hc_growth_270_days\": \"-1.12999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-3.069999999999999840127884453977458178997039794921875\"}, \"funding_rounds\": [{\"id\": 185021, \"uuid\": \"2cf09ada-6932-453c-be2f-8cf3d0139e7b\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 232000000, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-11-01\", \"investors\": null}, {\"id\": 185020, \"uuid\": \"2196dd8f-921d-4fc7-8437-395712b48b28\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-09-05\", \"investors\": null}, {\"id\": 185019, \"uuid\": \"38a5052c-1f76-449a-aaa3-d327ff5f4a8f\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 265000000, \"post_money_valuation_usd\": 39000000000, \"announced_date\": \"2021-03-02\", \"investors\": null}, {\"id\": 185018, \"uuid\": \"001a86d6-841e-4bbd-b520-735c33d1c8a4\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 17700000000, \"announced_date\": \"2020-10-08\", \"investors\": null}, {\"id\": 185017, \"uuid\": \"c3204189-caed-49a5-84fd-63a00233af2a\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 13800000000, \"announced_date\": \"2020-07-03\", \"investors\": null}, {\"id\": 185016, \"uuid\": \"8aea401c-9759-42f7-a552-2dc11e8abfc8\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 225000000, \"post_money_valuation_usd\": 13700000000, \"announced_date\": \"2020-06-11\", \"investors\": null}, {\"id\": 185015, \"uuid\": \"1aaf672e-ed39-4569-bfe4-fec8146bc5f9\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 7800000000, \"announced_date\": \"2019-09-10\", \"investors\": null}, {\"id\": 185014, \"uuid\": \"3722b8f3-8071-45ed-bd0c-addb1bc55178\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 271000000, \"post_money_valuation_usd\": 7800000000, \"announced_date\": \"2018-11-15\", \"investors\": null}, {\"id\": 185013, \"uuid\": \"494d246c-8dee-44d6-98fe-d1918508f50b\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 600000000, \"post_money_valuation_usd\": 7600000000, \"announced_date\": \"2018-10-16\", \"investors\": null}, {\"id\": 185012, \"uuid\": \"5c7843e5-2168-4e2f-9f5d-f9705d0cfc52\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": 4350000000, \"announced_date\": \"2018-04-05\", \"investors\": null}, {\"id\": 185011, \"uuid\": \"63b4436f-87d1-42d5-9b46-ac5ae04ea204\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 4200000000, \"announced_date\": \"2018-02-12\", \"investors\": null}, {\"id\": 185010, \"uuid\": \"f889ed83-b7f3-80c6-211e-670ec0689191\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 400000000, \"post_money_valuation_usd\": 3400000000, \"announced_date\": \"2017-03-08\", \"investors\": null}, {\"id\": 185009, \"uuid\": \"c6969f04-f474-14d3-2502-7e314bf0e695\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Corporate Round\", \"cb_permalink\": null, \"investment_type\": \"corporate_round\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2016-03-10\", \"investors\": null}, {\"id\": 185008, \"uuid\": \"89239ff2-992b-7e21-1fb4-d7961052e7dd\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 220000000, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2015-01-13\", \"investors\": null}, {\"id\": 185007, \"uuid\": \"0819e41c-0886-58d6-89d1-218427bcfaf6\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 45030549, \"post_money_valuation_usd\": 401030549, \"announced_date\": \"2014-06-16\", \"investors\": null}, {\"id\": 185005, \"uuid\": \"ca2e4af1-776b-1138-dcdd-6bba6c0aec91\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}, {\"id\": 185006, \"uuid\": \"dbb513b4-10a4-4af3-8655-224754a9cb39\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 192575, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}, {\"id\": 185004, \"uuid\": \"a6602784-d5c3-2716-2401-984a62104008\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-10-15\", \"investors\": null}, {\"id\": 185003, \"uuid\": \"83d5b7dd-b099-cdc5-c045-07e419d6ce05\", \"legal_entity_uuid\": \"4e542cda-f3b9-bc92-b2f2-16dcae17032b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png",
+                        "name": "Instacart"
+                    },
+                    "position": "Analyst-Strategy  Business Operations",
+                    "startDate": "2020-07-01",
+                    "name": "Instacart",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/instacart.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-07-01",
+                    "legalEntity": "{\"id\": 1386016, \"name\": \"Facebook\", \"uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu\", \"description\": \"Facebook AI offers technology and engineering services like theory, algorithms, applications, software and hardware infrastructure.\", \"headcount\": \"501-1000\", \"founding_date\": \"2004-01-01\", \"website\": \"https://www.meta.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [38605, 55774, 861755, 1535741, 1837626, 1350363, 2612396, 241409, 2307479, 2493830, 1175955, 1372162, 499199, 2270839, 2447144, 2734237, 3040208, 3223279, 352147, 252696, 1284502, 1089831, 1066353, 1364530, 2582360, 511793, 1203732, 1647604, 3278137, 2854647, 229797, 896120, 846056, 873114, 1442712, 432368, 1814039, 1816397, 2468961, 3181446, 1489101, 467461, 862391, 1578970, 739404, 2061963, 1874866, 2944082, 3220921, 584566, 2500095, 1396635, 1940677, 976008, 2355633, 3247752, 785229, 952030, 2964097, 1813366, 2281912, 3278586, 2132899, 3203088, 482392, 730236, 1562926, 1754215, 2964256, 2971919, 1101942, 1180506, 2127164, 1991717, 3333856], \"cb_permalink\": \"https://www.crunchbase.com/organization/facebook-ai\", \"linkedin_url\": \"https://linkedin.com/company/facebook\", \"twitter\": \"https:/www.twitter.com/facebook\", \"last_funding_round_date\": \"2011-10-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 0, \"company_li_name\": \"facebook\", \"tags\": [{\"id\": 1258670, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1258671, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 1258672, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1258673, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 309939, \"uuid\": \"d94e775b-83aa-46c5-a873-7859462fc81a\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-10-21\", \"investors\": null}, {\"id\": 481414, \"uuid\": \"233b58d9-024e-4cc3-bbe4-f5b45fafcf13\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu",
+                        "name": "Facebook"
+                    },
+                    "position": "Product Design Intern",
+                    "startDate": "2019-05-01",
+                    "name": "Facebook",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-07-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2018-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-07-01",
+                    "legalEntity": "{\"id\": 2103487, \"name\": \"Suna Breakfast\", \"uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/30346dd4cc20b6beec89\", \"description\": \"Suna is a technology company with a unique order-ahead optimization algorithm.\", \"headcount\": \"11-50\", \"founding_date\": \"2017-10-01\", \"website\": \"https://www.sunabreakfast.com/\", \"location\": \"Ithaca\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/suna-breakfast\", \"linkedin_url\": \"https://linkedin.com/company/sunabreakfast\", \"twitter\": \"https:/twitter.com/sunabreakfast\", \"last_funding_round_date\": \"2019-01-01\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 0, \"company_li_name\": \"sunabreakfast\", \"tags\": [{\"id\": 90764, \"legal_entity_uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 90765, \"legal_entity_uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"name\": \"Logistics\", \"category\": \"Industry\"}, {\"id\": 90766, \"legal_entity_uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 90767, \"legal_entity_uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 146810, \"legal_entity_uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 0, \"hc_estimate_365_days\": 0, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 83119, \"uuid\": \"b4203eed-3874-48a1-8208-fabd588d5007\", \"legal_entity_uuid\": \"63abf8f1-5f03-4ea9-862c-0c4662f602d3\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/30346dd4cc20b6beec89",
+                        "name": "Suna"
+                    },
+                    "position": "Founding Team",
+                    "startDate": "2018-03-01",
+                    "name": "Suna",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/30346dd4cc20b6beec89"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Housekept"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2017-10-01",
+                    "name": "Housekept",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 1386016, \"name\": \"Facebook\", \"uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu\", \"description\": \"Facebook AI offers technology and engineering services like theory, algorithms, applications, software and hardware infrastructure.\", \"headcount\": \"501-1000\", \"founding_date\": \"2004-01-01\", \"website\": \"https://www.meta.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [38605, 55774, 861755, 1535741, 1837626, 1350363, 2612396, 241409, 2307479, 2493830, 1175955, 1372162, 499199, 2270839, 2447144, 2734237, 3040208, 3223279, 352147, 252696, 1284502, 1089831, 1066353, 1364530, 2582360, 511793, 1203732, 1647604, 3278137, 2854647, 229797, 896120, 846056, 873114, 1442712, 432368, 1814039, 1816397, 2468961, 3181446, 1489101, 467461, 862391, 1578970, 739404, 2061963, 1874866, 2944082, 3220921, 584566, 2500095, 1396635, 1940677, 976008, 2355633, 3247752, 785229, 952030, 2964097, 1813366, 2281912, 3278586, 2132899, 3203088, 482392, 730236, 1562926, 1754215, 2964256, 2971919, 1101942, 1180506, 2127164, 1991717, 3333856], \"cb_permalink\": \"https://www.crunchbase.com/organization/facebook-ai\", \"linkedin_url\": \"https://linkedin.com/company/facebook\", \"twitter\": \"https:/www.twitter.com/facebook\", \"last_funding_round_date\": \"2011-10-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 0, \"company_li_name\": \"facebook\", \"tags\": [{\"id\": 1258670, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1258671, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 1258672, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1258673, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 309939, \"uuid\": \"d94e775b-83aa-46c5-a873-7859462fc81a\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-10-21\", \"investors\": null}, {\"id\": 481414, \"uuid\": \"233b58d9-024e-4cc3-bbe4-f5b45fafcf13\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu",
+                        "name": "Facebook"
+                    },
+                    "position": "Product Design Intern",
+                    "startDate": "2018-05-01",
+                    "name": "Facebook",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 1144167, \"name\": \"Eventene\", \"uuid\": \"2b913d66-ea0e-4761-ae5d-4c1d88d94177\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rc6oahbvqhov4wem5hkz\", \"description\": \"Plan and execute all your events & activities 365 days a year on a single cost-effective platform.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-07-07\", \"website\": \"https://www.eventene.com/\", \"location\": \"Santa Monica\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/eventene\", \"linkedin_url\": \"https://linkedin.com/company/eventene\", \"twitter\": \"https:/twitter.com/eventeneapp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"eventene\", \"tags\": [{\"id\": 2785650, \"legal_entity_uuid\": \"2b913d66-ea0e-4761-ae5d-4c1d88d94177\", \"name\": \"Event Management\", \"category\": \"Industry\"}, {\"id\": 2785651, \"legal_entity_uuid\": \"2b913d66-ea0e-4761-ae5d-4c1d88d94177\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 149781, \"legal_entity_uuid\": \"2b913d66-ea0e-4761-ae5d-4c1d88d94177\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rc6oahbvqhov4wem5hkz",
+                        "name": "Eventene"
+                    },
+                    "position": "Product Development Intern",
+                    "startDate": "2017-05-01",
+                    "name": "Eventene",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rc6oahbvqhov4wem5hkz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 465229, \"name\": \"ID Tech\", \"uuid\": \"46e79ea8-52a5-c3c0-cb9e-fab430a858d3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/aiz1oosd4jt40pqvrrtf\", \"description\": \"ID Tech is a is a summer computer camp providing STEM education programs for kids and teens held at 100 campuses nationwide.\", \"headcount\": \"501-1000\", \"founding_date\": \"1999-01-01\", \"website\": \"https://www.idtech.com\", \"location\": \"Campbell\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [642484], \"executive_people_profile_ids\": [642484, 2017936, 732114, 1693818], \"cb_permalink\": \"https://www.crunchbase.com/organization/id-tech\", \"linkedin_url\": \"https://linkedin.com/company/id-tech-camps\", \"twitter\": \"https:/twitter.com/idtechcamps\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"id-tech-camps\", \"tags\": [{\"id\": 4971861, \"legal_entity_uuid\": \"46e79ea8-52a5-c3c0-cb9e-fab430a858d3\", \"name\": \"Computer\", \"category\": \"Industry\"}, {\"id\": 4971862, \"legal_entity_uuid\": \"46e79ea8-52a5-c3c0-cb9e-fab430a858d3\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 4971863, \"legal_entity_uuid\": \"46e79ea8-52a5-c3c0-cb9e-fab430a858d3\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4971864, \"legal_entity_uuid\": \"46e79ea8-52a5-c3c0-cb9e-fab430a858d3\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 121009, \"legal_entity_uuid\": \"46e79ea8-52a5-c3c0-cb9e-fab430a858d3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13, \"hc_estimate_90_days\": 18, \"hc_estimate_180_days\": 15, \"hc_estimate_270_days\": 17, \"hc_estimate_365_days\": 19, \"hc_growth_90_days\": \"-27.780000000000001136868377216160297393798828125\", \"hc_growth_180_days\": \"-13.3300000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": \"-23.530000000000001136868377216160297393798828125\", \"hc_growth_365_days\": \"-31.5799999999999982946974341757595539093017578125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/aiz1oosd4jt40pqvrrtf",
+                        "name": "iD Tech Camps"
+                    },
+                    "position": "Lead Software Instructor",
+                    "startDate": "2017-05-01",
+                    "name": "iD Tech Camps",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/aiz1oosd4jt40pqvrrtf"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 641631, \"name\": \"NEXIS Student Technology Lab\", \"uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dkz3iqfhn1fq6qonhhph\", \"description\": \"NEXIS Student Technology Lab is a nonprofit student-run organization that researches information science, engineering, and technology.\", \"headcount\": \"11-50\", \"founding_date\": \"2013-01-01\", \"website\": \"https://nexis.ischool.syr.edu\", \"location\": \"Syracuse\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/nexis-student-technology-lab\", \"linkedin_url\": \"https://linkedin.com/school/nexis-lab\", \"twitter\": \"https:/twitter.com/NEXIS_SU\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"nexis-lab\", \"tags\": [{\"id\": 3534648, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 3534649, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"name\": \"Blockchain\", \"category\": \"Industry\"}, {\"id\": 3534650, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}, {\"id\": 3534651, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 3534652, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 3534653, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"name\": \"Non Profit\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 193473, \"legal_entity_uuid\": \"de17c8a6-b391-4c5c-846c-e789eb935b84\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 1, \"hc_estimate_270_days\": 1, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-100\", \"hc_growth_270_days\": \"-100\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dkz3iqfhn1fq6qonhhph",
+                        "name": "NEXIS Student Technology Lab"
+                    },
+                    "position": "Team Lead-Undergraduate Research",
+                    "startDate": "2017-01-01",
+                    "name": "NEXIS Student Technology Lab",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dkz3iqfhn1fq6qonhhph"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "the yogurt shoppe"
+                    },
+                    "position": "Server",
+                    "startDate": "2015-09-01",
+                    "name": "the yogurt shoppe",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ywca-santamonica-westside.png",
+                        "name": "YWCA SantaMonica/ Westside"
+                    },
+                    "position": "Product Development Intern",
+                    "startDate": "2013-03-01",
+                    "name": "YWCA SantaMonica/ Westside",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ywca-santamonica-westside.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computing and Information Science; Minor in Applied Economics",
+                    "degreeType": "B.S.",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1289184, \"name\": \"Cornell High Energy Synchrotron Source (CHESS)\", \"uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hqqd38qrkprit3scedpk\", \"description\": \"Cornell High Energy Synchrotron Source is an X-ray source that offers synchrotron radiation resources to consumers for scientific research.\", \"headcount\": \"11-50\", \"founding_date\": \"1978-01-01\", \"website\": \"https://www.chess.cornell.edu/\", \"location\": \"Ithaca\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/cornell-high-energy-synchrotron-source-chess\", \"linkedin_url\": \"https://linkedin.com/company/cornell-university\", \"twitter\": null, \"last_funding_round_date\": \"2019-08-28\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 17400000, \"company_li_name\": \"cornell-university\", \"tags\": [{\"id\": 4090525, \"legal_entity_uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"name\": \"Energy\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 11939, \"legal_entity_uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 499, \"hc_estimate_90_days\": 506, \"hc_estimate_180_days\": 554, \"hc_estimate_270_days\": 581, \"hc_estimate_365_days\": 571, \"hc_growth_90_days\": \"-1.37999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"-9.92999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"-14.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-12.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 116105, \"uuid\": \"13fb7c00-58e0-4633-ae78-29307bf5dbdc\", \"legal_entity_uuid\": \"835daaa3-d898-4029-8785-dad82f6e9a8a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 17400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-28\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqqd38qrkprit3scedpk",
+                        "name": "Cornell University"
+                    },
+                    "name": "Cornell University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqqd38qrkprit3scedpk"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2016-01-01",
+                    "legalEntity": null,
+                    "startDate": "2012-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Pacific Palisades Charter High School"
+                    },
+                    "name": "Pacific Palisades Charter High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "46",
+                    "value": "Cycling"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "281"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

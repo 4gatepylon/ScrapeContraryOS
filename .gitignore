@@ -1,0 +1,5 @@
+*.pyc
+__pycache__/
+# We are not going to save the HTML, but we will save the extracted data
+saved_htmls/
+saved_extracts/

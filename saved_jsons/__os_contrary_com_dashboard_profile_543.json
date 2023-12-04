@@ -1,0 +1,452 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Founder - Marketer | Co-Founder of Sora Schools (USV - General Catalyst)",
+                "educationExperiences": [],
+                "email": "indra.sofian@soraschools.com",
+                "firstName": "Indra",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "543",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Sofian",
+                "linkedinName": "indrasofian",
+                "linkedinUrl": "https://linkedin.com/in/indrasofian/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "9a6c16a7-670c-44e3-a0f0-434613df9a48",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/543_Indra_Sofian.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4401",
+                        "organizationId": 3053,
+                        "position": "Head of Growth",
+                        "startDate": "2023-02-01"
+                    },
+                    {
+                        "endDate": "2022-04-01",
+                        "id": "4705",
+                        "organizationId": 86258,
+                        "position": "Investor",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": "2020-10-01",
+                        "id": "4706",
+                        "organizationId": 556352,
+                        "position": "Investor",
+                        "startDate": "2020-10-01"
+                    },
+                    {
+                        "endDate": "2019-11-01",
+                        "id": "4226",
+                        "organizationId": 1418,
+                        "position": "Future Founders Fellow",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4225",
+                        "organizationId": 767,
+                        "position": "Co-Founder",
+                        "startDate": "2018-07-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "4229",
+                        "organizationId": 950,
+                        "position": "Startup Lab Teaching Assistant",
+                        "startDate": "2017-08-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "4230",
+                        "organizationId": 2797,
+                        "position": "Denning Technology & Management Capstone Consultant",
+                        "startDate": "2016-09-01"
+                    },
+                    {
+                        "endDate": "2018-05-01",
+                        "id": "4228",
+                        "organizationId": 5,
+                        "position": "Founding Venture Partner",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "4232",
+                        "organizationId": 771,
+                        "position": "TEC Fellow",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "4233",
+                        "organizationId": 1422,
+                        "position": "Head of Community",
+                        "startDate": "2016-05-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "4234",
+                        "organizationId": 1423,
+                        "position": "Marketing Intern",
+                        "startDate": "2016-05-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "4231",
+                        "organizationId": 1420,
+                        "position": "Co Director",
+                        "startDate": "2016-04-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "4237",
+                        "organizationId": 1425,
+                        "position": "Product Development Intern",
+                        "startDate": "2015-06-01"
+                    },
+                    {
+                        "endDate": "2015-12-01",
+                        "id": "4235",
+                        "organizationId": 1424,
+                        "position": "Director of Marketing",
+                        "startDate": "2015-05-01"
+                    },
+                    {
+                        "endDate": "2015-09-01",
+                        "id": "4236",
+                        "organizationId": 1394,
+                        "position": "Marketing Director",
+                        "startDate": "2015-05-01"
+                    },
+                    {
+                        "endDate": "2019-05-01",
+                        "id": "4227",
+                        "organizationId": 1419,
+                        "position": "Co-Founder",
+                        "startDate": "2015-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": "{\"id\": 792640, \"name\": \"Sora Schools\", \"uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/lxsat9hoeeoxogf8oxym\", \"description\": \"A live, virtual middle & high school designed to accelerate your student toward their wildest dreams.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-01-01\", \"website\": \"https://soraschools.com\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": [1208560, 2440503, 2963716], \"executive_people_profile_ids\": [1208560, 2440503, 2963716], \"cb_permalink\": \"https://www.crunchbase.com/organization/sora-schools\", \"linkedin_url\": \"https://linkedin.com/company/soraschools\", \"twitter\": \"https:/twitter.com/soraschools\", \"last_funding_round_date\": \"2021-10-28\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 23524978, \"company_li_name\": \"soraschools\", \"tags\": [{\"id\": 2855896, \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80226, \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 52, \"hc_estimate_90_days\": 53, \"hc_estimate_180_days\": 55, \"hc_estimate_270_days\": 53, \"hc_estimate_365_days\": 54, \"hc_growth_90_days\": \"-1.8899999999999999023003738329862244427204132080078125\", \"hc_growth_180_days\": \"-5.45000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-1.8899999999999999023003738329862244427204132080078125\", \"hc_growth_365_days\": \"-3.70000000000000017763568394002504646778106689453125\"}, \"funding_rounds\": [{\"id\": 442804, \"uuid\": \"8561d786-1b39-4294-84d2-67fb04c034fc\", \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 20824978, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-28\", \"investors\": null}, {\"id\": 442803, \"uuid\": \"cc8a82a3-23cf-4261-a8ac-2ace16143008\", \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-02\", \"investors\": null}, {\"id\": 442802, \"uuid\": \"fca9d97a-aa9a-487d-b3fa-3868c142abec\", \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-05\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxsat9hoeeoxogf8oxym",
+                        "name": "Sora Schools"
+                    },
+                    "position": "Board Member",
+                    "startDate": "2023-02-01",
+                    "name": "Sora Schools",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxsat9hoeeoxogf8oxym"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-06-01",
+                    "legalEntity": "{\"id\": 1105915, \"name\": \"Switchyards\", \"uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ther6dd5elusnt2yvcfe\", \"description\": \"The worlds first neighborhood work club.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"https://switchyards.com/\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": [975347, 1518131], \"executive_people_profile_ids\": [1518131, 975347], \"cb_permalink\": \"https://www.crunchbase.com/organization/switchyards\", \"linkedin_url\": \"https://linkedin.com/company/switchyards\", \"twitter\": \"https:/twitter.com/switchyards\", \"last_funding_round_date\": \"2023-03-14\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 4652364, \"company_li_name\": \"switchyards\", \"tags\": [{\"id\": 1064033, \"legal_entity_uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"name\": \"Rental\", \"category\": \"Industry\"}, {\"id\": 1064032, \"legal_entity_uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"name\": \"Property Management\", \"category\": \"Industry\"}, {\"id\": 1064031, \"legal_entity_uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"name\": \"Customer Service\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 177849, \"legal_entity_uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"50\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"50\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 257388, \"uuid\": \"4c5e00d6-f256-4643-adc9-fb2060eb6310\", \"legal_entity_uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 3415935, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-14\", \"investors\": null}, {\"id\": 257387, \"uuid\": \"30c0f24c-a06d-486c-b592-49beb51a798f\", \"legal_entity_uuid\": \"d7cac878-7088-4f4c-a3ce-ca3c787a6cac\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1236429, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-11-09\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ther6dd5elusnt2yvcfe",
+                        "name": "Switchyards"
+                    },
+                    "position": "Growth Advisor",
+                    "startDate": "2023-02-01",
+                    "name": "Switchyards",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ther6dd5elusnt2yvcfe"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-02-01",
+                    "legalEntity": "{\"id\": 792640, \"name\": \"Sora Schools\", \"uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/lxsat9hoeeoxogf8oxym\", \"description\": \"A live, virtual middle & high school designed to accelerate your student toward their wildest dreams.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-01-01\", \"website\": \"https://soraschools.com\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": [1208560, 2440503, 2963716], \"executive_people_profile_ids\": [1208560, 2440503, 2963716], \"cb_permalink\": \"https://www.crunchbase.com/organization/sora-schools\", \"linkedin_url\": \"https://linkedin.com/company/soraschools\", \"twitter\": \"https:/twitter.com/soraschools\", \"last_funding_round_date\": \"2021-10-28\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 23524978, \"company_li_name\": \"soraschools\", \"tags\": [{\"id\": 2855896, \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80226, \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 52, \"hc_estimate_90_days\": 53, \"hc_estimate_180_days\": 55, \"hc_estimate_270_days\": 53, \"hc_estimate_365_days\": 54, \"hc_growth_90_days\": \"-1.8899999999999999023003738329862244427204132080078125\", \"hc_growth_180_days\": \"-5.45000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-1.8899999999999999023003738329862244427204132080078125\", \"hc_growth_365_days\": \"-3.70000000000000017763568394002504646778106689453125\"}, \"funding_rounds\": [{\"id\": 442804, \"uuid\": \"8561d786-1b39-4294-84d2-67fb04c034fc\", \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 20824978, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-28\", \"investors\": null}, {\"id\": 442803, \"uuid\": \"cc8a82a3-23cf-4261-a8ac-2ace16143008\", \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-02\", \"investors\": null}, {\"id\": 442802, \"uuid\": \"fca9d97a-aa9a-487d-b3fa-3868c142abec\", \"legal_entity_uuid\": \"47704e36-aea6-4446-991a-a7b4c0733baf\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-05\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxsat9hoeeoxogf8oxym",
+                        "name": "Sora Schools"
+                    },
+                    "position": "Co-Founder-Chief Growth Officer",
+                    "startDate": "2018-07-01",
+                    "name": "Sora Schools",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxsat9hoeeoxogf8oxym"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-04-01",
+                    "legalEntity": "{\"id\": 1684196, \"name\": \"Ordo\", \"uuid\": \"d184b7e6-6da7-4dcd-b433-925367177dff\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ordoschools.png\", \"description\": \"Ordo is a K-12 lunch marketplace that pairs schools with local vendors.\", \"headcount\": \"11-50\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.ordo.com\", \"location\": \"Detroit\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [1989982], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/ordo-7dff\", \"linkedin_url\": \"https://linkedin.com/company/ordoschools\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"ordoschools\", \"tags\": [{\"id\": 2430270, \"legal_entity_uuid\": \"d184b7e6-6da7-4dcd-b433-925367177dff\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7007811, \"legal_entity_uuid\": \"d184b7e6-6da7-4dcd-b433-925367177dff\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 159173, \"legal_entity_uuid\": \"d184b7e6-6da7-4dcd-b433-925367177dff\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ordoschools.png",
+                        "name": "Ordo"
+                    },
+                    "position": "Investor",
+                    "startDate": "2022-04-01",
+                    "name": "Ordo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ordoschools.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-10-01",
+                    "legalEntity": "{\"id\": 190295, \"name\": \"Ender\", \"uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ug4mxipm3w4agkjpf5ar\", \"description\": \"Ender is a competition platform where kids can win cash prizes for building apps, games, websites, and other real-world projects.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-01-01\", \"website\": \"https://joinender.com\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [276217, 2299453], \"executive_people_profile_ids\": [1787289, 276217, 2299453], \"cb_permalink\": \"https://www.crunchbase.com/organization/ender-3c26\", \"linkedin_url\": \"https://linkedin.com/company/joinender\", \"twitter\": \"https:/twitter.com/joinender\", \"last_funding_round_date\": \"2022-04-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 6500000, \"company_li_name\": \"joinender\", \"tags\": [{\"id\": 3694063, \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 3694060, \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 3694061, \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"name\": \"Gaming\", \"category\": \"Industry\"}, {\"id\": 3694062, \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"name\": \"Social\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17738, \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"33.3299999999999982946974341757595539093017578125\", \"hc_growth_180_days\": \"33.3299999999999982946974341757595539093017578125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 188194, \"uuid\": \"1d80576a-bf01-4ff6-8493-a11501d9260d\", \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 5500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-01\", \"investors\": null}, {\"id\": 188193, \"uuid\": \"7ab3a09d-4d85-41be-80c0-99be0926511b\", \"legal_entity_uuid\": \"9a20ae64-65d3-47b4-ac98-c781b6ca3c26\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ug4mxipm3w4agkjpf5ar",
+                        "name": "Ender"
+                    },
+                    "position": "Investor",
+                    "startDate": "2020-10-01",
+                    "name": "Ender",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ug4mxipm3w4agkjpf5ar"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-12-01",
+                    "legalEntity": "{\"id\": 35887, \"name\": \"Elevate Media\", \"uuid\": \"56cfd01e-c5bc-4571-87a5-631f2dd7671c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/yhhgjulkkvyh9ixd4feo\", \"description\": \"Elevate Media provides marketing strategy consulting and content production services for businesses.\", \"headcount\": \"1-10\", \"founding_date\": \"2015-06-21\", \"website\": \"https://www.elevatemedia.io/\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/elevate-media\", \"linkedin_url\": \"https://linkedin.com/company/elevate-media-atlanta\", \"twitter\": \"https:/twitter.com/elevatemediaATL\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"elevate-media-atlanta\", \"tags\": [{\"id\": 1054004, \"legal_entity_uuid\": \"56cfd01e-c5bc-4571-87a5-631f2dd7671c\", \"name\": \"Marketing\", \"category\": \"Industry\"}, {\"id\": 1054003, \"legal_entity_uuid\": \"56cfd01e-c5bc-4571-87a5-631f2dd7671c\", \"name\": \"Advertising\", \"category\": \"Industry\"}, {\"id\": 1054005, \"legal_entity_uuid\": \"56cfd01e-c5bc-4571-87a5-631f2dd7671c\", \"name\": \"Video\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/yhhgjulkkvyh9ixd4feo",
+                        "name": "Elevate Media Atlanta"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2015-01-01",
+                    "name": "Elevate Media Atlanta",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/yhhgjulkkvyh9ixd4feo"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-11-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/future-founders.png",
+                        "name": "Future Founders"
+                    },
+                    "position": "Future Founders Fellow",
+                    "startDate": "2019-01-01",
+                    "name": "Future Founders",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/future-founders.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Founding Venture Partner",
+                    "startDate": "2016-06-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-12-01",
+                    "legalEntity": "{\"id\": 1684073, \"name\": \"Georgia Institute of Technology\", \"uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/georgia-institute-of-technology.png\", \"description\": \"Georgia Institute of Technology operates as a state-funded research university.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1885-10-13\", \"website\": \"http://gatech.edu\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [674261, 2381687, 1579407, 2434490, 1628561, 2993122, 925097, 1727868, 1329743, 1656525, 1686374, 3235083, 1504600], \"cb_permalink\": \"https://www.crunchbase.com/organization/georgia-institute-of-technology\", \"linkedin_url\": \"https://linkedin.com/school/georgia-institute-of-technology\", \"twitter\": \"https:/twitter.com/georgiatech\", \"last_funding_round_date\": \"2023-04-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 13979614, \"company_li_name\": \"georgia-institute-of-technology\", \"tags\": [{\"id\": 6511437, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6511436, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6511438, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 162976, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 814, \"hc_estimate_90_days\": 753, \"hc_estimate_180_days\": 936, \"hc_estimate_270_days\": 955, \"hc_estimate_365_days\": 984, \"hc_growth_90_days\": \"8.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-13.0299999999999993605115378159098327159881591796875\", \"hc_growth_270_days\": \"-14.7599999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-17.280000000000001136868377216160297393798828125\"}, \"funding_rounds\": [{\"id\": 440871, \"uuid\": \"f3fcb23a-3ad7-43ae-8bbc-45d1e1a27fb1\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-26\", \"investors\": null}, {\"id\": 440872, \"uuid\": \"267200a1-6f1c-4979-839b-b02f810556e3\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11629614, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-26\", \"investors\": null}, {\"id\": 440870, \"uuid\": \"2e9b845b-ed32-491f-a9dc-7d3ecad3241e\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-17\", \"investors\": null}, {\"id\": 485226, \"uuid\": \"404d5151-aa0b-42b2-80e6-03498c2a058c\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-21\", \"investors\": null}, {\"id\": 440869, \"uuid\": \"bbd1cdbd-f1cd-45c2-85d0-859a54dc4ede\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-18\", \"investors\": null}, {\"id\": 440868, \"uuid\": \"fc7082fa-7856-40ea-bf09-38f616b3864c\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/georgia-institute-of-technology.png",
+                        "name": "Georgia Institute of Technology"
+                    },
+                    "position": "Startup Lab Teaching Assistant",
+                    "startDate": "2017-08-01",
+                    "name": "Georgia Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/georgia-institute-of-technology.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": "{\"id\": 2132250, \"name\": \"Elavon\", \"uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/bdtji04awydit2qunbab\", \"description\": \"Elavon helps businesses, small and large, accept all payment types.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1991-01-01\", \"website\": \"http://www.elavon.com/\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [262250, 1432024, 729570, 1555754, 2849424, 1990245, 1514536, 2841214, 1912833, 816537, 1206811, 979899, 1691979, 1728440], \"cb_permalink\": \"https://www.crunchbase.com/organization/elavon\", \"linkedin_url\": \"https://linkedin.com/company/elavon-inc\", \"twitter\": \"https:/twitter.com/elavonjobs\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"elavon-inc\", \"tags\": [{\"id\": 6536909, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"name\": \"Small and Medium Businesses\", \"category\": \"Industry\"}, {\"id\": 6536908, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"name\": \"Payments\", \"category\": \"Industry\"}, {\"id\": 6536907, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"name\": \"Mobile Payments\", \"category\": \"Industry\"}, {\"id\": 6536906, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6536905, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6536904, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"name\": \"Credit Cards\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 73040, \"legal_entity_uuid\": \"9098d231-9303-a8fe-83de-075f1ddabc15\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 35, \"hc_estimate_90_days\": 36, \"hc_estimate_180_days\": 33, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 29, \"hc_growth_90_days\": \"-2.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"6.05999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"20.690000000000001278976924368180334568023681640625\", \"hc_growth_365_days\": \"20.690000000000001278976924368180334568023681640625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bdtji04awydit2qunbab",
+                        "name": "Elavon-Inc."
+                    },
+                    "position": "Denning Technology  Management Capstone Consultant",
+                    "startDate": "2016-09-01",
+                    "name": "Elavon-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bdtji04awydit2qunbab"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Startup Exchange (Georgia Tech)"
+                    },
+                    "position": "Co Director",
+                    "startDate": "2016-04-01",
+                    "name": "Startup Exchange (Georgia Tech)",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 178492, \"name\": \"True Ventures\", \"uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vh71lo0yq8cx17rlweg9\", \"description\": \"True Ventures is a venture capital firm that invests in early-stage technology startups.\", \"headcount\": \"11-50\", \"founding_date\": \"2005-01-01\", \"website\": \"http://www.trueventures.com\", \"location\": \"Palo Alto\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [183849, 2809019, 919322], \"executive_people_profile_ids\": [70265, 846317, 432273, 1036380, 1606470, 846338, 1036515, 2271411, 2928345, 595156, 919322, 1048333, 2043545, 768549, 1178669, 1148613, 2112851, 1840916, 1948029, 2809019, 183849, 449004, 432325, 2042119, 2761851, 2752221, 2116972], \"cb_permalink\": \"https://www.crunchbase.com/organization/true-ventures\", \"linkedin_url\": \"https://linkedin.com/company/true-ventures\", \"twitter\": \"http:/twitter.com/trueventures\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"true-ventures\", \"tags\": [{\"id\": 4850459, \"legal_entity_uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"name\": \"Impact Investing\", \"category\": \"Industry\"}, {\"id\": 4850460, \"legal_entity_uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 4850456, \"legal_entity_uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 4850457, \"legal_entity_uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 4850458, \"legal_entity_uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16778, \"legal_entity_uuid\": \"ead45092-f6d8-f3dd-6105-06b885d662ea\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 42, \"hc_estimate_90_days\": 46, \"hc_estimate_180_days\": 39, \"hc_estimate_270_days\": 38, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-8.699999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"7.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"10.5299999999999993605115378159098327159881591796875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh71lo0yq8cx17rlweg9",
+                        "name": "True Ventures"
+                    },
+                    "position": "TEC Fellow",
+                    "startDate": "2016-06-01",
+                    "name": "True Ventures",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh71lo0yq8cx17rlweg9"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "intern.community"
+                    },
+                    "position": "Head of Community",
+                    "startDate": "2016-05-01",
+                    "name": "intern.community",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 1071123, \"name\": \"UXPin\", \"uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fpfv4zlqg5cyaek0q4ln\", \"description\": \"UXPin allows product teams and designers to build low and high-fidelity, interactive, realistic web and mobile wireframes and prototypes.\", \"headcount\": \"11-50\", \"founding_date\": \"2010-11-11\", \"website\": \"http://uxpin.com\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [976495, 98511, 2568068, 656510], \"executive_people_profile_ids\": [98511, 478456, 1755636, 976495, 1274625, 656510, 2965308, 1516308, 2856772, 2568068], \"cb_permalink\": \"https://www.crunchbase.com/organization/uxpin\", \"linkedin_url\": \"https://linkedin.com/company/uxpin\", \"twitter\": \"http:/twitter.com/uxpin\", \"last_funding_round_date\": \"2015-07-23\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 7300000, \"company_li_name\": \"uxpin\", \"tags\": [{\"id\": 6494386, \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Computer\", \"category\": \"Industry\"}, {\"id\": 6494387, \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6494388, \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Project Management\", \"category\": \"Industry\"}, {\"id\": 6494389, \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 179648, \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 29, \"hc_estimate_90_days\": 32, \"hc_estimate_180_days\": 33, \"hc_estimate_270_days\": 31, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-9.3800000000000007815970093361102044582366943359375\", \"hc_growth_180_days\": \"-12.1199999999999992184029906638897955417633056640625\", \"hc_growth_270_days\": \"-6.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 396767, \"uuid\": \"7115f418-ff4c-1611-9945-70d7266122a9\", \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-07-23\", \"investors\": null}, {\"id\": 396766, \"uuid\": \"112679f0-8093-dd9d-b2e4-262d512a84f0\", \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-02-05\", \"investors\": null}, {\"id\": 396765, \"uuid\": \"53edfa97-89d7-d683-84ef-57231e2cc574\", \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-10-16\", \"investors\": null}, {\"id\": 396764, \"uuid\": \"5694b09a-f869-4f23-b410-0b1413ab1626\", \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 396763, \"uuid\": \"0465f966-92e5-8bd9-5aa8-1a6a121dc22b\", \"legal_entity_uuid\": \"184c25c4-ceed-cd9d-0905-ff563353e566\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-05-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fpfv4zlqg5cyaek0q4ln",
+                        "name": "UXPin"
+                    },
+                    "position": "Marketing Intern",
+                    "startDate": "2016-05-01",
+                    "name": "UXPin",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fpfv4zlqg5cyaek0q4ln"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-12-01",
+                    "legalEntity": "{\"id\": 2120788, \"name\": \"Alpha Kappa Psi\", \"uuid\": \"359a877c-9e71-0ffd-24e4-580501077da3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/da0cjd0hdlaasdlkpnbn\", \"description\": \"Alpha Kappa Psi is an organization providing resources for enhancing the educational experience of future business leaders.\", \"headcount\": \"10000+\", \"founding_date\": \"1904-01-01\", \"website\": \"https://www.akpsi.org\", \"location\": \"Indianapolis\", \"country\": \"USA\", \"region\": \"Indiana\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [731951], \"cb_permalink\": \"https://www.crunchbase.com/organization/alpha-kappa-psi\", \"linkedin_url\": \"https://linkedin.com/company/alpha-kappa-psi\", \"twitter\": \"https:/www.twitter.com/akpsi\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"alpha-kappa-psi\", \"tags\": [{\"id\": 1679040, \"legal_entity_uuid\": \"359a877c-9e71-0ffd-24e4-580501077da3\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1679041, \"legal_entity_uuid\": \"359a877c-9e71-0ffd-24e4-580501077da3\", \"name\": \"Professional Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 53366, \"legal_entity_uuid\": \"359a877c-9e71-0ffd-24e4-580501077da3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 33, \"hc_estimate_90_days\": 34, \"hc_estimate_180_days\": 45, \"hc_estimate_270_days\": 50, \"hc_estimate_365_days\": 54, \"hc_growth_90_days\": \"-2.939999999999999946709294817992486059665679931640625\", \"hc_growth_180_days\": \"-26.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"-34\", \"hc_growth_365_days\": \"-38.8900000000000005684341886080801486968994140625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/da0cjd0hdlaasdlkpnbn",
+                        "name": "Alpha Kappa Psi - Epsilon Sigma Chapter"
+                    },
+                    "position": "Director of Marketing",
+                    "startDate": "2015-05-01",
+                    "name": "Alpha Kappa Psi - Epsilon Sigma Chapter",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/da0cjd0hdlaasdlkpnbn"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-09-01",
+                    "legalEntity": "{\"id\": 145756, \"name\": \"3 Day Startup\", \"uuid\": \"6a1ec33c-e7b4-e837-6500-cea739ce22f9\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1409696194/rupnb8hjyurff5vfoppt.png\", \"description\": \"3 Day Startup teaches entrepreneurial skills to university students in an immersive, hands-on environment.\", \"headcount\": \"1-10\", \"founding_date\": \"2008-01-29\", \"website\": \"http://www.3daystartup.org\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [2288272], \"executive_people_profile_ids\": [474066, 182625, 643988, 1568670, 2269106, 1667348, 2288272, 3337750, 322807, 3156653, 474239, 2021932, 1163632, 770988], \"cb_permalink\": \"https://www.crunchbase.com/organization/3-day-startup-inc\", \"linkedin_url\": \"https://linkedin.com/company/3-day-startup\", \"twitter\": \"http:/twitter.com/3daystartup\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"3-day-startup\", \"tags\": [{\"id\": 6489774, \"legal_entity_uuid\": \"6a1ec33c-e7b4-e837-6500-cea739ce22f9\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 6489773, \"legal_entity_uuid\": \"6a1ec33c-e7b4-e837-6500-cea739ce22f9\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6489772, \"legal_entity_uuid\": \"6a1ec33c-e7b4-e837-6500-cea739ce22f9\", \"name\": \"E-Learning\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 5711, \"legal_entity_uuid\": \"6a1ec33c-e7b4-e837-6500-cea739ce22f9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 4, \"hc_estimate_365_days\": 4, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-25\", \"hc_growth_365_days\": \"-25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1409696194/rupnb8hjyurff5vfoppt.png",
+                        "name": "3 Day Startup"
+                    },
+                    "position": "Marketing Director",
+                    "startDate": "2015-05-01",
+                    "name": "3 Day Startup",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1409696194/rupnb8hjyurff5vfoppt.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": "{\"id\": 1989234, \"name\": \"ATT InoxDrain\", \"uuid\": \"286f7e3f-807e-440b-b388-9acaf312ffe7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/crylfbktqhlzk9mqdqcq\", \"description\": \"ATT InoxDrain is a manufacturing company which makes and sells stainless steel components and draining systems.\", \"headcount\": \"unknown\", \"founding_date\": \"2002-01-01\", \"website\": \"https://www.att.eu/\", \"location\": \"Krakow\", \"country\": \"POL\", \"region\": \"Malopolskie\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/att-inoxdrain\", \"linkedin_url\": \"https://linkedin.com/company/att\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"att\", \"tags\": [{\"id\": 542796, \"legal_entity_uuid\": \"286f7e3f-807e-440b-b388-9acaf312ffe7\", \"name\": \"Mechanical Engineering\", \"category\": \"Industry\"}, {\"id\": 542795, \"legal_entity_uuid\": \"286f7e3f-807e-440b-b388-9acaf312ffe7\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 542794, \"legal_entity_uuid\": \"286f7e3f-807e-440b-b388-9acaf312ffe7\", \"name\": \"Industrial Manufacturing\", \"category\": \"Industry\"}, {\"id\": 542793, \"legal_entity_uuid\": \"286f7e3f-807e-440b-b388-9acaf312ffe7\", \"name\": \"Building Material\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 45805, \"legal_entity_uuid\": \"286f7e3f-807e-440b-b388-9acaf312ffe7\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 1148, \"hc_estimate_90_days\": 1132, \"hc_estimate_180_days\": 1141, \"hc_estimate_270_days\": 1167, \"hc_estimate_365_days\": 1209, \"hc_growth_90_days\": \"1.4099999999999999200639422269887290894985198974609375\", \"hc_growth_180_days\": \"0.60999999999999998667732370449812151491641998291015625\", \"hc_growth_270_days\": \"-1.62999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-5.04999999999999982236431605997495353221893310546875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/crylfbktqhlzk9mqdqcq",
+                        "name": "ATT"
+                    },
+                    "position": "Product Development Intern",
+                    "startDate": "2015-06-01",
+                    "name": "ATT",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/crylfbktqhlzk9mqdqcq"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Business Administration and Management",
+                    "degreeType": "Bachelor of Business Administration (B.B.A.)",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 1684073, \"name\": \"Georgia Institute of Technology\", \"uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/georgia-institute-of-technology.png\", \"description\": \"Georgia Institute of Technology operates as a state-funded research university.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1885-10-13\", \"website\": \"http://gatech.edu\", \"location\": \"Atlanta\", \"country\": \"USA\", \"region\": \"Georgia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [674261, 2381687, 1579407, 2434490, 1628561, 2993122, 925097, 1727868, 1329743, 1656525, 1686374, 3235083, 1504600], \"cb_permalink\": \"https://www.crunchbase.com/organization/georgia-institute-of-technology\", \"linkedin_url\": \"https://linkedin.com/school/georgia-institute-of-technology\", \"twitter\": \"https:/twitter.com/georgiatech\", \"last_funding_round_date\": \"2023-04-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 13979614, \"company_li_name\": \"georgia-institute-of-technology\", \"tags\": [{\"id\": 6511437, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6511436, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6511438, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 162976, \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 814, \"hc_estimate_90_days\": 753, \"hc_estimate_180_days\": 936, \"hc_estimate_270_days\": 955, \"hc_estimate_365_days\": 984, \"hc_growth_90_days\": \"8.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-13.0299999999999993605115378159098327159881591796875\", \"hc_growth_270_days\": \"-14.7599999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-17.280000000000001136868377216160297393798828125\"}, \"funding_rounds\": [{\"id\": 440871, \"uuid\": \"f3fcb23a-3ad7-43ae-8bbc-45d1e1a27fb1\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-26\", \"investors\": null}, {\"id\": 440872, \"uuid\": \"267200a1-6f1c-4979-839b-b02f810556e3\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11629614, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-26\", \"investors\": null}, {\"id\": 440870, \"uuid\": \"2e9b845b-ed32-491f-a9dc-7d3ecad3241e\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-17\", \"investors\": null}, {\"id\": 485226, \"uuid\": \"404d5151-aa0b-42b2-80e6-03498c2a058c\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-21\", \"investors\": null}, {\"id\": 440869, \"uuid\": \"bbd1cdbd-f1cd-45c2-85d0-859a54dc4ede\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-18\", \"investors\": null}, {\"id\": 440868, \"uuid\": \"fc7082fa-7856-40ea-bf09-38f616b3864c\", \"legal_entity_uuid\": \"e9fc6d99-a968-c8e2-549e-ee6e13b9127f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}]}",
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/georgia-institute-of-technology.png",
+                        "name": "Georgia Institute of Technology"
+                    },
+                    "name": "Georgia Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/georgia-institute-of-technology.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Engineering",
+                    "degreeType": "Minor in Engineering and Business",
+                    "endDate": "2017-01-01",
+                    "legalEntity": null,
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Denning Technology  Management Program"
+                    },
+                    "name": "Denning Technology  Management Program",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2014-01-01",
+                    "legalEntity": null,
+                    "startDate": "2004-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Darlington High School"
+                    },
+                    "name": "Darlington High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "543"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

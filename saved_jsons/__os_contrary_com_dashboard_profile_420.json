@@ -1,0 +1,334 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Micro Market Loss Prevention | Founder - CEO at Panoptyc",
+                "educationExperiences": [
+                    {
+                        "degree": "Technology Arts and Media",
+                        "degreeType": "Information Analytics",
+                        "endDate": "2019-01-01",
+                        "id": "776",
+                        "startDate": "2015-01-01",
+                        "universityId": 87
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": "2015-01-01",
+                        "id": "777",
+                        "startDate": "2012-01-01",
+                        "universityId": 411
+                    }
+                ],
+                "email": "macbolak@gmail.com",
+                "firstName": "Mac",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "420",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-07-26T15:02:24",
+                "lastName": "Bolak",
+                "linkedinName": "macbolak",
+                "linkedinUrl": "https://linkedin.com/in/macbolak/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "99b2f7ce-1253-465e-9f42-3c7c7719552d",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/420_Mac_Bolak.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4649",
+                        "organizationId": 984438,
+                        "position": "Founder",
+                        "startDate": "2023-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4400",
+                        "organizationId": 3052,
+                        "position": "Founder",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2760",
+                        "organizationId": 1864,
+                        "position": "Founder-CEO",
+                        "startDate": "2019-02-01"
+                    },
+                    {
+                        "endDate": "2020-03-01",
+                        "id": "2761",
+                        "organizationId": 1865,
+                        "position": "CEO",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2017-04-01",
+                        "id": "2764",
+                        "organizationId": 818,
+                        "position": "Operations Intern",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "2763",
+                        "organizationId": 1866,
+                        "position": "Managing Director and Co-Founder",
+                        "startDate": "2016-12-01"
+                    },
+                    {
+                        "endDate": "2017-02-01",
+                        "id": "2765",
+                        "organizationId": 1867,
+                        "position": "Manager",
+                        "startDate": "2016-07-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "2762",
+                        "organizationId": 101,
+                        "position": "Investor",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "2766",
+                        "organizationId": 1868,
+                        "position": "Business Development",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "2767",
+                        "organizationId": 1869,
+                        "position": "Co Founder-President and COO",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "2768",
+                        "organizationId": 1870,
+                        "position": "Sales Associate- Colorado State University Athletics",
+                        "startDate": "2015-06-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "2769",
+                        "organizationId": 1871,
+                        "position": "Intern",
+                        "startDate": "2013-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "LA Salons"
+                    },
+                    "position": "Founder",
+                    "startDate": "2023-10-01",
+                    "name": "LA Salons",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1656980, \"name\": \"Panoptyc\", \"uuid\": \"548c1117-0461-4e14-b045-5316932114b4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/btb53a1o8zb8irkwnhup\", \"description\": \"Panoptyc is an artificial intelligence that provides micro market theft detection.\", \"headcount\": \"1-10\", \"founding_date\": \"2000-01-01\", \"website\": \"https://panoptyc.com\", \"location\": \"Spokane\", \"country\": \"USA\", \"region\": \"Washington\", \"founder_people_profile_ids\": [2391340], \"executive_people_profile_ids\": [2391340], \"cb_permalink\": \"https://www.crunchbase.com/organization/panoptyc\", \"linkedin_url\": \"https://linkedin.com/company/panoptyc\", \"twitter\": \"https:/twitter.com/panoptyc\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"panoptyc\", \"tags\": [{\"id\": 4390297, \"legal_entity_uuid\": \"548c1117-0461-4e14-b045-5316932114b4\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4390296, \"legal_entity_uuid\": \"548c1117-0461-4e14-b045-5316932114b4\", \"name\": \"Electronics\", \"category\": \"Industry\"}, {\"id\": 4390295, \"legal_entity_uuid\": \"548c1117-0461-4e14-b045-5316932114b4\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 147450, \"legal_entity_uuid\": \"548c1117-0461-4e14-b045-5316932114b4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/btb53a1o8zb8irkwnhup",
+                        "name": "Panoptyc"
+                    },
+                    "position": "Founder-CEO",
+                    "startDate": "2019-02-01",
+                    "name": "Panoptyc",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/btb53a1o8zb8irkwnhup"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 403883, \"name\": \"Give and Go Film\", \"uuid\": \"973111f8-0486-6cbe-7295-2900d67c8b32\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/give-and-go-film.png\", \"description\": \"Give and Go is the first automated film editing platform for sports teams and coaches. Give & Go is 72x faster than the leading contractor.\", \"headcount\": \"unknown\", \"founding_date\": \"2016-12-05\", \"website\": \"http://www.giveandgofilm.com/\", \"location\": \"Colorado City\", \"country\": \"USA\", \"region\": \"Arizona\", \"founder_people_profile_ids\": [2391340], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/give-and-go-film\", \"linkedin_url\": \"https://linkedin.com/company/give-and-go-film\", \"twitter\": \"https:/www.twitter.com/tommygaessler\", \"last_funding_round_date\": \"2017-05-30\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 0, \"company_li_name\": \"give-and-go-film\", \"tags\": [{\"id\": 1805053, \"legal_entity_uuid\": \"973111f8-0486-6cbe-7295-2900d67c8b32\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1805054, \"legal_entity_uuid\": \"973111f8-0486-6cbe-7295-2900d67c8b32\", \"name\": \"Sports\", \"category\": \"Industry\"}, {\"id\": 1805052, \"legal_entity_uuid\": \"973111f8-0486-6cbe-7295-2900d67c8b32\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 62354, \"uuid\": \"8731e502-c9f9-4572-a7f4-612bf0c8d507\", \"legal_entity_uuid\": \"973111f8-0486-6cbe-7295-2900d67c8b32\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/give-and-go-film.png",
+                        "name": "Give and Go Film"
+                    },
+                    "position": "CEO",
+                    "startDate": "2017-01-01",
+                    "name": "Give and Go Film",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/give-and-go-film.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Investor",
+                    "startDate": "2016-01-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 515503, \"name\": \"Techstars\", \"uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/techstars.png\", \"description\": \"Techstars is a global platform that provides investment and innovation.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2006-08-01\", \"website\": \"https://www.techstars.com\", \"location\": \"Boulder\", \"country\": \"USA\", \"region\": \"Colorado\", \"founder_people_profile_ids\": [1753764, 490703, 2440367, 791766, 1940018, 3238042, 2821307, 2942876, 1089320, 748233, 3145987, 972406, 1984708, 578863, 3401107, 655419], \"executive_people_profile_ids\": [2284058, 2037719, 2183933, 97544, 1753764, 3162540, 3143951, 2889108, 2779079, 1196075, 1998278, 763182, 4122040, 2708575, 971561, 1807659, 2597126, 2388567, 1074448, 1038461, 2063832, 3400022, 953176, 1943684, 642255, 2284479, 2597183, 473811, 780644, 2164114, 1153520, 3162783, 1943683, 975347, 1176720, 1089320, 656099, 91565, 2005994, 348561, 2779395, 2767807, 1105993, 1727385, 1504474, 3145919, 1656017, 734246], \"cb_permalink\": \"https://www.crunchbase.com/organization/techstars\", \"linkedin_url\": \"https://linkedin.com/company/techstars\", \"twitter\": \"https:/www.twitter.com/techstars\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 108919999, \"company_li_name\": \"techstars\", \"tags\": [{\"id\": 4848244, \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 4848245, \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 4848246, \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4848247, \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 4848248, \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Incubators\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 98998, \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1182, \"hc_estimate_90_days\": 1139, \"hc_estimate_180_days\": 1107, \"hc_estimate_270_days\": 1073, \"hc_estimate_365_days\": 1067, \"hc_growth_90_days\": \"3.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"6.78000000000000024868995751603506505489349365234375\", \"hc_growth_270_days\": \"10.160000000000000142108547152020037174224853515625\", \"hc_growth_365_days\": \"10.7799999999999993605115378159098327159881591796875\"}, \"funding_rounds\": [{\"id\": 23179, \"uuid\": \"da62e515-42e3-4dfe-be5d-40ab64e5ad8e\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 120000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 23178, \"uuid\": \"a34fb021-562e-4f00-a089-d15958de793f\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 4999999, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-05-17\", \"investors\": null}, {\"id\": 23177, \"uuid\": \"5858a3be-9e8f-4c0f-8d38-e75abd2c3d41\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 42000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-30\", \"investors\": null}, {\"id\": 23176, \"uuid\": \"d1e13098-a3ab-2808-b013-71ebd31e35d1\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 27800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-02-01\", \"investors\": null}, {\"id\": 23175, \"uuid\": \"81c1af96-8e29-8668-85c1-83119408b874\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 24000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-09-21\", \"investors\": null}, {\"id\": 23174, \"uuid\": \"fbdae101-35af-cf9b-1a57-ac2fd75c2d62\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-03-29\", \"investors\": null}, {\"id\": 23173, \"uuid\": \"ed02a92f-c6bc-e298-12ee-291bae33dd13\", \"legal_entity_uuid\": \"3718597a-dd39-6661-3630-09cdd43bcac2\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-02-10\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/techstars.png",
+                        "name": "Techstars"
+                    },
+                    "position": "Operations",
+                    "startDate": "2017-01-01",
+                    "name": "Techstars",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/techstars.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Colorado Mens Basketball Team"
+                    },
+                    "position": "Manager",
+                    "startDate": "2016-01-01",
+                    "name": "Colorado Mens Basketball Team",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Alldid"
+                    },
+                    "position": "Co Founder-President and COO",
+                    "startDate": "2015-01-01",
+                    "name": "Alldid",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-01-01",
+                    "legalEntity": "{\"id\": 783178, \"name\": \"Sandler Training\", \"uuid\": \"ad2d39a3-7d08-779b-6789-f88d61c6b014\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sandler-training.png\", \"description\": \"Sandler Training  providing consulting, coaching and a set of comprehensive training programs in sales, management, leadership.\", \"headcount\": \"501-1000\", \"founding_date\": \"1967-01-01\", \"website\": \"https://www.sandler.com/\", \"location\": \"Owings Mills\", \"country\": \"USA\", \"region\": \"Maryland\", \"founder_people_profile_ids\": [3190086], \"executive_people_profile_ids\": [3190086, 1667468], \"cb_permalink\": \"https://www.crunchbase.com/organization/sandler-training\", \"linkedin_url\": \"https://linkedin.com/school/sandler-training\", \"twitter\": \"http:/twitter.com/sandlertraining\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"sandler-training\", \"tags\": [{\"id\": 4919749, \"legal_entity_uuid\": \"ad2d39a3-7d08-779b-6789-f88d61c6b014\", \"name\": \"Training\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 351294, \"legal_entity_uuid\": \"ad2d39a3-7d08-779b-6789-f88d61c6b014\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 6, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sandler-training.png",
+                        "name": "Sandler Training"
+                    },
+                    "position": "Intern",
+                    "startDate": "2013-01-01",
+                    "name": "Sandler Training",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sandler-training.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Technology",
+                    "degreeType": "Information Analytics",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 759354, \"name\": \"University of Colorado Boulder\", \"uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cuboulder.png\", \"description\": \"University of Colorado Boulder is a bold, innovative community of scholars and learners who accelerate human potential\", \"headcount\": \"10000+\", \"founding_date\": \"1876-01-01\", \"website\": \"https://www.colorado.edu\", \"location\": \"Boulder\", \"country\": \"USA\", \"region\": \"Colorado\", \"founder_people_profile_ids\": [1626600], \"executive_people_profile_ids\": [2553960, 2765587, 461654, 3184121, 1316544, 527844, 2534346], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-colorado-boulder-566f\", \"linkedin_url\": \"https://linkedin.com/school/cuboulder\", \"twitter\": \"https:/twitter.com/cuboulder\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 29192668, \"company_li_name\": \"cuboulder\", \"tags\": [{\"id\": 5443311, \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 81926, \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 312, \"hc_estimate_90_days\": 298, \"hc_estimate_180_days\": 354, \"hc_estimate_270_days\": 353, \"hc_estimate_365_days\": 344, \"hc_growth_90_days\": \"4.70000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-11.8599999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-11.6099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-9.300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": [{\"id\": 481243, \"uuid\": \"18f0c992-b57c-4d1d-b3e2-e9210b56a0eb\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 303733, \"uuid\": \"6b7dbdd4-8a50-4d80-aa87-e9a75e0f1e9f\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 303732, \"uuid\": \"7305a401-14e2-4ef5-9489-163e4b32cb34\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 22000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-09-29\", \"investors\": null}, {\"id\": 481242, \"uuid\": \"ae148602-fc6b-449f-9c41-9c0a07560fb1\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1268213, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 481241, \"uuid\": \"8914dde3-93f5-4541-9cc5-42d66840c75b\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1251611, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 481240, \"uuid\": \"2f3653cf-d510-4544-bbe6-89edf951b2e9\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 481239, \"uuid\": \"8a5c1d02-b4a8-40ef-b2aa-64fe8fefb868\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1202738, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}, {\"id\": 481238, \"uuid\": \"4286ebb0-e523-49e7-9100-c21edf96d023\", \"legal_entity_uuid\": \"540e2211-9435-4694-a726-552d8041566f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1045106, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cuboulder.png",
+                        "name": "University of Colorado Boulder"
+                    },
+                    "name": "University of Colorado Boulder",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/cuboulder.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "420"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

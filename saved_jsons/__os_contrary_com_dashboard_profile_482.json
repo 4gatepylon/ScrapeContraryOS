@@ -1,0 +1,251 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3yzvOzyWuEesDGTmUBR9bH3ulIK2ipB_CzzPFBYFxqYruOHLiPbi_j46A4XIQcIA6U3FdzB4Ku",
+                "canProvide": "Working on some cool new content opportunities.",
+                "currentRole": "Content @ Contrary",
+                "educationExperiences": [
+                    {
+                        "degree": "Arts (Media & Communications)",
+                        "degreeType": "Bachelor's Degree",
+                        "endDate": "2014-01-01",
+                        "id": "903",
+                        "startDate": "2010-01-01",
+                        "universityId": 454
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "High School",
+                        "endDate": "2009-01-01",
+                        "id": "904",
+                        "startDate": "2004-01-01",
+                        "universityId": 455
+                    }
+                ],
+                "email": "james.hennessy@contrarycap.com",
+                "firstName": "James",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83e\udd20",
+                "hqPosition": "Writer",
+                "hubCity": null,
+                "id": "482",
+                "intro": "I'm a writer interested in the intersection of tech, business, culture and politics.",
+                "isActiveFellow": false,
+                "isActiveHq": true,
+                "isActiveVp": false,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-04-12T23:00:20",
+                "lastName": "Hennessy",
+                "linkedinName": "james-hennessy-8413832b",
+                "linkedinUrl": "https://linkedin.com/in/james-hennessy-8413832b/",
+                "location": "Sydney, Australia",
+                "lookingFor": "Always looking to learn from our Contrary community.",
+                "meetWithBlurb": "Book a time to chat writing, media, marketing, distribution, or whatever's on your mind! ",
+                "podId": 24,
+                "prismUuid": "a8801f3d-3cad-4501-9a0d-36ecdede49c4",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp5YfApwvFfs7-VJFrae9wHbtGrUZzOHN5eGf-f7=s96-c",
+                "roles": [
+                    "HQ"
+                ],
+                "secondaryEmail": "james@jrhennessy.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U031ESAB9H9",
+                "twitterHandle": "jrhennessy",
+                "twitterUrl": "https://twitter.com/jrhennessy/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4040",
+                        "organizationId": 5,
+                        "position": "Writer",
+                        "startDate": "2022-09-01"
+                    },
+                    {
+                        "endDate": "2022-09-01",
+                        "id": "4041",
+                        "organizationId": 2582,
+                        "position": "Contributing Editor",
+                        "startDate": "2021-12-01"
+                    },
+                    {
+                        "endDate": "2021-12-01",
+                        "id": "4042",
+                        "organizationId": 2583,
+                        "position": "Editor",
+                        "startDate": "2019-09-01"
+                    },
+                    {
+                        "endDate": "2021-12-01",
+                        "id": "4665",
+                        "organizationId": 295883,
+                        "position": "Editor - Business Insider Australia",
+                        "startDate": "2019-09-01"
+                    },
+                    {
+                        "endDate": "2019-09-01",
+                        "id": "4043",
+                        "organizationId": 2584,
+                        "position": "Deputy Editor",
+                        "startDate": "2016-03-01"
+                    },
+                    {
+                        "endDate": "2016-03-01",
+                        "id": "4045",
+                        "organizationId": 2586,
+                        "position": "Social Media Executive",
+                        "startDate": "2015-09-01"
+                    },
+                    {
+                        "endDate": "2017-07-01",
+                        "id": "4044",
+                        "organizationId": 2585,
+                        "position": "Contributing Writer",
+                        "startDate": "2014-11-01"
+                    },
+                    {
+                        "endDate": "2015-05-01",
+                        "id": "4046",
+                        "organizationId": 2587,
+                        "position": "Community Manager",
+                        "startDate": "2014-06-01"
+                    },
+                    {
+                        "endDate": "2014-08-01",
+                        "id": "4047",
+                        "organizationId": 2588,
+                        "position": "Family Room Specialist",
+                        "startDate": "2010-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Writer",
+                    "startDate": "2022-09-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-09-01",
+                    "legalEntity": "{\"id\": 2157558, \"name\": \"Pedestrian Group\", \"uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rva0wfwittwdvwfk0vvg\", \"description\": \"Pedestrian Group is a creative marketing agency that provides digital publishing, creative network, media & digital content services.\", \"headcount\": \"101-250\", \"founding_date\": \"2005-01-01\", \"website\": \"https://pedestriangroup.com.au/\", \"location\": \"Surry Hills\", \"country\": \"AUS\", \"region\": \"New South Wales\", \"founder_people_profile_ids\": [781778, 827381], \"executive_people_profile_ids\": [781778, 827381], \"cb_permalink\": \"https://www.crunchbase.com/organization/pedestrian-group\", \"linkedin_url\": \"https://linkedin.com/company/pedestrian-group\", \"twitter\": \"https:/twitter.com/pedestriandaily\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pedestrian-group\", \"tags\": [{\"id\": 2726962, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Content\", \"category\": \"Industry\"}, {\"id\": 2726963, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Creative Agency\", \"category\": \"Industry\"}, {\"id\": 2726964, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Digital Media\", \"category\": \"Industry\"}, {\"id\": 2726965, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Publishing\", \"category\": \"Industry\"}, {\"id\": 2726961, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"B2B\", \"category\": \"Industry\"}, {\"id\": 2726960, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Advertising\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 53946, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 22, \"hc_estimate_90_days\": 23, \"hc_estimate_180_days\": 25, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 33, \"hc_growth_90_days\": \"-4.3499999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-12\", \"hc_growth_270_days\": \"-24.1400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"-33.3299999999999982946974341757595539093017578125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rva0wfwittwdvwfk0vvg",
+                        "name": "Pedestrian Group"
+                    },
+                    "position": "Contributing Editor",
+                    "startDate": "2021-12-01",
+                    "name": "Pedestrian Group",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rva0wfwittwdvwfk0vvg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-12-01",
+                    "legalEntity": "{\"id\": 393590, \"name\": \"Oneminute\", \"uuid\": \"b1b3f49d-7532-8b76-8c82-fd1ab2cced18\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tgyivp4haqymp1t10rct\", \"description\": \"1 minute view of the world as it happens\", \"headcount\": \"1-10\", \"founding_date\": \"2015-02-01\", \"website\": \"http://www.businessinsider.com/oneminute-app-only-gives-you-60-seconds-to-take-a-picture-of-your-surroundings-2015-2\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [3172700], \"executive_people_profile_ids\": [3172700], \"cb_permalink\": \"https://www.crunchbase.com/organization/oneminute\", \"linkedin_url\": \"https://linkedin.com/company/businessinsider\", \"twitter\": \"https:/twitter.com/oneminuteapp\", \"last_funding_round_date\": \"2015-12-16\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 0, \"company_li_name\": \"businessinsider\", \"tags\": [{\"id\": 4959004, \"legal_entity_uuid\": \"b1b3f49d-7532-8b76-8c82-fd1ab2cced18\", \"name\": \"Photo Sharing\", \"category\": \"Industry\"}, {\"id\": 4959003, \"legal_entity_uuid\": \"b1b3f49d-7532-8b76-8c82-fd1ab2cced18\", \"name\": \"Apps\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 144221, \"legal_entity_uuid\": \"b1b3f49d-7532-8b76-8c82-fd1ab2cced18\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 169015, \"uuid\": \"ec1339ff-ddc9-ff69-7ccd-681b809178f0\", \"legal_entity_uuid\": \"b1b3f49d-7532-8b76-8c82-fd1ab2cced18\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-12-16\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgyivp4haqymp1t10rct",
+                        "name": "Insider"
+                    },
+                    "position": "Editor - Business Insider Australia",
+                    "startDate": "2019-09-01",
+                    "name": "Insider",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgyivp4haqymp1t10rct"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-09-01",
+                    "legalEntity": "{\"id\": 2157558, \"name\": \"Pedestrian Group\", \"uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rva0wfwittwdvwfk0vvg\", \"description\": \"Pedestrian Group is a creative marketing agency that provides digital publishing, creative network, media & digital content services.\", \"headcount\": \"101-250\", \"founding_date\": \"2005-01-01\", \"website\": \"https://pedestriangroup.com.au/\", \"location\": \"Surry Hills\", \"country\": \"AUS\", \"region\": \"New South Wales\", \"founder_people_profile_ids\": [781778, 827381], \"executive_people_profile_ids\": [781778, 827381], \"cb_permalink\": \"https://www.crunchbase.com/organization/pedestrian-group\", \"linkedin_url\": \"https://linkedin.com/company/pedestrian-group\", \"twitter\": \"https:/twitter.com/pedestriandaily\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pedestrian-group\", \"tags\": [{\"id\": 2726962, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Content\", \"category\": \"Industry\"}, {\"id\": 2726963, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Creative Agency\", \"category\": \"Industry\"}, {\"id\": 2726964, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Digital Media\", \"category\": \"Industry\"}, {\"id\": 2726965, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Publishing\", \"category\": \"Industry\"}, {\"id\": 2726961, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"B2B\", \"category\": \"Industry\"}, {\"id\": 2726960, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"name\": \"Advertising\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 53946, \"legal_entity_uuid\": \"776a53bb-e4e4-474e-9318-15a9f11827ab\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 22, \"hc_estimate_90_days\": 23, \"hc_estimate_180_days\": 25, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 33, \"hc_growth_90_days\": \"-4.3499999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-12\", \"hc_growth_270_days\": \"-24.1400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"-33.3299999999999982946974341757595539093017578125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rva0wfwittwdvwfk0vvg",
+                        "name": "Pedestrian Group Pty Ltd - Pedestrian.TV"
+                    },
+                    "position": "Deputy Editor",
+                    "startDate": "2016-03-01",
+                    "name": "Pedestrian Group Pty Ltd - Pedestrian.TV",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rva0wfwittwdvwfk0vvg"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Arts (Media  Communications)",
+                    "degreeType": "Bachelors Degree",
+                    "endDate": "2014-01-01",
+                    "legalEntity": "{\"id\": 2176417, \"name\": \"University of Sydney\", \"uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-sydney.png\", \"description\": \"University of Sydney is an Australian public research university that provides educational services.\", \"headcount\": \"10000+\", \"founding_date\": \"1850-01-01\", \"website\": \"https://sydney.edu.au/\", \"location\": \"Sydney\", \"country\": \"AUS\", \"region\": \"New South Wales\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [3223699, 1621723, 2283562, 3241457], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-sydney\", \"linkedin_url\": \"https://linkedin.com/school/university-of-sydney\", \"twitter\": \"https:/twitter.com/sydney_uni\", \"last_funding_round_date\": \"2019-08-19\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2500000, \"company_li_name\": \"university-of-sydney\", \"tags\": [{\"id\": 1792736, \"legal_entity_uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1792735, \"legal_entity_uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 68409, \"legal_entity_uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 108, \"hc_estimate_90_days\": 110, \"hc_estimate_180_days\": 108, \"hc_estimate_270_days\": 101, \"hc_estimate_365_days\": 120, \"hc_growth_90_days\": \"-1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"6.92999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-10\"}, \"funding_rounds\": [{\"id\": 196068, \"uuid\": \"31927b3a-aa61-4d41-9034-a847adf55f59\", \"legal_entity_uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-19\", \"investors\": null}, {\"id\": 196067, \"uuid\": \"07ae4fdb-1107-4d66-91ba-95b0f14cfcea\", \"legal_entity_uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-15\", \"investors\": null}, {\"id\": 196066, \"uuid\": \"bd438c48-5829-4e03-8089-e5cd341ec609\", \"legal_entity_uuid\": \"89b9eb4b-d4d9-a1c5-f79f-a564669ba089\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-22\", \"investors\": null}]}",
+                    "startDate": "2010-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-sydney.png",
+                        "name": "University of Sydney"
+                    },
+                    "name": "University of Sydney",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-sydney.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:33:09",
+                    "deleted": null,
+                    "id": "3",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "37",
+                    "value": "Creator Economy"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "482"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

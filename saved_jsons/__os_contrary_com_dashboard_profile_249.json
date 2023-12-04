@@ -1,0 +1,342 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Climate Tech | Startups | HBS",
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "Master of Business Administration - MBA",
+                        "endDate": "2022-12-31",
+                        "id": "466",
+                        "startDate": "2020-01-01",
+                        "universityId": 18
+                    },
+                    {
+                        "degree": "Mechanical Engineering",
+                        "degreeType": "Bachelor of Science (B.S.)",
+                        "endDate": "2015-12-31",
+                        "id": "467",
+                        "startDate": "2011-01-01",
+                        "universityId": 265
+                    }
+                ],
+                "email": "mkelly27@alumni.nd.edu",
+                "firstName": "Mike",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "249",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Kelly",
+                "linkedinName": "mike-a-kelly",
+                "linkedinUrl": "https://linkedin.com/in/mike-a-kelly/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "4ec13809-a2bb-4460-8a7f-e767895d7e19",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/249_Mike_Kelly.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3522",
+                        "organizationId": 2763,
+                        "position": "Commercial Projects Lead-Project Re:Car",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": "2022-05-01",
+                        "id": "3523",
+                        "organizationId": 2764,
+                        "position": "Business Operations",
+                        "startDate": "2021-09-01"
+                    },
+                    {
+                        "endDate": "2021-08-31",
+                        "id": "1657",
+                        "organizationId": 1185,
+                        "position": "Summer Associate- Climate Tech Fund",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1656",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1654",
+                        "organizationId": 1183,
+                        "position": "Co-Founder",
+                        "startDate": "2020-12-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1655",
+                        "organizationId": 1184,
+                        "position": "MBA Candidate",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-08-31",
+                        "id": "1658",
+                        "organizationId": 1186,
+                        "position": "Summer Venture Associate",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-07-31",
+                        "id": "1659",
+                        "organizationId": 60,
+                        "position": "Global Business Associate",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2014-08-31",
+                        "id": "1660",
+                        "organizationId": 1187,
+                        "position": "Supply Chain/Operations Intern",
+                        "startDate": "2014-06-01"
+                    },
+                    {
+                        "endDate": "2014-05-31",
+                        "id": "1661",
+                        "organizationId": 1188,
+                        "position": "Undergraduate Research Assistant",
+                        "startDate": "2013-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 738461, \"name\": \"Rebuild\", \"uuid\": \"a96bbedd-afc3-4f1e-a3cb-168e2653770e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/oqymxvugzj00vughahtm\", \"description\": \"Rebuild is an industrial manufacturing group that integrates new technologies to accelerate its growth and improve performance.\", \"headcount\": \"101-250\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.rebuildmanufacturing.com/\", \"location\": \"Framingham\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1307317, 1190836, 1691200], \"cb_permalink\": \"https://www.crunchbase.com/organization/rebuild-770e\", \"linkedin_url\": \"https://linkedin.com/company/re-build-manufacturing\", \"twitter\": null, \"last_funding_round_date\": \"2023-06-22\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 111025000, \"company_li_name\": \"re-build-manufacturing\", \"tags\": [{\"id\": 5471996, \"legal_entity_uuid\": \"a96bbedd-afc3-4f1e-a3cb-168e2653770e\", \"name\": \"Industrial\", \"category\": \"Industry\"}, {\"id\": 5471997, \"legal_entity_uuid\": \"a96bbedd-afc3-4f1e-a3cb-168e2653770e\", \"name\": \"Industrial Manufacturing\", \"category\": \"Industry\"}, {\"id\": 5471998, \"legal_entity_uuid\": \"a96bbedd-afc3-4f1e-a3cb-168e2653770e\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 73950, \"legal_entity_uuid\": \"a96bbedd-afc3-4f1e-a3cb-168e2653770e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13, \"hc_estimate_90_days\": 12, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"8.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"18.17999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"44.43999999999999772626324556767940521240234375\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 454502, \"uuid\": \"86a7a3ca-6f0e-448c-8d31-4ecdcba3a6c3\", \"legal_entity_uuid\": \"a96bbedd-afc3-4f1e-a3cb-168e2653770e\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 111025000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-22\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/oqymxvugzj00vughahtm",
+                        "name": "Re:Build Manufacturing"
+                    },
+                    "position": "Commercial Projects Lead-Project Re:Car",
+                    "startDate": "2022-08-01",
+                    "name": "Re:Build Manufacturing",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/oqymxvugzj00vughahtm"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Research Fellow-Scout-and Venture Partner",
+                    "startDate": "2021-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 813313, \"name\": \"Gaia AI\", \"uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/isdbjqm33rifl7mbfdtj\", \"description\": \"Gaia AI uses drones, Lidar, and computer vision to collect data in forests.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://gaia-ai.eco/\", \"location\": \"Somerville\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/gaia-ai\", \"linkedin_url\": \"https://linkedin.com/company/gaiaai\", \"twitter\": null, \"last_funding_round_date\": \"2022-12-07\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 3000000, \"company_li_name\": \"gaiaai\", \"tags\": [{\"id\": 6184005, \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6184004, \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 6184003, \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"name\": \"Computer Vision\", \"category\": \"Industry\"}, {\"id\": 6184002, \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 161229, \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4, \"hc_estimate_90_days\": 4, \"hc_estimate_180_days\": 4, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"33.3299999999999982946974341757595539093017578125\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 49578, \"uuid\": \"69cc31d2-df3d-40cc-b1d7-55b28e6af77e\", \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-12-07\", \"investors\": null}, {\"id\": 49577, \"uuid\": \"6e2e4e19-a92c-4c66-bce8-b4bcc8c2b0d0\", \"legal_entity_uuid\": \"e09be7d4-a1bd-4fe9-96c6-44bea7f85da8\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/isdbjqm33rifl7mbfdtj",
+                        "name": "Gaia AI"
+                    },
+                    "position": "Co-Founder  Advisor",
+                    "startDate": "2020-12-01",
+                    "name": "Gaia AI",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/isdbjqm33rifl7mbfdtj"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 715686, \"name\": \"Climate Club\", \"uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/climate-club.png\", \"description\": \"Climate Club is a carbon reduction platform that focuses on employee education, engagement, and activation.\", \"headcount\": \"11-50\", \"founding_date\": \"2021-01-01\", \"website\": \"https://climateclub.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [37915], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/climate-club\", \"linkedin_url\": \"https://linkedin.com/company/climate-club\", \"twitter\": \"https:/twitter.com/climateclub_\", \"last_funding_round_date\": \"2022-09-28\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 9607500, \"company_li_name\": \"climate-club\", \"tags\": [{\"id\": 4375704, \"legal_entity_uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4375705, \"legal_entity_uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"name\": \"Sustainability\", \"category\": \"Industry\"}, {\"id\": 4375703, \"legal_entity_uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"name\": \"GreenTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 86493, \"legal_entity_uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 6, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 4, \"hc_estimate_270_days\": 4, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": \"20\", \"hc_growth_180_days\": \"50\", \"hc_growth_270_days\": \"50\", \"hc_growth_365_days\": \"100\"}, \"funding_rounds\": [{\"id\": 72666, \"uuid\": \"a3d14b68-4635-4919-a9df-03c98f9a247d\", \"legal_entity_uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 9607500, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-28\", \"investors\": null}, {\"id\": 72665, \"uuid\": \"a9ce3494-614e-40e5-a03c-18e81a2730a1\", \"legal_entity_uuid\": \"17d23006-daf6-4487-849f-93dc12191a67\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/climate-club.png",
+                        "name": "Climate Club"
+                    },
+                    "position": "Business Operations",
+                    "startDate": "2021-09-01",
+                    "name": "Climate Club",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/climate-club.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 1649984, \"name\": \"Fifth Wall\", \"uuid\": \"4864536d-721b-1d98-ea6b-8d06a3ba3222\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-wall-ventures.png\", \"description\": \"Fifth Wall is a venture capital firm that focuses on technologies for the global real estate industry.\", \"headcount\": \"51-100\", \"founding_date\": \"2016-01-01\", \"website\": \"http://fifthwall.com\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1577039, 1876829], \"executive_people_profile_ids\": [3077219, 2099144, 2339402, 1925169, 2873938], \"cb_permalink\": \"https://www.crunchbase.com/organization/fifth-wall-ventures-management\", \"linkedin_url\": \"https://linkedin.com/company/fifth-wall-ventures\", \"twitter\": \"https:/twitter.com/fifthwallvc\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"fifth-wall-ventures\", \"tags\": [{\"id\": 5924735, \"legal_entity_uuid\": \"4864536d-721b-1d98-ea6b-8d06a3ba3222\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 5924734, \"legal_entity_uuid\": \"4864536d-721b-1d98-ea6b-8d06a3ba3222\", \"name\": \"Real Estate Investment\", \"category\": \"Industry\"}, {\"id\": 5924733, \"legal_entity_uuid\": \"4864536d-721b-1d98-ea6b-8d06a3ba3222\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5924732, \"legal_entity_uuid\": \"4864536d-721b-1d98-ea6b-8d06a3ba3222\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 154713, \"legal_entity_uuid\": \"4864536d-721b-1d98-ea6b-8d06a3ba3222\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 76, \"hc_estimate_90_days\": 75, \"hc_estimate_180_days\": 78, \"hc_estimate_270_days\": 80, \"hc_estimate_365_days\": 77, \"hc_growth_90_days\": \"1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-2.560000000000000053290705182007513940334320068359375\", \"hc_growth_270_days\": \"-5\", \"hc_growth_365_days\": \"-1.3000000000000000444089209850062616169452667236328125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-wall-ventures.png",
+                        "name": "Fifth Wall"
+                    },
+                    "position": "Summer Associate-Climate Tech Fund",
+                    "startDate": "2021-06-01",
+                    "name": "Fifth Wall",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-wall-ventures.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-07-01",
+                    "legalEntity": "{\"id\": 2186350, \"name\": \"Ford Motor\", \"uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png\", \"description\": \"Ford Motor is an automotive company that develops, manufactures, and distributes vehicles, parts, and accessories.\", \"headcount\": \"10000+\", \"founding_date\": \"1903-06-16\", \"website\": \"https://www.ford.com\", \"location\": \"Dearborn\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2041072, 2220998, 2830854, 2424558, 469029, 803150, 695388, 2034751, 1618415, 2807698, 3112727, 1285584, 480860, 3077374, 3316636, 2769069, 3235495, 1108292, 2458436, 3164134, 2612657, 3806730, 860588, 241743, 203126, 989590, 2053686, 1580981, 963980, 2073095, 671373, 1034827, 1091342, 1015127, 770705, 2961006, 318713, 3240911, 320952, 1796571, 2455843, 2488, 3467966, 2821786, 2962314, 1909633, 3370516, 2716624, 661574, 2722877, 2540701, 2695090, 3391195], \"cb_permalink\": \"https://www.crunchbase.com/organization/ford\", \"linkedin_url\": \"https://linkedin.com/company/ford-motor-company\", \"twitter\": \"http:/www.twitter.com/ford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 13227000000, \"company_li_name\": \"ford-motor-company\", \"tags\": [{\"id\": 6383360, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Transportation\", \"category\": \"Industry\"}, {\"id\": 6383359, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6383358, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 6383357, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Automotive\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60275, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 685, \"hc_estimate_90_days\": 664, \"hc_estimate_180_days\": 614, \"hc_estimate_270_days\": 594, \"hc_estimate_365_days\": 600, \"hc_growth_90_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_180_days\": \"11.5600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"15.32000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"14.1699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 200611, \"uuid\": \"65792937-7432-4a08-a7a6-f0f240fbdb13\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 4000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 200610, \"uuid\": \"44ccc78b-46b3-4184-a5d9-05e34312684a\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 9200000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 200609, \"uuid\": \"a4f889b8-909c-4713-8ae2-fef7b937b496\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png",
+                        "name": "Ford Motor Company"
+                    },
+                    "position": "Global Business Associations",
+                    "startDate": "2020-01-01",
+                    "name": "Ford Motor Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 2186350, \"name\": \"Ford Motor\", \"uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png\", \"description\": \"Ford Motor is an automotive company that develops, manufactures, and distributes vehicles, parts, and accessories.\", \"headcount\": \"10000+\", \"founding_date\": \"1903-06-16\", \"website\": \"https://www.ford.com\", \"location\": \"Dearborn\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2041072, 2220998, 2830854, 2424558, 469029, 803150, 695388, 2034751, 1618415, 2807698, 3112727, 1285584, 480860, 3077374, 3316636, 2769069, 3235495, 1108292, 2458436, 3164134, 2612657, 3806730, 860588, 241743, 203126, 989590, 2053686, 1580981, 963980, 2073095, 671373, 1034827, 1091342, 1015127, 770705, 2961006, 318713, 3240911, 320952, 1796571, 2455843, 2488, 3467966, 2821786, 2962314, 1909633, 3370516, 2716624, 661574, 2722877, 2540701, 2695090, 3391195], \"cb_permalink\": \"https://www.crunchbase.com/organization/ford\", \"linkedin_url\": \"https://linkedin.com/company/ford-motor-company\", \"twitter\": \"http:/www.twitter.com/ford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 13227000000, \"company_li_name\": \"ford-motor-company\", \"tags\": [{\"id\": 6383360, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Transportation\", \"category\": \"Industry\"}, {\"id\": 6383359, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6383358, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 6383357, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Automotive\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60275, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 685, \"hc_estimate_90_days\": 664, \"hc_estimate_180_days\": 614, \"hc_estimate_270_days\": 594, \"hc_estimate_365_days\": 600, \"hc_growth_90_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_180_days\": \"11.5600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"15.32000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"14.1699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 200611, \"uuid\": \"65792937-7432-4a08-a7a6-f0f240fbdb13\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 4000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 200610, \"uuid\": \"44ccc78b-46b3-4184-a5d9-05e34312684a\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 9200000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 200609, \"uuid\": \"a4f889b8-909c-4713-8ae2-fef7b937b496\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png",
+                        "name": "Ford Motor Company"
+                    },
+                    "position": "Mobility Innovation Lead",
+                    "startDate": "2018-03-01",
+                    "name": "Ford Motor Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-03-01",
+                    "legalEntity": "{\"id\": 2186350, \"name\": \"Ford Motor\", \"uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png\", \"description\": \"Ford Motor is an automotive company that develops, manufactures, and distributes vehicles, parts, and accessories.\", \"headcount\": \"10000+\", \"founding_date\": \"1903-06-16\", \"website\": \"https://www.ford.com\", \"location\": \"Dearborn\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2041072, 2220998, 2830854, 2424558, 469029, 803150, 695388, 2034751, 1618415, 2807698, 3112727, 1285584, 480860, 3077374, 3316636, 2769069, 3235495, 1108292, 2458436, 3164134, 2612657, 3806730, 860588, 241743, 203126, 989590, 2053686, 1580981, 963980, 2073095, 671373, 1034827, 1091342, 1015127, 770705, 2961006, 318713, 3240911, 320952, 1796571, 2455843, 2488, 3467966, 2821786, 2962314, 1909633, 3370516, 2716624, 661574, 2722877, 2540701, 2695090, 3391195], \"cb_permalink\": \"https://www.crunchbase.com/organization/ford\", \"linkedin_url\": \"https://linkedin.com/company/ford-motor-company\", \"twitter\": \"http:/www.twitter.com/ford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 13227000000, \"company_li_name\": \"ford-motor-company\", \"tags\": [{\"id\": 6383360, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Transportation\", \"category\": \"Industry\"}, {\"id\": 6383359, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6383358, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 6383357, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Automotive\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60275, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 685, \"hc_estimate_90_days\": 664, \"hc_estimate_180_days\": 614, \"hc_estimate_270_days\": 594, \"hc_estimate_365_days\": 600, \"hc_growth_90_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_180_days\": \"11.5600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"15.32000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"14.1699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 200611, \"uuid\": \"65792937-7432-4a08-a7a6-f0f240fbdb13\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 4000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 200610, \"uuid\": \"44ccc78b-46b3-4184-a5d9-05e34312684a\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 9200000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 200609, \"uuid\": \"a4f889b8-909c-4713-8ae2-fef7b937b496\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png",
+                        "name": "Ford Motor Company"
+                    },
+                    "position": "Powertrain Planning Analyst",
+                    "startDate": "2016-11-01",
+                    "name": "Ford Motor Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-11-01",
+                    "legalEntity": "{\"id\": 2186350, \"name\": \"Ford Motor\", \"uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png\", \"description\": \"Ford Motor is an automotive company that develops, manufactures, and distributes vehicles, parts, and accessories.\", \"headcount\": \"10000+\", \"founding_date\": \"1903-06-16\", \"website\": \"https://www.ford.com\", \"location\": \"Dearborn\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2041072, 2220998, 2830854, 2424558, 469029, 803150, 695388, 2034751, 1618415, 2807698, 3112727, 1285584, 480860, 3077374, 3316636, 2769069, 3235495, 1108292, 2458436, 3164134, 2612657, 3806730, 860588, 241743, 203126, 989590, 2053686, 1580981, 963980, 2073095, 671373, 1034827, 1091342, 1015127, 770705, 2961006, 318713, 3240911, 320952, 1796571, 2455843, 2488, 3467966, 2821786, 2962314, 1909633, 3370516, 2716624, 661574, 2722877, 2540701, 2695090, 3391195], \"cb_permalink\": \"https://www.crunchbase.com/organization/ford\", \"linkedin_url\": \"https://linkedin.com/company/ford-motor-company\", \"twitter\": \"http:/www.twitter.com/ford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 13227000000, \"company_li_name\": \"ford-motor-company\", \"tags\": [{\"id\": 6383360, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Transportation\", \"category\": \"Industry\"}, {\"id\": 6383359, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6383358, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 6383357, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Automotive\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60275, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 685, \"hc_estimate_90_days\": 664, \"hc_estimate_180_days\": 614, \"hc_estimate_270_days\": 594, \"hc_estimate_365_days\": 600, \"hc_growth_90_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_180_days\": \"11.5600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"15.32000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"14.1699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 200611, \"uuid\": \"65792937-7432-4a08-a7a6-f0f240fbdb13\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 4000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 200610, \"uuid\": \"44ccc78b-46b3-4184-a5d9-05e34312684a\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 9200000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 200609, \"uuid\": \"a4f889b8-909c-4713-8ae2-fef7b937b496\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png",
+                        "name": "Ford Motor Company"
+                    },
+                    "position": "V2X Connectivity Strategy Analyst",
+                    "startDate": "2016-04-01",
+                    "name": "Ford Motor Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-04-01",
+                    "legalEntity": "{\"id\": 2186350, \"name\": \"Ford Motor\", \"uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png\", \"description\": \"Ford Motor is an automotive company that develops, manufactures, and distributes vehicles, parts, and accessories.\", \"headcount\": \"10000+\", \"founding_date\": \"1903-06-16\", \"website\": \"https://www.ford.com\", \"location\": \"Dearborn\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2041072, 2220998, 2830854, 2424558, 469029, 803150, 695388, 2034751, 1618415, 2807698, 3112727, 1285584, 480860, 3077374, 3316636, 2769069, 3235495, 1108292, 2458436, 3164134, 2612657, 3806730, 860588, 241743, 203126, 989590, 2053686, 1580981, 963980, 2073095, 671373, 1034827, 1091342, 1015127, 770705, 2961006, 318713, 3240911, 320952, 1796571, 2455843, 2488, 3467966, 2821786, 2962314, 1909633, 3370516, 2716624, 661574, 2722877, 2540701, 2695090, 3391195], \"cb_permalink\": \"https://www.crunchbase.com/organization/ford\", \"linkedin_url\": \"https://linkedin.com/company/ford-motor-company\", \"twitter\": \"http:/www.twitter.com/ford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 13227000000, \"company_li_name\": \"ford-motor-company\", \"tags\": [{\"id\": 6383360, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Transportation\", \"category\": \"Industry\"}, {\"id\": 6383359, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6383358, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 6383357, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Automotive\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60275, \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 685, \"hc_estimate_90_days\": 664, \"hc_estimate_180_days\": 614, \"hc_estimate_270_days\": 594, \"hc_estimate_365_days\": 600, \"hc_growth_90_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_180_days\": \"11.5600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"15.32000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"14.1699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 200611, \"uuid\": \"65792937-7432-4a08-a7a6-f0f240fbdb13\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 4000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 200610, \"uuid\": \"44ccc78b-46b3-4184-a5d9-05e34312684a\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 9200000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 200609, \"uuid\": \"a4f889b8-909c-4713-8ae2-fef7b937b496\", \"legal_entity_uuid\": \"9249e8b6-409a-a80c-1a1e-29ae21b1db47\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png",
+                        "name": "Ford Motor Company"
+                    },
+                    "position": "Aftertreatment Systems Engineer",
+                    "startDate": "2015-09-01",
+                    "name": "Ford Motor Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ford-motor-company.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-08-01",
+                    "legalEntity": "{\"id\": 2142586, \"name\": \"General Electric\", \"uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ge.png\", \"description\": \"General Electric offers infrastructure and financial services worldwide.\", \"headcount\": \"10000+\", \"founding_date\": \"1892-04-15\", \"website\": \"http://www.ge.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [35450, 2123543, 2566346, 579343, 1087538, 3283749, 606558, 1993373, 152500, 1524498, 1111271, 771850, 2417858, 2202042, 237465, 1070804, 1797063, 412605, 551213, 796471, 1695819, 167992, 1335595, 625519, 1777700], \"cb_permalink\": \"https://www.crunchbase.com/organization/general-electric\", \"linkedin_url\": \"https://linkedin.com/company/ge\", \"twitter\": \"http:/twitter.com/generalelectric\", \"last_funding_round_date\": \"2023-09-21\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 8292694839, \"company_li_name\": \"ge\", \"tags\": [{\"id\": 6369265, \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Electronics\", \"category\": \"Industry\"}, {\"id\": 6369269, \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6369268, \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6369267, \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Energy Management\", \"category\": \"Industry\"}, {\"id\": 6369266, \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Energy\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 72820, \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 175, \"hc_estimate_90_days\": 175, \"hc_estimate_180_days\": 178, \"hc_estimate_270_days\": 181, \"hc_estimate_365_days\": 188, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-1.689999999999999946709294817992486059665679931640625\", \"hc_growth_270_days\": \"-3.310000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"-6.910000000000000142108547152020037174224853515625\"}, \"funding_rounds\": [{\"id\": 499948, \"uuid\": \"9406788d-1aff-4994-9762-706dddadd8bd\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 22899840, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-21\", \"investors\": null}, {\"id\": 222480, \"uuid\": \"e1e49482-7c52-4279-8c08-3bba48cd4f5a\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 8250000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-11-09\", \"investors\": null}, {\"id\": 222479, \"uuid\": \"a9ad46a8-ce19-4452-b9e7-7cb2779e05c4\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 873999, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-26\", \"investors\": null}, {\"id\": 222478, \"uuid\": \"e62d7941-9ef1-4ed9-b49d-130368bf03c7\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 13000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-05-31\", \"investors\": null}, {\"id\": 222477, \"uuid\": \"3d7bb1ae-c919-4fe4-bb44-1ee13ced438c\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-27\", \"investors\": null}, {\"id\": 222476, \"uuid\": \"c5b761d6-4422-47ee-bc01-7fd585921c21\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 221000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-07\", \"investors\": null}, {\"id\": 222475, \"uuid\": \"fad9471c-ac8c-199b-2713-b54fdb7a3df6\", \"legal_entity_uuid\": \"1f2d7988-b461-f905-b8ab-c9a773063bd7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-11-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ge.png",
+                        "name": "GE"
+                    },
+                    "position": "Supply Chain/Operations Intern",
+                    "startDate": "2014-06-01",
+                    "name": "GE",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ge.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-05-01",
+                    "legalEntity": "{\"id\": 445779, \"name\": \"University of Notre Dame Mendoza College of Business\", \"uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-notre-dame.png\", \"description\": \"University of Notre Dame Mendoza College of Business is a educational institution.\", \"headcount\": \"251-500\", \"founding_date\": \"1921-01-01\", \"website\": \"http://mendoza.nd.edu\", \"location\": \"Notre Dame\", \"country\": \"USA\", \"region\": \"Indiana\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2022150, 771540, 360980, 3212630, 1065514, 1589220], \"cb_permalink\": \"https://www.crunchbase.com/organization/mendoza-college-of-business\", \"linkedin_url\": \"https://linkedin.com/company/university-of-notre-dame\", \"twitter\": \"http:/twitter.com/NDBusiness\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"university-of-notre-dame\", \"tags\": [{\"id\": 1788585, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"name\": \"Service Industry\", \"category\": \"Industry\"}, {\"id\": 1788584, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1788583, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 99505, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 99, \"hc_estimate_90_days\": 93, \"hc_estimate_180_days\": 119, \"hc_estimate_270_days\": 121, \"hc_estimate_365_days\": 123, \"hc_growth_90_days\": \"6.45000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-16.809999999999998721023075631819665431976318359375\", \"hc_growth_270_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-19.510000000000001563194018672220408916473388671875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-notre-dame.png",
+                        "name": "University of Notre Dame"
+                    },
+                    "position": "Undergraduate Research Assistant",
+                    "startDate": "2013-01-01",
+                    "name": "University of Notre Dame",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-notre-dame.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Master of Business Administration - MBA",
+                    "degreeType": "",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 792174, \"name\": \"Harvard Business School\", \"uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz\", \"description\": \"Harvard Business School is an educational institution that offers two-year residential programs leading to an MBA, Ph.D., or DBA degree.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1908-01-01\", \"website\": \"http://www.hbs.edu\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1840670, 2132509], \"executive_people_profile_ids\": [237328, 578426, 183787, 590194, 2595257, 3083443, 2132509, 689711, 382134, 1064944, 1778045, 2442373, 566483, 1718114, 724212, 1536108, 1634420, 1669495, 1840670, 2753067, 2337846], \"cb_permalink\": \"https://www.crunchbase.com/organization/harvard-business-school\", \"linkedin_url\": \"https://linkedin.com/school/harvard-business-school\", \"twitter\": \"http:/www.twitter.com/HarvardHBS\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"harvard-business-school\", \"tags\": [{\"id\": 4849164, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4849163, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4849162, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4849161, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Alumni\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96186, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 330, \"hc_estimate_90_days\": 296, \"hc_estimate_180_days\": 336, \"hc_estimate_270_days\": 338, \"hc_estimate_365_days\": 331, \"hc_growth_90_days\": \"11.4900000000000002131628207280300557613372802734375\", \"hc_growth_180_days\": \"-1.79000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-2.37000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"-0.299999999999999988897769753748434595763683319091796875\"}, \"funding_rounds\": []}",
+                    "startDate": "2020-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz",
+                        "name": "Harvard Business School"
+                    },
+                    "name": "Harvard Business School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Mechanical Engineering",
+                    "degreeType": "Bachelor of Science (B.S.)",
+                    "endDate": "2015-01-01",
+                    "legalEntity": "{\"id\": 445779, \"name\": \"University of Notre Dame Mendoza College of Business\", \"uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-notre-dame.png\", \"description\": \"University of Notre Dame Mendoza College of Business is a educational institution.\", \"headcount\": \"251-500\", \"founding_date\": \"1921-01-01\", \"website\": \"http://mendoza.nd.edu\", \"location\": \"Notre Dame\", \"country\": \"USA\", \"region\": \"Indiana\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2022150, 771540, 360980, 3212630, 1065514, 1589220], \"cb_permalink\": \"https://www.crunchbase.com/organization/mendoza-college-of-business\", \"linkedin_url\": \"https://linkedin.com/company/university-of-notre-dame\", \"twitter\": \"http:/twitter.com/NDBusiness\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"university-of-notre-dame\", \"tags\": [{\"id\": 1788585, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"name\": \"Service Industry\", \"category\": \"Industry\"}, {\"id\": 1788584, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1788583, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 99505, \"legal_entity_uuid\": \"11eed317-0298-5f51-429e-c051db6c1cc3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 99, \"hc_estimate_90_days\": 93, \"hc_estimate_180_days\": 119, \"hc_estimate_270_days\": 121, \"hc_estimate_365_days\": 123, \"hc_growth_90_days\": \"6.45000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-16.809999999999998721023075631819665431976318359375\", \"hc_growth_270_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-19.510000000000001563194018672220408916473388671875\"}, \"funding_rounds\": []}",
+                    "startDate": "2011-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-notre-dame.png",
+                        "name": "University of Notre Dame"
+                    },
+                    "name": "University of Notre Dame",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-notre-dame.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "249"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

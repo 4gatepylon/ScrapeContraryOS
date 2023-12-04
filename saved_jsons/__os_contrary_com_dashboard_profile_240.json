@@ -1,0 +1,121 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Building something new",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2021-01-01",
+                        "id": "451",
+                        "startDate": "2018-01-01",
+                        "universityId": 144
+                    },
+                    {
+                        "degree": "math",
+                        "degreeType": "science",
+                        "endDate": null,
+                        "id": "450",
+                        "startDate": null,
+                        "universityId": 258
+                    }
+                ],
+                "email": "glenn.y.ren@gmail.com",
+                "firstName": "Glenn",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "240",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Ren",
+                "linkedinName": "glennren",
+                "linkedinUrl": "https://linkedin.com/in/glennren/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "50758f6f-4c15-4422-adf4-d33e86c8d1e9",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/240_Glenn_Ren.png",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "1590",
+                        "organizationId": 77,
+                        "position": "Software Engineer",
+                        "startDate": "2021-02-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "1592",
+                        "organizationId": 32,
+                        "position": "Software Engineer",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1591",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2019-11-01"
+                    },
+                    {
+                        "endDate": "2019-12-01",
+                        "id": "1593",
+                        "organizationId": 364,
+                        "position": "Software Engineer",
+                        "startDate": "2019-09-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1594",
+                        "organizationId": 1146,
+                        "position": "Software Engineer",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "1595",
+                        "organizationId": 1147,
+                        "position": "Software Engineer",
+                        "startDate": "2018-05-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "1596",
+                        "organizationId": 90,
+                        "position": "Software Engineer",
+                        "startDate": "2017-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "240"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

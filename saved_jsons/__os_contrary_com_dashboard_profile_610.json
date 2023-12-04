@@ -1,0 +1,75 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "annabel.strauss@vp.contrary.com",
+                "firstName": "Annabel",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Boston",
+                "id": "610",
+                "intro": null,
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": true,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-11-19T23:49:35",
+                "lastName": "Strauss",
+                "linkedinName": "annabelstrauss",
+                "linkedinUrl": "https://linkedin.com/in/annabelstrauss/",
+                "location": "Cambridge, MA",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 9,
+                "prismUuid": null,
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-610-me2.JPG",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "astrauss2@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U0611NLPC8G",
+                "twitterHandle": "annabelstrauss",
+                "twitterUrl": "https://twitter.com/annabelstrauss/",
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "610"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

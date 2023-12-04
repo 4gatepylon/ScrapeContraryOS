@@ -1,0 +1,543 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Anti-disciplinary || Exploring Design - Linguistic Science & Footwear || Lets talk",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "Cognitive Science",
+                        "endDate": "2022-01-01",
+                        "id": "635",
+                        "startDate": "2018-01-01",
+                        "universityId": 7
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "Entrepreneurship/Entrepreneurial Studies",
+                        "endDate": "2017-01-01",
+                        "id": "637",
+                        "startDate": "2017-01-01",
+                        "universityId": 346
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "High School",
+                        "endDate": "2018-01-01",
+                        "id": "636",
+                        "startDate": "2014-01-01",
+                        "universityId": 295
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "Sutarja Certificate of Entrepreneurship and Technology",
+                        "endDate": null,
+                        "id": "634",
+                        "startDate": null,
+                        "universityId": 72
+                    }
+                ],
+                "email": "adamsaleh@berkeley.edu",
+                "firstName": "Adam",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "343",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Saleh",
+                "linkedinName": "adamsaleh1",
+                "linkedinUrl": "https://linkedin.com/in/adamsaleh1/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "05ad49d7-b084-4c50-b174-a362c88b3b8a",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/343_Adam_Saleh.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4616",
+                        "organizationId": 163739,
+                        "position": "Fellow",
+                        "startDate": "2023-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4617",
+                        "organizationId": 244,
+                        "position": "Founder",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": "2021-09-01",
+                        "id": "2265",
+                        "organizationId": 1572,
+                        "position": "Lead Designer",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3661",
+                        "organizationId": 2823,
+                        "position": "Designer + Fellow",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2261",
+                        "organizationId": 1570,
+                        "position": "Creative Consultant",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2264",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2020-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2262",
+                        "organizationId": 1571,
+                        "position": "Associate",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "2266",
+                        "organizationId": 1573,
+                        "position": "President",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": "2020-09-01",
+                        "id": "2268",
+                        "organizationId": 1575,
+                        "position": "Applications Engineering Intern",
+                        "startDate": "2020-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2263",
+                        "organizationId": 1314,
+                        "position": "Anti-disciplinary",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "2267",
+                        "organizationId": 1574,
+                        "position": "Student Advisory Counsel for Undergraduate Education",
+                        "startDate": "2019-09-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "3662",
+                        "organizationId": 2824,
+                        "position": "Student Advisory Counsel for Undergraduate Education",
+                        "startDate": "2019-09-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "2269",
+                        "organizationId": 1576,
+                        "position": "Engineering Design Fellow",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "2270",
+                        "organizationId": 1577,
+                        "position": "Gov. Relations & Public Policy Intern",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "2273",
+                        "organizationId": 1580,
+                        "position": "STEM Instructor",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2018-06-01",
+                        "id": "2271",
+                        "organizationId": 1578,
+                        "position": "Sports Photographer",
+                        "startDate": "2016-10-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "2272",
+                        "organizationId": 1579,
+                        "position": "Science and Tech Editor",
+                        "startDate": "2016-09-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "2274",
+                        "organizationId": 1581,
+                        "position": "Brand Ambassador",
+                        "startDate": "2016-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stevejobsarchive.png",
+                        "name": "Steve Jobs Archive"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2023-09-01",
+                    "name": "Steve Jobs Archive",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stevejobsarchive.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2196770, \"name\": \"Stealth Startup\", \"uuid\": \"c586b870-c9ab-4ff0-b556-917bcc1c6167\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/cgdjajiownaiijc5kfmi\", \"description\": \"Stealth Startup is a startup company that operates in stealth mode, that avoids public attention.\", \"headcount\": \"11-50\", \"founding_date\": \"2004-01-01\", \"website\": null, \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"Wyoming\", \"founder_people_profile_ids\": [184035, 978505, 1718111, 34862, 2824266, 954303, 2784464, 1430502, 232395, 3234678, 3182376, 3019463, 1975940], \"executive_people_profile_ids\": [34862, 954303, 2824266, 2784464, 184035, 1718111, 978505, 232395, 1430502, 1876803, 3182376, 3234678, 3019463, 1975940, 1977086], \"cb_permalink\": \"https://www.crunchbase.com/organization/stealth-startup-6167\", \"linkedin_url\": \"https://linkedin.com/company/stealth-startup-51\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"stealth-startup-51\", \"tags\": [{\"id\": 836991, \"legal_entity_uuid\": \"c586b870-c9ab-4ff0-b556-917bcc1c6167\", \"name\": \"Digital Marketing\", \"category\": \"Industry\"}, {\"id\": 836992, \"legal_entity_uuid\": \"c586b870-c9ab-4ff0-b556-917bcc1c6167\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 836993, \"legal_entity_uuid\": \"c586b870-c9ab-4ff0-b556-917bcc1c6167\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 63066, \"legal_entity_uuid\": \"c586b870-c9ab-4ff0-b556-917bcc1c6167\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13309, \"hc_estimate_90_days\": 12061, \"hc_estimate_180_days\": 10396, \"hc_estimate_270_days\": 9007, \"hc_estimate_365_days\": 7674, \"hc_growth_90_days\": \"10.3499999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"28.019999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": \"47.75999999999999801048033987171947956085205078125\", \"hc_growth_365_days\": \"73.43000000000000682121026329696178436279296875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cgdjajiownaiijc5kfmi",
+                        "name": "Stealth Startup"
+                    },
+                    "position": "Founder",
+                    "startDate": "2023-01-01",
+                    "name": "Stealth Startup",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/cgdjajiownaiijc5kfmi"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "The Institute of Black Imagination"
+                    },
+                    "position": "Designer + Fellow",
+                    "startDate": "2021-04-01",
+                    "name": "The Institute of Black Imagination",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/freelancesogus.png",
+                        "name": "Freelance"
+                    },
+                    "position": "Anti-disciplinary",
+                    "startDate": "2020-01-01",
+                    "name": "Freelance",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/freelancesogus.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-12-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "C22 Fellow",
+                    "startDate": "2022-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Spatial Activations"
+                    },
+                    "position": "Creative Consultant",
+                    "startDate": "2021-01-01",
+                    "name": "Spatial Activations",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-07-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 420893, \"name\": \"Alsop Louie Partners\", \"uuid\": \"95c31e49-9d40-09d5-356f-759507bf4f02\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1397178555/baa1a84ae084acb582adba40e94f0d30.png\", \"description\": \"Alsop Louie Partners is a risk-oriented technology venture capital firm that offers financial services to early stage companies.\", \"headcount\": \"11-50\", \"founding_date\": \"2006-12-01\", \"website\": \"http://www.alsop-louie.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [462556, 480934, 1974465, 868493, 1210489, 1717912, 693544, 2158989, 2149492, 2284121, 3328548, 2572351, 1973917, 3399782, 1515378, 1113551], \"cb_permalink\": \"https://www.crunchbase.com/organization/alsop-louie-partners\", \"linkedin_url\": \"https://linkedin.com/company/alsop-louie-partners\", \"twitter\": \"http:/twitter.com/alsoplouie\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"alsop-louie-partners\", \"tags\": [{\"id\": 6362518, \"legal_entity_uuid\": \"95c31e49-9d40-09d5-356f-759507bf4f02\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362519, \"legal_entity_uuid\": \"95c31e49-9d40-09d5-356f-759507bf4f02\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 140373, \"legal_entity_uuid\": \"95c31e49-9d40-09d5-356f-759507bf4f02\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397178555/baa1a84ae084acb582adba40e94f0d30.png",
+                        "name": "Alsop Louie Partners"
+                    },
+                    "position": "Associate",
+                    "startDate": "2020-07-01",
+                    "name": "Alsop Louie Partners",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397178555/baa1a84ae084acb582adba40e94f0d30.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/realtimebynovateur.png",
+                        "name": "Realtime"
+                    },
+                    "position": "Lead Designer",
+                    "startDate": "2021-05-01",
+                    "name": "Realtime",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/realtimebynovateur.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uavsatberkeley.png",
+                        "name": "UAVs@Berkeley"
+                    },
+                    "position": "President",
+                    "startDate": "2020-05-01",
+                    "name": "UAVs@Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uavsatberkeley.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "position": "Student Advisory Counsel for Undergraduate Education",
+                    "startDate": "2019-09-01",
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-10-01",
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "position": "Mens Track and Field Captain",
+                    "startDate": "2018-08-01",
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": "{\"id\": 2185835, \"name\": \"Carbon\", \"uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fuqdtu9kldmzqpvq00kf\", \"description\": \"Carbon is a company that provides high-tech, waste reducing 3D printing services.\", \"headcount\": \"251-500\", \"founding_date\": \"2013-01-01\", \"website\": \"https://www.carbon3d.com\", \"location\": \"Redwood City\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1048586, 2425494], \"executive_people_profile_ids\": [36605, 1753181, 2492393, 1943533, 1854682, 1311666, 749174, 1048586, 2425494, 1079125, 906261, 1426785, 2963318, 1807491, 1051538, 2801058, 1997091, 2017903, 1904675, 2050745, 2165995, 3228550, 1161160, 2030350], \"cb_permalink\": \"https://www.crunchbase.com/organization/carbon3d\", \"linkedin_url\": \"https://linkedin.com/company/carbon\", \"twitter\": \"https:/twitter.com/carbon\", \"last_funding_round_date\": \"2021-12-15\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 683350000, \"company_li_name\": \"carbon\", \"tags\": [{\"id\": 4970158, \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"3D Printing\", \"category\": \"Industry\"}, {\"id\": 4970159, \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"3D Technology\", \"category\": \"Industry\"}, {\"id\": 4970160, \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 4970161, \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 4970162, \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Product Design\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 50459, \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 396, \"hc_estimate_90_days\": 400, \"hc_estimate_180_days\": 393, \"hc_estimate_270_days\": 403, \"hc_estimate_365_days\": 409, \"hc_growth_90_days\": \"-1\", \"hc_growth_180_days\": \"0.7600000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"-1.7399999999999999911182158029987476766109466552734375\", \"hc_growth_365_days\": \"-3.180000000000000159872115546022541821002960205078125\"}, \"funding_rounds\": [{\"id\": 458966, \"uuid\": \"18fea3b0-d6fe-47d3-b899-b693639e64e0\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 1350000, \"post_money_valuation_usd\": 2400000000, \"announced_date\": \"2021-12-15\", \"investors\": null}, {\"id\": 458965, \"uuid\": \"afee3477-659f-4beb-a552-70b45dc40d13\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 2400000000, \"announced_date\": \"2020-07-30\", \"investors\": null}, {\"id\": 458964, \"uuid\": \"8e669736-7d3b-41fa-b9bd-23818e09eb39\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 2400000000, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 458963, \"uuid\": \"84b812e5-1ead-4c6d-b392-601eb8223cfc\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 260000000, \"post_money_valuation_usd\": 2400000000, \"announced_date\": \"2019-06-25\", \"investors\": null}, {\"id\": 458962, \"uuid\": \"489d72ac-e93f-4d9a-9c58-410bd84d79b8\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2017-12-20\", \"investors\": null}, {\"id\": 458961, \"uuid\": \"7ae66219-9912-81f9-6347-670bad379676\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 81000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2016-09-15\", \"investors\": null}, {\"id\": 458960, \"uuid\": \"336230ab-48e2-57e1-f37b-774f48ebd3e8\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-08-20\", \"investors\": null}, {\"id\": 458959, \"uuid\": \"0b4c77c8-66c9-eddd-c793-845368c93212\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-03-16\", \"investors\": null}, {\"id\": 458958, \"uuid\": \"5edff5c2-e9da-9003-35f9-9b1659d5fe53\", \"legal_entity_uuid\": \"2df02ab1-bb60-60e3-d147-0e03ef04d0d5\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 11000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-12-31\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fuqdtu9kldmzqpvq00kf",
+                        "name": "Carbon"
+                    },
+                    "position": "Applications Engineering Intern",
+                    "startDate": "2020-04-01",
+                    "name": "Carbon",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fuqdtu9kldmzqpvq00kf"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uavsatberkeley.png",
+                        "name": "UAVs@Berkeley"
+                    },
+                    "position": "Outreach Director",
+                    "startDate": "2019-06-01",
+                    "name": "UAVs@Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uavsatberkeley.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uavsatberkeley.png",
+                        "name": "UAVs@Berkeley"
+                    },
+                    "position": "Lead Mechanical Designer",
+                    "startDate": "2018-10-01",
+                    "name": "UAVs@Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uavsatberkeley.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-1881-institute.png",
+                        "name": "The 1881 Institute of Technology"
+                    },
+                    "position": "Engineering Design Fellow",
+                    "startDate": "2019-05-01",
+                    "name": "The 1881 Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-1881-institute.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 465348, \"name\": \"Turo\", \"uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/turo.png\", \"description\": \"Turo is a peer-to-peer car-sharing marketplace where customers can book vehicles from a community of local hosts.\", \"headcount\": \"501-1000\", \"founding_date\": \"2009-01-01\", \"website\": \"https://turo.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2935264, 291733], \"executive_people_profile_ids\": [1153383, 2823972, 790626, 123875, 2009976, 1908957, 1904159, 3228446, 1373930, 2584402, 2690152, 2026725, 2181777, 496940, 1913929, 3670466, 1412638, 3392935, 2283420, 424444, 1229035, 1642656, 1511684], \"cb_permalink\": \"https://www.crunchbase.com/organization/turo\", \"linkedin_url\": \"https://linkedin.com/company/turo\", \"twitter\": \"https:/www.twitter.com/turo\", \"last_funding_round_date\": \"2023-08-29\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 502567273, \"company_li_name\": \"turo\", \"tags\": [{\"id\": 5946006, \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Car Sharing\", \"category\": \"Industry\"}, {\"id\": 5946007, \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 5946008, \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Marketplace\", \"category\": \"Industry\"}, {\"id\": 5946009, \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Peer to Peer\", \"category\": \"Industry\"}, {\"id\": 5946010, \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 112177, \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 151, \"hc_estimate_90_days\": 151, \"hc_estimate_180_days\": 154, \"hc_estimate_270_days\": 146, \"hc_estimate_365_days\": 136, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-1.9499999999999999555910790149937383830547332763671875\", \"hc_growth_270_days\": \"3.4199999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"11.0299999999999993605115378159098327159881591796875\"}, \"funding_rounds\": [{\"id\": 130363, \"uuid\": \"7f260592-bdf8-49fd-ae13-d24028d2b0a6\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2023-08-29\", \"investors\": null}, {\"id\": 130362, \"uuid\": \"99861f17-792c-435b-ad62-da67a0b3f222\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 35167273, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2022-04-01\", \"investors\": null}, {\"id\": 130361, \"uuid\": \"78e19277-7aa4-4765-b8a9-31c22889a9e8\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2020-02-05\", \"investors\": null}, {\"id\": 130360, \"uuid\": \"bf0e2bcb-a2e1-48ae-89b8-aa0f3c287458\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2019-07-17\", \"investors\": null}, {\"id\": 130359, \"uuid\": \"62b50889-3bdb-43e2-8531-1337196f8521\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-16\", \"investors\": null}, {\"id\": 130358, \"uuid\": \"9ed29d47-1bef-c07e-ac33-6b8a913da6c3\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 104000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-06\", \"investors\": null}, {\"id\": 130357, \"uuid\": \"b5977f6a-af8c-eeb9-ff85-e43404dae029\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 47000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-11-03\", \"investors\": null}, {\"id\": 130356, \"uuid\": \"d07a0deb-e0a2-2d34-5a5d-270705754692\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-06-24\", \"investors\": null}, {\"id\": 130355, \"uuid\": \"5f5857b8-c155-550b-a7e8-e1e49f6afc08\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-23\", \"investors\": null}, {\"id\": 130354, \"uuid\": \"ef216465-ca00-9ced-d82e-723168e966d9\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-10-26\", \"investors\": null}, {\"id\": 130353, \"uuid\": \"74096623-ae33-6ee5-6d8f-7e55619dbac1\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 1250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-06-07\", \"investors\": null}, {\"id\": 130352, \"uuid\": \"077a62cc-736b-334f-aa05-eb41c651e5f6\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-12-15\", \"investors\": null}, {\"id\": 130351, \"uuid\": \"2257e9df-1ee7-4067-b454-64ab73fe8871\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-10-22\", \"investors\": null}, {\"id\": 130350, \"uuid\": \"4565b66e-5fce-b6fd-0a2e-a7cd2ec7b6c7\", \"legal_entity_uuid\": \"a9a50434-7d7b-71e9-62d2-cdf7aa9f6535\", \"name\": \"Angel Round\", \"cb_permalink\": null, \"investment_type\": \"angel\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-11-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/turo.png",
+                        "name": "Turo"
+                    },
+                    "position": "Gov. Relations  Public Policy Intern",
+                    "startDate": "2018-06-01",
+                    "name": "Turo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/turo.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 145462, \"name\": \"Galileo Learning\", \"uuid\": \"c5aa0751-df05-2e23-68d6-fe2f011dcb03\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1416994663/u53dollmgoxcirlxhxhi.png\", \"description\": \"Galileos mission is to create a world of fearless innovators.\", \"headcount\": \"11-50\", \"founding_date\": \"2002-01-01\", \"website\": \"http://www.galileo-camps.com\", \"location\": \"Oakland\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1556365], \"executive_people_profile_ids\": [1020453, 1556365, 1273489], \"cb_permalink\": \"https://www.crunchbase.com/organization/galileo-learning\", \"linkedin_url\": \"https://linkedin.com/company/galileo-learning\", \"twitter\": \"http:/twitter.com/galileolearning\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"galileo-learning\", \"tags\": [{\"id\": 1655906, \"legal_entity_uuid\": \"c5aa0751-df05-2e23-68d6-fe2f011dcb03\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 1655907, \"legal_entity_uuid\": \"c5aa0751-df05-2e23-68d6-fe2f011dcb03\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1655908, \"legal_entity_uuid\": \"c5aa0751-df05-2e23-68d6-fe2f011dcb03\", \"name\": \"Online Portals\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 9717, \"legal_entity_uuid\": \"c5aa0751-df05-2e23-68d6-fe2f011dcb03\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1416994663/u53dollmgoxcirlxhxhi.png",
+                        "name": "Galileo Learning"
+                    },
+                    "position": "STEM Instructor",
+                    "startDate": "2017-06-01",
+                    "name": "Galileo Learning",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1416994663/u53dollmgoxcirlxhxhi.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Sutarja Certificate of Entrepreneurship and Technology",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 379461, \"name\": \"UC Berkeley College of Engineering\", \"uuid\": \"f5911c75-b4b2-c144-234d-ab0230b4d84e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1406968543/mcndza1cqkzgqxmp0iby.png\", \"description\": \"Berkeley Engineering is ranked among the top three engineering schools in the world.\", \"headcount\": \"11-50\", \"founding_date\": \"1931-01-01\", \"website\": \"http://www.coe.berkeley.edu/\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1494843], \"executive_people_profile_ids\": [578056, 1494843, 3225472], \"cb_permalink\": \"https://www.crunchbase.com/organization/uc-berkeley-college-of-engineering\", \"linkedin_url\": \"https://linkedin.com/school/berkeleyengineering\", \"twitter\": \"http:/twitter.com/cal_engineer\", \"last_funding_round_date\": \"2016-09-29\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 3100000, \"company_li_name\": \"berkeleyengineering\", \"tags\": [{\"id\": 1795036, \"legal_entity_uuid\": \"f5911c75-b4b2-c144-234d-ab0230b4d84e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1795037, \"legal_entity_uuid\": \"f5911c75-b4b2-c144-234d-ab0230b4d84e\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 1795038, \"legal_entity_uuid\": \"f5911c75-b4b2-c144-234d-ab0230b4d84e\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 140891, \"legal_entity_uuid\": \"f5911c75-b4b2-c144-234d-ab0230b4d84e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 73, \"hc_estimate_90_days\": 64, \"hc_estimate_180_days\": 79, \"hc_estimate_270_days\": 84, \"hc_estimate_365_days\": 97, \"hc_growth_90_days\": \"14.0600000000000004973799150320701301097869873046875\", \"hc_growth_180_days\": \"-7.589999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-13.0999999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-24.739999999999998436805981327779591083526611328125\"}, \"funding_rounds\": [{\"id\": 428812, \"uuid\": \"699e421c-0378-c09b-b1b6-393a6c86a45d\", \"legal_entity_uuid\": \"f5911c75-b4b2-c144-234d-ab0230b4d84e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-09-29\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1406968543/mcndza1cqkzgqxmp0iby.png",
+                        "name": "UC Berkeley College of Engineering"
+                    },
+                    "name": "UC Berkeley College of Engineering",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1406968543/mcndza1cqkzgqxmp0iby.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Sustainable Design",
+                    "degreeType": "",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Cognitive Science",
+                    "degreeType": "",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "High School",
+                    "degreeType": "",
+                    "endDate": "2018-01-01",
+                    "legalEntity": null,
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Branham High School"
+                    },
+                    "name": "Branham High School",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Entrepreneurship/Entrepreneurial Studies",
+                    "degreeType": "",
+                    "endDate": "2017-01-01",
+                    "legalEntity": null,
+                    "startDate": "2017-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "San Jose City College"
+                    },
+                    "name": "San Jose City College",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "343"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

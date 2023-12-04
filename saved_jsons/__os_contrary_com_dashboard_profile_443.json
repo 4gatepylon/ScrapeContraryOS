@@ -1,0 +1,258 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "ML Researcher @ MosaicML | MIT BS 20 - MEng 21",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Masters degree",
+                        "endDate": "2021-12-31",
+                        "id": "818",
+                        "startDate": "2020-01-01",
+                        "universityId": 16
+                    },
+                    {
+                        "degree": "12th Grade",
+                        "degreeType": "High School",
+                        "endDate": "2016-12-31",
+                        "id": "819",
+                        "startDate": "2012-01-01",
+                        "universityId": 423
+                    }
+                ],
+                "email": "moinnadeem@moinnadeem.com",
+                "firstName": "Moin",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "443",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Nadeem",
+                "linkedinName": "moin-nadeem",
+                "linkedinUrl": "https://linkedin.com/in/moin-nadeem/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "395f58ba-6957-437d-aafe-cb16e35b4a37",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/ee914e7aadc808693d4697b841fa08c0/0baa07bd/28471219_10216147788752308_2452049000001510324_n__4_.jpg?ts=1659020057&userId=usrMxTlLuLWjeji2x&cs=51549661a7f3e80b",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "2921",
+                        "organizationId": 244,
+                        "position": "Machine Learning Researcher",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3824",
+                        "organizationId": 2794,
+                        "position": "Machine Learning Researcher",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2019-09-30",
+                        "id": "2922",
+                        "organizationId": 975,
+                        "position": "Machine Learning Researcher",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2019-09-01",
+                        "id": "4655",
+                        "organizationId": 984422,
+                        "position": "Machine Learning Researcher",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2018-08-31",
+                        "id": "2923",
+                        "organizationId": 1954,
+                        "position": "Machine Learning Intern",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2018-02-28",
+                        "id": "2925",
+                        "organizationId": 1238,
+                        "position": "Machine Learning Intern",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2017-08-31",
+                        "id": "2926",
+                        "organizationId": 1956,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2018-04-30",
+                        "id": "2924",
+                        "organizationId": 1955,
+                        "position": "Director of Developer Operations",
+                        "startDate": "2017-04-01"
+                    },
+                    {
+                        "endDate": "2016-08-31",
+                        "id": "2927",
+                        "organizationId": 1957,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2015-08-31",
+                        "id": "2928",
+                        "organizationId": 1958,
+                        "position": "Researcher",
+                        "startDate": "2015-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1461514, \"name\": \"MosaicML\", \"uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mosaicml.png\", \"description\": \"MosaicML builds an efficient infrastructure for training language models.\", \"headcount\": \"101-250\", \"founding_date\": \"2021-01-01\", \"website\": \"https://www.mosaicml.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1335361, 2702362], \"cb_permalink\": \"https://www.crunchbase.com/organization/mosaic-ml\", \"linkedin_url\": \"https://linkedin.com/company/mosaicml\", \"twitter\": \"https:/www.twitter.com/mosaicml\", \"last_funding_round_date\": \"2023-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 37000000, \"company_li_name\": \"mosaicml\", \"tags\": [{\"id\": 3855156, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 3855157, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Computer Vision\", \"category\": \"Industry\"}, {\"id\": 3855158, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 3855159, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Natural Language Processing\", \"category\": \"Industry\"}, {\"id\": 3855160, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7352733, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 25701, \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 56, \"hc_estimate_90_days\": 61, \"hc_estimate_180_days\": 55, \"hc_estimate_270_days\": 49, \"hc_estimate_365_days\": 45, \"hc_growth_90_days\": \"-8.199999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_270_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"24.440000000000001278976924368180334568023681640625\"}, \"funding_rounds\": [{\"id\": 304570, \"uuid\": \"c5e677c2-c339-4e14-9219-c5f75a73581e\", \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 222000000, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 304569, \"uuid\": \"4cc23298-6c39-4284-91c8-57b465bc055c\", \"legal_entity_uuid\": \"78284296-dc68-4284-a0f6-724a6b85a918\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 37000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-13\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mosaicml.png",
+                        "name": "MosaicML"
+                    },
+                    "position": "Machine Learning Researcher",
+                    "startDate": "2021-06-01",
+                    "name": "MosaicML",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mosaicml.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-09-01",
+                    "legalEntity": "{\"id\": 1639481, \"name\": \"Intel\", \"uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/qpoiezeptj4q8krro55g\", \"description\": \"Intel designs, manufactures, and sells integrated digital technology platforms worldwide.\", \"headcount\": \"10000+\", \"founding_date\": \"1968-07-18\", \"website\": \"http://www.intel.com\", \"location\": \"Santa Clara\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1129029, 2073255, 1729128], \"executive_people_profile_ids\": [38591, 263637, 593982, 473836, 1019497, 1315812, 480372, 180978, 181404, 1288460, 1586743, 632902, 632467, 655924, 1569263, 1806524, 319848, 126949, 1157032, 949162, 949383, 2030527, 1208186, 1043357, 1402967, 291813, 375647, 2967296, 523279, 2975488, 566429, 3399994, 1825339, 2215236, 1350938, 1481153, 765085, 1942845, 2763613, 489139, 1179710, 1197797, 1201169, 1865964, 2077701, 2271023, 2271795, 1668875, 2284772, 2460201, 2735600, 2738975, 1887303, 2115230, 2118780, 3190135, 2369558, 1495124, 1729128, 1973077, 1990978, 3240928, 2409665, 2410199, 3206993, 3212477, 225944, 96677, 48275, 113763, 122837, 159108, 1432046, 731210, 1588652, 1301177, 1805929, 656708, 1065373, 1064804, 1772395, 1777253, 1778056, 319895, 2021098, 1156420, 2027946, 954097, 1036793, 1039188, 965602, 1088006, 2259573, 2694458, 383424, 3300241, 3303640, 3388879, 1350048, 754911, 764836, 765173, 1910242, 1914640, 2085147, 781251, 783254, 1667114, 2152916, 2573269, 976441, 977298, 1858767, 3108041, 3264413, 2462095, 1889051, 2932318, 1889260, 1890407, 2124028, 2374615, 1493642, 1507006, 1981334, 2821116, 1991625, 2642503, 3211626, 199483, 205449, 75851, 86222, 87613, 338484, 886564, 907735, 473356, 473476, 480252, 481152, 177599, 1434097, 1435571, 181366, 181371, 1436366, 729762, 1439994, 607088, 1798605, 1568872, 1568744, 1807204, 2023048, 124022, 128049, 708976, 2030795, 2026245, 2041557, 1394074, 2684261, 2683285, 366396, 298819, 2259820, 2710290, 3167417, 1107917, 1115863, 1935236, 2086305, 2169764, 2761814, 1379092, 841497, 971723, 2990334, 502940, 1850837, 1854196, 2077009, 1691643, 1731658, 1744788, 1981850, 2829280, 3076204, 3077746, 3241455, 3240852, 3330643, 2651083, 3224778, 225941, 39035, 199398, 97520, 316355, 469009, 272608, 1009145, 1428900, 728728, 409239, 642324, 1555818, 1557752, 1567080, 1568391, 1777440, 1781326, 126806, 2026221, 2665056, 1037791, 2238456, 2958810, 377307, 2710008, 563806, 1697094, 1715340, 771291, 2155248, 2575158, 505121, 2059358, 2076420, 2270786, 3260539, 1692042, 2932122, 1888001, 2934900, 2375279, 2132539, 2842279, 2513660, 3061879, 2857835, 3201917, 3211355, 227879, 122371, 122745, 246548, 253111, 472450, 852985, 859499, 676638, 729426, 917400, 937909, 1143068, 1599017, 637419, 640519, 648312, 649255, 1555690, 1758187, 2026427, 795371, 796897, 938601, 2303985, 2030731, 1030702, 1417220, 377118, 379169, 382729, 390274, 2702362, 2923975, 3146851, 3158103, 3162628, 1074120, 1475713, 1110933, 756137, 1627381, 1937799, 767108, 532558, 1957895, 1962097, 2106274, 2540658, 2149316, 834252, 836167, 2991153, 497883, 3096482, 2282968, 2723022, 2932554, 1887358, 2604282, 3270796, 2841344, 2144001, 1728771, 1973657, 1974163, 3285964, 3238523, 3326513, 2189242, 2402596, 2410878, 2642245, 3213437, 237989, 469365, 1026580, 1335361, 1306609, 877249, 155772, 159472, 1315990, 479960, 1583388, 1145828, 1593199, 1797611, 632308, 648541, 2025376, 324976, 28801, 2303275, 1176360, 372683, 2701069, 525127, 2716042, 2900384, 530183, 3146668, 2214486, 1106667, 1362365, 1114616, 764918, 1706838, 1939982, 2223203, 2102586, 829668, 1388812, 2586018, 489891, 974331, 497926, 498101, 506374, 1193824, 2459512, 1677364, 2932356, 2941095, 2165866, 2608527, 1485604, 1741440, 1973275, 2853640, 3326629, 1991009, 84590, 577116, 578083, 114184, 1315436, 1329613, 1434290, 936348, 731112, 1129029, 1301498, 404547, 405040, 634945, 423138, 637285, 1556179, 1555079, 785385, 2024496, 1776159, 799751, 702443, 2021175, 1037787, 1235239, 1087873, 291805, 375744, 1088047, 302494, 298751, 2257691, 524538, 392143, 2709161, 2900504, 2922095, 3402408, 1519082, 764826, 1705320, 1720522, 2145238, 2534537, 2573310, 1388621, 3353122, 493198, 493527, 501642, 1189437, 1854451, 2284002, 2737472, 3171367, 2118685, 2597244, 2597217, 2123619, 2626291, 1736677, 2516036, 2816763, 1985565, 3283710, 3322997, 2407636, 38088, 97343, 203632, 338989, 338117, 582674, 1002417, 182364, 731134, 1451662, 407864, 649155, 795538, 795473, 802002, 812803, 709456, 702249, 720768, 1514485, 943449, 2500147, 2496866, 1037009, 379391, 1091617, 525248, 3307083, 562667, 3398902, 1104299, 1347607, 1110484, 1696731, 754490, 756427, 1940581, 768933, 771953, 2148820, 2102338, 2560500, 2172302, 2764994, 834448, 485454, 1657907, 1843484, 1853153, 2073255, 2886255, 3088979, 3269835, 990664, 2726303, 3279417, 2350630, 2810553, 1981093, 1985142, 1987255, 3078043, 3240946, 3223858], \"cb_permalink\": \"https://www.crunchbase.com/organization/intel\", \"linkedin_url\": \"https://linkedin.com/company/intel-corporation\", \"twitter\": \"http:/www.twitter.com/intel\", \"last_funding_round_date\": \"2021-02-22\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 12510000, \"company_li_name\": \"intel-corporation\", \"tags\": [{\"id\": 6369679, \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 6369680, \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6369681, \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Product Design\", \"category\": \"Industry\"}, {\"id\": 6369682, \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Semiconductor\", \"category\": \"Industry\"}, {\"id\": 6369683, \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 147245, \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 66517, \"hc_estimate_90_days\": 67056, \"hc_estimate_180_days\": 67725, \"hc_estimate_270_days\": 68763, \"hc_estimate_365_days\": 69448, \"hc_growth_90_days\": \"-0.8000000000000000444089209850062616169452667236328125\", \"hc_growth_180_days\": \"-1.7800000000000000266453525910037569701671600341796875\", \"hc_growth_270_days\": \"-3.270000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-4.21999999999999975131004248396493494510650634765625\"}, \"funding_rounds\": [{\"id\": 155297, \"uuid\": \"230a5a90-d49f-46e6-ba93-944f0f6ed73e\", \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-02-22\", \"investors\": null}, {\"id\": 155296, \"uuid\": \"24093d19-1f1d-ae85-64fe-557d2d08b368\", \"legal_entity_uuid\": \"1e4f199c-363b-451b-a164-f94571075ee5\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2510000, \"post_money_valuation_usd\": null, \"announced_date\": \"1968-07-31\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/qpoiezeptj4q8krro55g",
+                        "name": "Intel Corporation"
+                    },
+                    "position": "Machine Learning Researcher",
+                    "startDate": "2019-05-01",
+                    "name": "Intel Corporation",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/qpoiezeptj4q8krro55g"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 2197926, \"name\": \"Quizlet\", \"uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/szx9duflfycmltpnvcvw\", \"description\": \"Quizlet is a learning platform that uses activities and games to help students practice and master what theyre learning.\", \"headcount\": \"101-250\", \"founding_date\": \"2005-10-01\", \"website\": \"https://quizlet.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [452420, 525885], \"executive_people_profile_ids\": [189663, 75424, 1155253, 1906396, 452420, 592983, 371440, 3201437, 3042744, 525885, 1353195, 485611], \"cb_permalink\": \"https://www.crunchbase.com/organization/quizlet\", \"linkedin_url\": \"https://linkedin.com/company/quizlet\", \"twitter\": \"https:/twitter.com/quizlet\", \"last_funding_round_date\": \"2020-05-13\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 62000000, \"company_li_name\": \"quizlet\", \"tags\": [{\"id\": 6438639, \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 6438640, \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 6438641, \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6438642, \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6438643, \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 69432, \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 375, \"hc_estimate_90_days\": 374, \"hc_estimate_180_days\": 365, \"hc_estimate_270_days\": 357, \"hc_estimate_365_days\": 358, \"hc_growth_90_days\": \"0.270000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"2.7400000000000002131628207280300557613372802734375\", \"hc_growth_270_days\": \"5.04000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"4.75\"}, \"funding_rounds\": [{\"id\": 142004, \"uuid\": \"173c666f-df8c-4c44-959d-e5fda9b7cc08\", \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2020-05-13\", \"investors\": null}, {\"id\": 142003, \"uuid\": \"a4e276c9-4ddc-4149-b6c0-5069b3b17f98\", \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-02-06\", \"investors\": null}, {\"id\": 142002, \"uuid\": \"337e1afc-cb8e-05ef-6eac-578969539710\", \"legal_entity_uuid\": \"aa36050d-c886-e132-2794-40360fa75fac\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-11-23\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/szx9duflfycmltpnvcvw",
+                        "name": "Quizlet"
+                    },
+                    "position": "Machine Learning Intern",
+                    "startDate": "2018-06-01",
+                    "name": "Quizlet",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/szx9duflfycmltpnvcvw"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-02-01",
+                    "legalEntity": "{\"id\": 442385, \"name\": \"Comcast\", \"uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/omvh9j0pwf6gesvnubmj\", \"description\": \"Comcast is a media and technology company that connects millions of people to the moments and experiences that matter most.\", \"headcount\": \"10000+\", \"founding_date\": \"1963-06-28\", \"website\": \"http://corporate.comcast.com\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [49148, 677912, 650783, 1559208, 1051879, 2684183, 2964226, 767216, 1850669, 2811641, 1977090, 3326707, 2178757, 2177935, 54160, 207800, 677025, 1210088, 1211990, 3381575, 3309143, 2573341, 1505325, 1504291, 3211430, 113833, 481098, 794852, 810632, 1510118, 1728084, 464539, 1141340, 3145713, 3309325, 2762063, 2886794, 3362559, 2816421, 3283102, 476836, 729273, 609841, 794221, 2026324, 1777372, 24588, 276405, 3309200, 1687836, 1967945, 2196342, 8048, 1940735, 1388723, 3019649, 2886151, 1889700, 2124860, 811053, 24388, 2301206, 2236606, 765329, 1003554, 1330902, 182130, 765111, 2155069, 1656678, 1497626, 2854132], \"cb_permalink\": \"https://www.crunchbase.com/organization/comcast\", \"linkedin_url\": \"https://linkedin.com/company/comcast\", \"twitter\": \"https:/twitter.com/comcast\", \"last_funding_round_date\": \"2023-04-24\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 4911117407, \"company_li_name\": \"comcast\", \"tags\": [{\"id\": 6369600, \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6369601, \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Telecommunications\", \"category\": \"Industry\"}, {\"id\": 6369602, \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"TV\", \"category\": \"Industry\"}, {\"id\": 6369603, \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Video\", \"category\": \"Industry\"}, {\"id\": 6369604, \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Web Hosting\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 105357, \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 551, \"hc_estimate_90_days\": 546, \"hc_estimate_180_days\": 513, \"hc_estimate_270_days\": 497, \"hc_estimate_365_days\": 513, \"hc_growth_90_days\": \"0.92000000000000003996802888650563545525074005126953125\", \"hc_growth_180_days\": \"7.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"10.8699999999999992184029906638897955417633056640625\", \"hc_growth_365_days\": \"7.410000000000000142108547152020037174224853515625\"}, \"funding_rounds\": [{\"id\": 473090, \"uuid\": \"29de47dd-21ef-4069-9f11-90b378ae8fe8\", \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 276006, \"post_money_valuation_usd\": 217500000000, \"announced_date\": \"2023-04-24\", \"investors\": null}, {\"id\": 473089, \"uuid\": \"aaa07c43-c8a9-4683-9a81-250b54b4084d\", \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7741401, \"post_money_valuation_usd\": 217500000000, \"announced_date\": \"2022-07-11\", \"investors\": null}, {\"id\": 473088, \"uuid\": \"e5bc9505-108b-4906-b28b-bd4d2d87bb3a\", \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 33100000, \"post_money_valuation_usd\": 217500000000, \"announced_date\": \"2022-03-18\", \"investors\": null}, {\"id\": 473087, \"uuid\": \"c94751a8-fb69-4f20-8107-57647dd7faef\", \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 870000000, \"post_money_valuation_usd\": 217500000000, \"announced_date\": \"2020-09-22\", \"investors\": null}, {\"id\": 473086, \"uuid\": \"42559519-78f6-4f17-b7b7-1602f13e6308\", \"legal_entity_uuid\": \"fbc7746d-86e0-8fd6-19d8-69280c686d02\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 4000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/omvh9j0pwf6gesvnubmj",
+                        "name": "Comcast"
+                    },
+                    "position": "Machine Learning Intern",
+                    "startDate": "2018-01-01",
+                    "name": "Comcast",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/omvh9j0pwf6gesvnubmj"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/intuit-quickbase.png",
+                        "name": "Intuit Quickbase"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2017-06-01",
+                    "name": "Intuit Quickbase",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/intuit-quickbase.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Summit ESP"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2016-06-01",
+                    "name": "Summit ESP",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Masters degree",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": "2020-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "443"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,300 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Engagement Manager at McKinsey & Company",
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "MPA Candidate | Romney Institute of Public Administration",
+                        "endDate": "2019-01-01",
+                        "id": "649",
+                        "startDate": "2017-01-01",
+                        "universityId": 194
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "Bachelor of Science (B.S.)",
+                        "endDate": "2017-01-01",
+                        "id": "650",
+                        "startDate": "2014-01-01",
+                        "universityId": 31
+                    }
+                ],
+                "email": "pulsipher.adam@gmail.com",
+                "firstName": "Adam",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "352",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Pulsipher",
+                "linkedinName": "adampulsipher",
+                "linkedinUrl": "https://linkedin.com/in/adampulsipher/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "f8edb6e4-2133-4d33-9e54-a89500b2d7b1",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/352_Adam_Pulsipher.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "2317",
+                        "organizationId": 61,
+                        "position": "Engagement Manager",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "2318",
+                        "organizationId": 1606,
+                        "position": "Summer Associate",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "2321",
+                        "organizationId": 1608,
+                        "position": "Intern",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2019-05-01",
+                        "id": "2320",
+                        "organizationId": 1607,
+                        "position": "Operations",
+                        "startDate": "2017-12-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "2322",
+                        "organizationId": 1609,
+                        "position": "Business Analyst Intern",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "2319",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2016-12-01"
+                    },
+                    {
+                        "endDate": "2016-01-01",
+                        "id": "2323",
+                        "organizationId": 1610,
+                        "position": "Intern",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2015-01-01",
+                        "id": "2324",
+                        "organizationId": 1611,
+                        "position": "Associate Analyst",
+                        "startDate": "2015-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 179039, \"name\": \"McKinsey & Company\", \"uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png\", \"description\": \"McKinsey & Company is a global management consulting firm and trusted advisor by businesses, governments, and institutions.\", \"headcount\": \"10000+\", \"founding_date\": \"1926-01-01\", \"website\": \"http://www.mckinsey.com\", \"location\": \"Vienna\", \"country\": \"AUT\", \"region\": \"Wien\", \"founder_people_profile_ids\": [4133473, 1825782], \"executive_people_profile_ids\": [3053042, 791339, 815946, 769621, 183812, 3130727, 1967068, 271389, 3245, 1344763, 2741793, 3024633, 1941985, 418717, 1514270, 2471698, 681625, 1992042, 275511, 109582, 2990793, 2708985, 577686, 1840759, 2243371, 235041, 2412722, 2924419, 2425564], \"cb_permalink\": \"https://www.crunchbase.com/organization/mckinsey-company\", \"linkedin_url\": \"https://linkedin.com/company/mckinsey\", \"twitter\": \"http:/twitter.com/McKinsey\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mckinsey\", \"tags\": [{\"id\": 6371856, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6371857, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6371858, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Professional Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 3461, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1972, \"hc_estimate_90_days\": 1903, \"hc_estimate_180_days\": 1858, \"hc_estimate_270_days\": 1846, \"hc_estimate_365_days\": 1800, \"hc_growth_90_days\": \"3.62999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"6.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"9.5600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png",
+                        "name": "McKinsey  Company"
+                    },
+                    "position": "Engagement Manager",
+                    "startDate": "2021-08-01",
+                    "name": "McKinsey  Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-07-01",
+                    "legalEntity": "{\"id\": 179039, \"name\": \"McKinsey & Company\", \"uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png\", \"description\": \"McKinsey & Company is a global management consulting firm and trusted advisor by businesses, governments, and institutions.\", \"headcount\": \"10000+\", \"founding_date\": \"1926-01-01\", \"website\": \"http://www.mckinsey.com\", \"location\": \"Vienna\", \"country\": \"AUT\", \"region\": \"Wien\", \"founder_people_profile_ids\": [4133473, 1825782], \"executive_people_profile_ids\": [3053042, 791339, 815946, 769621, 183812, 3130727, 1967068, 271389, 3245, 1344763, 2741793, 3024633, 1941985, 418717, 1514270, 2471698, 681625, 1992042, 275511, 109582, 2990793, 2708985, 577686, 1840759, 2243371, 235041, 2412722, 2924419, 2425564], \"cb_permalink\": \"https://www.crunchbase.com/organization/mckinsey-company\", \"linkedin_url\": \"https://linkedin.com/company/mckinsey\", \"twitter\": \"http:/twitter.com/McKinsey\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mckinsey\", \"tags\": [{\"id\": 6371856, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6371857, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6371858, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Professional Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 3461, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1972, \"hc_estimate_90_days\": 1903, \"hc_estimate_180_days\": 1858, \"hc_estimate_270_days\": 1846, \"hc_estimate_365_days\": 1800, \"hc_growth_90_days\": \"3.62999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"6.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"9.5600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png",
+                        "name": "McKinsey  Company"
+                    },
+                    "position": "Business Analyst",
+                    "startDate": "2019-08-01",
+                    "name": "McKinsey  Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 1406454, \"name\": \"Pelion Venture Partners\", \"uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/urfn6auxcilkhm7wndnh\", \"description\": \"Pelion Venture Partners invests in early-stage B2B software-based companies.\", \"headcount\": \"11-50\", \"founding_date\": \"1986-01-01\", \"website\": \"http://pelionvp.com\", \"location\": \"Salt Lake City\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1588918, 494414, 505685, 1435096, 3154704, 382918, 3159932, 2885763, 3262938], \"cb_permalink\": \"https://www.crunchbase.com/organization/pelion-venture-partners\", \"linkedin_url\": \"https://linkedin.com/company/pelion-venture-partners\", \"twitter\": \"https:/twitter.com/PelionVC\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pelion-venture-partners\", \"tags\": [{\"id\": 6381412, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}, {\"id\": 6381413, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}, {\"id\": 6381414, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 6381415, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 48131, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 8, \"hc_estimate_270_days\": 8, \"hc_estimate_365_days\": 8, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urfn6auxcilkhm7wndnh",
+                        "name": "Pelion Venture Partners"
+                    },
+                    "position": "Summer Associate",
+                    "startDate": "2019-05-01",
+                    "name": "Pelion Venture Partners",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urfn6auxcilkhm7wndnh"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2016-12-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-05-01",
+                    "legalEntity": "{\"id\": 465621, \"name\": \"Silicon Slopes\", \"uuid\": \"898ec4cd-6337-f75a-b6f7-f4ca200dbcf8\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/bblgs8swlzaw0xrupdzq\", \"description\": \"Silicon Slopes is the voice, hub, and heart of Utahs startup and tech community.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-03-02\", \"website\": \"http://siliconslopes.com/\", \"location\": \"American Fork\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [3414665], \"executive_people_profile_ids\": [2970432, 3414665, 3311664, 3117795, 1363575, 3380262], \"cb_permalink\": \"https://www.crunchbase.com/organization/silicon-slopes\", \"linkedin_url\": \"https://linkedin.com/company/silicon-slopes\", \"twitter\": \"http:/twitter.com/siliconslopes\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"silicon-slopes\", \"tags\": [{\"id\": 4907067, \"legal_entity_uuid\": \"898ec4cd-6337-f75a-b6f7-f4ca200dbcf8\", \"name\": \"Communities\", \"category\": \"Industry\"}, {\"id\": 4907068, \"legal_entity_uuid\": \"898ec4cd-6337-f75a-b6f7-f4ca200dbcf8\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4907069, \"legal_entity_uuid\": \"898ec4cd-6337-f75a-b6f7-f4ca200dbcf8\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 4907070, \"legal_entity_uuid\": \"898ec4cd-6337-f75a-b6f7-f4ca200dbcf8\", \"name\": \"Publishing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 98714, \"legal_entity_uuid\": \"898ec4cd-6337-f75a-b6f7-f4ca200dbcf8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 12, \"hc_estimate_90_days\": 12, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bblgs8swlzaw0xrupdzq",
+                        "name": "Silicon Slopes"
+                    },
+                    "position": "Operations",
+                    "startDate": "2017-12-01",
+                    "name": "Silicon Slopes",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bblgs8swlzaw0xrupdzq"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 1450450, \"name\": \"Xos Trucks\", \"uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/nzptxqxmg111ogt4lcws\", \"description\": \"Xos Trucks specializes in the field of manufacturing fully electric commercial vehicles.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-01-01\", \"website\": \"https://www.xostrucks.com\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1778897], \"executive_people_profile_ids\": [1778897, 643970, 3399139, 1207038, 1943812, 1887018], \"cb_permalink\": \"https://www.crunchbase.com/organization/xos-trucks\", \"linkedin_url\": \"https://linkedin.com/company/xostrucks\", \"twitter\": \"https:/twitter.com/xostrucks\", \"last_funding_round_date\": \"2022-03-28\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 365000000, \"company_li_name\": \"xostrucks\", \"tags\": [{\"id\": 672059, \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Electric Vehicle\", \"category\": \"Industry\"}, {\"id\": 672060, \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 672061, \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Railroad\", \"category\": \"Industry\"}, {\"id\": 672062, \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 41231, \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 21, \"hc_estimate_90_days\": 21, \"hc_estimate_180_days\": 28, \"hc_estimate_270_days\": 27, \"hc_estimate_365_days\": 27, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-25\", \"hc_growth_270_days\": \"-22.219999999999998863131622783839702606201171875\", \"hc_growth_365_days\": \"-22.219999999999998863131622783839702606201171875\"}, \"funding_rounds\": [{\"id\": 50201, \"uuid\": \"0207f8d6-47f1-43ae-a7ce-8278d4ef4c37\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 125000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-28\", \"investors\": null}, {\"id\": 50200, \"uuid\": \"bfb7ef82-f747-4984-84f0-6cffcce8eeb0\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 220000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-20\", \"investors\": null}, {\"id\": 50199, \"uuid\": \"531250e1-7082-427b-a7d6-2732fc53390f\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-19\", \"investors\": null}, {\"id\": 50198, \"uuid\": \"f4ac5e7e-32b1-40d1-8c86-f275e4c97000\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-05\", \"investors\": null}, {\"id\": 50197, \"uuid\": \"e484d148-98c8-48fe-8ed4-1b4b4a24dcd6\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-08-18\", \"investors\": null}, {\"id\": 50196, \"uuid\": \"60ed62b0-a660-4f0f-b050-0293d40456bb\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-01\", \"investors\": null}, {\"id\": 50195, \"uuid\": \"be1d86bd-33e5-4f3a-b679-78cf0f0e9a39\", \"legal_entity_uuid\": \"7befa38f-cd11-4ebc-b4b4-199fdfc01153\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/nzptxqxmg111ogt4lcws",
+                        "name": "Xos Trucks"
+                    },
+                    "position": "Intern",
+                    "startDate": "2018-01-01",
+                    "name": "Xos Trucks",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/nzptxqxmg111ogt4lcws"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 1651186, \"name\": \"ObservePoint\", \"uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/la7diz3vbvecfefxjjes\", \"description\": \"Trusted Data. Actionable Insights.\", \"headcount\": \"101-250\", \"founding_date\": \"2007-01-01\", \"website\": \"http://www.observepoint.com\", \"location\": \"Pleasant Grove\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [899053, 3163435], \"executive_people_profile_ids\": [362618, 899053, 506684, 3163435, 958744, 1557646], \"cb_permalink\": \"https://www.crunchbase.com/organization/observepoint\", \"linkedin_url\": \"https://linkedin.com/company/observepoint\", \"twitter\": \"http:/twitter.com/ObservePoint\", \"last_funding_round_date\": \"2018-01-17\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 37516058, \"company_li_name\": \"observepoint\", \"tags\": [{\"id\": 6536449, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 6536450, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 6536451, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6536452, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6536453, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 6536454, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 164528, \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 11, \"hc_estimate_90_days\": 12, \"hc_estimate_180_days\": 12, \"hc_estimate_270_days\": 12, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-8.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-8.3300000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": \"-8.3300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 112221, \"uuid\": \"bf719741-9269-4c6d-b3c7-9c893fcbd947\", \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 2999630, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-17\", \"investors\": null}, {\"id\": 112220, \"uuid\": \"305f510d-9f51-0435-a0b7-6c64d517e609\", \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 19000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-12-13\", \"investors\": null}, {\"id\": 112219, \"uuid\": \"97a1ea98-1a3a-b86c-0b31-eeb4c575557a\", \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 7016428, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-03-29\", \"investors\": null}, {\"id\": 112218, \"uuid\": \"e1f644f4-994b-6af2-4f60-58b5c5ce2b08\", \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-25\", \"investors\": null}, {\"id\": 112217, \"uuid\": \"726d2bd4-cde3-b6ce-87af-f13725b33401\", \"legal_entity_uuid\": \"a38c9480-05c2-9182-b553-fc2f20af1702\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 6500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-03-31\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/la7diz3vbvecfefxjjes",
+                        "name": "ObservePoint"
+                    },
+                    "position": "Business Analyst Intern",
+                    "startDate": "2017-01-01",
+                    "name": "ObservePoint",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/la7diz3vbvecfefxjjes"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 1406454, \"name\": \"Pelion Venture Partners\", \"uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/urfn6auxcilkhm7wndnh\", \"description\": \"Pelion Venture Partners invests in early-stage B2B software-based companies.\", \"headcount\": \"11-50\", \"founding_date\": \"1986-01-01\", \"website\": \"http://pelionvp.com\", \"location\": \"Salt Lake City\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1588918, 494414, 505685, 1435096, 3154704, 382918, 3159932, 2885763, 3262938], \"cb_permalink\": \"https://www.crunchbase.com/organization/pelion-venture-partners\", \"linkedin_url\": \"https://linkedin.com/company/pelion-venture-partners\", \"twitter\": \"https:/twitter.com/PelionVC\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pelion-venture-partners\", \"tags\": [{\"id\": 6381412, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}, {\"id\": 6381413, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}, {\"id\": 6381414, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 6381415, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 48131, \"legal_entity_uuid\": \"76c506a0-a56e-2f7b-9c15-2c4740ca51e1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 8, \"hc_estimate_270_days\": 8, \"hc_estimate_365_days\": 8, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urfn6auxcilkhm7wndnh",
+                        "name": "Pelion Venture Partners"
+                    },
+                    "position": "Summer Analyst",
+                    "startDate": "2016-01-01",
+                    "name": "Pelion Venture Partners",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urfn6auxcilkhm7wndnh"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 367592, \"name\": \"Teal Drones\", \"uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xty8sgvsycwwhgc0n3jw\", \"description\": \"Teal Drones is a commercial and government unmanned aerial vehicle technology.\", \"headcount\": \"11-50\", \"founding_date\": \"2014-01-01\", \"website\": \"https://tealdrones.com/\", \"location\": \"Salt Lake City\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [2816735], \"executive_people_profile_ids\": [477897, 2816735, 767329], \"cb_permalink\": \"https://www.crunchbase.com/organization/teal\", \"linkedin_url\": \"https://linkedin.com/company/teal\", \"twitter\": \"https:/twitter.com/tealdrones\", \"last_funding_round_date\": \"2023-11-08\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 15250000, \"company_li_name\": \"teal\", \"tags\": [{\"id\": 5893353, \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Drone Management\", \"category\": \"Industry\"}, {\"id\": 5893354, \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Drones\", \"category\": \"Industry\"}, {\"id\": 5893355, \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 5893356, \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Product Design\", \"category\": \"Industry\"}, {\"id\": 5893357, \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 145343, \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 497160, \"uuid\": \"37418168-e260-4728-b9c0-68d68ffe80a9\", \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-11-08\", \"investors\": null}, {\"id\": 190982, \"uuid\": \"91f23cff-9b82-4e59-9da6-16a71391e352\", \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-28\", \"investors\": null}, {\"id\": 190981, \"uuid\": \"caaca033-be14-4525-a6d7-6fd1ec76f904\", \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-15\", \"investors\": null}, {\"id\": 190980, \"uuid\": \"ef34fdb6-e524-4f41-9784-354130d38dac\", \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 10500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-11-08\", \"investors\": null}, {\"id\": 190979, \"uuid\": \"15186f98-3a41-4150-b9f6-9151bcd1bea7\", \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-11-02\", \"investors\": null}, {\"id\": 190978, \"uuid\": \"d15af7f7-3057-2ac3-b8ea-79a671f3a693\", \"legal_entity_uuid\": \"c7bb87dd-5b50-68ff-4af0-38c3069efdc9\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-12-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xty8sgvsycwwhgc0n3jw",
+                        "name": "Teal Drones"
+                    },
+                    "position": "Intern",
+                    "startDate": "2016-01-01",
+                    "name": "Teal Drones",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xty8sgvsycwwhgc0n3jw"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-01-01",
+                    "legalEntity": "{\"id\": 1761025, \"name\": \"SurgeFront, LLC\", \"uuid\": \"e37ccbfe-d67f-4bc8-80fc-abd4d0dfeae4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xzd88llo4plbk0kkrzwq\", \"description\": \"We are growth gurus. We work hands-on with business leaders to help clarify the opportunities.\", \"headcount\": \"unknown\", \"founding_date\": \"2000-01-01\", \"website\": null, \"location\": null, \"country\": null, \"region\": null, \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/surgefront-llc\", \"linkedin_url\": \"https://linkedin.com/company/surgefront\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"surgefront\", \"tags\": [{\"id\": 6940467, \"legal_entity_uuid\": \"e37ccbfe-d67f-4bc8-80fc-abd4d0dfeae4\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xzd88llo4plbk0kkrzwq",
+                        "name": "SurgeFront"
+                    },
+                    "position": "Associate Analyst",
+                    "startDate": "2015-01-01",
+                    "name": "SurgeFront",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xzd88llo4plbk0kkrzwq"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "MPA Candidate | Romney Institute of Public Administration",
+                    "degreeType": "",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 47840, \"name\": \"Brigham Young University Marriott School of Business\", \"uuid\": \"caff081f-c9b3-494d-96d2-8032355c6b82\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ur6saqyttg6k9jd4dmul\", \"description\": \"Brigham Young University Marriott School of Business is a business school that offers a variety of business-related degrees.\", \"headcount\": \"51-100\", \"founding_date\": \"1891-01-01\", \"website\": \"https://marriottschool.byu.edu/\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university-marriott-school-of-business\", \"linkedin_url\": \"https://linkedin.com/school/byumarriott\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"byumarriott\", \"tags\": [{\"id\": 5588194, \"legal_entity_uuid\": \"caff081f-c9b3-494d-96d2-8032355c6b82\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 136462, \"legal_entity_uuid\": \"caff081f-c9b3-494d-96d2-8032355c6b82\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 49, \"hc_estimate_90_days\": 47, \"hc_estimate_180_days\": 57, \"hc_estimate_270_days\": 63, \"hc_estimate_365_days\": 63, \"hc_growth_90_days\": \"4.2599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"-14.03999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"-22.219999999999998863131622783839702606201171875\", \"hc_growth_365_days\": \"-22.219999999999998863131622783839702606201171875\"}, \"funding_rounds\": []}",
+                    "startDate": "2017-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ur6saqyttg6k9jd4dmul",
+                        "name": "Brigham Young University Marriott School of Business"
+                    },
+                    "name": "Brigham Young University Marriott School of Business",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ur6saqyttg6k9jd4dmul"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Bachelor of Science (B.S.)",
+                    "degreeType": "",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 748819, \"name\": \"Brigham Young University (BYU)\", \"uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc\", \"description\": \"Brigham Young University is a private university owned and operated by The Church of Jesus Christ of Latter-day Saints.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1875-10-16\", \"website\": \"http://www.byu.edu\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2238075, 2043630, 2812130, 3246369, 494414], \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university\", \"linkedin_url\": \"https://linkedin.com/company/brigham-young-university\", \"twitter\": \"http:/twitter.com/byu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brigham-young-university\", \"tags\": [{\"id\": 4833905, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94434, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 289, \"hc_estimate_90_days\": 289, \"hc_estimate_180_days\": 308, \"hc_estimate_270_days\": 342, \"hc_estimate_365_days\": 345, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-6.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-15.5\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc",
+                        "name": "Brigham Young University"
+                    },
+                    "name": "Brigham Young University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "352"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

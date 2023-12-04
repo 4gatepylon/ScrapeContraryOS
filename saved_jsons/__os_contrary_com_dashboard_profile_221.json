@@ -1,0 +1,283 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Chief of Staff @ Esusu (Were hiring)  l  Chicago Booth MBA",
+                "educationExperiences": [
+                    {
+                        "degree": "Business Administration and Management",
+                        "degreeType": "Master of Business Administration - MBA",
+                        "endDate": "2021-01-01",
+                        "id": "413",
+                        "startDate": "2019-01-01",
+                        "universityId": 174
+                    },
+                    {
+                        "degree": "Chinese Language",
+                        "degreeType": "Summer Program",
+                        "endDate": "2012-01-01",
+                        "id": "415",
+                        "startDate": "2012-01-01",
+                        "universityId": 21
+                    },
+                    {
+                        "degree": "Finance",
+                        "degreeType": "BBA",
+                        "endDate": "2014-01-01",
+                        "id": "414",
+                        "startDate": "2008-01-01",
+                        "universityId": 245
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": "2008-01-01",
+                        "id": "416",
+                        "startDate": "2005-01-01",
+                        "universityId": 246
+                    }
+                ],
+                "email": "jihoon.g.lee@gmail.com",
+                "firstName": "JiHoon",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "221",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Lee",
+                "linkedinName": "jihoon-g-lee",
+                "linkedinUrl": "https://linkedin.com/in/jihoon-g-lee/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "c8202df8-0914-49d2-a592-a516b894d660",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/221_JiHoon_Lee.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2021-06-01",
+                        "id": "1469",
+                        "organizationId": 5,
+                        "position": "Lead Venture Partner",
+                        "startDate": "2019-10-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1470",
+                        "organizationId": 1071,
+                        "position": "Director",
+                        "startDate": "2018-08-01"
+                    },
+                    {
+                        "endDate": "2018-06-01",
+                        "id": "1471",
+                        "organizationId": 1072,
+                        "position": "Manager-Infrastructure Private Equity",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2011-08-01",
+                        "id": "1472",
+                        "organizationId": 1073,
+                        "position": "Sergeant-Adjutant General Division",
+                        "startDate": "2009-10-01"
+                    },
+                    {
+                        "endDate": "2011-07-01",
+                        "id": "1473",
+                        "organizationId": 1074,
+                        "position": "Special Advisor-International Affairs Division",
+                        "startDate": "2008-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Lead Venture Partner",
+                    "startDate": "2019-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Provis Asset"
+                    },
+                    "position": "Director",
+                    "startDate": "2018-08-01",
+                    "name": "Provis Asset",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-06-01",
+                    "legalEntity": "{\"id\": 1084680, \"name\": \"Mirae Asset\", \"uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml\", \"description\": \"Mirae Asset is a global asset managing company that provides innovative investment solutions to clients worldwide.\", \"headcount\": \"10000+\", \"founding_date\": \"1997-01-01\", \"website\": \"http://www.miraeasset.com\", \"location\": \"Seoul\", \"country\": \"KOR\", \"region\": \"Seoul-t'ukpyolsi\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1207400, 2566670, 1089238, 2712070, 3375962], \"cb_permalink\": \"https://www.crunchbase.com/organization/mirae-asset-global-investments\", \"linkedin_url\": \"https://linkedin.com/company/mirae-asset-global-investments\", \"twitter\": \"https:/twitter.com/miraeasset\", \"last_funding_round_date\": \"2021-10-25\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 891147929, \"company_li_name\": \"mirae-asset-global-investments\", \"tags\": [{\"id\": 6270410, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 6270409, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6270408, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6270407, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Emerging Markets\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 193677, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 457731, \"uuid\": \"65f3b41d-8d91-406e-90a9-167f03835337\", \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 450000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-25\", \"investors\": null}, {\"id\": 457730, \"uuid\": \"65e3e624-e6f1-4d93-97b7-b1ab80addc6b\", \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 441147929, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-06-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml",
+                        "name": "Mirae Asset Global Investments"
+                    },
+                    "position": "Manager-Infrastructure Private Equity",
+                    "startDate": "2017-01-01",
+                    "name": "Mirae Asset Global Investments",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-12-01",
+                    "legalEntity": "{\"id\": 1084680, \"name\": \"Mirae Asset\", \"uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml\", \"description\": \"Mirae Asset is a global asset managing company that provides innovative investment solutions to clients worldwide.\", \"headcount\": \"10000+\", \"founding_date\": \"1997-01-01\", \"website\": \"http://www.miraeasset.com\", \"location\": \"Seoul\", \"country\": \"KOR\", \"region\": \"Seoul-t'ukpyolsi\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1207400, 2566670, 1089238, 2712070, 3375962], \"cb_permalink\": \"https://www.crunchbase.com/organization/mirae-asset-global-investments\", \"linkedin_url\": \"https://linkedin.com/company/mirae-asset-global-investments\", \"twitter\": \"https:/twitter.com/miraeasset\", \"last_funding_round_date\": \"2021-10-25\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 891147929, \"company_li_name\": \"mirae-asset-global-investments\", \"tags\": [{\"id\": 6270410, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 6270409, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6270408, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6270407, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Emerging Markets\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 193677, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 457731, \"uuid\": \"65f3b41d-8d91-406e-90a9-167f03835337\", \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 450000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-25\", \"investors\": null}, {\"id\": 457730, \"uuid\": \"65e3e624-e6f1-4d93-97b7-b1ab80addc6b\", \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 441147929, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-06-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml",
+                        "name": "Mirae Asset Global Investments"
+                    },
+                    "position": "Associate-Infrastructure Private Equity",
+                    "startDate": "2014-09-01",
+                    "name": "Mirae Asset Global Investments",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2013-08-01",
+                    "legalEntity": "{\"id\": 1084680, \"name\": \"Mirae Asset\", \"uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml\", \"description\": \"Mirae Asset is a global asset managing company that provides innovative investment solutions to clients worldwide.\", \"headcount\": \"10000+\", \"founding_date\": \"1997-01-01\", \"website\": \"http://www.miraeasset.com\", \"location\": \"Seoul\", \"country\": \"KOR\", \"region\": \"Seoul-t'ukpyolsi\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1207400, 2566670, 1089238, 2712070, 3375962], \"cb_permalink\": \"https://www.crunchbase.com/organization/mirae-asset-global-investments\", \"linkedin_url\": \"https://linkedin.com/company/mirae-asset-global-investments\", \"twitter\": \"https:/twitter.com/miraeasset\", \"last_funding_round_date\": \"2021-10-25\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 891147929, \"company_li_name\": \"mirae-asset-global-investments\", \"tags\": [{\"id\": 6270410, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Hedge Funds\", \"category\": \"Industry\"}, {\"id\": 6270409, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6270408, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6270407, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Emerging Markets\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 193677, \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 457731, \"uuid\": \"65f3b41d-8d91-406e-90a9-167f03835337\", \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 450000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-25\", \"investors\": null}, {\"id\": 457730, \"uuid\": \"65e3e624-e6f1-4d93-97b7-b1ab80addc6b\", \"legal_entity_uuid\": \"cec178ea-39c6-7a6a-1b97-0dfd22628dc6\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 441147929, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-06-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml",
+                        "name": "Mirae Asset Global Investments"
+                    },
+                    "position": "Summer Analyst-Infrastructure Private Equity",
+                    "startDate": "2013-06-01",
+                    "name": "Mirae Asset Global Investments",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xycoat4p6rzulnwc4cml"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2011-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "ROK-U.S. Combined Forces Command"
+                    },
+                    "position": "Sergeant-Adjutant General Division",
+                    "startDate": "2009-10-01",
+                    "name": "ROK-U.S. Combined Forces Command",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2011-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Seoul Squash Federation"
+                    },
+                    "position": "Special Advisor-International Affairs Division",
+                    "startDate": "2008-06-01",
+                    "name": "Seoul Squash Federation",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Business Administration and Management",
+                    "degreeType": "Master of Business Administration - MBA",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 1049491, \"name\": \"The University of Chicago Booth School of Business\", \"uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1412264569/yfjor4vdwjcfuy3hhwbs.jpg\", \"description\": \"The University of Chicago Booth School of Business provides full-time MBA courses.\", \"headcount\": \"10000+\", \"founding_date\": \"1898-01-01\", \"website\": \"http://www.chicagobooth.edu/\", \"location\": \"Chicago\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [577569, 237227, 519354, 1174858, 2817590], \"cb_permalink\": \"https://www.crunchbase.com/organization/booth-school-of-business\", \"linkedin_url\": \"https://linkedin.com/company/universityofchicagoboothschoolofbusiness\", \"twitter\": null, \"last_funding_round_date\": \"2019-11-14\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 35000000, \"company_li_name\": \"universityofchicagoboothschoolofbusiness\", \"tags\": [{\"id\": 4849335, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4849334, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4849336, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 189363, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 109, \"hc_estimate_90_days\": 93, \"hc_estimate_180_days\": 115, \"hc_estimate_270_days\": 119, \"hc_estimate_365_days\": 118, \"hc_growth_90_days\": \"17.199999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"-5.21999999999999975131004248396493494510650634765625\", \"hc_growth_270_days\": \"-8.4000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-7.62999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 90087, \"uuid\": \"b9682328-b052-4ad2-803f-ef321dcf2ad9\", \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-14\", \"investors\": null}, {\"id\": 90086, \"uuid\": \"6aa46df9-0021-4452-b480-2fd1ff6c07fe\", \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-25\", \"investors\": null}, {\"id\": 90085, \"uuid\": \"3fb7867b-288e-1b8f-3e1c-1b42357923ba\", \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}]}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1412264569/yfjor4vdwjcfuy3hhwbs.jpg",
+                        "name": "The University of Chicago Booth School of Business"
+                    },
+                    "name": "The University of Chicago Booth School of Business",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1412264569/yfjor4vdwjcfuy3hhwbs.jpg"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Finance",
+                    "degreeType": "BBA",
+                    "endDate": "2014-01-01",
+                    "legalEntity": "{\"id\": 1052482, \"name\": \"William & Mary\", \"uuid\": \"cb1cb245-055e-417f-af28-1fff6a7f84c0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tslw5egn2usll2x5gw7b\", \"description\": \"William and Mary is an elite public research institution.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1693-01-01\", \"website\": \"http://wm.edu\", \"location\": \"Williamsburg\", \"country\": \"USA\", \"region\": \"Virginia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2284621], \"cb_permalink\": \"https://www.crunchbase.com/organization/william-mary-84c0\", \"linkedin_url\": \"https://linkedin.com/school/william-and-mary\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"william-and-mary\", \"tags\": [{\"id\": 392825, \"legal_entity_uuid\": \"cb1cb245-055e-417f-af28-1fff6a7f84c0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 392826, \"legal_entity_uuid\": \"cb1cb245-055e-417f-af28-1fff6a7f84c0\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 181180, \"legal_entity_uuid\": \"cb1cb245-055e-417f-af28-1fff6a7f84c0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 18, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 21, \"hc_estimate_270_days\": 21, \"hc_estimate_365_days\": 22, \"hc_growth_90_days\": \"5.87999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"-14.28999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"-14.28999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"-18.17999999999999971578290569595992565155029296875\"}, \"funding_rounds\": []}",
+                    "startDate": "2008-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tslw5egn2usll2x5gw7b",
+                        "name": "The College of William and Mary"
+                    },
+                    "name": "The College of William and Mary",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tslw5egn2usll2x5gw7b"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Chinese Language",
+                    "degreeType": "Summer Program",
+                    "endDate": "2012-01-01",
+                    "legalEntity": "{\"id\": 1118359, \"name\": \"Tsinghua University\", \"uuid\": \"667fef56-c145-c045-407f-94ba60116099\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1427487396/wluzef94rfg9yd5rcx52.png\", \"description\": \"Tsinghua University is a premier research university in China.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1911-04-29\", \"website\": \"http://www.tsinghua.edu.cn/\", \"location\": \"Beijing\", \"country\": \"CHN\", \"region\": \"Beijing\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2750297], \"cb_permalink\": \"https://www.crunchbase.com/organization/tsinghua-university\", \"linkedin_url\": \"https://linkedin.com/school/tsinghua-university\", \"twitter\": \"https:/twitter.com/tsinghua_uni\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"tsinghua-university\", \"tags\": [{\"id\": 1794674, \"legal_entity_uuid\": \"667fef56-c145-c045-407f-94ba60116099\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 181706, \"legal_entity_uuid\": \"667fef56-c145-c045-407f-94ba60116099\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 68, \"hc_estimate_90_days\": 71, \"hc_estimate_180_days\": 70, \"hc_estimate_270_days\": 71, \"hc_estimate_365_days\": 70, \"hc_growth_90_days\": \"-4.230000000000000426325641456060111522674560546875\", \"hc_growth_180_days\": \"-2.859999999999999875655021241982467472553253173828125\", \"hc_growth_270_days\": \"-4.230000000000000426325641456060111522674560546875\", \"hc_growth_365_days\": \"-2.859999999999999875655021241982467472553253173828125\"}, \"funding_rounds\": []}",
+                    "startDate": "2012-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1427487396/wluzef94rfg9yd5rcx52.png",
+                        "name": "Tsinghua University"
+                    },
+                    "name": "Tsinghua University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1427487396/wluzef94rfg9yd5rcx52.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2008-01-01",
+                    "legalEntity": null,
+                    "startDate": "2005-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Pomfret School"
+                    },
+                    "name": "Pomfret School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "221"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

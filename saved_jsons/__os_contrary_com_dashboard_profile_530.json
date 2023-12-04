@@ -1,0 +1,77 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Decarbonizing the economy at Watershed",
+                "educationExperiences": [],
+                "email": "vinjai.vale@gmail.com",
+                "firstName": "Vinjai",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "530",
+                "intro": null,
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Vale",
+                "linkedinName": "vinjaivale",
+                "linkedinUrl": "https://linkedin.com/in/vinjaivale/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "c8c18b34-29f6-4bd5-81de-17f54490278b",
+                "profilePicUrl": null,
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4161",
+                        "organizationId": 2996,
+                        "position": "Product Engineer",
+                        "startDate": "2022-08-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2125590, \"name\": \"Watershed\", \"uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/watershedclimate.png\", \"description\": \"Watershed is an enterprise climate platform that companies use to measure, report, and take action on their carbon emissions.\", \"headcount\": \"101-250\", \"founding_date\": \"2019-01-01\", \"website\": \"https://watershed.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1594690, 2522409, 1951827], \"executive_people_profile_ids\": [783833, 3117289, 2357595], \"cb_permalink\": \"https://www.crunchbase.com/organization/watershed-07e2\", \"linkedin_url\": \"https://linkedin.com/company/watershedclimate\", \"twitter\": \"https:/twitter.com/watershed\", \"last_funding_round_date\": \"2022-06-16\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 139000000, \"company_li_name\": \"watershedclimate\", \"tags\": [{\"id\": 5433410, \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Cloud Data Services\", \"category\": \"Industry\"}, {\"id\": 5433411, \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 5433412, \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 5433413, \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 62406, \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 208, \"hc_estimate_90_days\": 212, \"hc_estimate_180_days\": 203, \"hc_estimate_270_days\": 171, \"hc_estimate_365_days\": 144, \"hc_growth_90_days\": \"-1.8899999999999999023003738329862244427204132080078125\", \"hc_growth_180_days\": \"2.45999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"21.6400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"44.43999999999999772626324556767940521240234375\"}, \"funding_rounds\": [{\"id\": 273554, \"uuid\": \"8a35f5a0-8b0b-450c-8c1d-b819f9515b5a\", \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 55000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2022-06-16\", \"investors\": null}, {\"id\": 273553, \"uuid\": \"96c35efe-0246-4b16-9394-aec9f1d58848\", \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 70000000, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2022-02-08\", \"investors\": null}, {\"id\": 273552, \"uuid\": \"8923e073-6531-4ba3-b993-a6f7294c71d2\", \"legal_entity_uuid\": \"a8286d5f-1f7c-4898-9c34-cfefc52407e2\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 14000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-02-24\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/watershedclimate.png",
+                        "name": "Watershed"
+                    },
+                    "position": "Product Engineer",
+                    "startDate": "2022-08-01",
+                    "name": "Watershed",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/watershedclimate.png"
+                }
+            ],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "530"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

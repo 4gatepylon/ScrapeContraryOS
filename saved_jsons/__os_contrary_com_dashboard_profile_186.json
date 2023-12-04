@@ -1,0 +1,155 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "VP Ops + Design @ Prepared",
+                "educationExperiences": [],
+                "email": "miranda.j.lee00@gmail.com",
+                "firstName": "Miranda",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "186",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Lee",
+                "linkedinName": "miranda-j-lee",
+                "linkedinUrl": "https://linkedin.com/in/miranda-j-lee/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "91ddb2bc-eaad-49ec-b374-ddcc584ed219",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/186_Miranda_Lee.png",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1422428, \"name\": \"Prepared\", \"uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prepared911.png\", \"description\": \"By offering real-time data from callers, Prepared empowers emergency operators to focus on doing what they do best: saving lives.\", \"headcount\": \"11-50\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.prepared911.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2824066, 2857480, 2122125], \"executive_people_profile_ids\": [850435, 300], \"cb_permalink\": \"https://www.crunchbase.com/organization/invictus-apps\", \"linkedin_url\": \"https://linkedin.com/company/prepared911\", \"twitter\": \"https:/twitter.com/Prepared_HQ\", \"last_funding_round_date\": \"2023-10-17\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 44429615, \"company_li_name\": \"prepared911\", \"tags\": [{\"id\": 4038157, \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 4038158, \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Public Safety\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 47141, \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_180_days\": \"33.3299999999999982946974341757595539093017578125\", \"hc_growth_270_days\": \"60\", \"hc_growth_365_days\": \"33.3299999999999982946974341757595539093017578125\"}, \"funding_rounds\": [{\"id\": 495868, \"uuid\": \"39a7375a-d475-468e-9a9b-f534e5ca13c3\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 15999999, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-17\", \"investors\": null}, {\"id\": 265871, \"uuid\": \"69d17860-0cf9-4305-b2ce-f06b394f2549\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4124623, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-29\", \"investors\": null}, {\"id\": 265870, \"uuid\": \"182f5078-dbb9-4e9e-a74a-a524f36ff528\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 9800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-06\", \"investors\": null}, {\"id\": 265869, \"uuid\": \"bb712971-6d22-4804-ac04-507f2981b5ef\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 11864993, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 265868, \"uuid\": \"fbae3704-fb58-4de2-bbce-6f100186695b\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 2600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-18\", \"investors\": null}, {\"id\": 265867, \"uuid\": \"a79a67a1-b4bb-4272-ba9f-791be09385de\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-05\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prepared911.png",
+                        "name": "Prepared"
+                    },
+                    "position": "VP Ops + Design",
+                    "startDate": "2022-06-01",
+                    "name": "Prepared",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prepared911.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 1422428, \"name\": \"Prepared\", \"uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prepared911.png\", \"description\": \"By offering real-time data from callers, Prepared empowers emergency operators to focus on doing what they do best: saving lives.\", \"headcount\": \"11-50\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.prepared911.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2824066, 2857480, 2122125], \"executive_people_profile_ids\": [850435, 300], \"cb_permalink\": \"https://www.crunchbase.com/organization/invictus-apps\", \"linkedin_url\": \"https://linkedin.com/company/prepared911\", \"twitter\": \"https:/twitter.com/Prepared_HQ\", \"last_funding_round_date\": \"2023-10-17\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 44429615, \"company_li_name\": \"prepared911\", \"tags\": [{\"id\": 4038157, \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 4038158, \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Public Safety\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 47141, \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_180_days\": \"33.3299999999999982946974341757595539093017578125\", \"hc_growth_270_days\": \"60\", \"hc_growth_365_days\": \"33.3299999999999982946974341757595539093017578125\"}, \"funding_rounds\": [{\"id\": 495868, \"uuid\": \"39a7375a-d475-468e-9a9b-f534e5ca13c3\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 15999999, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-17\", \"investors\": null}, {\"id\": 265871, \"uuid\": \"69d17860-0cf9-4305-b2ce-f06b394f2549\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4124623, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-29\", \"investors\": null}, {\"id\": 265870, \"uuid\": \"182f5078-dbb9-4e9e-a74a-a524f36ff528\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 9800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-06\", \"investors\": null}, {\"id\": 265869, \"uuid\": \"bb712971-6d22-4804-ac04-507f2981b5ef\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 11864993, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 265868, \"uuid\": \"fbae3704-fb58-4de2-bbce-6f100186695b\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 2600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-18\", \"investors\": null}, {\"id\": 265867, \"uuid\": \"a79a67a1-b4bb-4272-ba9f-791be09385de\", \"legal_entity_uuid\": \"d79ed60b-2385-4ff4-9a34-4b6f3aba9767\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-05\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prepared911.png",
+                        "name": "Prepared"
+                    },
+                    "position": "Chief of Staff",
+                    "startDate": "2020-04-01",
+                    "name": "Prepared",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prepared911.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 1639526, \"name\": \"TechNexus Venture Collaborative\", \"uuid\": \"3b329dc6-3981-fae4-dd5d-292f014a64da\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/technexus.png\", \"description\": \"Helping leading corporations & ambitious entrepreneurs work together to create new business models, revenue streams, products, and markets.\", \"headcount\": \"11-50\", \"founding_date\": \"2007-01-01\", \"website\": \"http://www.technexus.com\", \"location\": \"Chicago\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [58007, 2984880], \"executive_people_profile_ids\": [2984880, 3367215, 360980], \"cb_permalink\": \"https://www.crunchbase.com/organization/technexus\", \"linkedin_url\": \"https://linkedin.com/company/technexus\", \"twitter\": \"http:/twitter.com/TechNexus\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"technexus\", \"tags\": [{\"id\": 6500532, \"legal_entity_uuid\": \"3b329dc6-3981-fae4-dd5d-292f014a64da\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 6500531, \"legal_entity_uuid\": \"3b329dc6-3981-fae4-dd5d-292f014a64da\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6500530, \"legal_entity_uuid\": \"3b329dc6-3981-fae4-dd5d-292f014a64da\", \"name\": \"B2C\", \"category\": \"Industry\"}, {\"id\": 6500529, \"legal_entity_uuid\": \"3b329dc6-3981-fae4-dd5d-292f014a64da\", \"name\": \"B2B\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 147283, \"legal_entity_uuid\": \"3b329dc6-3981-fae4-dd5d-292f014a64da\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 9, \"hc_estimate_270_days\": 9, \"hc_estimate_365_days\": 8, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/technexus.png",
+                        "name": "TechNexus Venture Collaborative"
+                    },
+                    "position": "Venture Fellow",
+                    "startDate": "2020-01-01",
+                    "name": "TechNexus Venture Collaborative",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/technexus.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kamala-harris-for-the-people.png",
+                        "name": "Kamala Harris For The People"
+                    },
+                    "position": "Special Project Manager",
+                    "startDate": "2019-01-01",
+                    "name": "Kamala Harris For The People",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kamala-harris-for-the-people.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 744844, \"name\": \"My Art Cache\", \"uuid\": \"35948bba-5f97-4491-8fa3-bd7ea7d90283\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/chrsg1jik1k79dnyyqqs\", \"description\": \"My Art Cache is an online platform for art industry professionals.\", \"headcount\": \"1-10\", \"founding_date\": \"2018-01-01\", \"website\": \"https://myartcache.com\", \"location\": \"Chicago\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [2768218], \"executive_people_profile_ids\": [2768218], \"cb_permalink\": \"https://www.crunchbase.com/organization/my-art-cache\", \"linkedin_url\": \"https://linkedin.com/company/my-art-cache\", \"twitter\": \"https:/twitter.com/my_art_cache\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"my-art-cache\", \"tags\": [{\"id\": 6101482, \"legal_entity_uuid\": \"35948bba-5f97-4491-8fa3-bd7ea7d90283\", \"name\": \"Trading Platform\", \"category\": \"Industry\"}, {\"id\": 6101481, \"legal_entity_uuid\": \"35948bba-5f97-4491-8fa3-bd7ea7d90283\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6101480, \"legal_entity_uuid\": \"35948bba-5f97-4491-8fa3-bd7ea7d90283\", \"name\": \"Art\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/chrsg1jik1k79dnyyqqs",
+                        "name": "My Art Cache"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2019-01-01",
+                    "name": "My Art Cache",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/chrsg1jik1k79dnyyqqs"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Economics",
+                    "degreeType": "Bachelor of Arts - BA",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 503125, \"name\": \"University of Chicago\", \"uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uchicago.png\", \"description\": \"University of Chicago is a private research university that focuses on sciences, medicine, economics, law, business, and others.\", \"headcount\": \"10000+\", \"founding_date\": \"1890-01-01\", \"website\": \"https://www.uchicago.edu\", \"location\": \"Chicago\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2978481, 423036, 754734, 63759, 4132434, 305596], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-chicago\", \"linkedin_url\": \"https://linkedin.com/school/uchicago\", \"twitter\": \"http:/twitter.com/UChicago\", \"last_funding_round_date\": \"2023-10-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 197794202, \"company_li_name\": \"uchicago\", \"tags\": [{\"id\": 4847098, \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Legal\", \"category\": \"Industry\"}, {\"id\": 4847097, \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4847096, \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4847095, \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"E-Learning\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 103890, \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 226, \"hc_estimate_90_days\": 224, \"hc_estimate_180_days\": 252, \"hc_estimate_270_days\": 248, \"hc_estimate_365_days\": 256, \"hc_growth_90_days\": \"0.89000000000000001332267629550187848508358001708984375\", \"hc_growth_180_days\": \"-10.32000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-8.8699999999999992184029906638897955417633056640625\", \"hc_growth_365_days\": \"-11.7200000000000006394884621840901672840118408203125\"}, \"funding_rounds\": [{\"id\": 486947, \"uuid\": \"45e69315-c1db-4e2e-b51d-aa9c49cd718d\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-26\", \"investors\": null}, {\"id\": 85570, \"uuid\": \"46713941-16cb-4746-ac36-b4bd52e04ebf\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-17\", \"investors\": null}, {\"id\": 85569, \"uuid\": \"9307def1-21e1-4d91-b3dd-335697370d44\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 499999, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-11\", \"investors\": null}, {\"id\": 486946, \"uuid\": \"b1f61bfe-22a0-4ff1-bf80-3b1354b7dbc3\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 85568, \"uuid\": \"7d58804a-8f33-497e-8451-48130237885d\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-18\", \"investors\": null}, {\"id\": 85567, \"uuid\": \"5afb01a9-6ac3-4ac3-ad0f-05cecfe7c5f2\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 75000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-28\", \"investors\": null}, {\"id\": 85566, \"uuid\": \"e64941df-c57f-05c8-58e3-d58d480433e2\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 486945, \"uuid\": \"8ff752e9-80fa-4568-b2a7-0e77393423e9\", \"legal_entity_uuid\": \"37e3f455-b8b2-9f5f-5e19-dcf4a247fc65\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1094203, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uchicago.png",
+                        "name": "University of Chicago"
+                    },
+                    "name": "University of Chicago",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uchicago.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "186"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,325 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Eng @ Loom",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science and Economics",
+                        "degreeType": "Bachelor\u2019s Degree",
+                        "endDate": "2020-01-01",
+                        "id": "345",
+                        "startDate": "2016-01-01",
+                        "universityId": 7
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2015-01-01",
+                        "id": "347",
+                        "startDate": "2015-01-01",
+                        "universityId": 216
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2016-01-01",
+                        "id": "346",
+                        "startDate": "2012-01-01",
+                        "universityId": 215
+                    }
+                ],
+                "email": "maitri.shah101@gmail.com",
+                "firstName": "Maitri",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "184",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-01-12T05:17:18",
+                "lastName": "Shah",
+                "linkedinName": "maitri-shah",
+                "linkedinUrl": "https://linkedin.com/in/maitri-shah/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "640ae57b-c0ed-434a-9540-52bccefe8afe",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/8917b249799e19dac8a5f36c993533af/15350b45/DSC_6475.jpg?ts=1659018023&userId=usrMxTlLuLWjeji2x&cs=bfce52cfa17303e4",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "1189",
+                        "organizationId": 886,
+                        "position": "Software Engineer II",
+                        "startDate": "2021-12-01"
+                    },
+                    {
+                        "endDate": "2021-12-01",
+                        "id": "1190",
+                        "organizationId": 887,
+                        "position": "Software Engineer II",
+                        "startDate": "2021-09-01"
+                    },
+                    {
+                        "endDate": "2021-12-01",
+                        "id": "1191",
+                        "organizationId": 5,
+                        "position": "Contrary Fellow (CS21)",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": "2020-04-01",
+                        "id": "1192",
+                        "organizationId": 888,
+                        "position": "Designer",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1193",
+                        "organizationId": 22,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "1194",
+                        "organizationId": 98,
+                        "position": "Software Engineer Intern",
+                        "startDate": "2018-05-01"
+                    },
+                    {
+                        "endDate": "2018-05-01",
+                        "id": "1195",
+                        "organizationId": 889,
+                        "position": "Intern",
+                        "startDate": "2018-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1671903, \"name\": \"Loom\", \"uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/useloom.png\", \"description\": \"Loom is a work communication tool that enables its users to get a message across instantly shareable videos.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-09-01\", \"website\": \"https://www.loom.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2822337, 2007275, 854529], \"executive_people_profile_ids\": [295594, 2997632, 1798815, 2871188, 1667735, 1908449, 3019466, 1876946, 2613388], \"cb_permalink\": \"https://www.crunchbase.com/organization/loom\", \"linkedin_url\": \"https://linkedin.com/company/useloom\", \"twitter\": \"https:/twitter.com/loom\", \"last_funding_round_date\": \"2021-05-20\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 203550000, \"company_li_name\": \"useloom\", \"tags\": [{\"id\": 6261000, \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Video\", \"category\": \"Industry\"}, {\"id\": 6260999, \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}, {\"id\": 6260998, \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Messaging\", \"category\": \"Industry\"}, {\"id\": 6260997, \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6260996, \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Collaboration\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 155616, \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 159, \"hc_estimate_90_days\": 160, \"hc_estimate_180_days\": 168, \"hc_estimate_270_days\": 172, \"hc_estimate_365_days\": 183, \"hc_growth_90_days\": \"-0.63000000000000000444089209850062616169452667236328125\", \"hc_growth_180_days\": \"-5.36000000000000031974423109204508364200592041015625\", \"hc_growth_270_days\": \"-7.55999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-13.1099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 451651, \"uuid\": \"e1c7b94a-c751-428b-b6db-8aebe4643664\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": 1530000000, \"announced_date\": \"2021-05-20\", \"investors\": null}, {\"id\": 451650, \"uuid\": \"e1a6c2e4-fb8b-4467-a4fb-538ecb28dd9a\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 28750000, \"post_money_valuation_usd\": 350000000, \"announced_date\": \"2020-05-28\", \"investors\": null}, {\"id\": 451649, \"uuid\": \"b0ed1f8d-6b7d-473a-a70c-1c4ed54f8658\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-26\", \"investors\": null}, {\"id\": 451648, \"uuid\": \"9fbefa2e-aa2f-47d0-9d55-f3d11f6bc07d\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 11000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-02-19\", \"investors\": null}, {\"id\": 451647, \"uuid\": \"808e1d2b-67d4-d1ea-13e9-6174ff75521f\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}, {\"id\": 451646, \"uuid\": \"cced184a-2735-4e98-375b-e57ad14e0240\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-10-07\", \"investors\": null}, {\"id\": 451645, \"uuid\": \"05174ad5-5150-4abc-97f3-bcb6bf402e8a\", \"legal_entity_uuid\": \"f0e550f2-0b3e-f494-123c-4edfb75caa6c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-03-22\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/useloom.png",
+                        "name": "Loom"
+                    },
+                    "position": "Software Engineer II",
+                    "startDate": "2021-12-01",
+                    "name": "Loom",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/useloom.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-12-01",
+                    "legalEntity": "{\"id\": 727409, \"name\": \"NerdWallet\", \"uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/jw2jl3gxmncythz8ajs4\", \"description\": \"NerdWallet develops a financial platform to help people find the right credit cards and mortgage rates.\", \"headcount\": \"501-1000\", \"founding_date\": \"2009-01-01\", \"website\": \"http://www.nerdwallet.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1887225, 907122], \"executive_people_profile_ids\": [1002001, 323292, 2972830, 2899166, 3412005, 853057, 2305997, 2854082, 2641147, 907122, 732153, 1144521, 2864281, 1754072, 3299216, 1842766, 2278026, 1496740, 431521, 2869480, 2456676, 2168765, 1214438, 1887225, 1735131, 1607515], \"cb_permalink\": \"https://www.crunchbase.com/organization/nerdwallet\", \"linkedin_url\": \"https://linkedin.com/company/nerdwallet\", \"twitter\": \"http:/twitter.com/NerdWallet\", \"last_funding_round_date\": \"2021-05-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 105000000, \"company_li_name\": \"nerdwallet\", \"tags\": [{\"id\": 4847302, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Personal Finance\", \"category\": \"Industry\"}, {\"id\": 4847301, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 4847300, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4847299, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Consumer\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 78149, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 653, \"hc_estimate_90_days\": 668, \"hc_estimate_180_days\": 663, \"hc_estimate_270_days\": 662, \"hc_estimate_365_days\": 664, \"hc_growth_90_days\": \"-2.25\", \"hc_growth_180_days\": \"-1.5100000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"-1.3600000000000000976996261670137755572795867919921875\", \"hc_growth_365_days\": \"-1.6599999999999999200639422269887290894985198974609375\"}, \"funding_rounds\": [{\"id\": 323184, \"uuid\": \"2fa027c0-786d-44c6-8ce7-225e0fa4fa95\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 510000000, \"announced_date\": \"2021-05-21\", \"investors\": null}, {\"id\": 323183, \"uuid\": \"912e13a4-0689-4760-af57-0340ec64af70\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 510000000, \"announced_date\": \"2021-05-07\", \"investors\": null}, {\"id\": 323182, \"uuid\": \"15a617c1-cfd0-b398-93d1-609a0ad77ebf\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": 510000000, \"announced_date\": \"2015-10-21\", \"investors\": null}, {\"id\": 323180, \"uuid\": \"fce12ad1-17b2-7306-891c-da65454a27af\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 64000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-11\", \"investors\": null}, {\"id\": 323181, \"uuid\": \"6ab1c820-d1c8-059e-a4e8-54f616d4f666\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 36000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-11\", \"investors\": null}, {\"id\": 323179, \"uuid\": \"efcb4f03-f990-4a15-b000-6d9e88e1e2fb\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jw2jl3gxmncythz8ajs4",
+                        "name": "NerdWallet"
+                    },
+                    "position": "Software Engineer II",
+                    "startDate": "2021-09-01",
+                    "name": "NerdWallet",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jw2jl3gxmncythz8ajs4"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-12-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Contrary Fellow (CS21)",
+                    "startDate": "2021-04-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": "{\"id\": 727409, \"name\": \"NerdWallet\", \"uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/jw2jl3gxmncythz8ajs4\", \"description\": \"NerdWallet develops a financial platform to help people find the right credit cards and mortgage rates.\", \"headcount\": \"501-1000\", \"founding_date\": \"2009-01-01\", \"website\": \"http://www.nerdwallet.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1887225, 907122], \"executive_people_profile_ids\": [1002001, 323292, 2972830, 2899166, 3412005, 853057, 2305997, 2854082, 2641147, 907122, 732153, 1144521, 2864281, 1754072, 3299216, 1842766, 2278026, 1496740, 431521, 2869480, 2456676, 2168765, 1214438, 1887225, 1735131, 1607515], \"cb_permalink\": \"https://www.crunchbase.com/organization/nerdwallet\", \"linkedin_url\": \"https://linkedin.com/company/nerdwallet\", \"twitter\": \"http:/twitter.com/NerdWallet\", \"last_funding_round_date\": \"2021-05-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 105000000, \"company_li_name\": \"nerdwallet\", \"tags\": [{\"id\": 4847302, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Personal Finance\", \"category\": \"Industry\"}, {\"id\": 4847301, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 4847300, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4847299, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Consumer\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 78149, \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 653, \"hc_estimate_90_days\": 668, \"hc_estimate_180_days\": 663, \"hc_estimate_270_days\": 662, \"hc_estimate_365_days\": 664, \"hc_growth_90_days\": \"-2.25\", \"hc_growth_180_days\": \"-1.5100000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"-1.3600000000000000976996261670137755572795867919921875\", \"hc_growth_365_days\": \"-1.6599999999999999200639422269887290894985198974609375\"}, \"funding_rounds\": [{\"id\": 323184, \"uuid\": \"2fa027c0-786d-44c6-8ce7-225e0fa4fa95\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 510000000, \"announced_date\": \"2021-05-21\", \"investors\": null}, {\"id\": 323183, \"uuid\": \"912e13a4-0689-4760-af57-0340ec64af70\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 510000000, \"announced_date\": \"2021-05-07\", \"investors\": null}, {\"id\": 323182, \"uuid\": \"15a617c1-cfd0-b398-93d1-609a0ad77ebf\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": 510000000, \"announced_date\": \"2015-10-21\", \"investors\": null}, {\"id\": 323180, \"uuid\": \"fce12ad1-17b2-7306-891c-da65454a27af\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 64000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-11\", \"investors\": null}, {\"id\": 323181, \"uuid\": \"6ab1c820-d1c8-059e-a4e8-54f616d4f666\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 36000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-11\", \"investors\": null}, {\"id\": 323179, \"uuid\": \"efcb4f03-f990-4a15-b000-6d9e88e1e2fb\", \"legal_entity_uuid\": \"462a3aa6-908d-d081-0657-737d92b11ece\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jw2jl3gxmncythz8ajs4",
+                        "name": "NerdWallet"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-05-01",
+                    "name": "NerdWallet",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jw2jl3gxmncythz8ajs4"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boss-women-collective.png",
+                        "name": "Boss Women Collective"
+                    },
+                    "position": "Designer",
+                    "startDate": "2020-01-01",
+                    "name": "Boss Women Collective",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/boss-women-collective.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 389495, \"name\": \"Amazon\", \"uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/amazon.png\", \"description\": \"Amazon is a global tech firm with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence.\", \"headcount\": \"10000+\", \"founding_date\": \"1994-07-05\", \"website\": \"https://amazon.com\", \"location\": \"Seattle\", \"country\": \"USA\", \"region\": \"Washington\", \"founder_people_profile_ids\": [3161943, 3395146], \"executive_people_profile_ids\": [378265, 1589927, 2195483, 440750, 1638887, 1578574, 536852, 2323601, 2878334, 2475333, 2800569, 1191890, 3270694, 1151741, 2300867, 888797, 2892639, 2255991, 1840788, 2670566, 2485018, 2930646, 2585107, 3020958, 117657, 669798, 178676, 3135758, 3202000, 2515178, 1458887, 3007595, 1891855, 2281451, 2903458, 411656, 15035, 606170, 2616283, 666873, 2168646, 2149907, 1285490, 2700390, 3555717, 136187, 777525, 1782376, 709027, 481520, 2410576, 2396362, 1130464, 1539462, 955704, 2004780, 81863, 1795142, 369363, 3350880, 575186, 1377701, 1594882, 2506977, 1257585, 958585, 669952, 889063, 2867045, 192845, 112892, 132475, 79888, 2807671, 439106, 109410, 616373, 2455342, 1589158, 2059570, 1330407, 999847, 2123066, 54296, 2674657, 1134806, 2871065, 2600381, 2966295, 2207742, 2313714, 2516460, 1739292, 1857716, 2043207, 2911441, 252405, 3080762, 431189, 1538264, 2847089, 2187992, 598857, 1909513, 3099479, 3284026, 1485446, 2991647, 3115473, 3051401, 2429122, 2315392, 2145122, 1529557, 2727834, 2405427, 1494615, 888108, 3195150, 3198704, 167163, 3105019, 2397042, 177767, 1151301, 2614672, 949313, 3240215, 1390304, 2722733, 785445, 2667408, 606158, 158199, 2951342, 2183515, 966999, 2453573, 2341605, 1791550, 987772, 947901, 2782615, 1645252, 1262886, 1680721, 2488153, 2230078, 2812636, 2911227, 123543, 177635, 1867858, 980282, 2334870, 1641273, 1484327, 2248706, 1799286, 1998852, 3186253, 2343465, 3287817, 198576, 3563970, 2901870, 43827, 2004550, 2621394, 245065, 2386039, 2759242, 1741166, 2272795, 1643385, 2529053, 1084373, 1462253, 680696, 1084355, 1579382, 1962081, 263995, 390683, 1491885, 3321505, 1758049, 3186372, 1869222, 365926, 3350343, 1881399, 1015188, 2114820, 1492579, 2091706, 3047762, 3106994, 3141086, 3391987, 2344478, 1505740, 778865, 709823, 1459239, 2470110, 845070, 2740825, 723255, 1473563, 2030325, 2366611, 1661239, 1866465, 1005894, 3523195, 486444, 1051948, 2510295, 1166568, 3220948, 2091304, 1437263, 3337429, 1735542, 2158534, 2602637, 1318861, 940671, 3624655, 3814281, 56665, 481366, 3115400, 2191173, 2815546, 2062503, 2187329, 2925911, 1234738, 537027, 1553043, 1522463, 1018661, 1084929, 2579918, 1455501, 2263888, 2661673, 56002, 744578, 852089, 2375749, 1565552, 1591930, 1071042, 1987974, 122438, 1421492, 3827398, 2605593, 2959320, 53130, 1932148, 717672, 788919, 243069, 2853975, 1131922, 1781107, 2471149, 937383, 2736144, 2305577, 3226433, 2049054, 3314135, 2412112, 2789636, 3555437, 1371719, 2926718, 2714876, 2740693, 1413409, 3129676, 3189116, 452490, 456202, 591090, 3413640, 719149, 132256, 3136261, 2704458, 1779810, 2119635, 3390671, 3138142, 2782746, 1472827, 1320053, 3007785, 1320006, 1723860, 1200636, 2405669, 508317, 2700478, 1678384, 838413, 2228438, 1133020, 2706023, 1544381, 679614, 1807997, 2012960, 1866508, 554927, 1470202, 1765172, 3346647, 3594265, 1843058, 731607, 596723, 296880, 192968, 1500323, 1121894, 877518, 2076656, 3367510, 1532620, 1852555, 301826, 1945427, 2000237, 776370, 164055, 2841439, 680167, 2793542, 3186450, 1811527, 1959916, 3049466, 1161706, 2562280, 223234, 1797814, 1536580, 631267, 3270881, 2780663, 2854639, 1948952, 3566488, 2671769, 2896785, 2145618, 2884691, 2123204, 3348858, 1871254, 39839, 1201420, 1110796, 1385763, 2527268, 2019099, 1538008, 1958301, 1011313, 3520044, 3831192, 1737120, 2328817, 1282586, 1184836, 1081307, 1006663, 3385577, 2045850, 2942421, 907144, 121866, 1697727, 1995821, 2202123, 339394, 2969138, 2676913, 2439381, 2161042, 1123686, 1611271, 916211, 993007, 1816302, 2747780, 434862, 848064, 2150624, 1325815, 1213636, 2349389, 4056890, 55293, 2671142, 483471, 2411162, 36083, 2225277, 326786, 1123069, 1993857, 251987, 430751, 1914888, 3821895, 2197283, 2898932, 667683, 2437057, 2201963, 140961, 636406, 1378450, 1304197, 712154, 582517, 1214221, 1197595, 1299030, 758470, 80970, 2831380, 2190764, 36031, 177697, 416369, 2533796, 389779, 2924430, 2189776, 792340, 615702, 77092, 858767, 1263082, 2124271, 1863432, 1552222, 2600924, 749649, 672584, 1309867, 2477831, 2802696, 1005206, 691271, 2642355, 1934196, 321441, 1239989, 197880, 2844810, 2424007, 4071831, 2203447, 1250291, 1776478, 3591957, 974157, 1350168, 2004621, 2607300, 3053096, 2538383, 2014428, 498877, 2063994, 1101748, 2873961, 3236909, 817791, 286145, 2598761, 1213101, 93633, 2882388, 3822966, 2317160, 1202818, 2128340, 2412110, 64191, 45641, 637105, 1733879, 871842, 640808, 3364552, 336828, 1718619, 2137829, 3400213, 986545, 1368910, 1874179, 2627149, 2662004, 840972, 1849493, 177736, 611614, 3384367, 1732714, 2255648, 2948365, 3247880, 3161121, 3166491, 2734064, 1325490, 2710144, 902244, 584225, 3636170, 396280, 1462802, 959504, 3604753, 2757259, 582259, 2659830, 603122, 2105024, 273251, 181590, 429153, 1328937, 3104278, 1318003, 672299, 593610, 174964, 700548, 231924, 352339, 2245486, 1121097, 1408551, 2826201, 1485846, 1234919, 3199468, 1216679, 3289326, 3271013, 95919, 2752089, 2744906, 624814, 2671621, 1869532, 1849850, 1611525, 1623497, 2303797, 355054, 2642834, 1242686, 2396445, 2403533, 1524993, 1587530, 2722522, 306694, 703974, 2134529, 2403102, 3395386, 2141580, 2867442, 2812986, 1722513, 1323406, 1829708, 1159715, 3238974, 2019805, 970898, 288645, 745312, 170344, 2840723, 1412060, 602916, 2850142, 709469, 798873, 2569061, 2737801, 1521777, 2389491, 1629875, 1455098, 3161962, 3064871, 2791082, 802893, 2738356, 2491228, 3240031, 2848403, 1142978, 571605, 2848453, 460222, 3293255, 2509816, 1773519, 1986745, 1136228, 3257303, 2800148, 27120, 3831419, 2226581, 2038940, 1432671, 2782743, 1466716, 1427375, 1442149, 4066406, 666566, 2188736, 241988, 598084, 1839118, 2159920, 82358, 2316894, 2728071, 965400, 803369, 1296452, 2405554, 785460, 519862, 381500, 1303898, 3516150, 2989891, 1662915, 13149, 2888977, 3189098, 3260928, 1098211, 2948050, 499802, 809305, 1852840, 2449768, 3318166, 3020112, 870707, 530150, 3160037, 1473802, 895941, 2969718, 551367, 3604137, 234239, 2669867, 1622242, 1734387, 2014756, 2545364, 1715532, 2840412, 940768, 1309570, 268507, 3024946, 575250, 2922088, 1309204, 2991904, 308921, 3395954, 1351394, 1879479, 1843025, 2061032, 2318561, 3402113, 891327, 579319, 2408146, 699000, 3631428, 2524954, 1881618, 2156987, 2995427, 1421687, 2933765, 616691, 1039190, 574560, 2756754, 1081548, 2159208, 2056515, 406229, 1039297, 3119129, 393811, 1039173, 3026263, 907581, 64074, 1013381, 2905437, 555788, 2356489, 1801971, 1324496, 3610666, 919805, 1959978, 46013, 75815, 936225, 2449047, 1855124, 2263495, 1145511, 306128, 2795277, 2326734, 3183292, 1441185, 2495397, 2412703, 83257, 1018599, 1028552, 600470, 1907905, 688365, 2903682, 2178233, 864999, 2229940, 777551, 1156200, 3540595, 2189542, 378977, 3300161, 1818556, 881987, 2525135, 242086, 849767, 2687515, 3833016, 3357041, 1846921, 1355277, 256531, 2362939, 3002609, 3833448, 3397241, 45837, 1953974, 2655953, 4057324, 2624087, 1093409, 509352, 3329154, 3199955, 2614230, 2910863, 1397311, 2039198, 1563660, 1051499, 180412, 2477572, 1179924, 1412065, 2051732, 492253, 3548744, 1906809, 1811437, 872637, 1071009, 325300, 662524, 1714001, 657397, 2174660, 2873245, 2168913, 657370, 460546, 2609838, 861465, 3570333, 1436346, 2567690, 948380, 3106641, 2936855, 957948, 2848593, 3112270, 277649, 2868198, 2165132, 3013964, 2506564, 841218, 1530785, 3509476, 2614488, 1926624, 550840, 1986383, 3306618, 334677, 1357359, 68131, 1666635, 1452435, 215524, 1508748, 1834521, 1217149, 936793, 2961760, 2716983, 1970509, 710896, 1285286, 2937598, 749519, 47164, 863903, 3799154, 2756872, 1014043, 1547731, 2967113, 2328746, 1361747, 2267957, 2809195, 588425, 3373002, 3202717, 2752831, 1712804, 1948386, 2685630, 1872057, 437793, 2954486, 2692103, 840123, 563296, 404825, 1334877, 2491523, 1796627, 782693, 375473, 365828, 605785, 1590322, 3135176, 839151, 1246936, 459524, 1752787, 2043966, 1286371, 2306960, 141558, 1803321, 2715478, 1229906, 1687969, 1786394, 2355914, 2882255, 859446, 2517380, 2069501, 2369605, 2904564, 2478158, 415034, 3026059, 1395359, 2361080, 693133, 2393569, 917634, 2950544, 772118, 980999, 1817476, 288391, 1493763, 2195405, 182925, 1641429, 2582927, 3119200, 3145898, 3350306, 3255500, 615782, 1841124, 2402201, 1755541, 1373548, 1905693, 708798, 1757579, 3511378, 2580347, 1475502, 1191158, 2303254, 452495, 2014728, 2092112, 1800411, 2219837, 1699948, 2918465, 3817932, 1067064, 3556574, 3208429, 344786, 1843298, 1780233, 2854668, 1296469, 2282373, 2365020, 2304485, 485450, 1523596, 2997262, 3506914, 940578, 2170368, 1052556, 2417884, 2457483, 3635643, 257490, 36699, 2436692, 2004562, 947819, 70356, 2926214, 225481, 2472834, 1488937, 1226798, 154152, 2829535, 92327, 1706992, 3185357, 945167, 1829423, 3132217, 379294, 2135901, 1865756, 2319184, 1197383, 2395154, 2920912, 1578076, 682138, 29973, 1212402, 162859, 1850550, 609396, 2326754, 2787708, 937958, 3524549, 893280, 55413, 3131033, 1989073, 3189669, 2705662, 1785776, 390697, 1426216, 1394993, 750043, 1356865, 3075327, 2513887, 3167199, 878735, 2534543, 1710763, 1634341, 2396038, 443384, 781824, 2440684, 554273, 3402551, 1717690, 3132891, 373299, 76183, 120268, 85199, 3156531, 1353634, 1103223, 4086084, 582599, 1915342, 2011588, 2622089, 2157885, 1473353, 726318, 1914609, 614831, 2467909, 1387747, 1712171, 871714, 416666, 1071230, 53288, 973129, 2201149, 453030, 3144033, 909535, 3403133, 772502, 410830, 1960659, 3270794, 2919242, 1141696, 1502689, 1432646, 1068759, 3032543, 255665, 555135, 2459192, 1997427, 941744, 3124978, 2040787, 3241338, 550884, 286810, 1683116, 353006, 889858, 159128, 3818829, 2106875, 1274377, 1119019, 543982, 1452652, 1850404, 2581139, 376393, 422089, 1903452, 2533230, 407020, 1067973, 683349, 2395992, 350250, 2175728, 2015328, 84428, 740998, 2859227, 3107284, 557158, 3317887, 1942079, 421693, 1519906, 2199692, 3085457, 2310925, 514999, 252106, 2110202, 1381872, 2087088, 2357276, 3031696, 2640728, 2888777, 1248384, 2938949, 659293, 166814, 2929371, 3334146, 3005353, 2670053, 302954, 2019559, 1966289, 533923, 310205, 663695, 3803309, 1068041, 1532787, 1384756, 275436, 1996933, 2465855, 2419277, 756587, 859691, 2711664, 3600239, 440553, 455939, 2202663, 937629, 3316805, 2273286, 4067462, 3063356, 2718921, 164723, 2152803, 2760349, 1389822, 194148, 1038437, 885844, 2450187, 1961192, 3221875, 3149546, 2040763, 1676087, 189854, 1465253, 3189090, 13628, 58704, 2594798, 2840248, 1041057, 218350, 2453277, 3260792, 2040121, 806843, 3138308, 3147412, 2524193, 2154883, 692629, 872845, 2839147, 2580359, 2383392, 74550, 2907565, 1430400, 3515560, 810194, 1852639, 2097164, 2106019, 924893, 1684295, 2794245, 2720895, 2717840, 2907235, 2080032, 1817576, 404253, 1325299, 1082325, 2877974, 704266, 454922, 2705777, 1739512, 3082626, 1412500, 1074595, 128380, 2990748, 2439739, 689241, 2670680, 2323980, 2512357, 526370, 226873, 3303434, 3236611, 3097032, 355425, 882006, 2605891, 324900, 2538241, 1082732, 3407319, 1285380, 1186332, 431262, 1014910, 2790787, 2152655, 3722973, 702226, 3208352, 2497653, 2700089, 1634937, 2155406, 1588380, 641206, 1249941, 2224705, 1877877, 1515517, 1893522, 452541, 1050093, 1356334, 1875839, 178023, 994591, 3318108, 2308381, 750759, 2630612, 2620389, 2291047, 1494125], \"cb_permalink\": \"https://www.crunchbase.com/organization/amazon\", \"linkedin_url\": \"https://linkedin.com/company/amazon\", \"twitter\": \"https:/www.twitter.com/amazon\", \"last_funding_round_date\": \"2023-01-03\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 8108000000, \"company_li_name\": \"amazon\", \"tags\": [{\"id\": 4841189, \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"Crowdsourcing\", \"category\": \"Industry\"}, {\"id\": 4841190, \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"Delivery\", \"category\": \"Industry\"}, {\"id\": 4841191, \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 4841192, \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"Retail\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 138769, \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 114961, \"hc_estimate_90_days\": 117232, \"hc_estimate_180_days\": 115980, \"hc_estimate_270_days\": 119142, \"hc_estimate_365_days\": 119902, \"hc_growth_90_days\": \"-1.939999999999999946709294817992486059665679931640625\", \"hc_growth_180_days\": \"-0.88000000000000000444089209850062616169452667236328125\", \"hc_growth_270_days\": \"-3.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-4.12000000000000010658141036401502788066864013671875\"}, \"funding_rounds\": [{\"id\": 242720, \"uuid\": \"ef26864e-2742-416a-bc4c-50a3d0a3ef4a\", \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 8000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-03\", \"investors\": null}, {\"id\": 242719, \"uuid\": \"8958c868-886a-921e-26f0-3c7992839b5e\", \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2001-07-24\", \"investors\": null}, {\"id\": 242718, \"uuid\": \"9af93d50-2a01-1ed7-8755-d69165f0d646\", \"legal_entity_uuid\": \"05554f65-6aa9-4dd1-6271-8ce2d60f10c4\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"1996-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/amazon.png",
+                        "name": "Amazon"
+                    },
+                    "position": "Software Engineer Intern",
+                    "startDate": "2019-05-01",
+                    "name": "Amazon",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/amazon.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 135528, \"name\": \"Workday\", \"uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/wkcmugw15pjmsqtnhoxe\", \"description\": \"Workday provides SaaS-based enterprise solutions for a companys human resources and financial management activities.\", \"headcount\": \"10000+\", \"founding_date\": \"2005-03-01\", \"website\": \"http://www.workday.com\", \"location\": \"Pleasanton\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2835744, 846107], \"executive_people_profile_ids\": [96758, 1514589, 522761, 1198778, 988677, 1992710, 3027123, 80539, 461504, 273715, 1307151, 630521, 631834, 1993051, 2009087, 1171386, 134706, 1208642, 1840465, 816631, 2990081, 2872038, 505498, 2268962, 2128738, 996930, 1973166, 2832936, 114083, 846107, 475933, 157279, 636937, 434, 2680069, 2569278, 1894470, 3224615, 578903, 262425, 1016440, 1296101, 1555134, 1777092, 810472, 2018586, 1160760, 1514678, 2356507, 2849067, 1743626, 1973913, 901695, 405139, 1096323, 1099351, 3350486, 1187076, 1876829, 1967585, 3237145, 409954, 801850, 2243254, 568576, 2280197, 2115197, 2373273, 2835744, 1064006, 797950, 1153107, 2712749, 1066365, 3109081, 2143182, 2810943, 3282946, 236540, 611025, 1212495, 1606717, 1482479, 2534603, 2149176, 1692195, 1970067, 3112059, 1992095], \"cb_permalink\": \"https://www.crunchbase.com/organization/workday\", \"linkedin_url\": \"https://linkedin.com/company/workday\", \"twitter\": \"http:/twitter.com/Workday\", \"last_funding_round_date\": \"2011-10-24\", \"last_funding_round_name\": \"Series F\", \"total_funding_amount\": 230550000, \"company_li_name\": \"workday\", \"tags\": [{\"id\": 6368419, \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6368420, \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Human Resources\", \"category\": \"Industry\"}, {\"id\": 6368421, \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6368422, \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 799, \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7228, \"hc_estimate_90_days\": 7202, \"hc_estimate_180_days\": 7019, \"hc_estimate_270_days\": 6916, \"hc_estimate_365_days\": 6832, \"hc_growth_90_days\": \"0.35999999999999998667732370449812151491641998291015625\", \"hc_growth_180_days\": \"2.979999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"4.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"5.79999999999999982236431605997495353221893310546875\"}, \"funding_rounds\": [{\"id\": 173416, \"uuid\": \"479371b1-2a58-3d2b-a1e5-6748408d9e4a\", \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 85000000, \"post_money_valuation_usd\": 2000000000, \"announced_date\": \"2011-10-24\", \"investors\": null}, {\"id\": 173415, \"uuid\": \"ce86f740-095e-ae55-3ffa-d8becb7edfbb\", \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 75000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-04-29\", \"investors\": null}, {\"id\": 173414, \"uuid\": \"39f8cb98-759b-68f3-4bba-70633c141df2\", \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-09-05\", \"investors\": null}, {\"id\": 173413, \"uuid\": \"4ec066b3-20bd-2557-f8d8-8cfeffa5147d\", \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-01-19\", \"investors\": null}, {\"id\": 173412, \"uuid\": \"be7daf0a-9886-bf1f-6185-9ce6cdf203aa\", \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2006-12-28\", \"investors\": null}, {\"id\": 173411, \"uuid\": \"4262e73e-9829-38f9-8212-e3408d2d6e07\", \"legal_entity_uuid\": \"b9d62289-d55f-2692-f290-1433172f8289\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-05-17\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wkcmugw15pjmsqtnhoxe",
+                        "name": "Workday"
+                    },
+                    "position": "Software Engineer Intern",
+                    "startDate": "2018-05-01",
+                    "name": "Workday",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wkcmugw15pjmsqtnhoxe"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Kiwi Campus"
+                    },
+                    "position": "Intern",
+                    "startDate": "2018-01-01",
+                    "name": "Kiwi Campus",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "None",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Amador Valley High School"
+                    },
+                    "name": "Amador Valley High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "15",
+                    "value": "Freelancer"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "64",
+                    "value": "Indian"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "61",
+                    "value": "Asian"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "67",
+                    "value": "Immigrants"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "184"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

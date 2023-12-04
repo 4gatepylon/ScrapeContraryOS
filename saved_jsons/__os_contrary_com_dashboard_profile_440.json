@@ -1,0 +1,181 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Founder of Plexus",
+                "educationExperiences": [
+                    {
+                        "degree": "Symbolic Systems",
+                        "degreeType": "Bachelors",
+                        "endDate": "2023-01-01",
+                        "id": "806",
+                        "startDate": "2018-01-01",
+                        "universityId": 417
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2018-01-01",
+                        "id": "807",
+                        "startDate": "2014-01-01",
+                        "universityId": 254
+                    }
+                ],
+                "email": "davey@plexusnotes.com",
+                "firstName": "David",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "440",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Morse",
+                "linkedinName": "davey-morse-25131a182",
+                "linkedinUrl": "https://linkedin.com/in/davey-morse-25131a182/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "61f0be7e-ddb4-4ca5-8262-08c6bd727c1c",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/5231e82b5b14e5f85085fc768cc4b5d7/474f85e5/Face?ts=1659020057&userId=usrMxTlLuLWjeji2x&cs=cc81b5013d65af63",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3823",
+                        "organizationId": 2895,
+                        "position": "Founder",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4654",
+                        "organizationId": 984442,
+                        "position": "Founder",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2888",
+                        "organizationId": 1929,
+                        "position": "Founder",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "2889",
+                        "organizationId": 24,
+                        "position": "Screen Time Intern",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "2890",
+                        "organizationId": 1930,
+                        "position": "Engineering Intern",
+                        "startDate": "2019-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/plexusnotes.png",
+                        "name": "Plexus Earth"
+                    },
+                    "position": "Founder",
+                    "startDate": "2021-08-01",
+                    "name": "Plexus Earth",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/plexusnotes.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 344067, \"name\": \"Apple\", \"uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/s1cihnpc1cnekihotv0e\", \"description\": \"Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.\", \"headcount\": \"10000+\", \"founding_date\": \"1976-04-01\", \"website\": \"http://www.apple.com\", \"location\": \"Cupertino\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [3412065, 2020815, 3317101], \"executive_people_profile_ids\": [35565, 41219, 230967, 241743, 311162, 580623, 1335261, 670983, 693622, 1585520, 742820, 1137999, 1797979, 656164, 793064, 795489, 806135, 2014773, 955326, 275306, 1402099, 2684037, 2257273, 2418991, 2419550, 3148733, 2207486, 1466254, 1349621, 2058151, 2127941, 1505448, 2506673, 2510618, 3132219, 2403695, 3225448, 96587, 467889, 589940, 602535, 876910, 1310643, 1325754, 1329409, 919059, 636393, 127118, 326958, 445351, 2020815, 703719, 702107, 2307210, 1514468, 951684, 1037221, 1036659, 2679493, 1395527, 2962931, 383680, 3382948, 1349724, 2227340, 2568661, 2562774, 2569921, 2584552, 491853, 842218, 2066906, 1691087, 3190244, 2375353, 2607864, 2616353, 2811947, 3340341, 2399640, 2782262, 2797239, 203898, 106222, 66557, 455133, 114172, 999712, 476300, 1425798, 1584959, 1587977, 1544376, 1796729, 632902, 792000, 1753663, 1999823, 1514073, 133014, 134358, 137584, 1051538, 1208718, 2253798, 525352, 2708773, 2904728, 2923667, 3309657, 3320151, 1523777, 1834417, 2204789, 755580, 1949511, 779475, 489968, 971282, 1181504, 1657156, 1889134, 2356061, 2372702, 2128868, 1510738, 1974476, 3231560, 2640608, 3215708, 3223871, 39177, 580410, 579457, 1002290, 1008124, 1014374, 1315652, 644749, 1798022, 812027, 2014721, 2020711, 145439, 1395557, 277633, 2684062, 2241549, 3159529, 1074089, 1906014, 1962639, 2101756, 2153535, 1380715, 2270125, 2269306, 2736393, 2933277, 2934891, 1492329, 1727599, 1725461, 2351446, 2522307, 2526749, 3287515, 3132371, 3324709, 3343203, 2799609, 2794881, 3211000, 3212447, 3216878, 94957, 61335, 574936, 212310, 123556, 903227, 1436807, 1436557, 1440319, 1587606, 1287680, 1302090, 1771712, 795218, 2026166, 127333, 1996284, 811589, 2021313, 2297470, 1176681, 953802, 132137, 2050863, 2684463, 1214026, 2259297, 364251, 2906426, 2899914, 3317101, 1715564, 2085061, 2575178, 1377884, 2594588, 1179254, 1635069, 2892984, 1669224, 2957225, 2127201, 2841386, 2854254, 3136064, 3336056, 2409313, 38605, 205120, 459108, 207960, 122745, 123645, 886642, 481073, 918766, 739641, 2023175, 806277, 2022059, 2316832, 2027879, 275917, 363891, 2255230, 2962353, 382071, 3162011, 3400855, 1694151, 1709612, 1723035, 1906457, 2227292, 2161332, 978055, 1189156, 1193530, 1650186, 2071407, 2465455, 1881742, 2742892, 2121203, 2325074, 1751981, 3064483, 3137717, 2195024, 3225859, 473224, 1776245, 1777501, 810403, 365496, 2965730, 2702198, 2987106, 558681, 3399424, 1518851, 1524043, 1529688, 1824443, 2207912, 1482564, 1355014, 755040, 490119, 2869208, 491929, 504739, 1644811, 2076001, 988775, 1877970, 2932804, 2597661, 1724433, 2506096, 2811052, 3242573, 3134690, 2386931, 3229856, 95699, 53120, 205352, 357586, 1330115, 1436551, 1126434, 614938, 1803798, 656227, 1765009, 2023073, 806857, 718516, 325431, 2017740, 2028718, 959567, 1393960, 3303596, 2897716, 3163401, 1481978, 1354250, 1713310, 1720309, 2106442, 1262775, 815051, 504761, 1864067, 3083548, 2283591, 2467879, 3412065, 1727451, 2353822, 2512083, 3241775, 3135429, 3137834, 3341495, 2194892, 2196851], \"cb_permalink\": \"https://www.crunchbase.com/organization/apple\", \"linkedin_url\": \"https://linkedin.com/company/apple\", \"twitter\": \"https:/www.twitter.com/apple\", \"last_funding_round_date\": \"2021-04-30\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 1155230000, \"company_li_name\": \"apple\", \"tags\": [{\"id\": 6365615, \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Wearables\", \"category\": \"Industry\"}, {\"id\": 6365614, \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Operating Systems\", \"category\": \"Industry\"}, {\"id\": 6365613, \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Mobile Devices\", \"category\": \"Industry\"}, {\"id\": 6365612, \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 6365611, \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Consumer Electronics\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 140782, \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 55102, \"hc_estimate_90_days\": 55721, \"hc_estimate_180_days\": 54705, \"hc_estimate_270_days\": 54365, \"hc_estimate_365_days\": 53823, \"hc_growth_90_days\": \"-1.1100000000000000976996261670137755572795867919921875\", \"hc_growth_180_days\": \"0.729999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"1.3600000000000000976996261670137755572795867919921875\", \"hc_growth_365_days\": \"2.37999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 83681, \"uuid\": \"45845def-e18d-4db8-abb6-c0d3d82624d3\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 50000, \"announced_date\": \"2021-04-30\", \"investors\": null}, {\"id\": 83680, \"uuid\": \"b81d3aa0-5244-4dcd-da94-3c0e836175c3\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": 55000000, \"announced_date\": \"2017-09-06\", \"investors\": null}, {\"id\": 83679, \"uuid\": \"f55d6230-425c-42a2-8249-a8404d521953\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 50000, \"announced_date\": \"2017-07-12\", \"investors\": null}, {\"id\": 83678, \"uuid\": \"2ddfd6bc-b8f9-d591-ecbc-2b44c7d42aa4\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 1000000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-05-16\", \"investors\": null}, {\"id\": 83677, \"uuid\": \"68a70270-0bdc-6726-376c-0eb9d8c44580\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"1997-08-01\", \"investors\": null}, {\"id\": 83676, \"uuid\": \"3846fee8-72aa-464a-a8ee-45c58b04e9e5\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 150000, \"post_money_valuation_usd\": null, \"announced_date\": \"1978-05-04\", \"investors\": null}, {\"id\": 83675, \"uuid\": \"17f74f05-0394-203d-d671-7c0faaf90c55\", \"legal_entity_uuid\": \"7063d087-96b8-2cc1-ee88-c221288acc2a\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 80000, \"post_money_valuation_usd\": null, \"announced_date\": \"1977-05-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/s1cihnpc1cnekihotv0e",
+                        "name": "Apple"
+                    },
+                    "position": "Screen Time Intern",
+                    "startDate": "2020-06-01",
+                    "name": "Apple",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/s1cihnpc1cnekihotv0e"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 1691914, \"name\": \"Frontier Signal\", \"uuid\": \"8c98db29-3fde-41b2-98d0-ad107aa1c6c1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/poyxwojp3fovl125ddys\", \"description\": \"Frontier Signal is dedicated to giving all talent a better opportunity to secure a job.\", \"headcount\": \"11-50\", \"founding_date\": \"2018-01-01\", \"website\": \"https://www.frontiersignal.com/\", \"location\": \"Brooklyn\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/frontier-signal\", \"linkedin_url\": \"https://linkedin.com/company/frontier-signal\", \"twitter\": \"https:/www.twitter.com/https:/twitter.com/frontiersignal\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"frontier-signal\", \"tags\": [{\"id\": 5508709, \"legal_entity_uuid\": \"8c98db29-3fde-41b2-98d0-ad107aa1c6c1\", \"name\": \"Computer\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 151075, \"legal_entity_uuid\": \"8c98db29-3fde-41b2-98d0-ad107aa1c6c1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/poyxwojp3fovl125ddys",
+                        "name": "Frontier Signal"
+                    },
+                    "position": "Engineering Intern",
+                    "startDate": "2019-05-01",
+                    "name": "Frontier Signal",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/poyxwojp3fovl125ddys"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Symbolic Systems",
+                    "degreeType": "Bachelors",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Williams College"
+                    },
+                    "name": "Williams College",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 1627485, \"name\": \"The Dalton School\", \"uuid\": \"486badd4-3e01-62cf-9d5f-ff5914e4362b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v0df7rzwaw2drj4pqbab\", \"description\": \"The Dalton School is an independent, co-educational, day school with grades K-12 focusing on rigor, community, and innovation.\", \"headcount\": \"251-500\", \"founding_date\": \"1919-01-01\", \"website\": \"https://www.dalton.org\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [102616], \"cb_permalink\": \"https://www.crunchbase.com/organization/the-dalton-school\", \"linkedin_url\": \"https://linkedin.com/company/dalton-school\", \"twitter\": \"https:/www.twitter.com/daltonschool\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"dalton-school\", \"tags\": [{\"id\": 1670599, \"legal_entity_uuid\": \"486badd4-3e01-62cf-9d5f-ff5914e4362b\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 162251, \"legal_entity_uuid\": \"486badd4-3e01-62cf-9d5f-ff5914e4362b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": "2014-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v0df7rzwaw2drj4pqbab",
+                        "name": "The Dalton School"
+                    },
+                    "name": "The Dalton School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v0df7rzwaw2drj4pqbab"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "440"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

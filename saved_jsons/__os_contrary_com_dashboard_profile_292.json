@@ -1,0 +1,379 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Product Manager @ Garner Health",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "550",
+                        "startDate": null,
+                        "universityId": 302
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "International Baccalaureate Diploma",
+                        "endDate": null,
+                        "id": "551",
+                        "startDate": null,
+                        "universityId": 303
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "A.B. Biomedical Engineering",
+                        "endDate": null,
+                        "id": "552",
+                        "startDate": null,
+                        "universityId": 56
+                    }
+                ],
+                "email": "madisonafrye@gmail.com",
+                "firstName": "Madison",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "292",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Frye",
+                "linkedinName": "madisonfrye",
+                "linkedinUrl": "https://linkedin.com/in/madisonfrye/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "5207fed3-0369-41c6-a316-d284d8cb46ca",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/292_Madison_Frye.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3574",
+                        "organizationId": 2789,
+                        "position": "Product Manager",
+                        "startDate": "2022-07-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1965",
+                        "organizationId": 1376,
+                        "position": "Product Manager",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1966",
+                        "organizationId": 1377,
+                        "position": "Co-President",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1964",
+                        "organizationId": 5,
+                        "position": "C20 Fellow",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "1968",
+                        "organizationId": 1378,
+                        "position": "Software Strategy Summer Associate",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2021-04-01",
+                        "id": "3575",
+                        "organizationId": 2790,
+                        "position": "Product/Marketing",
+                        "startDate": "2020-04-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "1967",
+                        "organizationId": 125,
+                        "position": "Bessemer Venture Partners Fellow",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "1970",
+                        "organizationId": 1380,
+                        "position": "Intern",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "1969",
+                        "organizationId": 1379,
+                        "position": "Co-founder",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2019-07-01",
+                        "id": "1971",
+                        "organizationId": 1381,
+                        "position": "Engineering & Business Development",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2018-07-01",
+                        "id": "1972",
+                        "organizationId": 1382,
+                        "position": "Content Marketing & Engineering",
+                        "startDate": "2018-03-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "1973",
+                        "organizationId": 590,
+                        "position": "Chemical Engineering at Lu Lab",
+                        "startDate": "2016-07-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 489398, \"name\": \"Garner Health\", \"uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/p7rw97tbdmqcctipn4wr\", \"description\": \"Garner Health is a technology-driven platform providing healthcare services and helping people search for doctors.\", \"headcount\": \"1-10\", \"founding_date\": \"2019-01-01\", \"website\": \"https://www.getgarner.com/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3355623], \"executive_people_profile_ids\": [1955138, 2337542, 1482196, 3355623], \"cb_permalink\": \"https://www.crunchbase.com/organization/garner-health\", \"linkedin_url\": \"https://linkedin.com/company/getgarner\", \"twitter\": \"https:/twitter.com/getgarner\", \"last_funding_round_date\": \"2021-12-14\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 61299999, \"company_li_name\": \"getgarner\", \"tags\": [{\"id\": 2829297, \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Business Intelligence\", \"category\": \"Industry\"}, {\"id\": 2829298, \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Employee Benefits\", \"category\": \"Industry\"}, {\"id\": 2829299, \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 2829300, \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 2829296, \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Big Data\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 109720, \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 102, \"hc_estimate_90_days\": 102, \"hc_estimate_180_days\": 99, \"hc_estimate_270_days\": 95, \"hc_estimate_365_days\": 83, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"3.029999999999999804600747665972448885440826416015625\", \"hc_growth_270_days\": \"7.37000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"22.8900000000000005684341886080801486968994140625\"}, \"funding_rounds\": [{\"id\": 155589, \"uuid\": \"2fafe3c8-0490-41c6-a786-f50fd0f04d31\", \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 45000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-14\", \"investors\": null}, {\"id\": 155588, \"uuid\": \"39781a59-72a9-4047-a186-91771e8cf153\", \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 12500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-02-03\", \"investors\": null}, {\"id\": 155587, \"uuid\": \"676c2d5d-9517-413c-b646-992580948cd8\", \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-13\", \"investors\": null}, {\"id\": 155586, \"uuid\": \"e66477bd-2b35-4684-9377-16d3f6a56822\", \"legal_entity_uuid\": \"d9723b00-0d6f-44d9-a389-c4c0c672e093\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 3799999, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-30\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p7rw97tbdmqcctipn4wr",
+                        "name": "Garner Health"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2022-07-01",
+                    "name": "Garner Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p7rw97tbdmqcctipn4wr"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 388126, \"name\": \"Olive\", \"uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oliveai.png\", \"description\": \"Olive is a developer of an artificial intelligence workforce, automated revenue cycle and claims management for the healthcare industry.\", \"headcount\": \"501-1000\", \"founding_date\": \"2012-06-05\", \"website\": \"https://www.oliveai.com\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2466916, 606286, 1379330, 2350104, 1142902, 1240090, 3346549, 53104, 792426, 1081883, 3048767, 2431662, 1234144, 2293069, 1026216, 236569, 1866027, 1594120, 777000, 2415923, 219910, 2736019, 2102536, 3315626, 2319600, 1305616, 974551, 247245, 1948183, 2429133, 1102007, 2673206, 1632031, 1713364, 2817855, 1607617, 425844, 1797633, 749131, 2353812, 3308178, 1318020, 1202910, 1142937, 2084359, 1042469, 1240547, 3702834, 1343085, 2320635, 2423839, 1621494, 2452026, 2745699, 1687564, 1835478, 1570293, 1755151, 1630956, 977379, 2165003, 2452346, 2806111, 2855468, 334957, 2036211, 334994, 3150798, 831762, 354605, 3422374, 1123067, 2919229, 1414934, 395510, 3185378, 1093586, 1600445], \"cb_permalink\": \"https://www.crunchbase.com/organization/olive-ai\", \"linkedin_url\": \"https://linkedin.com/company/oliveai\", \"twitter\": \"https:/twitter.com/oliveai__\", \"last_funding_round_date\": \"2021-07-01\", \"last_funding_round_name\": \"Series H\", \"total_funding_amount\": 856322171, \"company_li_name\": \"oliveai\", \"tags\": [{\"id\": 1698181, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1698182, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Electronic Health Record (EHR)\", \"category\": \"Industry\"}, {\"id\": 1698183, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1698184, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1698185, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1698186, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7397232, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 128622, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 500, \"hc_estimate_90_days\": 506, \"hc_estimate_180_days\": 526, \"hc_estimate_270_days\": 691, \"hc_estimate_365_days\": 759, \"hc_growth_90_days\": \"-1.189999999999999946709294817992486059665679931640625\", \"hc_growth_180_days\": \"-4.94000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-27.6400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"-34.11999999999999744204615126363933086395263671875\"}, \"funding_rounds\": [{\"id\": 33906, \"uuid\": \"db63e599-c722-4feb-8dca-963719e906fd\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 400000000, \"post_money_valuation_usd\": 4000000000, \"announced_date\": \"2021-07-01\", \"investors\": null}, {\"id\": 33905, \"uuid\": \"339c4396-3270-4d2f-a618-fcb2a236c91e\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 225500000, \"post_money_valuation_usd\": 1500000000, \"announced_date\": \"2020-12-01\", \"investors\": null}, {\"id\": 33904, \"uuid\": \"0585bb09-7562-415c-907b-948d73b955d1\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 106000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-09-17\", \"investors\": null}, {\"id\": 33903, \"uuid\": \"cc95f264-89b4-497c-80a5-6bc67f8c57e4\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 52022171, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-31\", \"investors\": null}, {\"id\": 33902, \"uuid\": \"9dc0c7c2-fa4c-4c8a-827c-f460000e8a60\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 32800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-07-30\", \"investors\": null}, {\"id\": 33901, \"uuid\": \"6e2719e5-45d2-4213-af67-d38c04ae7e33\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-14\", \"investors\": null}, {\"id\": 33900, \"uuid\": \"3cb36854-a0b4-8486-866d-942653a60c36\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-04-06\", \"investors\": null}, {\"id\": 33899, \"uuid\": \"87e8a2c2-7b74-bf5c-b66f-75d2965c7800\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-04-13\", \"investors\": null}, {\"id\": 33898, \"uuid\": \"9f4707f6-d228-97e3-d5e8-42d33e9d56d5\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oliveai.png",
+                        "name": "Olive"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2022-01-01",
+                    "name": "Olive",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oliveai.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 388126, \"name\": \"Olive\", \"uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oliveai.png\", \"description\": \"Olive is a developer of an artificial intelligence workforce, automated revenue cycle and claims management for the healthcare industry.\", \"headcount\": \"501-1000\", \"founding_date\": \"2012-06-05\", \"website\": \"https://www.oliveai.com\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2466916, 606286, 1379330, 2350104, 1142902, 1240090, 3346549, 53104, 792426, 1081883, 3048767, 2431662, 1234144, 2293069, 1026216, 236569, 1866027, 1594120, 777000, 2415923, 219910, 2736019, 2102536, 3315626, 2319600, 1305616, 974551, 247245, 1948183, 2429133, 1102007, 2673206, 1632031, 1713364, 2817855, 1607617, 425844, 1797633, 749131, 2353812, 3308178, 1318020, 1202910, 1142937, 2084359, 1042469, 1240547, 3702834, 1343085, 2320635, 2423839, 1621494, 2452026, 2745699, 1687564, 1835478, 1570293, 1755151, 1630956, 977379, 2165003, 2452346, 2806111, 2855468, 334957, 2036211, 334994, 3150798, 831762, 354605, 3422374, 1123067, 2919229, 1414934, 395510, 3185378, 1093586, 1600445], \"cb_permalink\": \"https://www.crunchbase.com/organization/olive-ai\", \"linkedin_url\": \"https://linkedin.com/company/oliveai\", \"twitter\": \"https:/twitter.com/oliveai__\", \"last_funding_round_date\": \"2021-07-01\", \"last_funding_round_name\": \"Series H\", \"total_funding_amount\": 856322171, \"company_li_name\": \"oliveai\", \"tags\": [{\"id\": 1698181, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1698182, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Electronic Health Record (EHR)\", \"category\": \"Industry\"}, {\"id\": 1698183, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1698184, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1698185, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1698186, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7397232, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 128622, \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 500, \"hc_estimate_90_days\": 506, \"hc_estimate_180_days\": 526, \"hc_estimate_270_days\": 691, \"hc_estimate_365_days\": 759, \"hc_growth_90_days\": \"-1.189999999999999946709294817992486059665679931640625\", \"hc_growth_180_days\": \"-4.94000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-27.6400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"-34.11999999999999744204615126363933086395263671875\"}, \"funding_rounds\": [{\"id\": 33906, \"uuid\": \"db63e599-c722-4feb-8dca-963719e906fd\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 400000000, \"post_money_valuation_usd\": 4000000000, \"announced_date\": \"2021-07-01\", \"investors\": null}, {\"id\": 33905, \"uuid\": \"339c4396-3270-4d2f-a618-fcb2a236c91e\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 225500000, \"post_money_valuation_usd\": 1500000000, \"announced_date\": \"2020-12-01\", \"investors\": null}, {\"id\": 33904, \"uuid\": \"0585bb09-7562-415c-907b-948d73b955d1\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 106000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-09-17\", \"investors\": null}, {\"id\": 33903, \"uuid\": \"cc95f264-89b4-497c-80a5-6bc67f8c57e4\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 52022171, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-31\", \"investors\": null}, {\"id\": 33902, \"uuid\": \"9dc0c7c2-fa4c-4c8a-827c-f460000e8a60\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 32800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-07-30\", \"investors\": null}, {\"id\": 33901, \"uuid\": \"6e2719e5-45d2-4213-af67-d38c04ae7e33\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-14\", \"investors\": null}, {\"id\": 33900, \"uuid\": \"3cb36854-a0b4-8486-866d-942653a60c36\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-04-06\", \"investors\": null}, {\"id\": 33899, \"uuid\": \"87e8a2c2-7b74-bf5c-b66f-75d2965c7800\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-04-13\", \"investors\": null}, {\"id\": 33898, \"uuid\": \"9f4707f6-d228-97e3-d5e8-42d33e9d56d5\", \"legal_entity_uuid\": \"c23342f0-4b75-3eaa-7906-4a5626351a02\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-04-04\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oliveai.png",
+                        "name": "Olive"
+                    },
+                    "position": "Associate Product Manager",
+                    "startDate": "2021-06-01",
+                    "name": "Olive",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oliveai.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Brown Innovation for Health"
+                    },
+                    "position": "Co-President",
+                    "startDate": "2020-09-01",
+                    "name": "Brown Innovation for Health",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner  Pod Leader",
+                    "startDate": "2019-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Charta Health"
+                    },
+                    "position": "Product/Marketing",
+                    "startDate": "2020-04-01",
+                    "name": "Charta Health",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-12-01",
+                    "legalEntity": "{\"id\": 145717, \"name\": \"Bessemer Venture Partners\", \"uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hy57qdfbratzazevphal\", \"description\": \"Bessemer Venture Partners is a venture capital firm that invests in enterprise, consumer, and healthcare early-to-late stage startups.\", \"headcount\": \"11-50\", \"founding_date\": \"1911-01-01\", \"website\": \"http://www.bvp.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [73689, 918920, 2043638, 2259644, 523858, 1606564, 1191419, 2456363, 2927897, 2945561, 2821845, 2821793, 114321, 114581, 1431952, 125902, 1516774, 295080, 1906396, 2107054, 3019554, 3019151, 1656930, 1671307, 1497583, 1497584, 2821219, 2821535, 457030, 764845, 3084023, 1670618, 2456066, 1878285, 2407753, 473333, 1004925, 1004973, 1126534, 1165423, 1164947, 1395879, 3394690, 1840966, 1906488, 1673469, 2116684, 1498951, 2821684, 2832703, 2196851, 2202321, 846188, 1316793, 1148298, 1176688, 1072248, 1191742, 2928444, 2833909, 2178992, 594948, 1148565, 2025443, 392121, 1606721, 1694759, 1722401, 2106991, 2108381, 1670617, 2455823, 2930649, 2606422, 1749532, 2832729, 1992286, 903171, 1316533, 449154, 1036698, 1395826, 2710661, 1959202, 1385284, 1638814, 3412177, 1498952, 183774, 1148566, 2021615, 1049648, 2679901, 1395880, 1231673, 1876942, 2945545, 3343592], \"cb_permalink\": \"https://www.crunchbase.com/organization/bessemer-venture-partners\", \"linkedin_url\": \"https://linkedin.com/company/bessemer-venture-partners\", \"twitter\": \"http:/www.twitter.com/bessemervp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bessemer-venture-partners\", \"tags\": [{\"id\": 6362737, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6362738, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6362739, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362740, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6362741, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 6362742, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 12851, \"legal_entity_uuid\": \"beadb218-e5fa-2686-bc95-4dfaa9acc2e8\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 222, \"hc_estimate_90_days\": 220, \"hc_estimate_180_days\": 210, \"hc_estimate_270_days\": 201, \"hc_estimate_365_days\": 191, \"hc_growth_90_days\": \"0.91000000000000003108624468950438313186168670654296875\", \"hc_growth_180_days\": \"5.70999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"10.449999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hy57qdfbratzazevphal",
+                        "name": "Bessemer Venture Partners"
+                    },
+                    "position": "Bessemer Venture Partners Fellow",
+                    "startDate": "2020-01-01",
+                    "name": "Bessemer Venture Partners",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hy57qdfbratzazevphal"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 124925, \"name\": \"EY-Parthenon\", \"uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zz6jhd5o9xjg5r56sye6\", \"description\": \"EY-Parthenon is one of the leading management advisory firms in the payments industry\", \"headcount\": \"5001-10000\", \"founding_date\": \"1991-01-01\", \"website\": \"https://www.ey-parthenon.de/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1134161], \"executive_people_profile_ids\": [97397, 1932118, 469356, 1345633, 2038035, 1075736, 2101570, 2086514, 732424, 1134161, 162287, 3060988], \"cb_permalink\": \"https://www.crunchbase.com/organization/ey-parthenon\", \"linkedin_url\": \"https://linkedin.com/company/ey-parthenon\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"ey-parthenon\", \"tags\": [{\"id\": 56792, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 56793, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 56794, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"name\": \"Payments\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 8159, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 237, \"hc_estimate_90_days\": 253, \"hc_estimate_180_days\": 215, \"hc_estimate_270_days\": 212, \"hc_estimate_365_days\": 212, \"hc_growth_90_days\": \"-6.32000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"10.230000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"11.78999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"11.78999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zz6jhd5o9xjg5r56sye6",
+                        "name": "EY-Parthenon"
+                    },
+                    "position": "Software Strategy Summer Associate",
+                    "startDate": "2020-07-01",
+                    "name": "EY-Parthenon",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zz6jhd5o9xjg5r56sye6"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kezari.png",
+                        "name": "Kezari"
+                    },
+                    "position": "Creator",
+                    "startDate": "2018-06-01",
+                    "name": "Kezari",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kezari.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 70979, \"name\": \"Waterman Ventures\", \"uuid\": \"98874529-cdfe-4f49-bb89-ad0b850e9e49\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/waterman-ventures.png\", \"description\": \"Waterman Ventures is a community of Brown University alumni, investors, entrepreneurs, and innovation enthusiasts.\", \"headcount\": \"unknown\", \"founding_date\": \"2018-01-01\", \"website\": \"http://www.waterman-ventures.com\", \"location\": \"Manchester\", \"country\": \"USA\", \"region\": \"New Hampshire\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/waterman-ventures\", \"linkedin_url\": \"https://linkedin.com/company/waterman-ventures\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"waterman-ventures\", \"tags\": [{\"id\": 5481272, \"legal_entity_uuid\": \"98874529-cdfe-4f49-bb89-ad0b850e9e49\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 5481273, \"legal_entity_uuid\": \"98874529-cdfe-4f49-bb89-ad0b850e9e49\", \"name\": \"Financial Exchanges\", \"category\": \"Industry\"}, {\"id\": 5481274, \"legal_entity_uuid\": \"98874529-cdfe-4f49-bb89-ad0b850e9e49\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 9238, \"legal_entity_uuid\": \"98874529-cdfe-4f49-bb89-ad0b850e9e49\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/waterman-ventures.png",
+                        "name": "Waterman Ventures"
+                    },
+                    "position": "Intern",
+                    "startDate": "2019-06-01",
+                    "name": "Waterman Ventures",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/waterman-ventures.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Koi Prosthetics"
+                    },
+                    "position": "Engineering  Business Development",
+                    "startDate": "2018-06-01",
+                    "name": "Koi Prosthetics",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/moxxly.png",
+                        "name": "Moxxly"
+                    },
+                    "position": "Content Marketing  Engineering",
+                    "startDate": "2018-03-01",
+                    "name": "Moxxly",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/moxxly.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "International Baccalaureate Diploma",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 278882, \"name\": \"Bangkok Patana School\", \"uuid\": \"c604a66b-bf4f-45f6-a7ba-9aafb87460ac\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/iu3mnah6qr3ulozrbors\", \"description\": \"Bangkok Patana School is Thailands original British international school, established in 1957.\", \"headcount\": \"501-1000\", \"founding_date\": \"1957-01-01\", \"website\": \"https://www.patana.ac.th/\", \"location\": \"Bangkok\", \"country\": \"THA\", \"region\": \"Krung Thep\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/bangkok-patana-school\", \"linkedin_url\": \"https://linkedin.com/school/bangkok-patana-school\", \"twitter\": \"https:/www.twitter.com/BangkokPatana\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bangkok-patana-school\", \"tags\": [{\"id\": 2760658, \"legal_entity_uuid\": \"c604a66b-bf4f-45f6-a7ba-9aafb87460ac\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 2760659, \"legal_entity_uuid\": \"c604a66b-bf4f-45f6-a7ba-9aafb87460ac\", \"name\": \"Primary Education\", \"category\": \"Industry\"}, {\"id\": 2760660, \"legal_entity_uuid\": \"c604a66b-bf4f-45f6-a7ba-9aafb87460ac\", \"name\": \"Secondary Education\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/iu3mnah6qr3ulozrbors",
+                        "name": "Bangkok Patana School"
+                    },
+                    "name": "Bangkok Patana School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/iu3mnah6qr3ulozrbors"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1397027, \"name\": \"Brown University\", \"uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0\", \"description\": \"Brown is an independent, coeducational Ivy League institution comprising undergraduate and graduate programs.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1764-01-01\", \"website\": \"http://www.brown.edu/\", \"location\": \"Providence\", \"country\": \"USA\", \"region\": \"Rhode Island\", \"founder_people_profile_ids\": [3145360], \"executive_people_profile_ids\": [225870, 1436094, 2241411, 766136, 3083809, 2086505, 1750556, 3145360, 1008226, 876010, 659415, 2092522, 2811252, 2823136, 3406163, 1943115], \"cb_permalink\": \"https://www.crunchbase.com/organization/brown-university-2\", \"linkedin_url\": \"https://linkedin.com/company/brown-university\", \"twitter\": \"http:/twitter.com/BrownUniversity\", \"last_funding_round_date\": \"2023-03-21\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 60749662, \"company_li_name\": \"brown-university\", \"tags\": [{\"id\": 4833347, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4833348, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4833349, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 38093, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 252, \"hc_estimate_90_days\": 244, \"hc_estimate_180_days\": 291, \"hc_estimate_270_days\": 289, \"hc_estimate_365_days\": 298, \"hc_growth_90_days\": \"3.279999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-13.4000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-12.800000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"-15.4399999999999995026200849679298698902130126953125\"}, \"funding_rounds\": [{\"id\": 268200, \"uuid\": \"04691770-ee24-4387-b0db-e57c36c39961\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 749662, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-21\", \"investors\": null}, {\"id\": 268199, \"uuid\": \"72a16112-bb44-4b72-8f07-48b93e0ac0e3\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-09\", \"investors\": null}, {\"id\": 268198, \"uuid\": \"44612d62-fa6e-4b67-ba96-c41e64b5d062\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-11-12\", \"investors\": null}, {\"id\": 268197, \"uuid\": \"1ed326a1-cd4e-4892-b61f-8429fbeb6d37\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-09-21\", \"investors\": null}, {\"id\": 268196, \"uuid\": \"8be54c4d-e6af-fbb7-0056-85976d05e9e3\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0",
+                        "name": "Brown University"
+                    },
+                    "name": "Brown University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Singapore American School"
+                    },
+                    "name": "Singapore American School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "292"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

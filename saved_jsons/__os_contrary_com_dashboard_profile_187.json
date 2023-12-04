@@ -1,0 +1,680 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Early-stage Investor at Night Ventures",
+                "educationExperiences": [
+                    {
+                        "degree": "International Business & Art History",
+                        "degreeType": "Bachelor's degree",
+                        "endDate": "2017-01-01",
+                        "id": "351",
+                        "startDate": "2017-01-01",
+                        "universityId": 218
+                    },
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "S.I.P",
+                        "endDate": "2015-01-01",
+                        "id": "353",
+                        "startDate": "2015-01-01",
+                        "universityId": 216
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2017-01-01",
+                        "id": "352",
+                        "startDate": "2014-01-01",
+                        "universityId": 219
+                    },
+                    {
+                        "degree": "minor in Venture Capital & Digital Methods in the Humanities",
+                        "degreeType": "Computer Science & Journalism",
+                        "endDate": null,
+                        "id": "350",
+                        "startDate": null,
+                        "universityId": 35
+                    }
+                ],
+                "email": "emily@thewiress.com",
+                "firstName": "Emily",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "187",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Herrera",
+                "linkedinName": "emilyherrera",
+                "linkedinUrl": "https://linkedin.com/in/emilyherrera/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "9bba218a-a2b9-4264-a00c-f23ef7e9314a",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/187_Emily_Herrera.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3465",
+                        "organizationId": 1175,
+                        "position": "Fellow",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4556",
+                        "organizationId": 984420,
+                        "position": "Investor",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3466",
+                        "organizationId": 2726,
+                        "position": "Investor",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": "2022-03-01",
+                        "id": "1205",
+                        "organizationId": 898,
+                        "position": "Intern",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3467",
+                        "organizationId": 2727,
+                        "position": "Member",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "1206",
+                        "organizationId": 5,
+                        "position": "Fellow",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "1208",
+                        "organizationId": 900,
+                        "position": "Fellow",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "1207",
+                        "organizationId": 899,
+                        "position": "Analyst",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": "2021-06-01",
+                        "id": "1209",
+                        "organizationId": 901,
+                        "position": "Venture Fellow",
+                        "startDate": "2021-03-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1210",
+                        "organizationId": 71,
+                        "position": "Fellow",
+                        "startDate": "2021-03-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1211",
+                        "organizationId": 902,
+                        "position": "Growth Co-op",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "1212",
+                        "organizationId": 903,
+                        "position": "Intern",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-04-01",
+                        "id": "1213",
+                        "organizationId": 904,
+                        "position": "VP of Engagement",
+                        "startDate": "2020-12-01"
+                    },
+                    {
+                        "endDate": "2021-04-01",
+                        "id": "3469",
+                        "organizationId": 1435,
+                        "position": "VP of Engagement",
+                        "startDate": "2020-12-01"
+                    },
+                    {
+                        "endDate": "2020-10-01",
+                        "id": "1216",
+                        "organizationId": 907,
+                        "position": "Frequency Program",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": "2020-12-01",
+                        "id": "1214",
+                        "organizationId": 905,
+                        "position": "Advisor",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-11-01",
+                        "id": "1215",
+                        "organizationId": 906,
+                        "position": "Public Relations & Partnerships Lead",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-09-01",
+                        "id": "1217",
+                        "organizationId": 908,
+                        "position": "Growth Intern",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-07-01",
+                        "id": "1218",
+                        "organizationId": 909,
+                        "position": "Brand Marketing & Partnerships Co-op",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1203",
+                        "organizationId": 896,
+                        "position": "Founder & Syndicate Lead",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3468",
+                        "organizationId": 2728,
+                        "position": "Brand Representative",
+                        "startDate": "2017-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1204",
+                        "organizationId": 897,
+                        "position": "Brand Representative",
+                        "startDate": "2017-10-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "1222",
+                        "organizationId": 692,
+                        "position": "Partner Engagement Intern",
+                        "startDate": "2017-04-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "1219",
+                        "organizationId": 910,
+                        "position": "Regional Lead",
+                        "startDate": "2017-02-01"
+                    },
+                    {
+                        "endDate": "2018-02-01",
+                        "id": "1220",
+                        "organizationId": 911,
+                        "position": "International Managing Editor",
+                        "startDate": "2016-10-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "1221",
+                        "organizationId": 912,
+                        "position": "Teen Voices Reporter",
+                        "startDate": "2016-04-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "3470",
+                        "organizationId": 2729,
+                        "position": "Teen Voices Reporter",
+                        "startDate": "2016-04-01"
+                    },
+                    {
+                        "endDate": "2016-10-01",
+                        "id": "1223",
+                        "organizationId": 913,
+                        "position": "Executive Assistant",
+                        "startDate": "2015-11-01"
+                    },
+                    {
+                        "endDate": "2016-10-01",
+                        "id": "3471",
+                        "organizationId": 2730,
+                        "position": "Executive Assistant",
+                        "startDate": "2015-11-01"
+                    },
+                    {
+                        "endDate": "2016-01-01",
+                        "id": "1224",
+                        "organizationId": 914,
+                        "position": "Social Media Manager",
+                        "startDate": "2015-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2129986, \"name\": \"Interact\", \"uuid\": \"4c534800-7ff2-45c9-a622-ace48db9c93d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gf2g6zxecd7pvi7cng8r\", \"description\": \"Interact is a community of technologists.\", \"headcount\": \"11-50\", \"founding_date\": \"2012-01-01\", \"website\": \"https://www.joininteract.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/interact-c93d\", \"linkedin_url\": \"https://linkedin.com/company/joininteract\", \"twitter\": \"https:/twitter.com/joininteract\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"joininteract\", \"tags\": [{\"id\": 5665994, \"legal_entity_uuid\": \"4c534800-7ff2-45c9-a622-ace48db9c93d\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 5665995, \"legal_entity_uuid\": \"4c534800-7ff2-45c9-a622-ace48db9c93d\", \"name\": \"Social\", \"category\": \"Industry\"}, {\"id\": 5665996, \"legal_entity_uuid\": \"4c534800-7ff2-45c9-a622-ace48db9c93d\", \"name\": \"Social Network\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 50362, \"legal_entity_uuid\": \"4c534800-7ff2-45c9-a622-ace48db9c93d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 27, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 27, \"hc_estimate_270_days\": 28, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-3.569999999999999840127884453977458178997039794921875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gf2g6zxecd7pvi7cng8r",
+                        "name": "Interact"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2022-06-01",
+                    "name": "Interact",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gf2g6zxecd7pvi7cng8r"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1252014, \"name\": \"Night\", \"uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/night-media.png\", \"description\": \"Night is an operator of a talent management and digital marketing agency intended to specialize in influencer marketing, gaming.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"https://night.co/\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/night-2e57\", \"linkedin_url\": \"https://linkedin.com/company/night-media\", \"twitter\": \"https:/twitter.com/NightMedia\", \"last_funding_round_date\": \"2022-09-13\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 17500000, \"company_li_name\": \"night-media\", \"tags\": [{\"id\": 4512690, \"legal_entity_uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"name\": \"Event Management\", \"category\": \"Industry\"}, {\"id\": 4512691, \"legal_entity_uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"name\": \"Human Resources\", \"category\": \"Industry\"}, {\"id\": 4512692, \"legal_entity_uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"name\": \"Marketing\", \"category\": \"Industry\"}, {\"id\": 4512693, \"legal_entity_uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"name\": \"Media and Entertainment\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 42429, \"legal_entity_uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 10, \"hc_estimate_90_days\": 11, \"hc_estimate_180_days\": 10, \"hc_estimate_270_days\": 8, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-9.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"25\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 254112, \"uuid\": \"9cae463e-e47a-43e0-b43d-e151a77a4bbc\", \"legal_entity_uuid\": \"c65c7362-0270-45ea-85bd-9d3ccf152e57\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 17500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-13\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/night-media.png",
+                        "name": "Night"
+                    },
+                    "position": "Investor",
+                    "startDate": "2022-04-01",
+                    "name": "Night",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/night-media.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 367079, \"name\": \"Night Ventures\", \"uuid\": \"6e3ba263-5f38-4171-9fd4-3aebde2a93a9\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ypgulu6pxvcjrr5uqxit\", \"description\": \"Night Ventures is a venture capital firm that invests in consumer, fintech, SaaS, crypto, and health companies.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-01-01\", \"website\": \"https://nightventures.com\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [578578], \"cb_permalink\": \"https://www.crunchbase.com/organization/night-ventures\", \"linkedin_url\": \"https://linkedin.com/company/nightventures\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"nightventures\", \"tags\": [{\"id\": 5617531, \"legal_entity_uuid\": \"6e3ba263-5f38-4171-9fd4-3aebde2a93a9\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 5617532, \"legal_entity_uuid\": \"6e3ba263-5f38-4171-9fd4-3aebde2a93a9\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5617533, \"legal_entity_uuid\": \"6e3ba263-5f38-4171-9fd4-3aebde2a93a9\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 5617534, \"legal_entity_uuid\": \"6e3ba263-5f38-4171-9fd4-3aebde2a93a9\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 129651, \"legal_entity_uuid\": \"6e3ba263-5f38-4171-9fd4-3aebde2a93a9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ypgulu6pxvcjrr5uqxit",
+                        "name": "Night Ventures"
+                    },
+                    "position": "Investor",
+                    "startDate": "2022-04-01",
+                    "name": "Night Ventures",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ypgulu6pxvcjrr5uqxit"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 504489, \"name\": \"Women in VC\", \"uuid\": \"213b63ca-5008-45e3-9169-146ce586f993\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/r942d52ztmtnrcczftws\", \"description\": \"Women in VC is a global community for women in venture capital to connect, collaborate, and create opportunities.\", \"headcount\": \"101-250\", \"founding_date\": \"2015-01-01\", \"website\": \"https://www.women-vc.com/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [768287, 1400447], \"executive_people_profile_ids\": [1400447, 768287], \"cb_permalink\": \"https://www.crunchbase.com/organization/women-in-vc\", \"linkedin_url\": \"https://linkedin.com/company/global-women-in-vc\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"global-women-in-vc\", \"tags\": [{\"id\": 5458102, \"legal_entity_uuid\": \"213b63ca-5008-45e3-9169-146ce586f993\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 5458103, \"legal_entity_uuid\": \"213b63ca-5008-45e3-9169-146ce586f993\", \"name\": \"Communities\", \"category\": \"Industry\"}, {\"id\": 5458104, \"legal_entity_uuid\": \"213b63ca-5008-45e3-9169-146ce586f993\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5458105, \"legal_entity_uuid\": \"213b63ca-5008-45e3-9169-146ce586f993\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 105851, \"legal_entity_uuid\": \"213b63ca-5008-45e3-9169-146ce586f993\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 79, \"hc_estimate_90_days\": 76, \"hc_estimate_180_days\": 74, \"hc_estimate_270_days\": 73, \"hc_estimate_365_days\": 66, \"hc_growth_90_days\": \"3.95000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"6.7599999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"8.2200000000000006394884621840901672840118408203125\", \"hc_growth_365_days\": \"19.699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r942d52ztmtnrcczftws",
+                        "name": "Global Women in VC"
+                    },
+                    "position": "Member",
+                    "startDate": "2021-08-01",
+                    "name": "Global Women in VC",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r942d52ztmtnrcczftws"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "The Wiress"
+                    },
+                    "position": "Syndicate Lead",
+                    "startDate": "2019-06-01",
+                    "name": "The Wiress",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-03-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/harlemcapital.png",
+                        "name": "Harlem Capital"
+                    },
+                    "position": "Investor",
+                    "startDate": "2022-01-01",
+                    "name": "Harlem Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/harlemcapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2021-07-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 466197, \"name\": \"Dorm Room Fund\", \"uuid\": \"8a9a8a9b-879b-6da9-4269-d3366371e141\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/dorm-room-fund.png\", \"description\": \"Dorm Room Fund is the strongest community of entrepreneurial students in the nation.\", \"headcount\": \"11-50\", \"founding_date\": \"2012-06-01\", \"website\": \"http://dormroomfund.com\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [1623736, 1714490], \"executive_people_profile_ids\": [1681394, 2837346], \"cb_permalink\": \"https://www.crunchbase.com/organization/dorm-room-fund\", \"linkedin_url\": \"https://linkedin.com/company/dorm-room-fund\", \"twitter\": \"http:/twitter.com/DormRoomFund\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"dorm-room-fund\", \"tags\": [{\"id\": 1784889, \"legal_entity_uuid\": \"8a9a8a9b-879b-6da9-4269-d3366371e141\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1784890, \"legal_entity_uuid\": \"8a9a8a9b-879b-6da9-4269-d3366371e141\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1784891, \"legal_entity_uuid\": \"8a9a8a9b-879b-6da9-4269-d3366371e141\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 108798, \"legal_entity_uuid\": \"8a9a8a9b-879b-6da9-4269-d3366371e141\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 42, \"hc_estimate_90_days\": 57, \"hc_estimate_180_days\": 46, \"hc_estimate_270_days\": 46, \"hc_estimate_365_days\": 41, \"hc_growth_90_days\": \"-26.32000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"-8.699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-8.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"2.439999999999999946709294817992486059665679931640625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/dorm-room-fund.png",
+                        "name": "Dorm Room Fund"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2021-07-01",
+                    "name": "Dorm Room Fund",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/dorm-room-fund.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 1128197, \"name\": \"BBG Ventures\", \"uuid\": \"38a2cfd8-31bf-64db-faca-486386e44406\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bbg-ventures.png\", \"description\": \"BBG Ventures is an early-stage fund backing female founders with big ideas that will reshape the way we live.\", \"headcount\": \"1-10\", \"founding_date\": \"2014-09-02\", \"website\": \"http://www.bbgventures.com/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2681202, 529221], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/bbg-ventures\", \"linkedin_url\": \"https://linkedin.com/company/bbg-ventures\", \"twitter\": \"https:/twitter.com/bbgventures\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bbg-ventures\", \"tags\": [{\"id\": 4920443, \"legal_entity_uuid\": \"38a2cfd8-31bf-64db-faca-486386e44406\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4920444, \"legal_entity_uuid\": \"38a2cfd8-31bf-64db-faca-486386e44406\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 4920445, \"legal_entity_uuid\": \"38a2cfd8-31bf-64db-faca-486386e44406\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 4920446, \"legal_entity_uuid\": \"38a2cfd8-31bf-64db-faca-486386e44406\", \"name\": \"Women's\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 190324, \"legal_entity_uuid\": \"38a2cfd8-31bf-64db-faca-486386e44406\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 4, \"hc_estimate_270_days\": 4, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-25\", \"hc_growth_270_days\": \"-25\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bbg-ventures.png",
+                        "name": "BBG Ventures"
+                    },
+                    "position": "Investor",
+                    "startDate": "2021-05-01",
+                    "name": "BBG Ventures",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bbg-ventures.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-09-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-06-01",
+                    "legalEntity": "{\"id\": 514455, \"name\": \"Republic\", \"uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/uvaop7m83njvshwd9jld\", \"description\": \"Republic curates private investment opportunities with high growth potential across startups, gaming, real estate, and crypto.\", \"headcount\": \"501-1000\", \"founding_date\": \"2016-01-01\", \"website\": \"http://republic.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3325023, 3157107, 2963919], \"executive_people_profile_ids\": [1011719, 2546334, 991416, 1691862, 2344998, 478146, 410610, 2963919, 1716558, 1949594, 1648452, 1302098, 2919464, 323194, 292185, 448558, 1210198, 3146168, 1518266, 505678, 3268826, 3325023, 3157107], \"cb_permalink\": \"https://www.crunchbase.com/organization/republic-co\", \"linkedin_url\": \"https://linkedin.com/company/republic.co\", \"twitter\": \"https:/www.twitter.com/joinrepublic\", \"last_funding_round_date\": \"2022-02-01\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 226025000, \"company_li_name\": \"republic.co\", \"tags\": [{\"id\": 5885228, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Crowdfunding\", \"category\": \"Industry\"}, {\"id\": 5885229, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Cryptocurrency\", \"category\": \"Industry\"}, {\"id\": 5885230, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 106863, \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 128, \"hc_estimate_90_days\": 128, \"hc_estimate_180_days\": 140, \"hc_estimate_270_days\": 144, \"hc_estimate_365_days\": 157, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-8.57000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-18.469999999999998863131622783839702606201171875\"}, \"funding_rounds\": [{\"id\": 455069, \"uuid\": \"d969705d-ee9a-4a82-9aa1-bc62972d183c\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-02-01\", \"investors\": null}, {\"id\": 455068, \"uuid\": \"caf72ee5-771d-4173-a8c9-b8ae321fe91f\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-01\", \"investors\": null}, {\"id\": 455067, \"uuid\": \"53d415b9-01c6-4390-9387-7bc6061e56dd\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-19\", \"investors\": null}, {\"id\": 455066, \"uuid\": \"f80d337b-5fd2-4c0a-a39f-89179d039ddc\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-09-01\", \"investors\": null}, {\"id\": 455065, \"uuid\": \"4a3c0188-1083-405a-8892-857231551a13\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-06-30\", \"investors\": null}, {\"id\": 455064, \"uuid\": \"b44a5daa-1b9a-468f-9b38-ee5f629134ae\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-20\", \"investors\": null}, {\"id\": 455063, \"uuid\": \"3693aad8-c6eb-46ad-91fd-79ac13af92f7\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 36000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-03-18\", \"investors\": null}, {\"id\": 455062, \"uuid\": \"d8f9f606-a8aa-4133-9b5b-264224ec478f\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 455061, \"uuid\": \"653a67bf-28ef-4394-b4ff-0992d2661018\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Initial Coin Offering\", \"cb_permalink\": null, \"investment_type\": \"initial_coin_offering\", \"raised_amount_usd\": 16000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-08-05\", \"investors\": null}, {\"id\": 455060, \"uuid\": \"482b34dd-6c4a-4bbd-8667-5594f9498317\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 455059, \"uuid\": \"738ed175-9ae2-4f0b-88f6-881ad1645adf\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-05\", \"investors\": null}, {\"id\": 455057, \"uuid\": \"0ef19108-0e31-4451-963f-cf8fec266493\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-08\", \"investors\": null}, {\"id\": 455058, \"uuid\": \"198afe63-7c12-48f7-8918-2e25baa2727c\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Initial Coin Offering\", \"cb_permalink\": null, \"investment_type\": \"initial_coin_offering\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-08\", \"investors\": null}, {\"id\": 455056, \"uuid\": \"f04ed1d7-d29a-488a-8b6a-b3d1a7c34d16\", \"legal_entity_uuid\": \"3b14e2e9-86de-0364-a85a-ddbaf269b7a1\", \"name\": \"Convertible Note\", \"cb_permalink\": null, \"investment_type\": \"convertible_note\", \"raised_amount_usd\": 25000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvaop7m83njvshwd9jld",
+                        "name": "Republic"
+                    },
+                    "position": "Venture Fellow",
+                    "startDate": "2021-03-01",
+                    "name": "Republic",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvaop7m83njvshwd9jld"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/nbc-news.png",
+                        "name": "NBC News"
+                    },
+                    "position": "RD",
+                    "startDate": "2021-01-01",
+                    "name": "NBC News",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/nbc-news.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-05-01",
+                    "legalEntity": "{\"id\": 362492, \"name\": \"Scribe\", \"uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zubullzce4aaq5kzn1b0\", \"description\": \"Scribe lets users share how work is done, enabling anyone to automatically create step-by-step guides for any process.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-01-01\", \"website\": \"https://scribehow.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2371516, 2199172], \"cb_permalink\": \"https://www.crunchbase.com/organization/scribehow\", \"linkedin_url\": \"https://linkedin.com/company/scribehow\", \"twitter\": \"https:/twitter.com/scribehow\", \"last_funding_round_date\": \"2021-10-18\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 30000000, \"company_li_name\": \"scribehow\", \"tags\": [{\"id\": 4981426, \"legal_entity_uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 4981427, \"legal_entity_uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}, {\"id\": 4981428, \"legal_entity_uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 136265, \"legal_entity_uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16, \"hc_estimate_90_days\": 15, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 15, \"hc_estimate_365_days\": 15, \"hc_growth_90_days\": \"6.6699999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"23.0799999999999982946974341757595539093017578125\", \"hc_growth_270_days\": \"6.6699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"6.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 283744, \"uuid\": \"06af21ef-9886-419d-ab28-940ff32f39e7\", \"legal_entity_uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 22000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-18\", \"investors\": null}, {\"id\": 283743, \"uuid\": \"a376264a-b1d5-493d-b0e5-4a61e6347f0d\", \"legal_entity_uuid\": \"248c849b-72c3-b2d9-14f0-3a81a5552545\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zubullzce4aaq5kzn1b0",
+                        "name": "Cursive"
+                    },
+                    "position": "Growth",
+                    "startDate": "2021-01-01",
+                    "name": "Cursive",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zubullzce4aaq5kzn1b0"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Womens Interdisciplinary Society of Entrepreneurship"
+                    },
+                    "position": "VP of Engagement",
+                    "startDate": "2020-12-01",
+                    "name": "Womens Interdisciplinary Society of Entrepreneurship",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 2121490, \"name\": \"Glossier\", \"uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/o9rzmb3hwz3safbebiie\", \"description\": \"Glossier is a direct-to-consumer beauty company that leverages content and community to power a superior shopping experience.\", \"headcount\": \"101-250\", \"founding_date\": \"2010-01-01\", \"website\": \"https://www.glossier.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2367922], \"executive_people_profile_ids\": [86522, 1418815, 90448, 116370, 360100, 394115, 2683125, 1249643, 2630995, 976592, 2367922], \"cb_permalink\": \"https://www.crunchbase.com/organization/glossier\", \"linkedin_url\": \"https://linkedin.com/company/glossier\", \"twitter\": \"http:/twitter.com/glossier\", \"last_funding_round_date\": \"2021-07-07\", \"last_funding_round_name\": \"Series E\", \"total_funding_amount\": 266400000, \"company_li_name\": \"glossier\", \"tags\": [{\"id\": 4921113, \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"B2C\", \"category\": \"Industry\"}, {\"id\": 4921114, \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Beauty\", \"category\": \"Industry\"}, {\"id\": 4921115, \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Consumer Goods\", \"category\": \"Industry\"}, {\"id\": 4921116, \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Fashion\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 72930, \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 381, \"hc_estimate_90_days\": 394, \"hc_estimate_180_days\": 398, \"hc_estimate_270_days\": 360, \"hc_estimate_365_days\": 361, \"hc_growth_90_days\": \"-3.29999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-4.269999999999999573674358543939888477325439453125\", \"hc_growth_270_days\": \"5.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"5.54000000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 146400, \"uuid\": \"955bde76-8d20-4718-8119-c6ee2b111382\", \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 80000000, \"post_money_valuation_usd\": 1800000000, \"announced_date\": \"2021-07-07\", \"investors\": null}, {\"id\": 146399, \"uuid\": \"b7e98204-b766-44ba-a0b5-58851c49b7b0\", \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 1200000000, \"announced_date\": \"2019-03-19\", \"investors\": null}, {\"id\": 146398, \"uuid\": \"62542e03-931a-4086-8b10-18cddc84078f\", \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 52000000, \"post_money_valuation_usd\": 390000000, \"announced_date\": \"2018-02-23\", \"investors\": null}, {\"id\": 146397, \"uuid\": \"e18f807c-8239-3835-72dc-62fb05f06c88\", \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 24000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-11-30\", \"investors\": null}, {\"id\": 146396, \"uuid\": \"979fcef5-4375-c65a-c45e-2d9d9dc98d78\", \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-11-17\", \"investors\": null}, {\"id\": 146395, \"uuid\": \"306ebba2-c4e8-aac0-4f83-64ed99f0058e\", \"legal_entity_uuid\": \"326b4a31-86e5-ec35-abc1-f3420419a41b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-09-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/o9rzmb3hwz3safbebiie",
+                        "name": "Glossier-Inc."
+                    },
+                    "position": "Brand Representative",
+                    "startDate": "2017-10-01",
+                    "name": "Glossier-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/o9rzmb3hwz3safbebiie"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Womens Interdisciplinary Society of Entrepreneurship"
+                    },
+                    "position": "VP of Partnerships  Development",
+                    "startDate": "2019-12-01",
+                    "name": "Womens Interdisciplinary Society of Entrepreneurship",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-10-01",
+                    "legalEntity": "{\"id\": 726424, \"name\": \"Pillar VC\", \"uuid\": \"cb01ca18-9a4e-3b9a-779c-65fb6a14aadd\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pillar-vc.png\", \"description\": \"Pillar VC invests in seed-stage companies, supporting unstoppable founders with capital, connections, coaching, and peer support.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"http://pillar.vc/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [445237, 480058, 2683656, 1718114, 2259824], \"executive_people_profile_ids\": [874429, 1178665], \"cb_permalink\": \"https://www.crunchbase.com/organization/pillar-companies-2\", \"linkedin_url\": \"https://linkedin.com/company/pillar-vc\", \"twitter\": \"https:/www.twitter.com/pillar_vc\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pillar-vc\", \"tags\": [{\"id\": 5935813, \"legal_entity_uuid\": \"cb01ca18-9a4e-3b9a-779c-65fb6a14aadd\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 5935814, \"legal_entity_uuid\": \"cb01ca18-9a4e-3b9a-779c-65fb6a14aadd\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 5935815, \"legal_entity_uuid\": \"cb01ca18-9a4e-3b9a-779c-65fb6a14aadd\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 89212, \"legal_entity_uuid\": \"cb01ca18-9a4e-3b9a-779c-65fb6a14aadd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 18, \"hc_estimate_90_days\": 19, \"hc_estimate_180_days\": 20, \"hc_estimate_270_days\": 22, \"hc_estimate_365_days\": 21, \"hc_growth_90_days\": \"-5.2599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"-10\", \"hc_growth_270_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-14.28999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pillar-vc.png",
+                        "name": "Pillar VC"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2020-09-01",
+                    "name": "Pillar VC",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pillar-vc.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Omniscient"
+                    },
+                    "position": "Growth",
+                    "startDate": "2020-07-01",
+                    "name": "Omniscient",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-07-01",
+                    "legalEntity": "{\"id\": 1433325, \"name\": \"The Boston Globe\", \"uuid\": \"06e84af3-1569-4ab1-147b-bc1de219858d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1410006460/xohy0gp7qtdqeuaek1ll.jpg\", \"description\": \"The Boston Globe is an online and offline news provider that features various sections.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1872-03-04\", \"website\": \"http://www.bostonglobe.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/the-boston-globe\", \"linkedin_url\": \"https://linkedin.com/company/the-boston-globe\", \"twitter\": \"http:/twitter.com/BostonGlobe\", \"last_funding_round_date\": \"2023-02-27\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 390000, \"company_li_name\": \"the-boston-globe\", \"tags\": [{\"id\": 1663497, \"legal_entity_uuid\": \"06e84af3-1569-4ab1-147b-bc1de219858d\", \"name\": \"Broadcasting\", \"category\": \"Industry\"}, {\"id\": 1663498, \"legal_entity_uuid\": \"06e84af3-1569-4ab1-147b-bc1de219858d\", \"name\": \"Media and Entertainment\", \"category\": \"Industry\"}, {\"id\": 1663499, \"legal_entity_uuid\": \"06e84af3-1569-4ab1-147b-bc1de219858d\", \"name\": \"News\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 37346, \"legal_entity_uuid\": \"06e84af3-1569-4ab1-147b-bc1de219858d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 22, \"hc_estimate_90_days\": 21, \"hc_estimate_180_days\": 19, \"hc_estimate_270_days\": 19, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"4.7599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"15.78999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"15.78999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 399295, \"uuid\": \"8ba50553-676e-470d-ac20-cbb3bfe438a9\", \"legal_entity_uuid\": \"06e84af3-1569-4ab1-147b-bc1de219858d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 390000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-02-27\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1410006460/xohy0gp7qtdqeuaek1ll.jpg",
+                        "name": "Boston Globe Media"
+                    },
+                    "position": "Data",
+                    "startDate": "2020-01-01",
+                    "name": "Boston Globe Media",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1410006460/xohy0gp7qtdqeuaek1ll.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 732104, \"name\": \"BUILTBYGIRLS\", \"uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1470266492/yb427xmhjvzyisblv9sr.png\", \"description\": \"BUILTBYGIRLS offers young women with technology solutions to assist them to build their careers and products.\", \"headcount\": \"251-500\", \"founding_date\": \"2014-07-01\", \"website\": \"http://www.builtbygirls.com/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [529221], \"executive_people_profile_ids\": [529221], \"cb_permalink\": \"https://www.crunchbase.com/organization/builtbygirls\", \"linkedin_url\": \"https://linkedin.com/company/builtbygirls\", \"twitter\": \"https:/twitter.com/builtbygirls\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"builtbygirls\", \"tags\": [{\"id\": 6242264, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"name\": \"Career Planning\", \"category\": \"Industry\"}, {\"id\": 6242265, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"name\": \"Teenagers\", \"category\": \"Industry\"}, {\"id\": 6242266, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"name\": \"Women's\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94574, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 36, \"hc_estimate_90_days\": 37, \"hc_estimate_180_days\": 39, \"hc_estimate_270_days\": 39, \"hc_estimate_365_days\": 43, \"hc_growth_90_days\": \"-2.70000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"-16.280000000000001136868377216160297393798828125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1470266492/yb427xmhjvzyisblv9sr.png",
+                        "name": "BUILT BY GIRLS"
+                    },
+                    "position": "Regional Community Lead",
+                    "startDate": "2019-01-01",
+                    "name": "BUILT BY GIRLS",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1470266492/yb427xmhjvzyisblv9sr.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 732104, \"name\": \"BUILTBYGIRLS\", \"uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1470266492/yb427xmhjvzyisblv9sr.png\", \"description\": \"BUILTBYGIRLS offers young women with technology solutions to assist them to build their careers and products.\", \"headcount\": \"251-500\", \"founding_date\": \"2014-07-01\", \"website\": \"http://www.builtbygirls.com/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [529221], \"executive_people_profile_ids\": [529221], \"cb_permalink\": \"https://www.crunchbase.com/organization/builtbygirls\", \"linkedin_url\": \"https://linkedin.com/company/builtbygirls\", \"twitter\": \"https:/twitter.com/builtbygirls\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"builtbygirls\", \"tags\": [{\"id\": 6242264, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"name\": \"Career Planning\", \"category\": \"Industry\"}, {\"id\": 6242265, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"name\": \"Teenagers\", \"category\": \"Industry\"}, {\"id\": 6242266, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"name\": \"Women's\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94574, \"legal_entity_uuid\": \"f97a6115-6e74-f6e1-5d65-ea1c39d15eeb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 36, \"hc_estimate_90_days\": 37, \"hc_estimate_180_days\": 39, \"hc_estimate_270_days\": 39, \"hc_estimate_365_days\": 43, \"hc_growth_90_days\": \"-2.70000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"-16.280000000000001136868377216160297393798828125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1470266492/yb427xmhjvzyisblv9sr.png",
+                        "name": "BUILT BY GIRLS"
+                    },
+                    "position": "Regional Lead",
+                    "startDate": "2017-02-01",
+                    "name": "BUILT BY GIRLS",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1470266492/yb427xmhjvzyisblv9sr.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-12-01",
+                    "legalEntity": "{\"id\": 1378561, \"name\": \"Womens eNews\", \"uuid\": \"87eda87d-c5da-4d1c-84c1-0f9d3ca44195\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/klnjx9xsjsb49xbeddyq\", \"description\": \"Womens eNews is an award-winning nonprofit news service covering issues of particular concern to women and providing womens perspectives.\", \"headcount\": \"11-50\", \"founding_date\": \"2000-01-01\", \"website\": \"https://womensenews.org\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/womens-enews\", \"linkedin_url\": \"https://linkedin.com/company/women%27s-enews\", \"twitter\": \"https:/www.twitter.com/Womens_eNews\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"women%27s-enews\", \"tags\": [{\"id\": 3326312, \"legal_entity_uuid\": \"87eda87d-c5da-4d1c-84c1-0f9d3ca44195\", \"name\": \"Non Profit\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 176201, \"legal_entity_uuid\": \"87eda87d-c5da-4d1c-84c1-0f9d3ca44195\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/klnjx9xsjsb49xbeddyq",
+                        "name": "Womens eNews"
+                    },
+                    "position": "Reporter",
+                    "startDate": "2016-04-01",
+                    "name": "Womens eNews",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/klnjx9xsjsb49xbeddyq"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Girls Who Code"
+                    },
+                    "position": "Partner Engagement Intern",
+                    "startDate": "2017-04-01",
+                    "name": "Girls Who Code",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-10-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/women%27s-entrepreneurship-day.png",
+                        "name": "Womens Entrepreneurship Day of the United Nations"
+                    },
+                    "position": "Executive Assistant",
+                    "startDate": "2015-11-01",
+                    "name": "Womens Entrepreneurship Day of the United Nations",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/women%27s-entrepreneurship-day.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 1071622, \"name\": \"Days for Girls International\", \"uuid\": \"256e504b-bd00-4053-b179-36ffa81c035d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/x4nzkjfmdkzxropwostm\", \"description\": \"Days for Girls International engages in providing girls & women with reusable pads and health education.\", \"headcount\": \"101-250\", \"founding_date\": \"2008-01-01\", \"website\": \"https://www.daysforgirls.org\", \"location\": \"Mount Vernon\", \"country\": \"USA\", \"region\": \"Washington\", \"founder_people_profile_ids\": [2317020], \"executive_people_profile_ids\": [2317020], \"cb_permalink\": \"https://www.crunchbase.com/organization/days-for-girls-international\", \"linkedin_url\": \"https://linkedin.com/company/daysforgirls\", \"twitter\": \"https:/twitter.com/daysforgirls\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"daysforgirls\", \"tags\": [{\"id\": 3253438, \"legal_entity_uuid\": \"256e504b-bd00-4053-b179-36ffa81c035d\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 3253439, \"legal_entity_uuid\": \"256e504b-bd00-4053-b179-36ffa81c035d\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 3253440, \"legal_entity_uuid\": \"256e504b-bd00-4053-b179-36ffa81c035d\", \"name\": \"Non Profit\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/x4nzkjfmdkzxropwostm",
+                        "name": "Days for Girls International"
+                    },
+                    "position": "Social Media Manager",
+                    "startDate": "2015-05-01",
+                    "name": "Days for Girls International",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/x4nzkjfmdkzxropwostm"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "minor in Digital Methods in the Humanities",
+                    "degreeType": "Computer Science  Journalism",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1460968, \"name\": \"Northeastern University\", \"uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/northeastern-university.png\", \"description\": \"Northeastern University is an experiential and research university that offers a comprehensive range of undergraduate and graduate programs.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1898-10-03\", \"website\": \"http://www.northeastern.edu\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [452926, 3233331, 2490069, 1949619, 1712321, 561623, 581287, 1874594, 2092531, 1208654, 38934, 2169143, 2429304, 2456620, 1257747, 2823635, 2313063, 2480392, 1949513, 3376160, 1153156, 4155016, 4155343, 1255379, 351861, 754525, 2438758], \"cb_permalink\": \"https://www.crunchbase.com/organization/northeastern-university\", \"linkedin_url\": \"https://linkedin.com/school/northeastern-university\", \"twitter\": \"http:/twitter.com/northeastern\", \"last_funding_round_date\": \"2023-08-08\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 76799867, \"company_li_name\": \"northeastern-university\", \"tags\": [{\"id\": 1788656, \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1788657, \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 1788658, \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 28712, \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 547, \"hc_estimate_90_days\": 511, \"hc_estimate_180_days\": 589, \"hc_estimate_270_days\": 625, \"hc_estimate_365_days\": 653, \"hc_growth_90_days\": \"7.04999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-7.12999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-12.480000000000000426325641456060111522674560546875\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": [{\"id\": 91612, \"uuid\": \"fe1397f9-400f-4ac9-893d-2c03973e08ee\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-08\", \"investors\": null}, {\"id\": 91611, \"uuid\": \"6f3e4087-dd4e-4a5a-bd61-d6aeb31a1a41\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-24\", \"investors\": null}, {\"id\": 91610, \"uuid\": \"4eab47c9-63d8-4b22-b451-f73d4b29c9de\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-09-09\", \"investors\": null}, {\"id\": 91609, \"uuid\": \"1e36d30d-8f74-42a2-b4ec-9bbaa64a20b8\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4271867, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-29\", \"investors\": null}, {\"id\": 91608, \"uuid\": \"cfcb4550-b561-46de-b176-b6908d3a7467\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-02-14\", \"investors\": null}, {\"id\": 487138, \"uuid\": \"d90cba02-ca28-49ce-993a-705685c5c473\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 91607, \"uuid\": \"59107388-e15d-4453-af21-fc527d68129d\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-12-19\", \"investors\": null}, {\"id\": 91606, \"uuid\": \"ba8716b3-7b66-4dd0-8434-6a3b44469c78\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-01\", \"investors\": null}, {\"id\": 91605, \"uuid\": \"009a6fef-cfde-4746-a9e2-f7725741ebcc\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 160000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-06-22\", \"investors\": null}, {\"id\": 91604, \"uuid\": \"9f8d84bf-8c5f-0448-9c17-b8f1ecf4d694\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 14000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-04-19\", \"investors\": null}, {\"id\": 91603, \"uuid\": \"57f65f52-af74-47d0-9664-870296fe3469\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 145000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-13\", \"investors\": null}, {\"id\": 91602, \"uuid\": \"7b558794-f8cf-45fa-971c-ee8d5c076729\", \"legal_entity_uuid\": \"5f84d9fa-78fd-14b0-d335-5ac3561cdc0a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 143000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-08-15\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/northeastern-university.png",
+                        "name": "Northeastern University"
+                    },
+                    "name": "Northeastern University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/northeastern-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "S.I.P",
+                    "endDate": "2015-01-01",
+                    "legalEntity": null,
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Girls Who Code"
+                    },
+                    "name": "Girls Who Code",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "187"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

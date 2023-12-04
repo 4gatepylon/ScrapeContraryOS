@@ -1,0 +1,275 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Web3/Cryptography research, AI, CRM/integrations/APIs.",
+                "currentRole": "Co-Founder at Endgrate | Harvard CS",
+                "educationExperiences": [
+                    {
+                        "degree": "N/A",
+                        "degreeType": "High School Diploma",
+                        "endDate": "2022-01-01",
+                        "id": "712",
+                        "startDate": "2019-01-01",
+                        "universityId": 377
+                    }
+                ],
+                "email": "william.zhang@vp.contrary.com",
+                "firstName": "William",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83d\udc4b",
+                "hqPosition": null,
+                "hubCity": "Boston",
+                "id": "385",
+                "intro": "I'm a current sophomore at Harvard interested in CS.",
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-12-04T10:46:24",
+                "lastName": "Zhang",
+                "linkedinName": "william-zhang-69420",
+                "linkedinUrl": "https://linkedin.com/in/william-zhang-69420/",
+                "location": "Cambridge",
+                "lookingFor": "Learn more about VC and the startup ecosystem.",
+                "meetWithBlurb": null,
+                "podId": 9,
+                "prismUuid": "2d082521-c856-4e72-abaf-5cdd761a0be6",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp6eYz2KNqlJdDYGcrATNe81QZChH_ViBjE2kCj0=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "williamhyzhang@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U03G81GJTB5",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3732",
+                        "organizationId": 244,
+                        "position": "Founder",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4630",
+                        "organizationId": 984436,
+                        "position": "Co-Founder",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3733",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": "2022-05-01",
+                        "id": "3734",
+                        "organizationId": 151,
+                        "position": "Strategic Advisor",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": "2022-03-01",
+                        "id": "4631",
+                        "organizationId": 330785,
+                        "position": "Technical Consultant",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2535",
+                        "organizationId": 208,
+                        "position": "Software Engineer",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-05-01",
+                        "id": "2536",
+                        "organizationId": 1737,
+                        "position": "Software Engineer",
+                        "startDate": "2020-11-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "3735",
+                        "organizationId": 66,
+                        "position": "Student Researcher",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "3736",
+                        "organizationId": 2610,
+                        "position": "Software Engineer",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2534",
+                        "organizationId": 1736,
+                        "position": "Instructor",
+                        "startDate": "2020-02-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Endgrate"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-08-01",
+                    "name": "Endgrate",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2022-05-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-03-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/manaai.png",
+                        "name": "Mana"
+                    },
+                    "position": "Technical Consultant",
+                    "startDate": "2022-01-01",
+                    "name": "Mana",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/manaai.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-03-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/clayhq.png",
+                        "name": "Clay"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-06-01",
+                    "name": "Clay",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/clayhq.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 1373506, \"name\": \"MIT CSAIL\", \"uuid\": \"0c93c05d-3710-45b8-beee-9b0a8f8289e0\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit-csail.png\", \"description\": \"MIT CSAIL pioneers computer techniques that improve how people work, play, and learn.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2003-01-01\", \"website\": \"http://www.csail.mit.edu/\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/mit-csail\", \"linkedin_url\": \"https://linkedin.com/company/mit-csail\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mit-csail\", \"tags\": [{\"id\": 7707280, \"legal_entity_uuid\": \"0c93c05d-3710-45b8-beee-9b0a8f8289e0\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}, {\"id\": 6908688, \"legal_entity_uuid\": \"0c93c05d-3710-45b8-beee-9b0a8f8289e0\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 6908687, \"legal_entity_uuid\": \"0c93c05d-3710-45b8-beee-9b0a8f8289e0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6908686, \"legal_entity_uuid\": \"0c93c05d-3710-45b8-beee-9b0a8f8289e0\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 54939, \"legal_entity_uuid\": \"0c93c05d-3710-45b8-beee-9b0a8f8289e0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 359, \"hc_estimate_90_days\": 360, \"hc_estimate_180_days\": 405, \"hc_estimate_270_days\": 384, \"hc_estimate_365_days\": 373, \"hc_growth_90_days\": \"-0.2800000000000000266453525910037569701671600341796875\", \"hc_growth_180_days\": \"-11.3599999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-6.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-3.75\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit-csail.png",
+                        "name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)"
+                    },
+                    "position": "Student Researcher",
+                    "startDate": "2020-06-01",
+                    "name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit-csail.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-11-01",
+                    "legalEntity": "{\"id\": 1114987, \"name\": \"Ponto\", \"uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pontosoftware.png\", \"description\": \"Financial infrastructure for digital assets\", \"headcount\": \"11-50\", \"founding_date\": \"2021-01-01\", \"website\": \"https://ponto.org/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1778732], \"executive_people_profile_ids\": [2101904], \"cb_permalink\": \"https://www.crunchbase.com/organization/ponto\", \"linkedin_url\": \"https://linkedin.com/company/pontosoftware\", \"twitter\": \"https:/twitter.com/WithPonto\", \"last_funding_round_date\": \"2023-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 20000000, \"company_li_name\": \"pontosoftware\", \"tags\": [{\"id\": 3298888, \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 3298887, \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 3298886, \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 3298885, \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"name\": \"Cryptocurrency\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 187598, \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 9, \"hc_estimate_270_days\": 14, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-22.219999999999998863131622783839702606201171875\", \"hc_growth_270_days\": \"-50\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 495118, \"uuid\": \"1b08ec38-56e9-48bb-82f5-10e5f3d94a7e\", \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 178961, \"uuid\": \"bb1d0749-6e29-4d6d-b8d6-a214e3526b81\", \"legal_entity_uuid\": \"a2782f6a-5154-40f8-b446-176cf4ab0da3\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-17\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pontosoftware.png",
+                        "name": "Ponto"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-11-01",
+                    "name": "Ponto",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pontosoftware.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "",
+                    "endDate": "2026-01-01",
+                    "legalEntity": "{\"id\": 1082618, \"name\": \"Harvard University\", \"uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/r0trjo2c9vpuzbdes4j6\", \"description\": \"Harvard University is a private research university and a member of the Ivy League.\", \"headcount\": \"10000+\", \"founding_date\": \"1636-09-08\", \"website\": \"http://harvard.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [3118136], \"executive_people_profile_ids\": [228851, 205791, 565055, 3360131, 3225651, 238180, 1003275, 1310187, 1165604, 523667, 3083639, 2076194, 1976896, 3224378, 462288, 877297, 1316883, 1124541, 1065544, 1409004, 2973573, 1368344, 1690495, 1727467, 205034, 2963281, 2229101, 1483163, 1669011, 123228, 738931, 2282945, 739085, 754060, 126945, 3163952, 1112790, 1940651, 495746, 1003554, 1129640, 632075, 1208255, 1517314, 1939887, 2679042, 2928336, 2607677, 2810967, 3118136], \"cb_permalink\": \"https://www.crunchbase.com/organization/harvard-university\", \"linkedin_url\": \"https://linkedin.com/school/harvard-university\", \"twitter\": \"http:/www.twitter.com/Harvard\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 136082139, \"company_li_name\": \"harvard-university\", \"tags\": [{\"id\": 4831863, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4831864, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4831865, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 181798, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 529, \"hc_estimate_90_days\": 500, \"hc_estimate_180_days\": 543, \"hc_estimate_270_days\": 545, \"hc_estimate_365_days\": 549, \"hc_growth_90_days\": \"5.79999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-2.5800000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": \"-2.939999999999999946709294817992486059665679931640625\", \"hc_growth_365_days\": \"-3.640000000000000124344978758017532527446746826171875\"}, \"funding_rounds\": [{\"id\": 491275, \"uuid\": \"e5676380-27b1-40db-89de-b4c067553a46\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 407806, \"uuid\": \"76171910-9231-44da-8e48-7b576fef4481\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-24\", \"investors\": null}, {\"id\": 491274, \"uuid\": \"e27a92c2-f691-4450-b9b1-9187c9420191\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 407805, \"uuid\": \"e439eeb6-2703-44ff-83ad-5fd300c7e5c6\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-07\", \"investors\": null}, {\"id\": 491273, \"uuid\": \"a4757524-d9b6-46f6-b3f0-9a61b624cbcd\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100458, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 407804, \"uuid\": \"612d4b51-b692-4cf5-99b1-bbc1f9322d2f\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-11\", \"investors\": null}, {\"id\": 407803, \"uuid\": \"9d557dc1-c0e7-4e0c-839b-bbf979f104a4\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 8900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-09-13\", \"investors\": null}, {\"id\": 407802, \"uuid\": \"29fa1ac0-db7e-41ff-a5c3-ce1fa5904efb\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 407801, \"uuid\": \"8307be16-5f6e-46a0-ad1d-74d4c99bb548\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 599910, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 491272, \"uuid\": \"7a1647c5-a977-4980-8108-7124f0199960\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1594609, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 407800, \"uuid\": \"d88ca228-1593-a34a-813d-07acc9a99a87\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 491271, \"uuid\": \"837aaf13-7f10-4c4d-846e-5dbcf399cddf\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 491270, \"uuid\": \"0a1e0105-7822-49d9-a59b-aef6f2fd986d\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1058994, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 491269, \"uuid\": \"97c33012-e75f-4263-80c9-9d2c16690383\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2498168, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}, {\"id\": 407799, \"uuid\": \"e2f5a1d2-6b06-9bb0-c2a3-986a8b3ee18b\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-07-17\", \"investors\": null}]}",
+                    "startDate": "2022-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r0trjo2c9vpuzbdes4j6",
+                        "name": "Harvard University"
+                    },
+                    "name": "Harvard University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r0trjo2c9vpuzbdes4j6"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "N/A",
+                    "degreeType": "High School Diploma",
+                    "endDate": "2022-01-01",
+                    "legalEntity": null,
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Ward Melville Senior High School"
+                    },
+                    "name": "Ward Melville Senior High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "29",
+                    "value": "Web3 / Crypto"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "385"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

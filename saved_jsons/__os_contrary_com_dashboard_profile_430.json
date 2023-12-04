@@ -1,0 +1,351 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Cofounder at Story Protocol | Stanford CS & Philosophy",
+                "educationExperiences": [
+                    {
+                        "degree": null,
+                        "degreeType": "MS Computer Science",
+                        "endDate": null,
+                        "id": "789",
+                        "startDate": null,
+                        "universityId": 1
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "Philosophy",
+                        "endDate": null,
+                        "id": "790",
+                        "startDate": null,
+                        "universityId": 106
+                    }
+                ],
+                "email": "jasonjinzhao99@gmail.com",
+                "firstName": "Jason",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "430",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2022-12-21T17:43:30",
+                "lastName": "Zhao",
+                "linkedinName": "jasonjinzhao",
+                "linkedinUrl": "https://linkedin.com/in/jasonjinzhao/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "3a9055a3-5b76-48a1-82a0-ee79cd5433bd",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-430-headshot_patagonia.jpg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4650",
+                        "organizationId": 56,
+                        "position": "Scout",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2822",
+                        "organizationId": 1895,
+                        "position": "???",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3813",
+                        "organizationId": 2894,
+                        "position": "Co-Founder",
+                        "startDate": "2022-04-01"
+                    },
+                    {
+                        "endDate": "2022-04-01",
+                        "id": "2823",
+                        "organizationId": 994,
+                        "position": "Product Manager",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "4651",
+                        "organizationId": 984439,
+                        "position": "Product",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2020-09-01",
+                        "id": "2824",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "2825",
+                        "organizationId": 267,
+                        "position": "Design Fellow",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2019-04-01",
+                        "id": "3814",
+                        "organizationId": 2656,
+                        "position": "Software Engineer",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-03-01",
+                        "id": "2826",
+                        "organizationId": 512,
+                        "position": "Software Engineer",
+                        "startDate": "2019-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 499172, \"name\": \"Sequoia Capital\", \"uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sequoia.png\", \"description\": \"Sequoia Capital is a VC firm that invests in startups in the energy, financial, enterprise, healthcare, internet, and mobile industries.\", \"headcount\": \"101-250\", \"founding_date\": \"1972-11-01\", \"website\": \"http://www.sequoiacap.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [3394297], \"executive_people_profile_ids\": [4070237, 1876912, 1876677, 3083088, 1878092, 1670510, 151095, 1540770, 544696, 2821341, 1717770, 1906105, 151096, 1036667, 2760581, 1499081, 1724395, 1818053, 3561481, 191020, 1522762, 203151, 1497142, 1036771, 3326990, 1718116, 3373009, 1522900, 3633392, 1797858, 163217, 2415554, 2938793, 1203573, 3227377, 548539, 2443670, 2106586, 294538, 380557, 2043412, 3618558, 1906359, 1385437, 592611, 3323364, 853086, 1878307, 2928158, 1497682, 1036748, 565022, 853693, 2527386, 2259917, 2499207, 1534444, 3019273, 151197, 2278644, 1148842, 2650764, 2725837, 1671036, 145910], \"cb_permalink\": \"https://www.crunchbase.com/organization/sequoia-capital\", \"linkedin_url\": \"https://linkedin.com/company/sequoia\", \"twitter\": \"http:/www.twitter.com/sequoia\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"sequoia\", \"tags\": [{\"id\": 6362721, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6362722, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362723, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 98454, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 523, \"hc_estimate_90_days\": 531, \"hc_estimate_180_days\": 562, \"hc_estimate_270_days\": 556, \"hc_estimate_365_days\": 552, \"hc_growth_90_days\": \"-1.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-6.94000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-5.94000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"-5.25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sequoia.png",
+                        "name": "Sequoia Capital"
+                    },
+                    "position": "Scout",
+                    "startDate": "2023-01-01",
+                    "name": "Sequoia Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sequoia.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1589273, \"name\": \"Story Protocol\", \"uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/story-protocol.png\", \"description\": \"Story Protocol is a creator of web3 technology that aims to change the way narrative universes are formed.\", \"headcount\": \"unknown\", \"founding_date\": \"2022-01-01\", \"website\": \"https://www.storyprotocol.xyz\", \"location\": \"Bellevue\", \"country\": \"USA\", \"region\": \"Washington\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/story-protocol\", \"linkedin_url\": \"https://linkedin.com/company/story-protocol\", \"twitter\": \"https:/twitter.com/StoryProtocol\", \"last_funding_round_date\": \"2023-09-06\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 54300000, \"company_li_name\": \"story-protocol\", \"tags\": [{\"id\": 6925080, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Blockchain\", \"category\": \"Industry\"}, {\"id\": 7707367, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Web3\", \"category\": \"Industry\"}, {\"id\": 7707366, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}, {\"id\": 7707365, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6925083, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6925082, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Professional Services\", \"category\": \"Industry\"}, {\"id\": 6925081, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 112815, \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 7, \"hc_estimate_270_days\": 4, \"hc_estimate_365_days\": 4, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"75\", \"hc_growth_365_days\": \"75\"}, \"funding_rounds\": [{\"id\": 317190, \"uuid\": \"046af2bb-af9d-426f-95f4-8ab01cfc997f\", \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-06\", \"investors\": null}, {\"id\": 317189, \"uuid\": \"935ac64f-a691-4bf2-b7e7-95b039fc1000\", \"legal_entity_uuid\": \"8c7220bb-c5be-44af-ad19-1d196c51375f\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 29300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-17\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/story-protocol.png",
+                        "name": "Story Protocol"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-01-01",
+                    "name": "Story Protocol",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/story-protocol.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 1416891, \"name\": \"DeepMind\", \"uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/googledeepmind.png\", \"description\": \"DeepMind aims to research and build safe artificial intelligence system to solve intelligence and advance science and humanity.\", \"headcount\": \"501-1000\", \"founding_date\": \"2010-01-01\", \"website\": \"https://deepmind.com\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [563412, 1968106], \"executive_people_profile_ids\": [2437311, 1809865, 2065039, 933783, 2155725, 3833505, 273182, 3134456, 2939829, 1818585], \"cb_permalink\": \"https://www.crunchbase.com/organization/deepmind\", \"linkedin_url\": \"https://linkedin.com/company/googledeepmind\", \"twitter\": \"https:/twitter.com/deepmindai\", \"last_funding_round_date\": \"2011-02-01\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 0, \"company_li_name\": \"googledeepmind\", \"tags\": [{\"id\": 1761275, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 7402397, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}, {\"id\": 1761274, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1761273, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 24380, \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 491, \"hc_estimate_90_days\": 474, \"hc_estimate_180_days\": 413, \"hc_estimate_270_days\": 378, \"hc_estimate_365_days\": 383, \"hc_growth_90_days\": \"3.589999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"18.8900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"29.8900000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"28.199999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 92127, \"uuid\": \"6420530d-7a28-4234-a746-05e93ece5eee\", \"legal_entity_uuid\": \"557d6676-fc1a-33f0-656b-9871f4a66438\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-02-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/googledeepmind.png",
+                        "name": "Google DeepMind"
+                    },
+                    "position": "Product",
+                    "startDate": "2020-01-01",
+                    "name": "Google DeepMind",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/googledeepmind.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Philosophy",
+                    "degreeType": "Tutorial",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1406133, \"name\": \"University of Oxford\", \"uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1503468710/jzkgvkjnwrdbqrfjsblk.png\", \"description\": \"Oxford is a center of learning, teaching and research, and the oldest university in the English-speaking world.\", \"headcount\": \"10000+\", \"founding_date\": \"1096-01-01\", \"website\": \"http://ox.ac.uk\", \"location\": \"Oxford\", \"country\": \"GBR\", \"region\": \"Oxfordshire\", \"founder_people_profile_ids\": [1993258], \"executive_people_profile_ids\": [1021152, 1993258, 1433791, 2682067, 2078108, 3403299, 1349781, 2017485, 2492034, 2084817, 2946132], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-oxford\", \"linkedin_url\": \"https://linkedin.com/school/oxforduni\", \"twitter\": \"http:/twitter.com/uniofoxford\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"oxforduni\", \"tags\": [{\"id\": 4838055, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4838054, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 4838053, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4838052, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 4838051, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"name\": \"Association\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 40331, \"legal_entity_uuid\": \"ec74a4ae-156b-5cba-82be-7922964ca376\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 200, \"hc_estimate_90_days\": 203, \"hc_estimate_180_days\": 204, \"hc_estimate_270_days\": 202, \"hc_estimate_365_days\": 200, \"hc_growth_90_days\": \"-1.479999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-1.95999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"-0.9899999999999999911182158029987476766109466552734375\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1503468710/jzkgvkjnwrdbqrfjsblk.png",
+                        "name": "University of Oxford"
+                    },
+                    "name": "University of Oxford",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1503468710/jzkgvkjnwrdbqrfjsblk.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "MS Computer Science",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "BA Philosophy",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 444132, \"name\": \"Stanford University\", \"uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png\", \"description\": \"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.\", \"headcount\": \"10000+\", \"founding_date\": \"1885-11-11\", \"website\": \"http://www.stanford.edu\", \"location\": \"Stanford\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2764226, 200105, 205047, 1268316], \"executive_people_profile_ids\": [2164384, 876812, 1199385, 434135, 1537610, 2653534, 536836, 1666921, 1453545, 41255, 1683111, 1951470, 1807356, 472065, 941515, 362044, 2746332, 1973401, 2406793, 202559, 1615059, 1930298, 1012280, 3246090, 1114183, 470089, 2869399, 2716966, 1967853, 1446287, 3159717, 3373791, 1991402, 3283437, 526477, 144696, 228914, 1413211, 2021783, 2085123, 2887004, 658674, 2071624, 1736776, 2272085, 2022424, 3018848, 76079, 125213, 2004004, 602055, 2816449, 2434718, 350699, 2598748, 70730, 690184, 1048992, 1968116, 1436563], \"cb_permalink\": \"https://www.crunchbase.com/organization/stanford-university\", \"linkedin_url\": \"https://linkedin.com/school/stanford-university\", \"twitter\": \"http:/www.twitter.com/Stanford\", \"last_funding_round_date\": \"2023-08-17\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 20928024, \"company_li_name\": \"stanford-university\", \"tags\": [{\"id\": 4835195, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4835194, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4835193, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 114680, \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1432, \"hc_estimate_90_days\": 1390, \"hc_estimate_180_days\": 1498, \"hc_estimate_270_days\": 1532, \"hc_estimate_365_days\": 1518, \"hc_growth_90_days\": \"3.020000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-4.410000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-6.53000000000000024868995751603506505489349365234375\", \"hc_growth_365_days\": \"-5.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 215263, \"uuid\": \"39f4b9fa-bb8c-4f8b-b5c3-39b60b4c3c5a\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-17\", \"investors\": null}, {\"id\": 215262, \"uuid\": \"7bd904f2-d9cb-42f6-9f47-9cd7498ecbac\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 215261, \"uuid\": \"ec5d17a4-0aae-4393-94dd-3e8213d76be2\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9066, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 215260, \"uuid\": \"8f6cf0fc-e7c1-474a-b85a-2026b04905d5\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-09\", \"investors\": null}, {\"id\": 499753, \"uuid\": \"7190297b-d790-4422-86c2-5a68fa9e6613\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2899400, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499752, \"uuid\": \"0475a6cd-ffc9-44d9-acf3-6abb088ad107\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2508568, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 215259, \"uuid\": \"6db55bd0-4556-46af-a139-38d43ce5f16b\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 499751, \"uuid\": \"ceeef4f4-4a78-444d-826b-285ef168564e\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1370916, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499750, \"uuid\": \"f2fafa13-cde7-4662-917f-c9e0e11b4425\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1460679, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 499749, \"uuid\": \"86390d0d-28a1-4386-9d44-d9530d17e337\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3113760, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499748, \"uuid\": \"530cdcd0-1997-4b99-902e-251557edf897\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1519199, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499747, \"uuid\": \"32f338c4-9aea-4a0c-8759-4f0b31ddbee6\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1555581, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499746, \"uuid\": \"27e93aa4-ea06-4eb0-9796-6e178647396d\", \"legal_entity_uuid\": \"20135206-96eb-8be0-9ac4-670b257e532c\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1440855, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png",
+                        "name": "Stanford University"
+                    },
+                    "name": "Stanford University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/stanford-university.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "26",
+                    "value": "Agriculture Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "29",
+                    "value": "Web3 / Crypto"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "27",
+                    "value": "Transportation & Logistics"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "31",
+                    "value": "Consumer"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "36",
+                    "value": "Ed Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "40",
+                    "value": "D2C"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "38",
+                    "value": "Hardware"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "37",
+                    "value": "Creator Economy"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "24",
+                    "value": "Robotics"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "430"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

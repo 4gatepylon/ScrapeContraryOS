@@ -1,0 +1,61 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Software Developer at Jam3",
+                "educationExperiences": [],
+                "email": "anson.yu@vp.contrary.com",
+                "firstName": "Anson",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "147",
+                "intro": "System Design Eng + Phil @ UWaterloo; Loran Scholar; Beekeeping, Design & AgTech\n",
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-07-12T20:03:53",
+                "lastName": "Yu",
+                "linkedinName": "anson-y",
+                "linkedinUrl": "https://linkedin.com/in/anson-y/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 21,
+                "prismUuid": "7e0cc739-3f4b-42ed-a2db-1682b9bbaa21",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp4892amBWHEDmbPd7hAV2LCfAHffy46EBDpyiaQ=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "ansonyu24@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U01U4GHSBN0",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "147"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

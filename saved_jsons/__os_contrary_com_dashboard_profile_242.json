@@ -1,0 +1,407 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Head of Business Operations @ Lydian - were hiring!",
+                "educationExperiences": [
+                    {
+                        "degree": "Chemical Engineering",
+                        "degreeType": "B.S.",
+                        "endDate": "2017-01-01",
+                        "id": "452",
+                        "startDate": "2013-01-01",
+                        "universityId": 16
+                    }
+                ],
+                "email": "paigeomura@gmail.com",
+                "firstName": "Paige",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Boston",
+                "id": "242",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-05-09T18:46:00",
+                "lastName": "Omura",
+                "linkedinName": "pomura",
+                "linkedinUrl": "https://linkedin.com/in/pomura/",
+                "location": "Boston, MA, USA",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "66b2158c-5b1f-4ec0-ba4e-511aa5d6fce5",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/242_Paige_Omura.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "pomura@alum.mit.edu",
+                "slackUrl": null,
+                "twitterHandle": "paigeomura",
+                "twitterUrl": "https://twitter.com/paigeomura/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4575",
+                        "organizationId": 242610,
+                        "position": "Head of Business Operations",
+                        "startDate": "2023-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1597",
+                        "organizationId": 1091,
+                        "position": "Operations & Program Manager",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1598",
+                        "organizationId": 1148,
+                        "position": "Operations Consultant",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": "2022-06-01",
+                        "id": "3995",
+                        "organizationId": 225,
+                        "position": "Assistant Coach-Varsity Sailing",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2022-02-01",
+                        "id": "1599",
+                        "organizationId": 1149,
+                        "position": "VC - Associate",
+                        "startDate": "2020-03-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "1600",
+                        "organizationId": 1150,
+                        "position": "VC - Scout",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2020-03-01",
+                        "id": "1601",
+                        "organizationId": 1151,
+                        "position": "Director of Operations",
+                        "startDate": "2019-07-01"
+                    },
+                    {
+                        "endDate": "2017-02-01",
+                        "id": "1602",
+                        "organizationId": 1152,
+                        "position": "Product Development Engineer",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "1603",
+                        "organizationId": 5,
+                        "position": "VC - Founding Venture Partner",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "1604",
+                        "organizationId": 552,
+                        "position": "Healthcare Finance Analyst, MIT Laboratory for Financial Engineering",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "1605",
+                        "organizationId": 68,
+                        "position": "Institutional Equity Analyst",
+                        "startDate": "2015-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2171845, \"name\": \"Lydian\", \"uuid\": \"80fbdc79-da0a-4c19-b2b5-2229540a996b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/lydian-labs-inc.png\", \"description\": \"Lydian aims to accelerate the decarbonization of the chemical industry by electrifying the chemical production process.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-01-01\", \"website\": \"https://www.lydianlabsinc.com\", \"location\": \"Salem\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2059593], \"cb_permalink\": \"https://www.crunchbase.com/organization/lydian-996b\", \"linkedin_url\": \"https://linkedin.com/company/lydian-labs-inc\", \"twitter\": null, \"last_funding_round_date\": \"2023-09-06\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 12000000, \"company_li_name\": \"lydian-labs-inc\", \"tags\": [{\"id\": 3013815, \"legal_entity_uuid\": \"80fbdc79-da0a-4c19-b2b5-2229540a996b\", \"name\": \"Chemical\", \"category\": \"Industry\"}, {\"id\": 3013816, \"legal_entity_uuid\": \"80fbdc79-da0a-4c19-b2b5-2229540a996b\", \"name\": \"Chemical Engineering\", \"category\": \"Industry\"}, {\"id\": 3013817, \"legal_entity_uuid\": \"80fbdc79-da0a-4c19-b2b5-2229540a996b\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 66231, \"legal_entity_uuid\": \"80fbdc79-da0a-4c19-b2b5-2229540a996b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 418884, \"uuid\": \"b7eed598-0c2b-4d38-a57d-e15abc564704\", \"legal_entity_uuid\": \"80fbdc79-da0a-4c19-b2b5-2229540a996b\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/lydian-labs-inc.png",
+                        "name": "Lydian"
+                    },
+                    "position": "Head of Business Operations",
+                    "startDate": "2023-08-01",
+                    "name": "Lydian",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/lydian-labs-inc.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tenderfood.png",
+                        "name": "Tender Food"
+                    },
+                    "position": "Advisor-Operations",
+                    "startDate": "2022-02-01",
+                    "name": "Tender Food",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tenderfood.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": "{\"id\": 2144093, \"name\": \"Y Combinator\", \"uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/y-combinator.png\", \"description\": \"Y Combinator is a startup accelerator that invests in a wide range of startups.\", \"headcount\": \"101-250\", \"founding_date\": \"2005-03-01\", \"website\": \"http://www.ycombinator.com\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1385857, 610494, 399896, 1165060, 2145165, 604944, 2821425, 1037261, 2196909], \"cb_permalink\": \"https://www.crunchbase.com/organization/y-combinator\", \"linkedin_url\": \"https://linkedin.com/school/y-combinator\", \"twitter\": \"http:/www.twitter.com/ycombinator\", \"last_funding_round_date\": \"2020-10-25\", \"last_funding_round_name\": \"Funding Round\", \"total_funding_amount\": 0, \"company_li_name\": \"y-combinator\", \"tags\": [{\"id\": 6368282, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6368283, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6368284, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 56783, \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 114, \"hc_estimate_90_days\": 121, \"hc_estimate_180_days\": 108, \"hc_estimate_270_days\": 112, \"hc_estimate_365_days\": 107, \"hc_growth_90_days\": \"-5.79000000000000003552713678800500929355621337890625\", \"hc_growth_180_days\": \"5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"1.79000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"6.54000000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 375181, \"uuid\": \"f03f98b4-0305-4579-baf8-77a40c73d723\", \"legal_entity_uuid\": \"73633ee4-ea65-2967-6c5d-9b5fec7d2d5e\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/y-combinator.png",
+                        "name": "Y Combinator"
+                    },
+                    "position": "Operations  Program Manager",
+                    "startDate": "2022-02-01",
+                    "name": "Y Combinator",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/y-combinator.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "position": "Assistant Coach-Varsity Sailing",
+                    "startDate": "2021-08-01",
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-02-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tenderfood.png",
+                        "name": "Tender Food"
+                    },
+                    "position": "Builder-Operations",
+                    "startDate": "2020-10-01",
+                    "name": "Tender Food",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/tenderfood.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-02-01",
+                    "legalEntity": "{\"id\": 1671641, \"name\": \"Rhapsody Venture Partners\", \"uuid\": \"96215722-971b-acdc-160e-152d66e20f7e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rhapsody-venture-partners.png\", \"description\": \"Rhapsody invests in and operates industrial science start-ups.\", \"headcount\": \"1-10\", \"founding_date\": \"2012-05-01\", \"website\": \"http://www.rhapsodyvp.com\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/rhapsody-venture-partners-llc\", \"linkedin_url\": \"https://linkedin.com/company/rhapsody-venture-partners\", \"twitter\": \"https:/twitter.com/Rhapsody_VP\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"rhapsody-venture-partners\", \"tags\": [{\"id\": 5887078, \"legal_entity_uuid\": \"96215722-971b-acdc-160e-152d66e20f7e\", \"name\": \"Automotive\", \"category\": \"Industry\"}, {\"id\": 5887079, \"legal_entity_uuid\": \"96215722-971b-acdc-160e-152d66e20f7e\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 5887080, \"legal_entity_uuid\": \"96215722-971b-acdc-160e-152d66e20f7e\", \"name\": \"Electronics\", \"category\": \"Industry\"}, {\"id\": 5887081, \"legal_entity_uuid\": \"96215722-971b-acdc-160e-152d66e20f7e\", \"name\": \"Food and Beverage\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 159581, \"legal_entity_uuid\": \"96215722-971b-acdc-160e-152d66e20f7e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rhapsody-venture-partners.png",
+                        "name": "Rhapsody Venture Partners"
+                    },
+                    "position": "VC - Associate",
+                    "startDate": "2020-03-01",
+                    "name": "Rhapsody Venture Partners",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rhapsody-venture-partners.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-03-01",
+                    "legalEntity": "{\"id\": 1109514, \"name\": \"Poly6 Technologies\", \"uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd\", \"description\": \"Our process intelligent materials offer digital manufacturing solutions to existing production within some of the most complex industries.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.poly6.com/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2715797, 1388988], \"executive_people_profile_ids\": [2715797, 1388988], \"cb_permalink\": \"https://www.crunchbase.com/organization/poly6-technologies\", \"linkedin_url\": \"https://linkedin.com/company/poly6tech\", \"twitter\": \"https:/twitter.com/poly6tech\", \"last_funding_round_date\": \"2018-04-04\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 5132537, \"company_li_name\": \"poly6tech\", \"tags\": [{\"id\": 6549518, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6549517, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 174426, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 410456, \"uuid\": \"ba4f51c2-86e1-4e0e-88ca-fe8ba6911547\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 5067537, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-04\", \"investors\": null}, {\"id\": 410455, \"uuid\": \"0fc6ebd1-e9de-45e3-a018-f2af7a426360\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-01\", \"investors\": null}, {\"id\": 410454, \"uuid\": \"a560aedd-5007-4bb9-a674-706e39f98c3b\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-09-01\", \"investors\": null}, {\"id\": 491351, \"uuid\": \"34593e82-471e-497b-a455-9dce8ee57e45\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-08-18\", \"investors\": null}, {\"id\": 410453, \"uuid\": \"52db7235-2969-421e-a180-d9fbfc6bd2cd\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd",
+                        "name": "Poly6 Technologies"
+                    },
+                    "position": "Director of Operations",
+                    "startDate": "2019-07-01",
+                    "name": "Poly6 Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 1109514, \"name\": \"Poly6 Technologies\", \"uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd\", \"description\": \"Our process intelligent materials offer digital manufacturing solutions to existing production within some of the most complex industries.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.poly6.com/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2715797, 1388988], \"executive_people_profile_ids\": [2715797, 1388988], \"cb_permalink\": \"https://www.crunchbase.com/organization/poly6-technologies\", \"linkedin_url\": \"https://linkedin.com/company/poly6tech\", \"twitter\": \"https:/twitter.com/poly6tech\", \"last_funding_round_date\": \"2018-04-04\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 5132537, \"company_li_name\": \"poly6tech\", \"tags\": [{\"id\": 6549518, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6549517, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 174426, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 410456, \"uuid\": \"ba4f51c2-86e1-4e0e-88ca-fe8ba6911547\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 5067537, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-04\", \"investors\": null}, {\"id\": 410455, \"uuid\": \"0fc6ebd1-e9de-45e3-a018-f2af7a426360\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-01\", \"investors\": null}, {\"id\": 410454, \"uuid\": \"a560aedd-5007-4bb9-a674-706e39f98c3b\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-09-01\", \"investors\": null}, {\"id\": 491351, \"uuid\": \"34593e82-471e-497b-a455-9dce8ee57e45\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-08-18\", \"investors\": null}, {\"id\": 410453, \"uuid\": \"52db7235-2969-421e-a180-d9fbfc6bd2cd\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd",
+                        "name": "Poly6 Technologies"
+                    },
+                    "position": "Product Lead; Employee #1",
+                    "startDate": "2017-07-01",
+                    "name": "Poly6 Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-06-01",
+                    "legalEntity": "{\"id\": 1109514, \"name\": \"Poly6 Technologies\", \"uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd\", \"description\": \"Our process intelligent materials offer digital manufacturing solutions to existing production within some of the most complex industries.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.poly6.com/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2715797, 1388988], \"executive_people_profile_ids\": [2715797, 1388988], \"cb_permalink\": \"https://www.crunchbase.com/organization/poly6-technologies\", \"linkedin_url\": \"https://linkedin.com/company/poly6tech\", \"twitter\": \"https:/twitter.com/poly6tech\", \"last_funding_round_date\": \"2018-04-04\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 5132537, \"company_li_name\": \"poly6tech\", \"tags\": [{\"id\": 6549518, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 6549517, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 174426, \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 410456, \"uuid\": \"ba4f51c2-86e1-4e0e-88ca-fe8ba6911547\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 5067537, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-04\", \"investors\": null}, {\"id\": 410455, \"uuid\": \"0fc6ebd1-e9de-45e3-a018-f2af7a426360\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-01\", \"investors\": null}, {\"id\": 410454, \"uuid\": \"a560aedd-5007-4bb9-a674-706e39f98c3b\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-09-01\", \"investors\": null}, {\"id\": 491351, \"uuid\": \"34593e82-471e-497b-a455-9dce8ee57e45\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-08-18\", \"investors\": null}, {\"id\": 410453, \"uuid\": \"52db7235-2969-421e-a180-d9fbfc6bd2cd\", \"legal_entity_uuid\": \"ca3119e5-5afd-4bdf-a00e-36b60d71ede1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd",
+                        "name": "Poly6 Technologies"
+                    },
+                    "position": "Product Engineer",
+                    "startDate": "2016-02-01",
+                    "name": "Poly6 Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/a3csd1vkgx2qfkhg5zqd"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-02-01",
+                    "legalEntity": "{\"id\": 1638216, \"name\": \"Plume Labs\", \"uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/kllqpgzzqw4ukwklrknw\", \"description\": \"Plume Labs develops an app for personalized alerts and a personal air quality tracker.\", \"headcount\": \"11-50\", \"founding_date\": \"2014-01-17\", \"website\": \"http://plumelabs.com\", \"location\": \"Paris\", \"country\": \"FRA\", \"region\": \"Ile-de-France\", \"founder_people_profile_ids\": [1552640], \"executive_people_profile_ids\": [1552640], \"cb_permalink\": \"https://www.crunchbase.com/organization/plume-labs\", \"linkedin_url\": \"https://linkedin.com/company/plume-labs\", \"twitter\": \"https:/twitter.com/Plume_Labs\", \"last_funding_round_date\": \"2017-11-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 6148723, \"company_li_name\": \"plume-labs\", \"tags\": [{\"id\": 4983613, \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 4983612, \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Environmental Engineering\", \"category\": \"Industry\"}, {\"id\": 4983611, \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Apps\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 160581, \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 88769, \"uuid\": \"bd4392fb-5ac8-4959-a4e7-3b305c67fa7d\", \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1648723, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-11-01\", \"investors\": null}, {\"id\": 88768, \"uuid\": \"54594f44-0ebe-d981-72a4-47cb44c7dd90\", \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-12-15\", \"investors\": null}, {\"id\": 88767, \"uuid\": \"a651bde7-c4f2-4d5e-8ebb-efd452f81ed9\", \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-11-06\", \"investors\": null}, {\"id\": 88766, \"uuid\": \"6b0149d3-591b-429d-88be-811182f925c9\", \"legal_entity_uuid\": \"37651a2a-1214-3eac-d7ce-acbe8e05007f\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kllqpgzzqw4ukwklrknw",
+                        "name": "Plume Labs"
+                    },
+                    "position": "Product Development Engineer",
+                    "startDate": "2017-01-01",
+                    "name": "Plume Labs",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kllqpgzzqw4ukwklrknw"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "VC - Founding Venture Partner",
+                    "startDate": "2016-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 770991, \"name\": \"MIT - Sloan School of Management\", \"uuid\": \"b052eecd-4c29-c1c6-3157-591011af2a0c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/eabpi1ms91bvpofq40qo\", \"description\": \"MIT - Sloan School of Management is a business school that offers bachelors, masters, and doctoral degree programs.\", \"headcount\": \"unknown\", \"founding_date\": \"1914-01-01\", \"website\": \"http://mitsloan.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1555227, 3403841, 2567969, 2512979, 320367, 1189240, 1887401, 1939911, 2271326], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-sloan-school-of-management\", \"linkedin_url\": \"https://linkedin.com/company/mit-sloan-school-of-management\", \"twitter\": \"http:/twitter.com/mitsloan\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mit-sloan-school-of-management\", \"tags\": [{\"id\": 4878794, \"legal_entity_uuid\": \"b052eecd-4c29-c1c6-3157-591011af2a0c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4878795, \"legal_entity_uuid\": \"b052eecd-4c29-c1c6-3157-591011af2a0c\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4878796, \"legal_entity_uuid\": \"b052eecd-4c29-c1c6-3157-591011af2a0c\", \"name\": \"Social Entrepreneurship\", \"category\": \"Industry\"}, {\"id\": 4878797, \"legal_entity_uuid\": \"b052eecd-4c29-c1c6-3157-591011af2a0c\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 86850, \"legal_entity_uuid\": \"b052eecd-4c29-c1c6-3157-591011af2a0c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 190, \"hc_estimate_90_days\": 175, \"hc_estimate_180_days\": 216, \"hc_estimate_270_days\": 211, \"hc_estimate_365_days\": 211, \"hc_growth_90_days\": \"8.57000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"-12.03999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"-9.949999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-9.949999999999999289457264239899814128875732421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/eabpi1ms91bvpofq40qo",
+                        "name": "MIT Sloan School of Management"
+                    },
+                    "position": "Healthcare Finance Analyst-MIT Laboratory for Financial Engineering",
+                    "startDate": "2016-01-01",
+                    "name": "MIT Sloan School of Management",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/eabpi1ms91bvpofq40qo"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": "{\"id\": 791557, \"name\": \"Morgan Stanley\", \"uuid\": \"0d33753d-a1d4-1b5e-7dae-b4c4a046513c\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/morgan-stanley.png\", \"description\": \"Morgan Stanley is a financial services company that offers securities, asset management, and credit services.\", \"headcount\": \"10000+\", \"founding_date\": \"1935-01-01\", \"website\": \"http://www.morganstanley.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2038243, 1987846, 2177134, 2750357, 2253898, 497419, 822974, 1803841, 1244342, 427726, 1838391, 2761913, 4188644, 694428, 240993, 2493834, 2793188, 2832048, 3219519, 2396768, 3273575, 2324523, 2903001, 2204178, 1444644, 57245, 2585013, 3364036, 2270784, 1051981, 4155743, 962000, 2595626, 1966381, 1778594, 870846, 1663137, 2905480, 2794539, 645513, 2922487, 351930, 136190, 1823090, 660056, 1190920, 1196491, 3169101, 2944202, 1177399, 2097177, 3048320, 3080937, 2508870, 1427024, 4133551, 1160026, 573761, 2810010, 660122, 1767647, 2710447, 1531717, 2012992, 1667924, 1562591, 2000885, 493258, 1353917, 2846939, 2254380, 1093799, 1960374, 3357603, 1931078, 1214956, 2580019, 1657417, 254586, 705952, 2637441, 2784349, 1867822, 2833953, 2912163, 1685373, 3115212, 839506, 1651961, 457731, 1292616, 584158, 792043, 3067738, 3113872, 2473649, 585585, 220576, 3024822, 3162171, 2135795, 2721636, 1714033, 2469103, 480447, 868254, 3340185, 718357, 1743444, 1830273, 2958263, 2432986], \"cb_permalink\": \"https://www.crunchbase.com/organization/morgan-stanley\", \"linkedin_url\": \"https://linkedin.com/company/morgan-stanley\", \"twitter\": \"http:/www.twitter.com/MorganStanley\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"morgan-stanley\", \"tags\": [{\"id\": 6365523, \"legal_entity_uuid\": \"0d33753d-a1d4-1b5e-7dae-b4c4a046513c\", \"name\": \"Asset Management\", \"category\": \"Industry\"}, {\"id\": 6365524, \"legal_entity_uuid\": \"0d33753d-a1d4-1b5e-7dae-b4c4a046513c\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6365525, \"legal_entity_uuid\": \"0d33753d-a1d4-1b5e-7dae-b4c4a046513c\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6365526, \"legal_entity_uuid\": \"0d33753d-a1d4-1b5e-7dae-b4c4a046513c\", \"name\": \"Lending\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80099, \"legal_entity_uuid\": \"0d33753d-a1d4-1b5e-7dae-b4c4a046513c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1132, \"hc_estimate_90_days\": 1166, \"hc_estimate_180_days\": 1095, \"hc_estimate_270_days\": 1077, \"hc_estimate_365_days\": 1080, \"hc_growth_90_days\": \"-2.9199999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"3.37999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"5.11000000000000031974423109204508364200592041015625\", \"hc_growth_365_days\": \"4.80999999999999960920149533194489777088165283203125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/morgan-stanley.png",
+                        "name": "Morgan Stanley"
+                    },
+                    "position": "Institutional Equity Summer Analyst",
+                    "startDate": "2015-06-01",
+                    "name": "Morgan Stanley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/morgan-stanley.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Chemical Engineering",
+                    "degreeType": "B.S.",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "9",
+                    "value": "Chief of Staff"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "38",
+                    "value": "Hardware"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "242"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

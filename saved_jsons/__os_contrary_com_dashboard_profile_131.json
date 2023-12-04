@@ -1,0 +1,242 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "Mechanical Engineering",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": null,
+                        "id": "232",
+                        "startDate": null,
+                        "universityId": 70
+                    }
+                ],
+                "email": "cameron@contrarycap.com",
+                "firstName": "Cameron",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "131",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Kelley",
+                "linkedinName": "cameronskelley",
+                "linkedinUrl": "https://linkedin.com/in/cameronskelley/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "49cf7771-9f25-4892-8a7e-008b8a1b55e8",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/131_Cameron_Kelley.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4488",
+                        "organizationId": 3127,
+                        "position": "Co-Founder & Engineer",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3409",
+                        "organizationId": 687,
+                        "position": "Partner",
+                        "startDate": "2021-11-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "815",
+                        "organizationId": 5,
+                        "position": "Head of Engineering",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "816",
+                        "organizationId": 611,
+                        "position": "Mechanical Engineering Intern",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "817",
+                        "organizationId": 612,
+                        "position": "Co-Founder & Engineer",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2017-01-01",
+                        "id": "818",
+                        "organizationId": 613,
+                        "position": "Various",
+                        "startDate": "2015-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4532",
+                        "organizationId": 670878,
+                        "position": "",
+                        "startDate": null
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4533",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4711",
+                        "organizationId": 413322,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/eigen.png",
+                        "name": "Eigen"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Eigen",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/eigen.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Mechanical Engineering",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Texas AM University"
+                    },
+                    "name": "Texas AM University",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "131"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

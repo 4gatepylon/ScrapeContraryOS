@@ -1,0 +1,99 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I'd love to bounce ideas with anyone and am always down to hang out if you're in Austin.",
+                "currentRole": "",
+                "educationExperiences": [],
+                "email": "tejasmehtag@gmail.com",
+                "firstName": "Tejas",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Austin",
+                "id": "479",
+                "intro": "Senior @ UT Austin studying CS and Finance",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-04-26T01:08:36",
+                "lastName": "Mehtas",
+                "linkedinName": "null",
+                "linkedinUrl": "https://linkedin.com/in/null/",
+                "location": "UT Austin",
+                "lookingFor": "Get better at evaluating startups.",
+                "meetWithBlurb": null,
+                "podId": 19,
+                "prismUuid": null,
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp66MnxZhoU2ctsSPQXWrWLCrOUtJAw23crNFp5b=s96-c",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "tejas@contrarycap.com",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "organizations": [],
+            "universities": [],
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "64",
+                    "value": "Indian"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "26",
+                    "value": "Agriculture Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "479"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

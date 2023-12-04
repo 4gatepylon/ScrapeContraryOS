@@ -1,0 +1,317 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "MBA Candidate at Chicago Booth",
+                "educationExperiences": [],
+                "email": "kruti.mehta@vp.contrary.com",
+                "firstName": "Kruti",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Chicago",
+                "id": "515",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-12-04T05:09:31",
+                "lastName": "Mehta",
+                "linkedinName": "mehta-a-kruti",
+                "linkedinUrl": "https://linkedin.com/in/mehta-a-kruti/",
+                "location": "Chicago",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 17,
+                "prismUuid": "86253458-1348-4621-81c3-c3c682cc5fee",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp7E3X44MO5rkVaL9KPbLc4M1QlOxqqA6Avif0Rt=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "kruti@chicagobooth.edu",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U047DFK481W",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4682",
+                        "organizationId": 397043,
+                        "position": "MBA Intern",
+                        "startDate": "2023-09-01"
+                    },
+                    {
+                        "endDate": "2023-08-01",
+                        "id": "4683",
+                        "organizationId": 122,
+                        "position": "Summer Consultant",
+                        "startDate": "2023-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4445",
+                        "organizationId": 5,
+                        "position": "MBA Venture Partner",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": "2022-07-01",
+                        "id": "4446",
+                        "organizationId": 3091,
+                        "position": "Director of Policy & Advancement",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "4447",
+                        "organizationId": 863,
+                        "position": "Consulting Senior Analyst",
+                        "startDate": "2018-11-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "4684",
+                        "organizationId": 984418,
+                        "position": "Consulting Senior Analyst",
+                        "startDate": "2018-11-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "4448",
+                        "organizationId": 3092,
+                        "position": "Teaching Assistant",
+                        "startDate": "2015-10-01"
+                    },
+                    {
+                        "endDate": "2013-08-01",
+                        "id": "4449",
+                        "organizationId": 281,
+                        "position": "Research Intern",
+                        "startDate": "2013-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1651746, \"name\": \"Rebel Girls\", \"uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/uplcfjvhl7jeohlx00z9\", \"description\": \"Rebel Girls is amulti-platform empowerment brand dedicated to helping raise the most inspired and confident generation of girls.\", \"headcount\": \"11-50\", \"founding_date\": \"2012-01-01\", \"website\": \"http://www.rebelgirls.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [3162462], \"executive_people_profile_ids\": [3162462, 1207863], \"cb_permalink\": \"https://www.crunchbase.com/organization/rebel-girls\", \"linkedin_url\": \"https://linkedin.com/company/rebelgirls\", \"twitter\": \"https:/twitter.com/rebelgirlsbook\", \"last_funding_round_date\": \"2023-03-06\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 21000000, \"company_li_name\": \"rebelgirls\", \"tags\": [{\"id\": 778552, \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Children\", \"category\": \"Industry\"}, {\"id\": 778553, \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 778554, \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Media and Entertainment\", \"category\": \"Industry\"}, {\"id\": 778555, \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Publishing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 162245, \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 5, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_180_days\": \"60\", \"hc_growth_270_days\": \"33.3299999999999982946974341757595539093017578125\", \"hc_growth_365_days\": \"14.28999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 376687, \"uuid\": \"26eaa1c5-8a71-483e-9b87-5578d4e338d8\", \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-06\", \"investors\": null}, {\"id\": 376686, \"uuid\": \"62756dea-ad69-43d2-ad13-a3ec701adfbe\", \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 13000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-03-01\", \"investors\": null}, {\"id\": 376685, \"uuid\": \"5d9ea617-9520-47b1-8276-f886b4f4b7b8\", \"legal_entity_uuid\": \"5b6f440d-7b40-4c94-8527-7cec2708019c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/uplcfjvhl7jeohlx00z9",
+                        "name": "Rebel Girls"
+                    },
+                    "position": "MBA Intern",
+                    "startDate": "2023-09-01",
+                    "name": "Rebel Girls",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/uplcfjvhl7jeohlx00z9"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2022-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": "{\"id\": 2133371, \"name\": \"The Boston Consulting Group\", \"uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/kotras9etmvwq4w29zxr\", \"description\": \"The Boston Consulting Group is a global management consulting firm and an advisor on business strategy.\", \"headcount\": \"10000+\", \"founding_date\": \"1963-07-01\", \"website\": \"http://www.bcg.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [322570, 1171430], \"executive_people_profile_ids\": [40719, 462263, 580573, 257137, 471066, 871121, 160669, 731182, 632288, 796893, 1165151, 939549, 364180, 2963315, 566500, 3156652, 1515374, 1349060, 1481483, 1348203, 1351474, 1114877, 766831, 768459, 2570348, 2572273, 2594584, 842369, 494261, 1656648, 3107771, 2736429, 2943760, 3183957, 3077747, 3238234, 2856781, 199066, 97160, 1018635, 754152, 644045, 633475, 2316371, 2962558, 3159390, 1832045, 1087456, 1337122, 755317, 764561, 1941572, 2149764, 2572531, 2572897, 2764503, 2870975, 2887246, 498581, 1207676, 2075825, 1887394, 2932627, 2626251, 2131915, 1733445, 3279313, 3280613, 3280701, 3337851, 3212429, 3229776, 205441, 208585, 1003591, 591108, 1013943, 475371, 474555, 731720, 748314, 1559669, 1062586, 322570, 1170128, 2238233, 291652, 2683957, 298638, 2965729, 2708553, 3145898, 3162530, 3163054, 1072397, 1456714, 1481206, 1944425, 2567488, 2566578, 2567615, 2569593, 2574744, 2765717, 493044, 1655710, 1656176, 3269530, 2283026, 1669384, 1691252, 3412068, 2132467, 1504063, 1504766, 1509092, 2833766, 2196192, 2202383, 461608, 461894, 311777, 592767, 476851, 1130758, 743424, 607536, 754096, 628711, 642955, 1806801, 2025446, 432078, 1514464, 450282, 2236564, 1210034, 382666, 2924215, 1066898, 1481810, 2763493, 2765533, 491957, 497690, 501335, 3107811, 3108850, 1483777, 781213, 1667032, 2463611, 3190235, 2132135, 2626386, 1750643, 2528907, 2808274, 1976633, 1992579, 2832976, 2401644, 3024145, 226196, 237267, 237172, 578318, 308361, 475470, 1317026, 1600099, 607076, 318455, 127395, 2021916, 1171430, 1208555, 2240243, 2683499, 2239649, 383713, 3156297, 1349634, 1112508, 1950007, 2092501, 2886417, 2081521, 2621288, 1504761, 2196032, 475586, 1317013, 1428142, 479585, 1302094, 952621, 1176322, 151174, 1088304, 381901, 1091254, 3302491, 3381345, 1825578, 1481404, 1693935, 1696753, 1714630, 2572235, 2575247, 2577675, 977823, 1207054, 3108145, 3268884, 981631, 2933146, 3183116, 3191443, 2128463, 1985027, 2816851, 2865787, 2799796, 1555193, 1776017, 1776655, 2678691, 275919, 2680581, 1209007, 383404, 2916715, 1524328, 767940, 768067, 492303, 499092, 1656235, 3105584, 2128563, 1499944, 1727686, 2407753, 3211352, 228295, 225748, 105177, 362558, 318551, 592417, 477075, 160501, 1435575, 412253, 412351, 656422, 319718, 1176192, 2679726, 2240668, 1226342, 3154966, 3310949, 1606669, 1524434, 1349995, 1624263, 1714597, 1717898, 771440, 1253918, 2764172, 2575192, 2595601, 493432, 1870397, 1691133, 3411742, 2128957, 1499082, 1752281, 2816476, 1991904, 3342068], \"cb_permalink\": \"https://www.crunchbase.com/organization/boston-consulting-group\", \"linkedin_url\": \"https://linkedin.com/company/boston-consulting-group\", \"twitter\": \"http:/twitter.com/BCG\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"boston-consulting-group\", \"tags\": [{\"id\": 6368082, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6368083, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6368084, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6368085, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"name\": \"Innovation Management\", \"category\": \"Industry\"}, {\"id\": 6368086, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6368087, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"name\": \"Marketing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 54139, \"legal_entity_uuid\": \"22eef412-8f8c-2d0b-a80f-1e7936f0399c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1326, \"hc_estimate_90_days\": 1305, \"hc_estimate_180_days\": 1230, \"hc_estimate_270_days\": 1192, \"hc_estimate_365_days\": 1146, \"hc_growth_90_days\": \"1.6100000000000000976996261670137755572795867919921875\", \"hc_growth_180_days\": \"7.79999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"11.2400000000000002131628207280300557613372802734375\", \"hc_growth_365_days\": \"15.71000000000000085265128291212022304534912109375\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kotras9etmvwq4w29zxr",
+                        "name": "Boston Consulting Group (BCG)"
+                    },
+                    "position": "Summer Consultant",
+                    "startDate": "2023-06-01",
+                    "name": "Boston Consulting Group (BCG)",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/kotras9etmvwq4w29zxr"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-07-01",
+                    "legalEntity": "{\"id\": 374829, \"name\": \"Zeta Charter Schools\", \"uuid\": \"a4d22072-6526-4d78-b129-d6b6bf8fbae3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/efynkvihpmffaavi7tqe\", \"description\": \"Zeta Schools builds and sustains high-performing schools that providing quality education to students.\", \"headcount\": \"101-250\", \"founding_date\": \"2017-01-01\", \"website\": \"https://zetaschools.org/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/zeta-charter-schools\", \"linkedin_url\": \"https://linkedin.com/company/zeta-charter-schools\", \"twitter\": \"https:/www.twitter.com/zetaschools\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"zeta-charter-schools\", \"tags\": [{\"id\": 5611005, \"legal_entity_uuid\": \"a4d22072-6526-4d78-b129-d6b6bf8fbae3\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 135429, \"legal_entity_uuid\": \"a4d22072-6526-4d78-b129-d6b6bf8fbae3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/efynkvihpmffaavi7tqe",
+                        "name": "Zeta Charter Schools"
+                    },
+                    "position": "Director of Policy  Advancement",
+                    "startDate": "2021-07-01",
+                    "name": "Zeta Charter Schools",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/efynkvihpmffaavi7tqe"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-06-01",
+                    "legalEntity": "{\"id\": 374829, \"name\": \"Zeta Charter Schools\", \"uuid\": \"a4d22072-6526-4d78-b129-d6b6bf8fbae3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/efynkvihpmffaavi7tqe\", \"description\": \"Zeta Schools builds and sustains high-performing schools that providing quality education to students.\", \"headcount\": \"101-250\", \"founding_date\": \"2017-01-01\", \"website\": \"https://zetaschools.org/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/zeta-charter-schools\", \"linkedin_url\": \"https://linkedin.com/company/zeta-charter-schools\", \"twitter\": \"https:/www.twitter.com/zetaschools\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"zeta-charter-schools\", \"tags\": [{\"id\": 5611005, \"legal_entity_uuid\": \"a4d22072-6526-4d78-b129-d6b6bf8fbae3\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 135429, \"legal_entity_uuid\": \"a4d22072-6526-4d78-b129-d6b6bf8fbae3\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/efynkvihpmffaavi7tqe",
+                        "name": "Zeta Charter Schools"
+                    },
+                    "position": "Associate Director of Operational Strategy",
+                    "startDate": "2019-07-01",
+                    "name": "Zeta Charter Schools",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/efynkvihpmffaavi7tqe"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 442958, \"name\": \"Accenture\", \"uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png\", \"description\": \"Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.\", \"headcount\": \"10000+\", \"founding_date\": \"1989-01-01\", \"website\": \"https://www.accenture.com\", \"location\": \"Dublin\", \"country\": \"IRL\", \"region\": \"Dublin\", \"founder_people_profile_ids\": [3133980, 769420], \"executive_people_profile_ids\": [1477175, 1370732, 380322, 1330552, 1701548, 1129934, 1175875, 2580259, 3283838, 2031646, 725955, 2867110, 1046668, 950628, 2022809, 1243988, 251875, 3238418, 1367144, 3421, 2973021, 1991398, 2957330, 595524, 3561477, 2197134, 1130074, 2513650, 2582122, 644623, 204387, 4159576, 2908804, 2296729, 567969, 1125985, 2800013, 623389, 649063, 732946, 1341220, 262437, 213771, 2898418, 867217, 2016144, 2886958, 2123583, 1667462, 1794216, 3115436, 144772, 2928973, 2683884, 2645462, 266204, 1628964, 2161977, 434729, 155514, 307860, 3252583, 2562762, 999271, 2928168, 1580770, 1867089, 648476, 1693569, 2778969, 2450557, 2236306, 1697032, 633101, 1707554, 788846, 1515435, 2440720, 3369384, 2364712, 529854, 2391076, 1112119, 1983075, 2443539, 1454980, 299172, 2941863, 2750667, 2023257, 574048, 549961, 752423, 3015608, 463465, 2841550, 877033, 3237083, 1957401, 2413023, 992403, 3120178, 1885723, 2168742, 1776623, 677261, 1825860, 2269744, 2448431, 2187378, 1332699, 2219427, 330738, 3117926, 2836723, 1171836, 635729, 1293888, 2652021, 1196714, 999413, 1176548, 936185, 770199, 790505, 48508, 580488, 197971, 3441668, 1053527, 2728246, 2296240, 1214027, 2897913, 1953229, 1723627, 3201223, 2939705, 2284145, 1053488, 1695371, 721152, 583924, 1825578, 1109171, 2226873, 2174000, 1862153, 2887136, 1735725, 3224990, 1994333, 721842, 3582178, 1518652, 2958379, 1856731, 3602078, 199973, 596496, 1553332, 583713, 1092887, 1675612, 1159590, 3542552, 2808247, 547437, 498727, 1656259, 1110765, 2315659, 1195775, 1159405, 37579, 225758, 1124910, 812737, 1033480, 3251223, 2743829, 2175506, 562807, 89519, 1895586, 3395917, 3262092, 591547, 765612, 2328132, 320905, 1084958, 1568035, 572586, 1319365, 2778877, 2715688, 47277, 2812003, 2808703, 3577182, 3309092, 3570998, 1264101, 766733, 2062449, 2626149, 1267913, 243470, 545232, 2204513, 2452592, 451636, 4144923, 632827, 3158371, 2238265, 1771977, 548307, 2287934, 465474, 4149015, 2640440, 1311901, 2146947, 2505004, 2616297, 492141, 561399, 494727, 2295631, 1314142, 1066299, 3316586, 1294076, 486542, 986652, 1387046, 2297440, 1233134, 2805875, 2748645, 674224, 2867375, 1555345, 3240875, 4169051, 3109228, 2542590, 146352, 2449795, 568019, 982619], \"cb_permalink\": \"https://www.crunchbase.com/organization/accenture\", \"linkedin_url\": \"https://linkedin.com/company/accenture\", \"twitter\": \"https:/twitter.com/accenture\", \"last_funding_round_date\": \"2018-10-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 6000000, \"company_li_name\": \"accenture\", \"tags\": [{\"id\": 6374676, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6374675, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Construction\", \"category\": \"Industry\"}, {\"id\": 6374677, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6374678, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Outsourcing\", \"category\": \"Industry\"}, {\"id\": 7082178, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 7082177, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Infrastructure\", \"category\": \"Industry\"}, {\"id\": 7082176, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 7082175, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Business Information Systems\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 107054, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4327, \"hc_estimate_90_days\": 4318, \"hc_estimate_180_days\": 4380, \"hc_estimate_270_days\": 4452, \"hc_estimate_365_days\": 4617, \"hc_growth_90_days\": \"0.2099999999999999922284388276239042170345783233642578125\", \"hc_growth_180_days\": \"-1.20999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"-2.810000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"-6.28000000000000024868995751603506505489349365234375\"}, \"funding_rounds\": [{\"id\": 446142, \"uuid\": \"8dc11c22-23a2-49c6-aed5-0ad908d8942a\", \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 6000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png",
+                        "name": "Accenture"
+                    },
+                    "position": "Consulting Senior Analyst",
+                    "startDate": "2018-11-01",
+                    "name": "Accenture",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-11-01",
+                    "legalEntity": "{\"id\": 442958, \"name\": \"Accenture\", \"uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png\", \"description\": \"Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.\", \"headcount\": \"10000+\", \"founding_date\": \"1989-01-01\", \"website\": \"https://www.accenture.com\", \"location\": \"Dublin\", \"country\": \"IRL\", \"region\": \"Dublin\", \"founder_people_profile_ids\": [3133980, 769420], \"executive_people_profile_ids\": [1477175, 1370732, 380322, 1330552, 1701548, 1129934, 1175875, 2580259, 3283838, 2031646, 725955, 2867110, 1046668, 950628, 2022809, 1243988, 251875, 3238418, 1367144, 3421, 2973021, 1991398, 2957330, 595524, 3561477, 2197134, 1130074, 2513650, 2582122, 644623, 204387, 4159576, 2908804, 2296729, 567969, 1125985, 2800013, 623389, 649063, 732946, 1341220, 262437, 213771, 2898418, 867217, 2016144, 2886958, 2123583, 1667462, 1794216, 3115436, 144772, 2928973, 2683884, 2645462, 266204, 1628964, 2161977, 434729, 155514, 307860, 3252583, 2562762, 999271, 2928168, 1580770, 1867089, 648476, 1693569, 2778969, 2450557, 2236306, 1697032, 633101, 1707554, 788846, 1515435, 2440720, 3369384, 2364712, 529854, 2391076, 1112119, 1983075, 2443539, 1454980, 299172, 2941863, 2750667, 2023257, 574048, 549961, 752423, 3015608, 463465, 2841550, 877033, 3237083, 1957401, 2413023, 992403, 3120178, 1885723, 2168742, 1776623, 677261, 1825860, 2269744, 2448431, 2187378, 1332699, 2219427, 330738, 3117926, 2836723, 1171836, 635729, 1293888, 2652021, 1196714, 999413, 1176548, 936185, 770199, 790505, 48508, 580488, 197971, 3441668, 1053527, 2728246, 2296240, 1214027, 2897913, 1953229, 1723627, 3201223, 2939705, 2284145, 1053488, 1695371, 721152, 583924, 1825578, 1109171, 2226873, 2174000, 1862153, 2887136, 1735725, 3224990, 1994333, 721842, 3582178, 1518652, 2958379, 1856731, 3602078, 199973, 596496, 1553332, 583713, 1092887, 1675612, 1159590, 3542552, 2808247, 547437, 498727, 1656259, 1110765, 2315659, 1195775, 1159405, 37579, 225758, 1124910, 812737, 1033480, 3251223, 2743829, 2175506, 562807, 89519, 1895586, 3395917, 3262092, 591547, 765612, 2328132, 320905, 1084958, 1568035, 572586, 1319365, 2778877, 2715688, 47277, 2812003, 2808703, 3577182, 3309092, 3570998, 1264101, 766733, 2062449, 2626149, 1267913, 243470, 545232, 2204513, 2452592, 451636, 4144923, 632827, 3158371, 2238265, 1771977, 548307, 2287934, 465474, 4149015, 2640440, 1311901, 2146947, 2505004, 2616297, 492141, 561399, 494727, 2295631, 1314142, 1066299, 3316586, 1294076, 486542, 986652, 1387046, 2297440, 1233134, 2805875, 2748645, 674224, 2867375, 1555345, 3240875, 4169051, 3109228, 2542590, 146352, 2449795, 568019, 982619], \"cb_permalink\": \"https://www.crunchbase.com/organization/accenture\", \"linkedin_url\": \"https://linkedin.com/company/accenture\", \"twitter\": \"https:/twitter.com/accenture\", \"last_funding_round_date\": \"2018-10-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 6000000, \"company_li_name\": \"accenture\", \"tags\": [{\"id\": 6374676, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6374675, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Construction\", \"category\": \"Industry\"}, {\"id\": 6374677, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6374678, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Outsourcing\", \"category\": \"Industry\"}, {\"id\": 7082178, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 7082177, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Infrastructure\", \"category\": \"Industry\"}, {\"id\": 7082176, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 7082175, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Business Information Systems\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 107054, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4327, \"hc_estimate_90_days\": 4318, \"hc_estimate_180_days\": 4380, \"hc_estimate_270_days\": 4452, \"hc_estimate_365_days\": 4617, \"hc_growth_90_days\": \"0.2099999999999999922284388276239042170345783233642578125\", \"hc_growth_180_days\": \"-1.20999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"-2.810000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"-6.28000000000000024868995751603506505489349365234375\"}, \"funding_rounds\": [{\"id\": 446142, \"uuid\": \"8dc11c22-23a2-49c6-aed5-0ad908d8942a\", \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 6000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png",
+                        "name": "Accenture"
+                    },
+                    "position": "Consulting Analyst",
+                    "startDate": "2017-08-01",
+                    "name": "Accenture",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": "{\"id\": 981365, \"name\": \"Texas McCombs School of Business\", \"uuid\": \"74cbdb2b-fadc-456d-b40f-dee6dde8d2e6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dlgbhunwje8sflrn35lz\", \"description\": \"Welcome to the Texas McCombs LinkedIn Community, a focal point for knowledge sharing and lifetime learning for over 93,000 living alumni.\", \"headcount\": \"unknown\", \"founding_date\": \"1883-01-01\", \"website\": \"http://www.mccombs.utexas.edu/\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/texas-mccombs-school-of-business\", \"linkedin_url\": \"https://linkedin.com/school/the-red-mccombs-school-of-business\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"the-red-mccombs-school-of-business\", \"tags\": [{\"id\": 4409861, \"legal_entity_uuid\": \"74cbdb2b-fadc-456d-b40f-dee6dde8d2e6\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 73661, \"legal_entity_uuid\": \"74cbdb2b-fadc-456d-b40f-dee6dde8d2e6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 74, \"hc_estimate_90_days\": 72, \"hc_estimate_180_days\": 85, \"hc_estimate_270_days\": 83, \"hc_estimate_365_days\": 88, \"hc_growth_90_days\": \"2.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-12.9399999999999995026200849679298698902130126953125\", \"hc_growth_270_days\": \"-10.839999999999999857891452847979962825775146484375\", \"hc_growth_365_days\": \"-15.910000000000000142108547152020037174224853515625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dlgbhunwje8sflrn35lz",
+                        "name": "The University of Texas at Austin - Red McCombs School of Business"
+                    },
+                    "position": "Teaching Assistant",
+                    "startDate": "2015-10-01",
+                    "name": "The University of Texas at Austin - Red McCombs School of Business",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dlgbhunwje8sflrn35lz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 442958, \"name\": \"Accenture\", \"uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png\", \"description\": \"Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.\", \"headcount\": \"10000+\", \"founding_date\": \"1989-01-01\", \"website\": \"https://www.accenture.com\", \"location\": \"Dublin\", \"country\": \"IRL\", \"region\": \"Dublin\", \"founder_people_profile_ids\": [3133980, 769420], \"executive_people_profile_ids\": [1477175, 1370732, 380322, 1330552, 1701548, 1129934, 1175875, 2580259, 3283838, 2031646, 725955, 2867110, 1046668, 950628, 2022809, 1243988, 251875, 3238418, 1367144, 3421, 2973021, 1991398, 2957330, 595524, 3561477, 2197134, 1130074, 2513650, 2582122, 644623, 204387, 4159576, 2908804, 2296729, 567969, 1125985, 2800013, 623389, 649063, 732946, 1341220, 262437, 213771, 2898418, 867217, 2016144, 2886958, 2123583, 1667462, 1794216, 3115436, 144772, 2928973, 2683884, 2645462, 266204, 1628964, 2161977, 434729, 155514, 307860, 3252583, 2562762, 999271, 2928168, 1580770, 1867089, 648476, 1693569, 2778969, 2450557, 2236306, 1697032, 633101, 1707554, 788846, 1515435, 2440720, 3369384, 2364712, 529854, 2391076, 1112119, 1983075, 2443539, 1454980, 299172, 2941863, 2750667, 2023257, 574048, 549961, 752423, 3015608, 463465, 2841550, 877033, 3237083, 1957401, 2413023, 992403, 3120178, 1885723, 2168742, 1776623, 677261, 1825860, 2269744, 2448431, 2187378, 1332699, 2219427, 330738, 3117926, 2836723, 1171836, 635729, 1293888, 2652021, 1196714, 999413, 1176548, 936185, 770199, 790505, 48508, 580488, 197971, 3441668, 1053527, 2728246, 2296240, 1214027, 2897913, 1953229, 1723627, 3201223, 2939705, 2284145, 1053488, 1695371, 721152, 583924, 1825578, 1109171, 2226873, 2174000, 1862153, 2887136, 1735725, 3224990, 1994333, 721842, 3582178, 1518652, 2958379, 1856731, 3602078, 199973, 596496, 1553332, 583713, 1092887, 1675612, 1159590, 3542552, 2808247, 547437, 498727, 1656259, 1110765, 2315659, 1195775, 1159405, 37579, 225758, 1124910, 812737, 1033480, 3251223, 2743829, 2175506, 562807, 89519, 1895586, 3395917, 3262092, 591547, 765612, 2328132, 320905, 1084958, 1568035, 572586, 1319365, 2778877, 2715688, 47277, 2812003, 2808703, 3577182, 3309092, 3570998, 1264101, 766733, 2062449, 2626149, 1267913, 243470, 545232, 2204513, 2452592, 451636, 4144923, 632827, 3158371, 2238265, 1771977, 548307, 2287934, 465474, 4149015, 2640440, 1311901, 2146947, 2505004, 2616297, 492141, 561399, 494727, 2295631, 1314142, 1066299, 3316586, 1294076, 486542, 986652, 1387046, 2297440, 1233134, 2805875, 2748645, 674224, 2867375, 1555345, 3240875, 4169051, 3109228, 2542590, 146352, 2449795, 568019, 982619], \"cb_permalink\": \"https://www.crunchbase.com/organization/accenture\", \"linkedin_url\": \"https://linkedin.com/company/accenture\", \"twitter\": \"https:/twitter.com/accenture\", \"last_funding_round_date\": \"2018-10-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 6000000, \"company_li_name\": \"accenture\", \"tags\": [{\"id\": 6374676, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6374675, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Construction\", \"category\": \"Industry\"}, {\"id\": 6374677, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6374678, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Outsourcing\", \"category\": \"Industry\"}, {\"id\": 7082178, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 7082177, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Infrastructure\", \"category\": \"Industry\"}, {\"id\": 7082176, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 7082175, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Business Information Systems\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 107054, \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4327, \"hc_estimate_90_days\": 4318, \"hc_estimate_180_days\": 4380, \"hc_estimate_270_days\": 4452, \"hc_estimate_365_days\": 4617, \"hc_growth_90_days\": \"0.2099999999999999922284388276239042170345783233642578125\", \"hc_growth_180_days\": \"-1.20999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"-2.810000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"-6.28000000000000024868995751603506505489349365234375\"}, \"funding_rounds\": [{\"id\": 446142, \"uuid\": \"8dc11c22-23a2-49c6-aed5-0ad908d8942a\", \"legal_entity_uuid\": \"0d5171b3-68b3-37c3-cb50-8cd8ccb8930b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 6000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png",
+                        "name": "Accenture"
+                    },
+                    "position": "Consulting Intern",
+                    "startDate": "2016-06-01",
+                    "name": "Accenture",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/accenture.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2013-08-01",
+                    "legalEntity": "{\"id\": 399315, \"name\": \"MD Anderson Cancer Center\", \"uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mdandersoncancercenter.png\", \"description\": \"MD Anderson Cancer Centers mission is to eliminate cancer\", \"headcount\": \"10000+\", \"founding_date\": \"1994-01-01\", \"website\": \"https://www.mdanderson.org/\", \"location\": \"Houston\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [767932, 1193748, 2075832, 2764664], \"cb_permalink\": \"https://www.crunchbase.com/organization/md-anderson-cancer-center-19d6\", \"linkedin_url\": \"https://linkedin.com/company/mdandersoncancercenter\", \"twitter\": \"https:/twitter.com/mdandersonnews\", \"last_funding_round_date\": \"2023-05-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 16200000, \"company_li_name\": \"mdandersoncancercenter\", \"tags\": [{\"id\": 7722171, \"legal_entity_uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 6678251, \"legal_entity_uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 127085, \"legal_entity_uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 56, \"hc_estimate_90_days\": 55, \"hc_estimate_180_days\": 55, \"hc_estimate_270_days\": 55, \"hc_estimate_365_days\": 57, \"hc_growth_90_days\": \"1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_180_days\": \"1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_270_days\": \"1.8200000000000000621724893790087662637233734130859375\", \"hc_growth_365_days\": \"-1.75\"}, \"funding_rounds\": [{\"id\": 361221, \"uuid\": \"eea0367b-ffc9-44e5-a64f-e390efa2bce6\", \"legal_entity_uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-16\", \"investors\": null}, {\"id\": 361220, \"uuid\": \"322d991d-73de-4055-b301-eb5e6a5136ec\", \"legal_entity_uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-24\", \"investors\": null}, {\"id\": 361219, \"uuid\": \"bb586712-267f-4992-a600-2d6b6f222564\", \"legal_entity_uuid\": \"e4b32e09-fd04-4fa9-9baf-95ec6c3919d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mdandersoncancercenter.png",
+                        "name": "MD Anderson Cancer Center"
+                    },
+                    "position": "Research Intern",
+                    "startDate": "2013-06-01",
+                    "name": "MD Anderson Cancer Center",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mdandersoncancercenter.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Stephen F. Austin High School"
+                    },
+                    "name": "Stephen F. Austin High School",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Master of Business Administration - MBA",
+                    "degreeType": "",
+                    "endDate": "2024-01-01",
+                    "legalEntity": "{\"id\": 1049491, \"name\": \"The University of Chicago Booth School of Business\", \"uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1412264569/yfjor4vdwjcfuy3hhwbs.jpg\", \"description\": \"The University of Chicago Booth School of Business provides full-time MBA courses.\", \"headcount\": \"10000+\", \"founding_date\": \"1898-01-01\", \"website\": \"http://www.chicagobooth.edu/\", \"location\": \"Chicago\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [577569, 237227, 519354, 1174858, 2817590], \"cb_permalink\": \"https://www.crunchbase.com/organization/booth-school-of-business\", \"linkedin_url\": \"https://linkedin.com/company/universityofchicagoboothschoolofbusiness\", \"twitter\": null, \"last_funding_round_date\": \"2019-11-14\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 35000000, \"company_li_name\": \"universityofchicagoboothschoolofbusiness\", \"tags\": [{\"id\": 4849334, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4849335, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4849336, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 189363, \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 109, \"hc_estimate_90_days\": 93, \"hc_estimate_180_days\": 115, \"hc_estimate_270_days\": 119, \"hc_estimate_365_days\": 118, \"hc_growth_90_days\": \"17.199999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"-5.21999999999999975131004248396493494510650634765625\", \"hc_growth_270_days\": \"-8.4000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-7.62999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 90087, \"uuid\": \"b9682328-b052-4ad2-803f-ef321dcf2ad9\", \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-14\", \"investors\": null}, {\"id\": 90086, \"uuid\": \"6aa46df9-0021-4452-b480-2fd1ff6c07fe\", \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-25\", \"investors\": null}, {\"id\": 90085, \"uuid\": \"3fb7867b-288e-1b8f-3e1c-1b42357923ba\", \"legal_entity_uuid\": \"853422f5-8055-d8a1-a13a-85a7148a465e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}]}",
+                    "startDate": "2022-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1412264569/yfjor4vdwjcfuy3hhwbs.jpg",
+                        "name": "The University of Chicago Booth School of Business"
+                    },
+                    "name": "The University of Chicago Booth School of Business",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1412264569/yfjor4vdwjcfuy3hhwbs.jpg"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Business Honors Program",
+                    "degreeType": "Bachelor of Business Administration (BBA)",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 421331, \"name\": \"McCombs School of Business - The University of Texas at Austin\", \"uuid\": \"556a489a-dd5b-888f-d5c1-6a5d750e8460\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1419223822/ykjtbe90hkiwe0suxetx.jpg\", \"description\": \"The McCombs School of Business is universally regarded as the leading business school in the Southwest and ranks top in the US and world.\", \"headcount\": \"251-500\", \"founding_date\": \"1922-01-01\", \"website\": \"http://www.mccombs.utexas.edu\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [30410, 491330, 1478218], \"cb_permalink\": \"https://www.crunchbase.com/organization/mccombs-school-of-business\", \"linkedin_url\": \"https://linkedin.com/company/theuniversityoftexasataustin-\", \"twitter\": \"http:/twitter.com/UTexasMcCombs\", \"last_funding_round_date\": \"2022-09-14\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"theuniversityoftexasataustin-\", \"tags\": [{\"id\": 1791850, \"legal_entity_uuid\": \"556a489a-dd5b-888f-d5c1-6a5d750e8460\", \"name\": \"Corporate Training\", \"category\": \"Industry\"}, {\"id\": 1791851, \"legal_entity_uuid\": \"556a489a-dd5b-888f-d5c1-6a5d750e8460\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1791852, \"legal_entity_uuid\": \"556a489a-dd5b-888f-d5c1-6a5d750e8460\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 124401, \"legal_entity_uuid\": \"556a489a-dd5b-888f-d5c1-6a5d750e8460\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 535, \"hc_estimate_90_days\": 495, \"hc_estimate_180_days\": 596, \"hc_estimate_270_days\": 601, \"hc_estimate_365_days\": 603, \"hc_growth_90_days\": \"8.0800000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-10.230000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-10.980000000000000426325641456060111522674560546875\", \"hc_growth_365_days\": \"-11.2799999999999993605115378159098327159881591796875\"}, \"funding_rounds\": [{\"id\": 294082, \"uuid\": \"7f6a12e5-d0bb-462a-bd19-d758c2260e6f\", \"legal_entity_uuid\": \"556a489a-dd5b-888f-d5c1-6a5d750e8460\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-14\", \"investors\": null}]}",
+                    "startDate": "2013-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1419223822/ykjtbe90hkiwe0suxetx.jpg",
+                        "name": "The University of Texas at Austin"
+                    },
+                    "name": "The University of Texas at Austin",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1419223822/ykjtbe90hkiwe0suxetx.jpg"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "9",
+                    "value": "Chief of Staff"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "36",
+                    "value": "Ed Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "515"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,245 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Here are some example of dope things I can be of help:\n\u2022 Music playlists but not as good as @Scott Luttmann\n\u2022 Travel plans especially to LATAM\n\u2022 Starting and growing a EdTech startup\n\u2022 UI design and building great UX flows in product ",
+                "currentRole": "Co-Founder & CTO @ Cariina! Were Hiring!",
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "MERN Development",
+                        "endDate": "2018-01-01",
+                        "id": "554",
+                        "startDate": "2018-01-01",
+                        "universityId": 279
+                    },
+                    {
+                        "degree": "Finance",
+                        "degreeType": "Bachelor\u2019s Degree",
+                        "endDate": "2020-01-01",
+                        "id": "553",
+                        "startDate": "2016-01-01",
+                        "universityId": 304
+                    },
+                    {
+                        "degree": "Primary Education",
+                        "degreeType": "High School",
+                        "endDate": "2016-01-01",
+                        "id": "555",
+                        "startDate": "2007-01-01",
+                        "universityId": 305
+                    }
+                ],
+                "email": "pedro@cariina.com",
+                "firstName": "Pedro",
+                "greeting": "Ayo, welcome to my page!",
+                "greetingEmoji": "\ud83c\udf0e",
+                "hqPosition": null,
+                "hubCity": "Boston",
+                "id": "293",
+                "intro": "If you don't know me here are some facts:\n\u2022 I'm a dual citizen of \ud83c\udde7\ud83c\uddf7 and \ud83c\uddea\ud83c\uddf8\n\u2022 Lived in 3 different countries (\ud83c\udde7\ud83c\uddf7 \ud83c\uddfb\ud83c\uddea \ud83c\uddf5\ud83c\udde6) before coming to college in the \ud83c\uddfa\ud83c\uddf8\n\u2022 I went to Boston College \ud83e\udd85 (class 2020) and double majored BA in CS and BS in Finance.\n\u2022 Love music \ud83c\udfb6, cooking \ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73, and traveling \u2708\ufe0f\n\u2022 Was a Venture Partner from 2017 till 2020 and sourced 1 investment (Aryeo)\n\u2022 Currently I'm the CTO and Co-Founder of Cariina (raised over $1.2m)",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-02-27T15:23:59",
+                "lastName": "DeAlmeida",
+                "linkedinName": "pedroguimar",
+                "linkedinUrl": "https://linkedin.com/in/pedroguimar/",
+                "location": "35 Lomasney Way",
+                "lookingFor": "Meet badass people and make new friends!",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "8ad43bcb-c5ea-4c1d-8b58-f4fb5258a451",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-293-27CE2B5F-2505-4F7F-B255-3A773182C43E_1_201_a.heic",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "pedro.boleira@gmail.com",
+                "slackUrl": null,
+                "twitterHandle": "pepeu_almeida",
+                "twitterUrl": "https://twitter.com/pepeu_almeida/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "1974",
+                        "organizationId": 1383,
+                        "position": "Co-Founder & CTO",
+                        "startDate": "2016-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1672234, \"name\": \"Cariina\", \"uuid\": \"55a7e9eb-8414-44cd-b655-57a411dfc4b1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/wufc4pwz0s21nxcrdwj5\", \"description\": \"Cariina is a developer of operations enablement software designed for schools and parents.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-06-01\", \"website\": \"https://www.cariina.com/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1126546, 1507119], \"executive_people_profile_ids\": [1126546, 1507119], \"cb_permalink\": \"https://www.crunchbase.com/organization/busways\", \"linkedin_url\": \"https://linkedin.com/company/cariina\", \"twitter\": null, \"last_funding_round_date\": \"2020-12-01\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 0, \"company_li_name\": \"cariina\", \"tags\": [{\"id\": 6631204, \"legal_entity_uuid\": \"55a7e9eb-8414-44cd-b655-57a411dfc4b1\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 6631205, \"legal_entity_uuid\": \"55a7e9eb-8414-44cd-b655-57a411dfc4b1\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 70869, \"uuid\": \"07e3b0d1-b757-4f13-9ae6-9ee8735d0bcd\", \"legal_entity_uuid\": \"55a7e9eb-8414-44cd-b655-57a411dfc4b1\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-01\", \"investors\": null}, {\"id\": 70868, \"uuid\": \"d27dc248-c619-4b94-b078-ac1563dc0052\", \"legal_entity_uuid\": \"55a7e9eb-8414-44cd-b655-57a411dfc4b1\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-21\", \"investors\": null}, {\"id\": 70867, \"uuid\": \"7862e60b-eed4-4602-b444-9b7898c65b38\", \"legal_entity_uuid\": \"55a7e9eb-8414-44cd-b655-57a411dfc4b1\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-02\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wufc4pwz0s21nxcrdwj5",
+                        "name": "Cariina"
+                    },
+                    "position": "Co-Founder and CTO",
+                    "startDate": "2016-03-01",
+                    "name": "Cariina",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/wufc4pwz0s21nxcrdwj5"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Finance",
+                    "degreeType": "Bachelors Degree",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 1655410, \"name\": \"BC International\", \"uuid\": \"51f0d642-4c4f-940b-b733-8bdc3cc38426\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/juvubyts4jwqeoeoz5pg\", \"description\": \"BC began as an undergraduate liberal arts college, but as its aspirations grew, it added graduate programs and professional schools.\", \"headcount\": \"251-500\", \"founding_date\": \"1863-01-01\", \"website\": \"http://www.bc.edu\", \"location\": \"Chestnut Hill\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2347402], \"cb_permalink\": \"https://www.crunchbase.com/organization/bc-international\", \"linkedin_url\": \"https://linkedin.com/company/boston-college\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"boston-college\", \"tags\": [{\"id\": 1750125, \"legal_entity_uuid\": \"51f0d642-4c4f-940b-b733-8bdc3cc38426\", \"name\": \"Energy Efficiency\", \"category\": \"Industry\"}, {\"id\": 1750126, \"legal_entity_uuid\": \"51f0d642-4c4f-940b-b733-8bdc3cc38426\", \"name\": \"Oil and Gas\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 169468, \"legal_entity_uuid\": \"51f0d642-4c4f-940b-b733-8bdc3cc38426\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 62, \"hc_estimate_90_days\": 61, \"hc_estimate_180_days\": 70, \"hc_estimate_270_days\": 66, \"hc_estimate_365_days\": 64, \"hc_growth_90_days\": \"1.6399999999999999023003738329862244427204132080078125\", \"hc_growth_180_days\": \"-11.42999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"-6.05999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-3.12999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": []}",
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/juvubyts4jwqeoeoz5pg",
+                        "name": "Boston College"
+                    },
+                    "name": "Boston College",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/juvubyts4jwqeoeoz5pg"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "MERN Development",
+                    "degreeType": "",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 1662698, \"name\": \"Horizons School of Technology\", \"uuid\": \"decfc81f-3826-565d-10ca-43dec031db25\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458260259/lfjoax4qju2ytv4a5pi5.png\", \"description\": \"Horizons School of Technology offers software engineering and entrepreneurship programs.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-07-01\", \"website\": \"http://www.horizonsbootcamp.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2146791], \"executive_people_profile_ids\": [2146791], \"cb_permalink\": \"https://www.crunchbase.com/organization/horizonsbootcamp\", \"linkedin_url\": \"https://linkedin.com/school/horizons-\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"horizons-\", \"tags\": [{\"id\": 6330358, \"legal_entity_uuid\": \"decfc81f-3826-565d-10ca-43dec031db25\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 6330359, \"legal_entity_uuid\": \"decfc81f-3826-565d-10ca-43dec031db25\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6330360, \"legal_entity_uuid\": \"decfc81f-3826-565d-10ca-43dec031db25\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6330361, \"legal_entity_uuid\": \"decfc81f-3826-565d-10ca-43dec031db25\", \"name\": \"Software Engineering\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "startDate": "2018-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458260259/lfjoax4qju2ytv4a5pi5.png",
+                        "name": "Horizons School of Technology"
+                    },
+                    "name": "Horizons School of Technology",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458260259/lfjoax4qju2ytv4a5pi5.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Primary Education",
+                    "degreeType": "High School",
+                    "endDate": "2016-01-01",
+                    "legalEntity": null,
+                    "startDate": "2007-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "International School Of Panama"
+                    },
+                    "name": "International School Of Panama",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "36",
+                    "value": "Ed Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "67",
+                    "value": "Immigrants"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "293"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

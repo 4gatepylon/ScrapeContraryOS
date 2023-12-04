@@ -1,0 +1,258 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Co-Founder @ Double (YC W23)",
+                "educationExperiences": [
+                    {
+                        "degree": "Mechatronics Engineering",
+                        "degreeType": "Bachelor of Applied Science - BASc",
+                        "endDate": null,
+                        "id": "196",
+                        "startDate": null,
+                        "universityId": 41
+                    },
+                    {
+                        "degree": "Mechatronics Engineering",
+                        "degreeType": "Bachelor of Applied Science - BASc",
+                        "endDate": null,
+                        "id": "197",
+                        "startDate": null,
+                        "universityId": 143
+                    }
+                ],
+                "email": "wesleyiyue@gmail.com",
+                "firstName": "Wesley",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "112",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Yue",
+                "linkedinName": "wesleyyue",
+                "linkedinUrl": "https://linkedin.com/in/wesleyyue/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "8b8bf0fe-5bdc-4b61-ad58-39ae48a299bf",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/1d5fb9c3499820178cdc26699acd0a7f/f3353ff9/DSC_2266_copy.jpg?ts=1659018022&userId=usrMxTlLuLWjeji2x&cs=6d9c4f68953f9696",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4415",
+                        "organizationId": 3067,
+                        "position": "Co-Founder",
+                        "startDate": "2022-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "673",
+                        "organizationId": 521,
+                        "position": "CEO & Co-founder",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-06-01",
+                        "id": "674",
+                        "organizationId": 522,
+                        "position": "Founder",
+                        "startDate": "2020-04-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "675",
+                        "organizationId": 523,
+                        "position": "Software Engineer",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "676",
+                        "organizationId": 524,
+                        "position": "Software Engineer",
+                        "startDate": "2018-04-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "677",
+                        "organizationId": 525,
+                        "position": "Controls Engineer",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "678",
+                        "organizationId": 526,
+                        "position": "Software Engineer",
+                        "startDate": "2016-05-01"
+                    },
+                    {
+                        "endDate": "2014-08-01",
+                        "id": "679",
+                        "organizationId": 527,
+                        "position": "Co-op Student Developer",
+                        "startDate": "2014-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 371715, \"name\": \"Double\", \"uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ghzjdcm2rxqxtw4q893r\", \"description\": \"Double is an AI-based tool that automates tedious data entry work.\", \"headcount\": \"1-10\", \"founding_date\": \"2022-01-01\", \"website\": \"https://www.usedouble.com\", \"location\": \"Redwood City\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2963707, 2955418], \"executive_people_profile_ids\": [2963707, 2955418], \"cb_permalink\": \"https://www.crunchbase.com/organization/double-5ed6\", \"linkedin_url\": \"https://linkedin.com/company/double-ai\", \"twitter\": \"https:/twitter.com/usedouble_com\", \"last_funding_round_date\": \"2023-04-05\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 500000, \"company_li_name\": \"double-ai\", \"tags\": [{\"id\": 211914, \"legal_entity_uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 211915, \"legal_entity_uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"name\": \"Developer Tools\", \"category\": \"Industry\"}, {\"id\": 211916, \"legal_entity_uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 211917, \"legal_entity_uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"name\": \"Virtual Assistant\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 127958, \"legal_entity_uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 1, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"100\"}, \"funding_rounds\": [{\"id\": 356899, \"uuid\": \"b349f176-6e1d-4437-9552-acfde3c4a05b\", \"legal_entity_uuid\": \"f3cde55e-7504-4ca8-8403-e1dd4c4d5ed6\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-05\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ghzjdcm2rxqxtw4q893r",
+                        "name": "Double (YC W23)"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-09-01",
+                    "name": "Double (YC W23)",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ghzjdcm2rxqxtw4q893r"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ninja-delivery.png",
+                        "name": "Ninja Delivery"
+                    },
+                    "position": "CEO  Co-founder",
+                    "startDate": "2020-04-01",
+                    "name": "Ninja Delivery",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/ninja-delivery.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 1386243, \"name\": \"Kodiak Robotics\", \"uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kodiakrobotics.png\", \"description\": \"Kodiak Robotics develops autonomous technology for long-haul trucking.\", \"headcount\": \"101-250\", \"founding_date\": \"2018-04-01\", \"website\": \"http://www.kodiak.ai\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2009820], \"executive_people_profile_ids\": [724257, 3213703], \"cb_permalink\": \"https://www.crunchbase.com/organization/kodiak-robotics-inc\", \"linkedin_url\": \"https://linkedin.com/company/kodiakrobotics\", \"twitter\": \"https:/twitter.com/kodiakrobotics\", \"last_funding_round_date\": \"2023-09-08\", \"last_funding_round_name\": \"Convertible Note\", \"total_funding_amount\": 319900000, \"company_li_name\": \"kodiakrobotics\", \"tags\": [{\"id\": 6612808, \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 6612809, \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Logistics\", \"category\": \"Industry\"}, {\"id\": 6612810, \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Robotics\", \"category\": \"Industry\"}, {\"id\": 6612811, \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6612812, \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 41079, \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 50, \"hc_estimate_90_days\": 45, \"hc_estimate_180_days\": 43, \"hc_estimate_270_days\": 44, \"hc_estimate_365_days\": 39, \"hc_growth_90_days\": \"11.1099999999999994315658113919198513031005859375\", \"hc_growth_180_days\": \"16.280000000000001136868377216160297393798828125\", \"hc_growth_270_days\": \"13.6400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"28.21000000000000085265128291212022304534912109375\"}, \"funding_rounds\": [{\"id\": 15196, \"uuid\": \"ff4b686f-e085-4e57-8ba3-f50491f18940\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Convertible Note\", \"cb_permalink\": null, \"investment_type\": \"convertible_note\", \"raised_amount_usd\": 75000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-08\", \"investors\": null}, {\"id\": 15195, \"uuid\": \"65b1e952-c6f3-4719-bd3b-9feb4644447b\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 49900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-12-06\", \"investors\": null}, {\"id\": 15194, \"uuid\": \"3fd77a52-2fd9-4307-8410-003876da5413\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-10-11\", \"investors\": null}, {\"id\": 15193, \"uuid\": \"04554e18-82ab-4453-9c9a-279d6c6cdec8\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 125000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-11-10\", \"investors\": null}, {\"id\": 15192, \"uuid\": \"c0aed5e2-d840-4900-886a-e05e21e18303\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-06-24\", \"investors\": null}, {\"id\": 15191, \"uuid\": \"179d6d7f-fe25-44e6-bbd4-8cc415509027\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Corporate Round\", \"cb_permalink\": null, \"investment_type\": \"corporate_round\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-06-16\", \"investors\": null}, {\"id\": 15190, \"uuid\": \"457c7e17-72af-4dc0-8ae3-79c82a2aea59\", \"legal_entity_uuid\": \"41c00557-2ffd-4b34-89b5-0a5e66a72145\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-07\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kodiakrobotics.png",
+                        "name": "Kodiak Robotics"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2019-01-01",
+                    "name": "Kodiak Robotics",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/kodiakrobotics.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 1671244, \"name\": \"Waymo\", \"uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/waymo.png\", \"description\": \"Waymo improves transportation by developing self-driving technology developed in Googles labs.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2009-01-17\", \"website\": \"http://www.waymo.com\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2962671, 2254088], \"executive_people_profile_ids\": [2712676, 2283433, 973208, 158941, 2366820, 2235261, 3215814, 1939186, 2760106, 2106788, 2580621, 3200467, 2394974, 2205477, 2883601, 4139, 1385640, 2549256, 223753, 3104656, 3275953, 644883, 2100641, 17071, 3205865, 2094257, 3378689, 1681287, 1670377, 800213, 706345, 31627, 521238, 2966925, 2097182, 2862702, 790640, 1475971, 3002003, 2371274, 1823302, 3137340, 3169173, 3107266, 1171098, 1741051, 28201, 78375, 1854829, 1343746, 2171314, 2961215, 2297607, 2218499, 2662131, 2908868], \"cb_permalink\": \"https://www.crunchbase.com/organization/waymo\", \"linkedin_url\": \"https://linkedin.com/company/waymo\", \"twitter\": \"https:/twitter.com/Waymo\", \"last_funding_round_date\": \"2021-06-16\", \"last_funding_round_name\": \"Private Equity Round\", \"total_funding_amount\": 5500000000, \"company_li_name\": \"waymo\", \"tags\": [{\"id\": 6242416, \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Automotive\", \"category\": \"Industry\"}, {\"id\": 6242417, \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Sensor\", \"category\": \"Industry\"}, {\"id\": 6242418, \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6242419, \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 152014, \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2086, \"hc_estimate_90_days\": 2117, \"hc_estimate_180_days\": 2157, \"hc_estimate_270_days\": 2201, \"hc_estimate_365_days\": 2175, \"hc_growth_90_days\": \"-1.45999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-3.29000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-5.21999999999999975131004248396493494510650634765625\", \"hc_growth_365_days\": \"-4.089999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 454061, \"uuid\": \"a91a2ee2-d6ca-4ee3-8c21-ce52594aafa0\", \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 2500000000, \"post_money_valuation_usd\": 30000000000, \"announced_date\": \"2021-06-16\", \"investors\": null}, {\"id\": 454060, \"uuid\": \"65068acc-8dc4-4e49-9457-8a2794e8ec25\", \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": 750000000, \"post_money_valuation_usd\": 30000000000, \"announced_date\": \"2020-05-12\", \"investors\": null}, {\"id\": 454059, \"uuid\": \"ab296752-3276-4903-b23b-aecc5bf2d1e5\", \"legal_entity_uuid\": \"c1833ca6-85d5-e3b8-08e5-8fcceb76717b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 2250000000, \"post_money_valuation_usd\": 30000000000, \"announced_date\": \"2020-03-02\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/waymo.png",
+                        "name": "Waymo"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2018-04-01",
+                    "name": "Waymo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/waymo.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-12-01",
+                    "legalEntity": "{\"id\": 1627501, \"name\": \"Zee.Aero\", \"uuid\": \"80570cb8-7f3d-789b-6a45-9a8582d0a06c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1443860629/pymoevh07nomiayrh5jo.png\", \"description\": \"Zee.Aero is developing revolutionary aircraft concepts, working at the intersection of aerodynamics, autonomy, and electric propulsion.\", \"headcount\": \"101-250\", \"founding_date\": \"2010-01-01\", \"website\": \"http://zee.aero/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [239683, 656412], \"cb_permalink\": \"https://www.crunchbase.com/organization/zee-aero\", \"linkedin_url\": \"https://linkedin.com/company/zee.aero\", \"twitter\": \"https:/twitter.com/zeeaero\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"zee.aero\", \"tags\": [{\"id\": 6257590, \"legal_entity_uuid\": \"80570cb8-7f3d-789b-6a45-9a8582d0a06c\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1443860629/pymoevh07nomiayrh5jo.png",
+                        "name": "Zee Aero"
+                    },
+                    "position": "Controls Engineer",
+                    "startDate": "2017-01-01",
+                    "name": "Zee Aero",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1443860629/pymoevh07nomiayrh5jo.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 1463007, \"name\": \"Anki\", \"uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/myadbdbjck3slpi2lwh0\", \"description\": \"Anki is an entertainment robotics company dedicated to bringing artificial intelligence and robotics to peoples everyday lives.\", \"headcount\": \"51-100\", \"founding_date\": \"2010-01-05\", \"website\": \"http://anki.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [331987, 2504601], \"executive_people_profile_ids\": [75569, 331987, 764104, 2595335, 2504601, 2596213, 3211253], \"cb_permalink\": \"https://www.crunchbase.com/organization/anki\", \"linkedin_url\": \"https://linkedin.com/company/anki\", \"twitter\": \"http:/twitter.com/anki\", \"last_funding_round_date\": \"2017-07-01\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 234500011, \"company_li_name\": \"anki\", \"tags\": [{\"id\": 1668514, \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1668515, \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Consumer Electronics\", \"category\": \"Industry\"}, {\"id\": 1668516, \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1668517, \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Robotics\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 76124, \"uuid\": \"f8207378-cf81-412d-b535-e6e52c67ff90\", \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 600000000, \"announced_date\": \"2017-07-01\", \"investors\": null}, {\"id\": 76123, \"uuid\": \"05130fff-c87b-41b1-81ea-7e2dd741a2fc\", \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 77500000, \"post_money_valuation_usd\": 600000000, \"announced_date\": \"2017-03-10\", \"investors\": null}, {\"id\": 76122, \"uuid\": \"75377f5a-b3d2-08f7-b6d9-a89177a2f9ce\", \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 52500000, \"post_money_valuation_usd\": 367200000, \"announced_date\": \"2016-06-27\", \"investors\": null}, {\"id\": 76121, \"uuid\": \"347d224e-195c-0028-8969-f445f6bf5e70\", \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 55000000, \"post_money_valuation_usd\": 367200000, \"announced_date\": \"2014-09-26\", \"investors\": null}, {\"id\": 76120, \"uuid\": \"e6bafe29-8f68-90e5-39ec-108a21dde7e0\", \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 36700011, \"post_money_valuation_usd\": 39630000, \"announced_date\": \"2013-06-01\", \"investors\": null}, {\"id\": 76119, \"uuid\": \"64cdfe9a-2ef9-fa8e-a72d-687db96c2c72\", \"legal_entity_uuid\": \"ef25cdeb-ec17-5423-2275-1cbb59ba698f\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 12800000, \"post_money_valuation_usd\": 39630000, \"announced_date\": \"2012-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/myadbdbjck3slpi2lwh0",
+                        "name": "Anki"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2016-05-01",
+                    "name": "Anki",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/myadbdbjck3slpi2lwh0"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pulse-energy.png",
+                        "name": "Pulse Energy"
+                    },
+                    "position": "Co-op Student Developer",
+                    "startDate": "2014-06-01",
+                    "name": "Pulse Energy",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pulse-energy.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Mechatronics Engineering",
+                    "degreeType": "Bachelor of Applied Science - BASc",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 792949, \"name\": \"Simon Fraser University\", \"uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/simon-fraser-university.png\", \"description\": \"Simon Fraser University is a public research university located in Burnaby, BC.\", \"headcount\": \"251-500\", \"founding_date\": \"1965-09-09\", \"website\": \"http://www.sfu.ca/\", \"location\": \"Burnaby\", \"country\": \"CAN\", \"region\": \"British Columbia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1141505, 2521317, 1937877, 2236058], \"cb_permalink\": \"https://www.crunchbase.com/organization/simon-fraser-university\", \"linkedin_url\": \"https://linkedin.com/company/simon-fraser-university\", \"twitter\": \"http:/twitter.com/sfu\", \"last_funding_round_date\": \"2023-07-06\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 13398348, \"company_li_name\": \"simon-fraser-university\", \"tags\": [{\"id\": 1794125, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1794126, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 1794127, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1794128, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1794129, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"STEM Education\", \"category\": \"Industry\"}, {\"id\": 1794130, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Training\", \"category\": \"Industry\"}, {\"id\": 1794131, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 95077, \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 98, \"hc_estimate_90_days\": 92, \"hc_estimate_180_days\": 93, \"hc_estimate_270_days\": 95, \"hc_estimate_365_days\": 105, \"hc_growth_90_days\": \"6.519999999999999573674358543939888477325439453125\", \"hc_growth_180_days\": \"5.37999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"3.160000000000000142108547152020037174224853515625\", \"hc_growth_365_days\": \"-6.6699999999999999289457264239899814128875732421875\"}, \"funding_rounds\": [{\"id\": 480563, \"uuid\": \"aa5bfc65-346e-4bee-8cfc-2b9d0da04459\", \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 94447, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-06\", \"investors\": null}, {\"id\": 37593, \"uuid\": \"b324acc2-e122-4d3d-ba44-d44650989f97\", \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-27\", \"investors\": null}, {\"id\": 37592, \"uuid\": \"e72080d3-0b39-40b7-bce8-0b17fc8b5974\", \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1257859, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-05-06\", \"investors\": null}, {\"id\": 37591, \"uuid\": \"a47f2985-61dc-4e45-bc4d-201fb106074b\", \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9769434, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-06\", \"investors\": null}, {\"id\": 37590, \"uuid\": \"7791b666-b667-4aad-ab1f-f916e45b54b5\", \"legal_entity_uuid\": \"ba41dfcf-d4e2-e826-ad6c-045a2539be27\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2276608, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-26\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/simon-fraser-university.png",
+                        "name": "Simon Fraser University"
+                    },
+                    "name": "Simon Fraser University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/simon-fraser-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Mechatronics Engineering",
+                    "degreeType": "Bachelor of Applied Science - BASc",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 166744, \"name\": \"University of Waterloo\", \"uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png\", \"description\": \"University of Waterloo is a public research university that operates colleges which offer undergraduate and graduate programs.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1957-07-01\", \"website\": \"https://uwaterloo.ca\", \"location\": \"Waterloo\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [1298406], \"executive_people_profile_ids\": [1407569, 2507258, 566104, 1943746, 1040346], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-waterloo\", \"linkedin_url\": \"https://linkedin.com/school/uwaterloo\", \"twitter\": \"http:/twitter.com/uWaterloo\", \"last_funding_round_date\": \"2023-10-12\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5819194, \"company_li_name\": \"uwaterloo\", \"tags\": [{\"id\": 6420576, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6420577, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 6420578, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4318, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 226, \"hc_estimate_90_days\": 213, \"hc_estimate_180_days\": 209, \"hc_estimate_270_days\": 249, \"hc_estimate_365_days\": 250, \"hc_growth_90_days\": \"6.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"8.1300000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-9.2400000000000002131628207280300557613372802734375\", \"hc_growth_365_days\": \"-9.5999999999999996447286321199499070644378662109375\"}, \"funding_rounds\": [{\"id\": 486495, \"uuid\": \"17e8a13b-6a10-41ea-8fb2-c371980e60ae\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 550000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-12\", \"investors\": null}, {\"id\": 69606, \"uuid\": \"ebc66534-c8a5-449c-a3ac-bc1229aa7741\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-22\", \"investors\": null}, {\"id\": 69605, \"uuid\": \"23f3cfc4-7647-4cf9-bb0f-778f23ff1678\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1119194, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-13\", \"investors\": null}, {\"id\": 69604, \"uuid\": \"1327800c-7081-46a0-94db-367837b180ff\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-29\", \"investors\": null}, {\"id\": 69603, \"uuid\": \"dd42184a-98ac-c5f8-1bdb-f306dc736a6b\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png",
+                        "name": "University of Waterloo"
+                    },
+                    "name": "University of Waterloo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "112"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

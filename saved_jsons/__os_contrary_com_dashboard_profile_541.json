@@ -1,0 +1,329 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [],
+                "email": "danielchang2022@u.northwestern.edu",
+                "firstName": "Daniel",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "541",
+                "intro": null,
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-03-22T18:32:00",
+                "lastName": "Chang",
+                "linkedinName": "chang-d",
+                "linkedinUrl": "https://linkedin.com/in/chang-d/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "ccbf36b4-30d9-40aa-99ec-65e06050d950",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AGNmyxba549vBwlclY3zfC229_2sOUYyiOQuVZkS_sin=s96-c",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4703",
+                        "organizationId": 1763,
+                        "position": "",
+                        "startDate": null
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4704",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 179065, \"name\": \"Databricks\", \"uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/databricks.png\", \"description\": \"Databricks is an AI cloud data platform that interacts with corporate information stored in the public cloud.\", \"headcount\": \"5001-10000\", \"founding_date\": \"2013-01-01\", \"website\": \"https://databricks.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1906375, 1606891, 3160261, 734100, 1165399, 2928311, 2021421], \"executive_people_profile_ids\": [3595591, 1594707, 1572892, 693289, 1934003, 597011, 1105240, 300135, 3597740, 3281658, 3343989, 1764193, 1496879, 2950767, 3328021, 2157314, 853316, 63545, 3003445, 131642, 1148257, 1325993, 2726162, 1606691, 1498725, 1717786, 2106283, 151063, 1671197, 3017960, 3807079, 432097, 184000, 3266089, 1617573, 2116688, 1607148, 1191664, 3291682, 565046, 2832686, 1522575, 846396, 1908964, 3042150, 1546546, 2058974, 1671209, 432278, 575343, 621728, 1037189, 1314562, 1884457, 3580263, 416234, 1594470, 1840604, 1878340, 3083949, 2564778, 3636249, 3590320, 1906460, 2751412, 4051939, 1840924, 2116922, 1036642, 261072, 1165564, 445286, 846196, 3350890, 307574, 1786870, 1490571, 2626525, 432365, 2476675, 1829459, 432276, 1906053, 3235001, 295482, 2945536, 1012205, 3038157, 1528579, 2053834, 2106374, 2979923, 449294, 918895, 2726125, 1037089, 3083950, 905036, 2529054, 2821196, 3609996, 846277, 1808020, 1004889, 1497703, 1128968, 1606891, 902835, 3226010, 341829, 2768061, 2650785, 903267, 3341152, 1642324, 2203681, 1638773, 2725831, 289455, 903005, 853669, 919280, 1497605, 3084012, 2853198, 4064614, 2144507, 1582254, 2833758, 3532920, 2822464, 2832646, 807815, 2529210, 2008179, 2451806, 1959135, 2832685, 3542178, 1165177, 2726835, 2606988, 1397441, 2949481, 2526774, 3620303, 432277, 1722147, 1048175, 846203, 1717978, 903154, 2173423, 500434, 2832927, 792307, 1148574, 1906028, 4042121, 1338296, 1054541, 2853291, 683825, 2793471, 2107296, 2050100, 2281683, 151237, 3412169, 2043475, 2107295, 1721981, 2106518, 668281, 183795, 1150456, 2043399, 2928311, 561935, 3009299, 1005147, 1446050, 2594232, 2834255, 2744688, 3054050, 1878096, 3815590, 2116784, 919333, 1550034, 1878124, 3015332, 1400431, 1499934, 4088532, 2107604, 3509242, 1856624, 1191612, 2985227, 2106198, 195021, 2116620, 853602, 560125, 1362915, 2927752, 2822090, 1594492, 971384, 1523052, 1594594, 2928107, 1876804, 2945649, 2594207, 564373, 1718035, 295118, 2106457, 822280, 903118, 1908746, 3335508, 2339316, 5202, 1878020, 1497687, 676470, 3263118, 3133556, 899754, 2106579, 1497267, 1299553, 1165067, 3583566, 2726180, 183817, 1146768, 2945597, 3397153, 3130859, 1148272, 1906508, 3546663, 2594521, 1606593, 1230833, 396860], \"cb_permalink\": \"https://www.crunchbase.com/organization/databricks\", \"linkedin_url\": \"https://linkedin.com/company/databricks\", \"twitter\": \"http:/www.twitter.com/databricks\", \"last_funding_round_date\": \"2023-09-14\", \"last_funding_round_name\": \"Series I\", \"total_funding_amount\": 4181559082, \"company_li_name\": \"databricks\", \"tags\": [{\"id\": 7397334, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}, {\"id\": 1717904, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1717903, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 1717902, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1717901, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1717900, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Analytics\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 7892, \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4498, \"hc_estimate_90_days\": 4468, \"hc_estimate_180_days\": 4173, \"hc_estimate_270_days\": 3995, \"hc_estimate_365_days\": 3756, \"hc_growth_90_days\": \"0.67000000000000003996802888650563545525074005126953125\", \"hc_growth_180_days\": \"7.79000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"12.589999999999999857891452847979962825775146484375\", \"hc_growth_365_days\": \"19.760000000000001563194018672220408916473388671875\"}, \"funding_rounds\": [{\"id\": 420195, \"uuid\": \"3bcdb5f5-2cdc-4623-9aab-5db3670ccdfb\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series I\", \"cb_permalink\": null, \"investment_type\": \"series_i\", \"raised_amount_usd\": 684559082, \"post_money_valuation_usd\": 43184559082, \"announced_date\": \"2023-09-14\", \"investors\": null}, {\"id\": 420194, \"uuid\": \"78c62667-0929-420a-9463-a9eb429f87ec\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 38000000000, \"announced_date\": \"2023-07-31\", \"investors\": null}, {\"id\": 420193, \"uuid\": \"77c3c706-eb70-4fbd-ab34-bd219e769aec\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 38000000000, \"announced_date\": \"2023-03-03\", \"investors\": null}, {\"id\": 420192, \"uuid\": \"35bc2651-6ea7-4aa4-b6b7-a51d5b41e125\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series H\", \"cb_permalink\": null, \"investment_type\": \"series_h\", \"raised_amount_usd\": 1600000000, \"post_money_valuation_usd\": 38000000000, \"announced_date\": \"2021-08-31\", \"investors\": null}, {\"id\": 420191, \"uuid\": \"74244a6e-969c-4e53-9e0d-945ce4728d2e\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series G\", \"cb_permalink\": null, \"investment_type\": \"series_g\", \"raised_amount_usd\": 1000000000, \"post_money_valuation_usd\": 28000000000, \"announced_date\": \"2021-02-01\", \"investors\": null}, {\"id\": 420190, \"uuid\": \"50594792-3b7f-423e-9268-0fa6fa96af91\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series F\", \"cb_permalink\": null, \"investment_type\": \"series_f\", \"raised_amount_usd\": 400000000, \"post_money_valuation_usd\": 6200000000, \"announced_date\": \"2019-10-22\", \"investors\": null}, {\"id\": 420189, \"uuid\": \"037705fb-94d4-4f95-9aa9-c6c1fa9e5879\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": 2750000000, \"announced_date\": \"2019-02-05\", \"investors\": null}, {\"id\": 420188, \"uuid\": \"b1fc0b37-6b6f-7b7e-76b7-76682a6ad5f4\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 140000000, \"post_money_valuation_usd\": 940000000, \"announced_date\": \"2017-08-22\", \"investors\": null}, {\"id\": 420187, \"uuid\": \"e9a8fa71-6b56-233d-e980-a8fdc921b609\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 60000000, \"post_money_valuation_usd\": 520000000, \"announced_date\": \"2016-12-15\", \"investors\": null}, {\"id\": 420186, \"uuid\": \"62590071-ce52-4527-8f36-1b6c5689cc45\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-16\", \"investors\": null}, {\"id\": 420185, \"uuid\": \"f0c822da-f994-ea2d-8240-f5e2f010128a\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 33000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-06-30\", \"investors\": null}, {\"id\": 420184, \"uuid\": \"2793ec19-f8a6-3849-b769-287f973a5eb5\", \"legal_entity_uuid\": \"b70eee8a-83db-997a-509c-464724b37278\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 14000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-09-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/databricks.png",
+                        "name": "Databricks"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Databricks",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/databricks.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science and Statistics",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 376931, \"name\": \"Northwestern University\", \"uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1425080609/hb1woslo1ba1uue3grmi.png\", \"description\": \"Northwestern is one of the countrys leading private research and teaching universities, located in Evanston, IL.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1851-01-28\", \"website\": \"https://www.northwestern.edu\", \"location\": \"Evanston\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [583880], \"executive_people_profile_ids\": [580630, 728534, 1130021, 1336873, 1509566, 2009598, 720560, 2021119, 1171132, 1696849, 2886247, 583880, 1555478, 18063, 2026667, 524436, 505660, 1113907, 485714, 1509239], \"cb_permalink\": \"https://www.crunchbase.com/organization/northwestern-university\", \"linkedin_url\": \"https://linkedin.com/company/northwestern-university\", \"twitter\": \"https:/twitter.com/northwesternu\", \"last_funding_round_date\": \"2023-06-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 64000000, \"company_li_name\": \"northwestern-university\", \"tags\": [{\"id\": 1788697, \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1788696, \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Training\", \"category\": \"Industry\"}, {\"id\": 1788695, \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1788694, \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"EdTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132695, \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 320, \"hc_estimate_90_days\": 314, \"hc_estimate_180_days\": 335, \"hc_estimate_270_days\": 343, \"hc_estimate_365_days\": 358, \"hc_growth_90_days\": \"1.9099999999999999200639422269887290894985198974609375\", \"hc_growth_180_days\": \"-4.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-6.70999999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-10.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 464314, \"uuid\": \"e19af926-a846-4caa-a16f-e4f44561b6c9\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 18000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 464313, \"uuid\": \"bff1f929-359f-4e6a-9695-47185fb8eb0a\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-18\", \"investors\": null}, {\"id\": 464312, \"uuid\": \"2be0bbf0-3455-4435-be4a-7f9c14eb92e1\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 21300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-26\", \"investors\": null}, {\"id\": 464311, \"uuid\": \"7692c410-b831-4c4e-9aae-071de87fa33b\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-10\", \"investors\": null}, {\"id\": 464310, \"uuid\": \"28c50a24-cce2-4956-97c2-42d466e42868\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-23\", \"investors\": null}, {\"id\": 464309, \"uuid\": \"ae46d993-1de1-2860-6008-86ea931a0b3f\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-09-01\", \"investors\": null}, {\"id\": 464308, \"uuid\": \"be4408dc-df48-7d77-5c21-abd060a03b8c\", \"legal_entity_uuid\": \"f23fd798-2cc4-426e-c670-13e81ba24806\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-04-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1425080609/hb1woslo1ba1uue3grmi.png",
+                        "name": "Northwestern University"
+                    },
+                    "name": "Northwestern University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1425080609/hb1woslo1ba1uue3grmi.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "9",
+                    "value": "Chief of Staff"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "35",
+                    "value": "Dev Tools"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "32",
+                    "value": "Defense Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "61",
+                    "value": "Asian"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "62",
+                    "value": "Asian American"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "541"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

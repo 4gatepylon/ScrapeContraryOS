@@ -1,0 +1,434 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Senior Associate - Healthcare VC at Flare Capital Partners",
+                "educationExperiences": [
+                    {
+                        "degree": "Economics",
+                        "degreeType": "Bachelor of Arts (B.A.)",
+                        "endDate": "2015-01-01",
+                        "id": "404",
+                        "startDate": "2011-01-01",
+                        "universityId": 241
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "Master of Business Administration - MBA",
+                        "endDate": null,
+                        "id": "403",
+                        "startDate": null,
+                        "universityId": 4
+                    }
+                ],
+                "email": "taramariesullivan@gmail.com",
+                "firstName": "Tara",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "217",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-01-08T23:15:25",
+                "lastName": "Sullivan",
+                "linkedinName": "tara-sullivan-169aa448",
+                "linkedinUrl": "https://linkedin.com/in/tara-sullivan-169aa448/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "127e8dd9-755c-4624-8e38-739c0b3c53a5",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-217-TS%20Headshot%202022.jpg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4565",
+                        "organizationId": 355970,
+                        "position": "Senior Associate",
+                        "startDate": "2023-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1433",
+                        "organizationId": 1046,
+                        "position": "MBA Intern, New Ventures",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1434",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2020-09-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1435",
+                        "organizationId": 1047,
+                        "position": "MBA Candidate | Health Care Management",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-09-01",
+                        "id": "1436",
+                        "organizationId": 1048,
+                        "position": "Senior Manager, Operational Excellence",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2018-09-01",
+                        "id": "1437",
+                        "organizationId": 1049,
+                        "position": "Consultant",
+                        "startDate": "2018-07-01"
+                    },
+                    {
+                        "endDate": "2014-09-01",
+                        "id": "1438",
+                        "organizationId": 1050,
+                        "position": "Intern, Global Product Management",
+                        "startDate": "2014-06-01"
+                    },
+                    {
+                        "endDate": "2013-09-01",
+                        "id": "1439",
+                        "organizationId": 1051,
+                        "position": "Intern, Industry Research",
+                        "startDate": "2013-07-01"
+                    },
+                    {
+                        "endDate": "2013-07-01",
+                        "id": "1440",
+                        "organizationId": 1052,
+                        "position": "Intern, Fixed Income Trading",
+                        "startDate": "2013-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2121294, \"name\": \"Flare Capital Partners\", \"uuid\": \"e2bdca0e-632f-8fa2-6ef6-5715dd1c6c93\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/flare-capital-partners.png\", \"description\": \"Flare Capital Partners provides capital for early-stage and emerging healthcare technology companies.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"https://www.flarecapital.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2194934], \"executive_people_profile_ids\": [426219], \"cb_permalink\": \"https://www.crunchbase.com/organization/flare-capitalpartners\", \"linkedin_url\": \"https://linkedin.com/company/flare-capital-partners\", \"twitter\": \"https:/twitter.com/flarecapital\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"flare-capital-partners\", \"tags\": [{\"id\": 1848187, \"legal_entity_uuid\": \"e2bdca0e-632f-8fa2-6ef6-5715dd1c6c93\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1848188, \"legal_entity_uuid\": \"e2bdca0e-632f-8fa2-6ef6-5715dd1c6c93\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1848189, \"legal_entity_uuid\": \"e2bdca0e-632f-8fa2-6ef6-5715dd1c6c93\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1848190, \"legal_entity_uuid\": \"e2bdca0e-632f-8fa2-6ef6-5715dd1c6c93\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 65505, \"legal_entity_uuid\": \"e2bdca0e-632f-8fa2-6ef6-5715dd1c6c93\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 66, \"hc_estimate_90_days\": 66, \"hc_estimate_180_days\": 67, \"hc_estimate_270_days\": 66, \"hc_estimate_365_days\": 48, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-1.4899999999999999911182158029987476766109466552734375\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"37.5\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/flare-capital-partners.png",
+                        "name": "Flare Capital Partners"
+                    },
+                    "position": "Senior Associate",
+                    "startDate": "2023-09-01",
+                    "name": "Flare Capital Partners",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/flare-capital-partners.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-09-01",
+                    "legalEntity": "{\"id\": 177578, \"name\": \"Redesign Health\", \"uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku\", \"description\": \"Redesign Health develops technologies, tools, and insights to solve healthcare solutions.\", \"headcount\": \"101-250\", \"founding_date\": \"2018-01-01\", \"website\": \"https://www.redesignhealth.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [7227, 1091353], \"executive_people_profile_ids\": [1045256, 763802, 1091353, 3206581, 1191448, 1694374, 2520985, 978039, 7227, 2605652], \"cb_permalink\": \"https://www.crunchbase.com/organization/redesign-health\", \"linkedin_url\": \"https://linkedin.com/company/redesign-health\", \"twitter\": \"https:/twitter.com/redesignhealth1\", \"last_funding_round_date\": \"2022-09-13\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 315000000, \"company_li_name\": \"redesign-health\", \"tags\": [{\"id\": 3924015, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Small and Medium Businesses\", \"category\": \"Industry\"}, {\"id\": 3924014, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 3924013, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 1551, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 103, \"hc_estimate_90_days\": 98, \"hc_estimate_180_days\": 87, \"hc_estimate_270_days\": 88, \"hc_estimate_365_days\": 89, \"hc_growth_90_days\": \"5.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"18.3900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"17.050000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"15.730000000000000426325641456060111522674560546875\"}, \"funding_rounds\": [{\"id\": 373503, \"uuid\": \"82ec8a39-1b16-4c74-a0a0-89f82016293b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 65000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2022-09-13\", \"investors\": null}, {\"id\": 373502, \"uuid\": \"1b1aed90-fdd0-476c-bb20-6cb6d345cb6b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku",
+                        "name": "Redesign Health"
+                    },
+                    "position": "Director of New Ventures",
+                    "startDate": "2023-07-01",
+                    "name": "Redesign Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-06-01",
+                    "legalEntity": "{\"id\": 177578, \"name\": \"Redesign Health\", \"uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku\", \"description\": \"Redesign Health develops technologies, tools, and insights to solve healthcare solutions.\", \"headcount\": \"101-250\", \"founding_date\": \"2018-01-01\", \"website\": \"https://www.redesignhealth.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [7227, 1091353], \"executive_people_profile_ids\": [1045256, 763802, 1091353, 3206581, 1191448, 1694374, 2520985, 978039, 7227, 2605652], \"cb_permalink\": \"https://www.crunchbase.com/organization/redesign-health\", \"linkedin_url\": \"https://linkedin.com/company/redesign-health\", \"twitter\": \"https:/twitter.com/redesignhealth1\", \"last_funding_round_date\": \"2022-09-13\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 315000000, \"company_li_name\": \"redesign-health\", \"tags\": [{\"id\": 3924015, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Small and Medium Businesses\", \"category\": \"Industry\"}, {\"id\": 3924014, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 3924013, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 1551, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 103, \"hc_estimate_90_days\": 98, \"hc_estimate_180_days\": 87, \"hc_estimate_270_days\": 88, \"hc_estimate_365_days\": 89, \"hc_growth_90_days\": \"5.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"18.3900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"17.050000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"15.730000000000000426325641456060111522674560546875\"}, \"funding_rounds\": [{\"id\": 373503, \"uuid\": \"82ec8a39-1b16-4c74-a0a0-89f82016293b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 65000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2022-09-13\", \"investors\": null}, {\"id\": 373502, \"uuid\": \"1b1aed90-fdd0-476c-bb20-6cb6d345cb6b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku",
+                        "name": "Redesign Health"
+                    },
+                    "position": "Principal of New Ventures",
+                    "startDate": "2022-08-01",
+                    "name": "Redesign Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 177578, \"name\": \"Redesign Health\", \"uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku\", \"description\": \"Redesign Health develops technologies, tools, and insights to solve healthcare solutions.\", \"headcount\": \"101-250\", \"founding_date\": \"2018-01-01\", \"website\": \"https://www.redesignhealth.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [7227, 1091353], \"executive_people_profile_ids\": [1045256, 763802, 1091353, 3206581, 1191448, 1694374, 2520985, 978039, 7227, 2605652], \"cb_permalink\": \"https://www.crunchbase.com/organization/redesign-health\", \"linkedin_url\": \"https://linkedin.com/company/redesign-health\", \"twitter\": \"https:/twitter.com/redesignhealth1\", \"last_funding_round_date\": \"2022-09-13\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 315000000, \"company_li_name\": \"redesign-health\", \"tags\": [{\"id\": 3924015, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Small and Medium Businesses\", \"category\": \"Industry\"}, {\"id\": 3924014, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 3924013, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 1551, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 103, \"hc_estimate_90_days\": 98, \"hc_estimate_180_days\": 87, \"hc_estimate_270_days\": 88, \"hc_estimate_365_days\": 89, \"hc_growth_90_days\": \"5.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"18.3900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"17.050000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"15.730000000000000426325641456060111522674560546875\"}, \"funding_rounds\": [{\"id\": 373503, \"uuid\": \"82ec8a39-1b16-4c74-a0a0-89f82016293b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 65000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2022-09-13\", \"investors\": null}, {\"id\": 373502, \"uuid\": \"1b1aed90-fdd0-476c-bb20-6cb6d345cb6b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku",
+                        "name": "Redesign Health"
+                    },
+                    "position": "New Ventures-part-time",
+                    "startDate": "2021-09-01",
+                    "name": "Redesign Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-09-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-05-01",
+                    "legalEntity": "{\"id\": 758786, \"name\": \"Wharton School of the University of Pennsylvania\", \"uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez\", \"description\": \"Wharton School of the University of Pennsylvania is a business school driven to create economic and social value.\", \"headcount\": \"101-250\", \"founding_date\": \"1881-01-01\", \"website\": \"http://www.wharton.upenn.edu\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [1317406], \"executive_people_profile_ids\": [462276, 1714597, 505232, 1317406, 1088585, 124787, 3211833, 1834236, 1506941, 1189861], \"cb_permalink\": \"https://www.crunchbase.com/organization/wharton-school-of-the-university-of-pennsylvania\", \"linkedin_url\": \"https://linkedin.com/company/the-wharton-school\", \"twitter\": \"http:/www.twitter.com/Wharton\", \"last_funding_round_date\": \"2020-05-18\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5000000, \"company_li_name\": \"the-wharton-school\", \"tags\": [{\"id\": 4836116, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4836117, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4836118, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 91791, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 240, \"hc_estimate_90_days\": 218, \"hc_estimate_180_days\": 256, \"hc_estimate_270_days\": 254, \"hc_estimate_365_days\": 255, \"hc_growth_90_days\": \"10.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-6.25\", \"hc_growth_270_days\": \"-5.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-5.87999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 161240, \"uuid\": \"c8600870-76f2-42c2-879e-60dafb74fe81\", \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez",
+                        "name": "The Wharton School"
+                    },
+                    "position": "MBA Candidate | Health Care Management",
+                    "startDate": "2020-08-01",
+                    "name": "The Wharton School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 177578, \"name\": \"Redesign Health\", \"uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku\", \"description\": \"Redesign Health develops technologies, tools, and insights to solve healthcare solutions.\", \"headcount\": \"101-250\", \"founding_date\": \"2018-01-01\", \"website\": \"https://www.redesignhealth.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [7227, 1091353], \"executive_people_profile_ids\": [1045256, 763802, 1091353, 3206581, 1191448, 1694374, 2520985, 978039, 7227, 2605652], \"cb_permalink\": \"https://www.crunchbase.com/organization/redesign-health\", \"linkedin_url\": \"https://linkedin.com/company/redesign-health\", \"twitter\": \"https:/twitter.com/redesignhealth1\", \"last_funding_round_date\": \"2022-09-13\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 315000000, \"company_li_name\": \"redesign-health\", \"tags\": [{\"id\": 3924015, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Small and Medium Businesses\", \"category\": \"Industry\"}, {\"id\": 3924014, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 3924013, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Health Care\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 1551, \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 103, \"hc_estimate_90_days\": 98, \"hc_estimate_180_days\": 87, \"hc_estimate_270_days\": 88, \"hc_estimate_365_days\": 89, \"hc_growth_90_days\": \"5.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"18.3900000000000005684341886080801486968994140625\", \"hc_growth_270_days\": \"17.050000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"15.730000000000000426325641456060111522674560546875\"}, \"funding_rounds\": [{\"id\": 373503, \"uuid\": \"82ec8a39-1b16-4c74-a0a0-89f82016293b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 65000000, \"post_money_valuation_usd\": 1700000000, \"announced_date\": \"2022-09-13\", \"investors\": null}, {\"id\": 373502, \"uuid\": \"1b1aed90-fdd0-476c-bb20-6cb6d345cb6b\", \"legal_entity_uuid\": \"137cf1ee-ecb5-4d42-8368-32d9dfa31acd\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku",
+                        "name": "Redesign Health"
+                    },
+                    "position": "New Ventures-MBA intern",
+                    "startDate": "2021-05-01",
+                    "name": "Redesign Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ep3xsva2iq8uap6czyku"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-09-01",
+                    "legalEntity": "{\"id\": 498904, \"name\": \"Flatiron Health\", \"uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip\", \"description\": \"Flatiron Health is a healthcare technology company that aims to improve lives by learning from the experience of every cancer patient.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2012-06-01\", \"website\": \"https://flatiron.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1324979, 756160], \"executive_people_profile_ids\": [204230, 2684420, 2707724, 3395146, 2207375, 3050925, 2202256, 238573, 1324979, 2227694, 2288424, 585696, 1693322, 2723975, 596860, 637499, 1558449, 1143741, 1553227, 2969268, 2209683, 1694873, 2557995, 701456, 368626, 3300911, 2081521, 1129919, 2109261, 2201169, 3398425, 756160, 3289220], \"cb_permalink\": \"https://www.crunchbase.com/organization/flatiron-health\", \"linkedin_url\": \"https://linkedin.com/company/flatiron-health\", \"twitter\": \"http:/twitter.com/flatironhealth\", \"last_funding_round_date\": \"2021-12-23\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 324945748, \"company_li_name\": \"flatiron-health\", \"tags\": [{\"id\": 6539764, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Electronic Health Record (EHR)\", \"category\": \"Industry\"}, {\"id\": 6539768, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Personal Health\", \"category\": \"Industry\"}, {\"id\": 6539767, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Hospital\", \"category\": \"Industry\"}, {\"id\": 6539766, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Health Diagnostics\", \"category\": \"Industry\"}, {\"id\": 6539765, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 6539762, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 6539763, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 101836, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1442, \"hc_estimate_90_days\": 1473, \"hc_estimate_180_days\": 1468, \"hc_estimate_270_days\": 1453, \"hc_estimate_365_days\": 1412, \"hc_growth_90_days\": \"-2.100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-1.770000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-0.7600000000000000088817841970012523233890533447265625\", \"hc_growth_365_days\": \"2.12000000000000010658141036401502788066864013671875\"}, \"funding_rounds\": [{\"id\": 439453, \"uuid\": \"eab436ac-3539-4227-a7f3-47e87cf54bc8\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 11945748, \"post_money_valuation_usd\": 1199999999, \"announced_date\": \"2021-12-23\", \"investors\": null}, {\"id\": 439452, \"uuid\": \"85c6055d-5e19-7382-b999-6d23cb4d9960\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 175000000, \"post_money_valuation_usd\": 1199999999, \"announced_date\": \"2016-01-06\", \"investors\": null}, {\"id\": 439451, \"uuid\": \"b8f96226-0e76-8f05-31c4-68d9771b8f19\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-05-07\", \"investors\": null}, {\"id\": 439450, \"uuid\": \"29264194-080e-9998-e7d9-deaa224fa7ff\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip",
+                        "name": "Flatiron Health"
+                    },
+                    "position": "Senior Manager-Operational Excellence",
+                    "startDate": "2020-07-01",
+                    "name": "Flatiron Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-07-01",
+                    "legalEntity": "{\"id\": 498904, \"name\": \"Flatiron Health\", \"uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip\", \"description\": \"Flatiron Health is a healthcare technology company that aims to improve lives by learning from the experience of every cancer patient.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2012-06-01\", \"website\": \"https://flatiron.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1324979, 756160], \"executive_people_profile_ids\": [204230, 2684420, 2707724, 3395146, 2207375, 3050925, 2202256, 238573, 1324979, 2227694, 2288424, 585696, 1693322, 2723975, 596860, 637499, 1558449, 1143741, 1553227, 2969268, 2209683, 1694873, 2557995, 701456, 368626, 3300911, 2081521, 1129919, 2109261, 2201169, 3398425, 756160, 3289220], \"cb_permalink\": \"https://www.crunchbase.com/organization/flatiron-health\", \"linkedin_url\": \"https://linkedin.com/company/flatiron-health\", \"twitter\": \"http:/twitter.com/flatironhealth\", \"last_funding_round_date\": \"2021-12-23\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 324945748, \"company_li_name\": \"flatiron-health\", \"tags\": [{\"id\": 6539764, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Electronic Health Record (EHR)\", \"category\": \"Industry\"}, {\"id\": 6539768, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Personal Health\", \"category\": \"Industry\"}, {\"id\": 6539767, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Hospital\", \"category\": \"Industry\"}, {\"id\": 6539766, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Health Diagnostics\", \"category\": \"Industry\"}, {\"id\": 6539765, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 6539762, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 6539763, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 101836, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1442, \"hc_estimate_90_days\": 1473, \"hc_estimate_180_days\": 1468, \"hc_estimate_270_days\": 1453, \"hc_estimate_365_days\": 1412, \"hc_growth_90_days\": \"-2.100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-1.770000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-0.7600000000000000088817841970012523233890533447265625\", \"hc_growth_365_days\": \"2.12000000000000010658141036401502788066864013671875\"}, \"funding_rounds\": [{\"id\": 439453, \"uuid\": \"eab436ac-3539-4227-a7f3-47e87cf54bc8\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 11945748, \"post_money_valuation_usd\": 1199999999, \"announced_date\": \"2021-12-23\", \"investors\": null}, {\"id\": 439452, \"uuid\": \"85c6055d-5e19-7382-b999-6d23cb4d9960\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 175000000, \"post_money_valuation_usd\": 1199999999, \"announced_date\": \"2016-01-06\", \"investors\": null}, {\"id\": 439451, \"uuid\": \"b8f96226-0e76-8f05-31c4-68d9771b8f19\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-05-07\", \"investors\": null}, {\"id\": 439450, \"uuid\": \"29264194-080e-9998-e7d9-deaa224fa7ff\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip",
+                        "name": "Flatiron Health"
+                    },
+                    "position": "Manager-Operational Excellence",
+                    "startDate": "2019-07-01",
+                    "name": "Flatiron Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-07-01",
+                    "legalEntity": "{\"id\": 498904, \"name\": \"Flatiron Health\", \"uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip\", \"description\": \"Flatiron Health is a healthcare technology company that aims to improve lives by learning from the experience of every cancer patient.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2012-06-01\", \"website\": \"https://flatiron.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1324979, 756160], \"executive_people_profile_ids\": [204230, 2684420, 2707724, 3395146, 2207375, 3050925, 2202256, 238573, 1324979, 2227694, 2288424, 585696, 1693322, 2723975, 596860, 637499, 1558449, 1143741, 1553227, 2969268, 2209683, 1694873, 2557995, 701456, 368626, 3300911, 2081521, 1129919, 2109261, 2201169, 3398425, 756160, 3289220], \"cb_permalink\": \"https://www.crunchbase.com/organization/flatiron-health\", \"linkedin_url\": \"https://linkedin.com/company/flatiron-health\", \"twitter\": \"http:/twitter.com/flatironhealth\", \"last_funding_round_date\": \"2021-12-23\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 324945748, \"company_li_name\": \"flatiron-health\", \"tags\": [{\"id\": 6539764, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Electronic Health Record (EHR)\", \"category\": \"Industry\"}, {\"id\": 6539768, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Personal Health\", \"category\": \"Industry\"}, {\"id\": 6539767, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Hospital\", \"category\": \"Industry\"}, {\"id\": 6539766, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Health Diagnostics\", \"category\": \"Industry\"}, {\"id\": 6539765, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 6539762, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 6539763, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 101836, \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1442, \"hc_estimate_90_days\": 1473, \"hc_estimate_180_days\": 1468, \"hc_estimate_270_days\": 1453, \"hc_estimate_365_days\": 1412, \"hc_growth_90_days\": \"-2.100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-1.770000000000000017763568394002504646778106689453125\", \"hc_growth_270_days\": \"-0.7600000000000000088817841970012523233890533447265625\", \"hc_growth_365_days\": \"2.12000000000000010658141036401502788066864013671875\"}, \"funding_rounds\": [{\"id\": 439453, \"uuid\": \"eab436ac-3539-4227-a7f3-47e87cf54bc8\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 11945748, \"post_money_valuation_usd\": 1199999999, \"announced_date\": \"2021-12-23\", \"investors\": null}, {\"id\": 439452, \"uuid\": \"85c6055d-5e19-7382-b999-6d23cb4d9960\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 175000000, \"post_money_valuation_usd\": 1199999999, \"announced_date\": \"2016-01-06\", \"investors\": null}, {\"id\": 439451, \"uuid\": \"b8f96226-0e76-8f05-31c4-68d9771b8f19\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 130000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-05-07\", \"investors\": null}, {\"id\": 439450, \"uuid\": \"29264194-080e-9998-e7d9-deaa224fa7ff\", \"legal_entity_uuid\": \"b379c88b-2767-3cdc-652e-4ab5eddf6692\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip",
+                        "name": "Flatiron Health"
+                    },
+                    "position": "Associate-Operational Excellence",
+                    "startDate": "2018-10-01",
+                    "name": "Flatiron Health",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dfmpxgna0hdavuk83iip"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-09-01",
+                    "legalEntity": "{\"id\": 399713, \"name\": \"Putnam Associates\", \"uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png\", \"description\": \"Putnam Associates is a consulting firm serving biopharmaceutical, diagnostics, and medical device clients.\", \"headcount\": \"101-250\", \"founding_date\": \"1988-01-01\", \"website\": \"http://www.putassoc.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [479887, 812542, 1557824, 1051461, 291153, 2281480], \"cb_permalink\": \"https://www.crunchbase.com/organization/putnam-associates\", \"linkedin_url\": \"https://linkedin.com/company/putnam-associates\", \"twitter\": \"https:/www.twitter.com/putnamassociate\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"putnam-associates\", \"tags\": [{\"id\": 1653777, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 1653778, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 1653779, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1653780, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Medical Device\", \"category\": \"Industry\"}, {\"id\": 1653781, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Pharmaceutical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 129159, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 15, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 14, \"hc_estimate_270_days\": 16, \"hc_estimate_365_days\": 15, \"hc_growth_90_days\": \"-6.25\", \"hc_growth_180_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"-6.25\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png",
+                        "name": "Putnam Associates"
+                    },
+                    "position": "Consultant",
+                    "startDate": "2018-07-01",
+                    "name": "Putnam Associates",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-06-01",
+                    "legalEntity": "{\"id\": 399713, \"name\": \"Putnam Associates\", \"uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png\", \"description\": \"Putnam Associates is a consulting firm serving biopharmaceutical, diagnostics, and medical device clients.\", \"headcount\": \"101-250\", \"founding_date\": \"1988-01-01\", \"website\": \"http://www.putassoc.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [479887, 812542, 1557824, 1051461, 291153, 2281480], \"cb_permalink\": \"https://www.crunchbase.com/organization/putnam-associates\", \"linkedin_url\": \"https://linkedin.com/company/putnam-associates\", \"twitter\": \"https:/www.twitter.com/putnamassociate\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"putnam-associates\", \"tags\": [{\"id\": 1653777, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 1653778, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 1653779, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1653780, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Medical Device\", \"category\": \"Industry\"}, {\"id\": 1653781, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Pharmaceutical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 129159, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 15, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 14, \"hc_estimate_270_days\": 16, \"hc_estimate_365_days\": 15, \"hc_growth_90_days\": \"-6.25\", \"hc_growth_180_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"-6.25\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png",
+                        "name": "Putnam Associates"
+                    },
+                    "position": "Senior Associate Consultant",
+                    "startDate": "2017-07-01",
+                    "name": "Putnam Associates",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-06-01",
+                    "legalEntity": "{\"id\": 399713, \"name\": \"Putnam Associates\", \"uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png\", \"description\": \"Putnam Associates is a consulting firm serving biopharmaceutical, diagnostics, and medical device clients.\", \"headcount\": \"101-250\", \"founding_date\": \"1988-01-01\", \"website\": \"http://www.putassoc.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [479887, 812542, 1557824, 1051461, 291153, 2281480], \"cb_permalink\": \"https://www.crunchbase.com/organization/putnam-associates\", \"linkedin_url\": \"https://linkedin.com/company/putnam-associates\", \"twitter\": \"https:/www.twitter.com/putnamassociate\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"putnam-associates\", \"tags\": [{\"id\": 1653777, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 1653778, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 1653779, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1653780, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Medical Device\", \"category\": \"Industry\"}, {\"id\": 1653781, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"name\": \"Pharmaceutical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 129159, \"legal_entity_uuid\": \"1e64f95c-4de5-02d4-b90d-496145ad7445\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 15, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 14, \"hc_estimate_270_days\": 16, \"hc_estimate_365_days\": 15, \"hc_growth_90_days\": \"-6.25\", \"hc_growth_180_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"-6.25\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png",
+                        "name": "Putnam Associates"
+                    },
+                    "position": "Associate Consultant",
+                    "startDate": "2015-07-01",
+                    "name": "Putnam Associates",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458010663/hombgvyzihvf2tcdknk7.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-09-01",
+                    "legalEntity": "{\"id\": 133957, \"name\": \"Haemonetics\", \"uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1463527202/jadyyuuwr79mxalw4txv.jpg\", \"description\": \"Haemonetics is a provider of blood and plasma supplies and services.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1971-01-01\", \"website\": \"http://www.haemonetics.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [578337, 1939856, 1889258, 383099, 2808484, 3077988, 2131985, 3376084, 1933731, 767402, 501473, 2933071, 1568450, 1656436], \"cb_permalink\": \"https://www.crunchbase.com/organization/haemonetics\", \"linkedin_url\": \"https://linkedin.com/company/haemonetics\", \"twitter\": \"http:/twitter.com/HaemoneticsCorp\", \"last_funding_round_date\": \"2021-03-01\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 1145000000, \"company_li_name\": \"haemonetics\", \"tags\": [{\"id\": 6395790, \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Medical Device\", \"category\": \"Industry\"}, {\"id\": 6395786, \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 6395787, \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6395788, \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 6395789, \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Medical\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16986, \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 16, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"6.25\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 10480, \"uuid\": \"e2155c53-f1db-4fa8-aa5f-43d83f22a0f6\", \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 435000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-03-01\", \"investors\": null}, {\"id\": 10479, \"uuid\": \"0513178e-388c-44ba-9542-6645853a918a\", \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-23\", \"investors\": null}, {\"id\": 10478, \"uuid\": \"6dd769b0-b434-4a42-8eac-18731c78bb7a\", \"legal_entity_uuid\": \"c768a295-bd99-2f35-ae23-3a525d328d1e\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 700000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1463527202/jadyyuuwr79mxalw4txv.jpg",
+                        "name": "Haemonetics"
+                    },
+                    "position": "Intern-Global Product Management",
+                    "startDate": "2014-06-01",
+                    "name": "Haemonetics",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1463527202/jadyyuuwr79mxalw4txv.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2013-09-01",
+                    "legalEntity": "{\"id\": 2138380, \"name\": \"BIO\", \"uuid\": \"e0d7cdf3-ed87-4a8c-a225-7cb877d0fca7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vl6aqezpzzi49i0kyccv\", \"description\": \"BIO is a biotechnology organization that offers business development and communications services.\", \"headcount\": \"51-100\", \"founding_date\": \"1993-01-01\", \"website\": \"https://www.bio.org/\", \"location\": \"Washington\", \"country\": \"USA\", \"region\": \"District of Columbia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2933169], \"cb_permalink\": \"https://www.crunchbase.com/organization/bio-fca7\", \"linkedin_url\": \"https://linkedin.com/company/biotechnology-innovation-organization\", \"twitter\": \"https:/twitter.com/IAmBiotech\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"biotechnology-innovation-organization\", \"tags\": [{\"id\": 5499560, \"legal_entity_uuid\": \"e0d7cdf3-ed87-4a8c-a225-7cb877d0fca7\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 56486, \"legal_entity_uuid\": \"e0d7cdf3-ed87-4a8c-a225-7cb877d0fca7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vl6aqezpzzi49i0kyccv",
+                        "name": "Biotechnology Industry Organization"
+                    },
+                    "position": "Intern-Industry Research",
+                    "startDate": "2013-07-01",
+                    "name": "Biotechnology Industry Organization",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vl6aqezpzzi49i0kyccv"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2013-07-01",
+                    "legalEntity": "{\"id\": 135004, \"name\": \"Oppenheimer & Co.\", \"uuid\": \"a9c4db58-c9fa-1289-3b64-546f2b3d9d05\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oppenheimer.png\", \"description\": \"Oppenheimer & Co. provides a full range of investment banking, securities brokerage, and wealth management services.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1881-01-01\", \"website\": \"https://oppenheimer.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [4147906, 3059175, 2389676, 94235, 3403334, 1570692, 1164627], \"cb_permalink\": \"https://www.crunchbase.com/organization/oppenheimer-co-inc\", \"linkedin_url\": \"https://linkedin.com/company/oppenheimer\", \"twitter\": \"https:/twitter.com/oppenheimer\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"oppenheimer\", \"tags\": [{\"id\": 6400469, \"legal_entity_uuid\": \"a9c4db58-c9fa-1289-3b64-546f2b3d9d05\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 9630, \"legal_entity_uuid\": \"a9c4db58-c9fa-1289-3b64-546f2b3d9d05\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 15, \"hc_estimate_270_days\": 13, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"6.6699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"23.0799999999999982946974341757595539093017578125\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oppenheimer.png",
+                        "name": "Oppenheimer  Co."
+                    },
+                    "position": "Intern-Fixed Income Trading",
+                    "startDate": "2013-05-01",
+                    "name": "Oppenheimer  Co.",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/oppenheimer.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Health Care Management",
+                    "degreeType": "Master of Business Administration - MBA",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 758786, \"name\": \"Wharton School of the University of Pennsylvania\", \"uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez\", \"description\": \"Wharton School of the University of Pennsylvania is a business school driven to create economic and social value.\", \"headcount\": \"101-250\", \"founding_date\": \"1881-01-01\", \"website\": \"http://www.wharton.upenn.edu\", \"location\": \"Philadelphia\", \"country\": \"USA\", \"region\": \"Pennsylvania\", \"founder_people_profile_ids\": [1317406], \"executive_people_profile_ids\": [462276, 1714597, 505232, 1317406, 1088585, 124787, 3211833, 1834236, 1506941, 1189861], \"cb_permalink\": \"https://www.crunchbase.com/organization/wharton-school-of-the-university-of-pennsylvania\", \"linkedin_url\": \"https://linkedin.com/company/the-wharton-school\", \"twitter\": \"http:/www.twitter.com/Wharton\", \"last_funding_round_date\": \"2020-05-18\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5000000, \"company_li_name\": \"the-wharton-school\", \"tags\": [{\"id\": 4836116, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4836117, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4836118, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 91791, \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 240, \"hc_estimate_90_days\": 218, \"hc_estimate_180_days\": 256, \"hc_estimate_270_days\": 254, \"hc_estimate_365_days\": 255, \"hc_growth_90_days\": \"10.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"-6.25\", \"hc_growth_270_days\": \"-5.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"-5.87999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 161240, \"uuid\": \"c8600870-76f2-42c2-879e-60dafb74fe81\", \"legal_entity_uuid\": \"7300e89a-2e8e-23d3-3e9a-8f25b2a127f0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-18\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez",
+                        "name": "The Wharton School"
+                    },
+                    "name": "The Wharton School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/j46gq2jp5tqsbmaqimez"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Economics",
+                    "degreeType": "Bachelor of Arts (B.A.)",
+                    "endDate": "2015-01-01",
+                    "legalEntity": "{\"id\": 1397066, \"name\": \"McGill University\", \"uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/w1wf6ajikgrqd9jnwwyd\", \"description\": \"McGill University is a public research university that offers 300 programs of study.\", \"headcount\": \"10000+\", \"founding_date\": \"1821-01-01\", \"website\": \"http://www.mcgill.ca\", \"location\": \"Montr\\u00e9al\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [723679], \"executive_people_profile_ids\": [113520, 1807342, 2816963, 723679, 2809066, 2816192, 291518, 1976435, 795475, 3404083, 2943824, 2810923, 489467], \"cb_permalink\": \"https://www.crunchbase.com/organization/mcgill-university\", \"linkedin_url\": \"https://linkedin.com/school/mcgill-university\", \"twitter\": \"http:/twitter.com/McGillU\", \"last_funding_round_date\": \"2023-04-28\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 166470000, \"company_li_name\": \"mcgill-university\", \"tags\": [{\"id\": 4832682, \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"name\": \"Association\", \"category\": \"Industry\"}, {\"id\": 4832683, \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4832684, \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 29546, \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 124, \"hc_estimate_90_days\": 125, \"hc_estimate_180_days\": 126, \"hc_estimate_270_days\": 138, \"hc_estimate_365_days\": 145, \"hc_growth_90_days\": \"-0.8000000000000000444089209850062616169452667236328125\", \"hc_growth_180_days\": \"-1.5900000000000000799360577730112709105014801025390625\", \"hc_growth_270_days\": \"-10.1400000000000005684341886080801486968994140625\", \"hc_growth_365_days\": \"-14.480000000000000426325641456060111522674560546875\"}, \"funding_rounds\": [{\"id\": 293599, \"uuid\": \"73e623e7-b34b-440f-a81a-ada7dc5bcc20\", \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 165000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-28\", \"investors\": null}, {\"id\": 293598, \"uuid\": \"53572fe2-332b-49a8-ab08-9ea8a45a166e\", \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 470000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-11-09\", \"investors\": null}, {\"id\": 293597, \"uuid\": \"d07d519c-b6e6-2817-a319-bf04eed6e1b1\", \"legal_entity_uuid\": \"d3f1f735-51c9-3306-04c0-0aa115b5ce43\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-18\", \"investors\": null}]}",
+                    "startDate": "2011-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/w1wf6ajikgrqd9jnwwyd",
+                        "name": "McGill University"
+                    },
+                    "name": "McGill University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/w1wf6ajikgrqd9jnwwyd"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "39",
+                    "value": "Health Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "56",
+                    "value": "Running"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "217"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

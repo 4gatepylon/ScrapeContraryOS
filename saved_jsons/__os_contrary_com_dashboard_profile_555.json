@@ -1,0 +1,165 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ35yybqmgbCgt65UQKc-RIPYeevs3vmCEZZncPrx3Tq9fuyNPAON3nh_yZeeqJ6RFVSlPvZ64S5",
+                "canProvide": "We can chat about what you're looking for, opportunities you might be interested in, and any general talent/recruiting advice you might need!",
+                "currentRole": "talent @ contrary",
+                "educationExperiences": [],
+                "email": "dalena@contrarycap.com",
+                "firstName": "Dalena",
+                "greeting": "Talent @ Contrary",
+                "greetingEmoji": "\u263a\ufe0f",
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "555",
+                "intro": "Working on building out Talent at Contrary",
+                "isActiveFellow": false,
+                "isActiveHq": true,
+                "isActiveVp": false,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-28T19:21:33",
+                "lastName": "Nguyen",
+                "linkedinName": "dalnguy",
+                "linkedinUrl": "https://linkedin.com/in/dalnguy/",
+                "location": "San Francisco",
+                "lookingFor": "Learn more about the great companies out there, and the people who want to work for them. Also would love to get to know the community better :)",
+                "meetWithBlurb": "Happy to chat all things (especially eng) talent!",
+                "podId": null,
+                "prismUuid": "8cd1288f-4dc5-454e-a1e7-bbf55a9c5695",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ACg8ocJGwnGI5fyTFBmIWHVw8I0X_dxCfiN0gfWKQu2NlRQ-Jw=s96-c",
+                "roles": [
+                    "HQ"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Talent",
+                    "startDate": "2023-06-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-03-01",
+                    "legalEntity": "{\"id\": 738438, \"name\": \"Embark Trucks\", \"uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/o67svvjou0l0jvb5xed3\", \"description\": \"Embark develops self-driving truck technology designed for freight and logistic services.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-01-01\", \"website\": \"http://embarktrucks.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [128758, 2363745], \"executive_people_profile_ids\": [36437, 1276668, 1758217, 128758, 2723417, 861838, 829093, 3062143, 2363745], \"cb_permalink\": \"https://www.crunchbase.com/organization/embark-trucks\", \"linkedin_url\": \"https://linkedin.com/company/embarktrucks\", \"twitter\": \"https:/twitter.com/embarktrucks\", \"last_funding_round_date\": \"2021-11-11\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 317125000, \"company_li_name\": \"embarktrucks\", \"tags\": [{\"id\": 1803585, \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Automotive\", \"category\": \"Industry\"}, {\"id\": 1803586, \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Autonomous Vehicles\", \"category\": \"Industry\"}, {\"id\": 1803587, \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Logistics\", \"category\": \"Industry\"}, {\"id\": 1803588, \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1803589, \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Transportation\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 79014, \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 112, \"hc_estimate_90_days\": 120, \"hc_estimate_180_days\": 166, \"hc_estimate_270_days\": 274, \"hc_estimate_365_days\": 270, \"hc_growth_90_days\": \"-6.6699999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"-32.530000000000001136868377216160297393798828125\", \"hc_growth_270_days\": \"-59.11999999999999744204615126363933086395263671875\", \"hc_growth_365_days\": \"-58.52000000000000312638803734444081783294677734375\"}, \"funding_rounds\": [{\"id\": 89533, \"uuid\": \"e8d31f5c-8d3e-4bbe-b3cb-b7cdab27af6a\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 90000000, \"announced_date\": \"2021-11-11\", \"investors\": null}, {\"id\": 89532, \"uuid\": \"955e5335-66e9-42a0-91da-1cf08c6f9ffb\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 90000000, \"announced_date\": \"2020-08-01\", \"investors\": null}, {\"id\": 89531, \"uuid\": \"31dfbdb7-1fe0-4d5d-a7bf-0fa9d9b0115c\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 70000000, \"post_money_valuation_usd\": 90000000, \"announced_date\": \"2019-09-25\", \"investors\": null}, {\"id\": 89530, \"uuid\": \"8cfd3d36-f11b-4918-8682-2b0b521905ef\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": 90000000, \"announced_date\": \"2018-07-19\", \"investors\": null}, {\"id\": 89529, \"uuid\": \"75ec12c9-54b6-b483-74d7-85b9572f4508\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": 90000000, \"announced_date\": \"2017-07-18\", \"investors\": null}, {\"id\": 89528, \"uuid\": \"1ee447a8-439e-73a2-e920-ee446499d292\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-05-31\", \"investors\": null}, {\"id\": 89527, \"uuid\": \"cf545218-3884-4ad8-8f94-a38ed8e29357\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 89526, \"uuid\": \"fb956ca2-ffa1-41fe-9937-d0879885e9d5\", \"legal_entity_uuid\": \"9b35b5f2-a0c8-e71e-339a-11047742b4a2\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/o67svvjou0l0jvb5xed3",
+                        "name": "Embark Trucks"
+                    },
+                    "position": "Technical Recruiting",
+                    "startDate": "2020-09-01",
+                    "name": "Embark Trucks",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/o67svvjou0l0jvb5xed3"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-08-01",
+                    "legalEntity": "{\"id\": 758738, \"name\": \"American Red Cross\", \"uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gw6yqsa6lvkzlffgjegi\", \"description\": \"American Red Cross is a humanitarian organization whose purpose is to meet the immediate disaster-caused needs of people and communities.\", \"headcount\": \"10000+\", \"founding_date\": \"1881-05-21\", \"website\": \"http://redcross.org\", \"location\": \"Washington\", \"country\": \"USA\", \"region\": \"District of Columbia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [223384, 1432109, 496712, 2009823, 975208, 872112, 1942555, 1706332, 642502, 2001557, 3107750], \"cb_permalink\": \"https://www.crunchbase.com/organization/american-red-cross\", \"linkedin_url\": \"https://linkedin.com/company/american-red-cross\", \"twitter\": \"http:/twitter.com/RedCross\", \"last_funding_round_date\": \"2023-07-19\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 41212500, \"company_li_name\": \"american-red-cross\", \"tags\": [{\"id\": 6519176, \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6519177, \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 6519178, \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Humanitarian\", \"category\": \"Industry\"}, {\"id\": 6519179, \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Non Profit\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 89138, \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 91, \"hc_estimate_90_days\": 91, \"hc_estimate_180_days\": 91, \"hc_estimate_270_days\": 91, \"hc_estimate_365_days\": 89, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"2.25\"}, \"funding_rounds\": [{\"id\": 778, \"uuid\": \"f7c47189-cffe-4945-920f-a94fe8fd0cae\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-19\", \"investors\": null}, {\"id\": 777, \"uuid\": \"ce1e0a86-614c-4c8e-94e6-dde56428b75d\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-20\", \"investors\": null}, {\"id\": 776, \"uuid\": \"851ffffc-cf26-4ed0-a011-3d930fa3e16a\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 627000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-20\", \"investors\": null}, {\"id\": 775, \"uuid\": \"21561f77-29da-44dc-92c1-c26279357fa4\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 30000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-07\", \"investors\": null}, {\"id\": 774, \"uuid\": \"c3bc657c-2aab-49d4-b525-d48fef3cc44a\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-03\", \"investors\": null}, {\"id\": 773, \"uuid\": \"301f0481-61d2-4d8a-a31b-c030e2814188\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-10-18\", \"investors\": null}, {\"id\": 772, \"uuid\": \"7ce9a061-1369-4f0f-8ec9-5e2ad7d29150\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-10-03\", \"investors\": null}, {\"id\": 771, \"uuid\": \"34f4cec0-85ab-4131-94d3-01abb54984d7\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-07\", \"investors\": null}, {\"id\": 770, \"uuid\": \"90d861e1-644a-6348-f0b1-51cd5613cba0\", \"legal_entity_uuid\": \"2a3169e5-ce9e-161b-5ec6-2bb947f2de07\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5500, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-22\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gw6yqsa6lvkzlffgjegi",
+                        "name": "American Red Cross"
+                    },
+                    "position": "Administrative Support Intern",
+                    "startDate": "2014-06-01",
+                    "name": "American Red Cross",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gw6yqsa6lvkzlffgjegi"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "James Logan High School"
+                    },
+                    "name": "James Logan High School",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Integrative Human Biology",
+                    "degreeType": "Bachelor of Arts - BA",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 177651, \"name\": \"University of California Berkeley\", \"uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png\", \"description\": \"University of California Berkeley is a public institution for higher education.\", \"headcount\": \"10000+\", \"founding_date\": \"1868-03-23\", \"website\": \"http://www.berkeley.edu\", \"location\": \"Berkeley\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1318173, 2684716], \"executive_people_profile_ids\": [639553, 472564, 2493936, 3236322, 4161446, 2722542, 1251013, 2204431, 906387, 125137, 2436930, 123081, 528377, 1984788, 2932116, 2156790, 2374036, 1116104, 2954708], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-california-berkeley\", \"linkedin_url\": \"https://linkedin.com/school/uc-berkeley\", \"twitter\": \"https:/www.twitter.com/UCBerkeley\", \"last_funding_round_date\": \"2023-04-25\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 19707914, \"company_li_name\": \"uc-berkeley\", \"tags\": [{\"id\": 1789361, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Continuing Education\", \"category\": \"Industry\"}, {\"id\": 1789362, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1789363, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1789364, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 16212, \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 816, \"hc_estimate_90_days\": 827, \"hc_estimate_180_days\": 970, \"hc_estimate_270_days\": 968, \"hc_estimate_365_days\": 1015, \"hc_growth_90_days\": \"-1.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-15.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-15.699999999999999289457264239899814128875732421875\", \"hc_growth_365_days\": \"-19.6099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 218857, \"uuid\": \"8fb79a4b-e77b-4117-919c-512c111e158b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1042321, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-25\", \"investors\": null}, {\"id\": 499853, \"uuid\": \"d5451ee2-bb1c-4e07-be85-c4c3964d943d\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 499852, \"uuid\": \"67976f85-966c-4669-b3a4-9c0d3ebd33f1\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999991, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 499851, \"uuid\": \"40ac28b5-7e57-4002-8e84-b3c284b6e6d3\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 499850, \"uuid\": \"a452466c-0242-4e13-84b6-6afc3835aeaa\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 499849, \"uuid\": \"0926977b-317c-427e-b5b1-330c02a1c5bb\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1512547, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 499848, \"uuid\": \"85c9d87a-cb6b-4ee1-8463-bb381022d06b\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1445238, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 499847, \"uuid\": \"bfed88d9-f882-4e23-8f8e-51f1e1843a51\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 499846, \"uuid\": \"b6fdd8c6-0a46-4d86-afba-54df2e1684c8\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1156626, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 499845, \"uuid\": \"a87e87c3-e1a8-4c11-90e3-b6ae274c5fe5\", \"legal_entity_uuid\": \"10f9a25b-9675-2281-486e-a52955c706df\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1451191, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png",
+                        "name": "University of California-Berkeley"
+                    },
+                    "name": "University of California-Berkeley",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uc-berkeley.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "62",
+                    "value": "Asian American"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "45",
+                    "value": "Reading"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "555"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

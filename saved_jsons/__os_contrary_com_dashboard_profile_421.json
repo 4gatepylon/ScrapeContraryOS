@@ -1,0 +1,54 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Designer & Violinist / Stanford 2019",
+                "educationExperiences": [],
+                "email": "akshay@tangible.team",
+                "firstName": "Akshay",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "421",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Dinakar",
+                "linkedinName": "akshaydinakar",
+                "linkedinUrl": "https://linkedin.com/in/akshaydinakar/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "47cbf9ee-eb29-4930-877c-1cb87b0cbe0c",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/5dc2469c75974fa69db0571e83987a5b/4846c3e7/editbest-Copy.jpg?ts=1659020057&userId=usrMxTlLuLWjeji2x&cs=c1f6f0be410648a3",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "421"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,221 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Co-founder of Orbital",
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "Bachelors degree",
+                        "endDate": null,
+                        "id": "241",
+                        "startDate": null,
+                        "universityId": 79
+                    }
+                ],
+                "email": "a@anivk.com",
+                "firstName": "Ani",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "134",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Kunaparaju",
+                "linkedinName": "anivk",
+                "linkedinUrl": "https://linkedin.com/in/anivk/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "4b173efc-478f-4a38-88e0-7d8b78963b63",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/134_Ani_Kunaparaju.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3410",
+                        "organizationId": 2701,
+                        "position": "Co-Founder",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3986",
+                        "organizationId": 2939,
+                        "position": "Co-Founder",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "834",
+                        "organizationId": 624,
+                        "position": "Co-Founder",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2021-07-01",
+                        "id": "835",
+                        "organizationId": 625,
+                        "position": "Engineering",
+                        "startDate": "2018-05-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "836",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2016-08-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "837",
+                        "organizationId": 626,
+                        "position": "GTM & Engineering",
+                        "startDate": "2015-12-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "838",
+                        "organizationId": 627,
+                        "position": "Product Management & GTM",
+                        "startDate": "2011-06-01"
+                    },
+                    {
+                        "endDate": "2011-06-01",
+                        "id": "839",
+                        "organizationId": 628,
+                        "position": "Engineering",
+                        "startDate": "2009-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Orbital "
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-01-01",
+                    "name": "Orbital ",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-07-01",
+                    "legalEntity": "{\"id\": 1061760, \"name\": \"Meraki\", \"uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1435607516/ryq4bpc3duuhdak44s9x.png\", \"description\": \"Meraki provides Cisco-based, cloud-controlled Wi-Fi and routing and security products for distributed wired and wireless networks.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2006-04-01\", \"website\": \"https://meraki.cisco.com/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [785978, 2418993], \"executive_people_profile_ids\": [180169, 1138014, 785978, 2418993, 2464802, 267386, 3311681, 816898, 428692, 561185, 2735024, 1522708, 2076187, 2812008], \"cb_permalink\": \"https://www.crunchbase.com/organization/meraki\", \"linkedin_url\": \"https://linkedin.com/company/cisco-meraki\", \"twitter\": \"http:/twitter.com/meraki\", \"last_funding_round_date\": \"2012-07-10\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 80000000, \"company_li_name\": \"cisco-meraki\", \"tags\": [{\"id\": 6365651, \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6365649, \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Cloud Computing\", \"category\": \"Industry\"}, {\"id\": 6365650, \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Network Security\", \"category\": \"Industry\"}, {\"id\": 6365652, \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Wireless\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 194417, \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1731, \"hc_estimate_90_days\": 1760, \"hc_estimate_180_days\": 1618, \"hc_estimate_270_days\": 1572, \"hc_estimate_365_days\": 1530, \"hc_growth_90_days\": \"-1.649999999999999911182158029987476766109466552734375\", \"hc_growth_180_days\": \"6.980000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"10.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"13.1400000000000005684341886080801486968994140625\"}, \"funding_rounds\": [{\"id\": 47634, \"uuid\": \"eef5ebe0-a0d6-9326-a71e-0c33d94d35ba\", \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-07-10\", \"investors\": null}, {\"id\": 47633, \"uuid\": \"767a7fa0-4a0a-deda-e522-d3af762c17e7\", \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-02-07\", \"investors\": null}, {\"id\": 47632, \"uuid\": \"876eaec2-ab18-d565-7959-a4700fe72bce\", \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-01-01\", \"investors\": null}, {\"id\": 47631, \"uuid\": \"37bbf32e-4dbb-b4ab-2a84-45c5f257c580\", \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-02-05\", \"investors\": null}, {\"id\": 47630, \"uuid\": \"a6bf136f-6b1a-5b77-9639-85e791b92bd7\", \"legal_entity_uuid\": \"e5d9f64f-e402-67e0-b714-82f0e43df81c\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2006-12-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1435607516/ryq4bpc3duuhdak44s9x.png",
+                        "name": "Cisco Meraki"
+                    },
+                    "position": "Engineering",
+                    "startDate": "2018-05-01",
+                    "name": "Cisco Meraki",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1435607516/ryq4bpc3duuhdak44s9x.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-12-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2016-08-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": "{\"id\": 2131628, \"name\": \"Polymail\", \"uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tzimozgemt6tytqpbkez\", \"description\": \"Polymail is an email platform that helps teams collaborate, be more productive, and work better, together.\", \"headcount\": \"1-10\", \"founding_date\": \"2015-10-01\", \"website\": \"http://polymail.io\", \"location\": \"Las Vegas\", \"country\": \"USA\", \"region\": \"Nevada\", \"founder_people_profile_ids\": [2817364, 495548], \"executive_people_profile_ids\": [199361, 495548, 2817364], \"cb_permalink\": \"https://www.crunchbase.com/organization/polymail\", \"linkedin_url\": \"https://linkedin.com/company/polymail\", \"twitter\": \"https:/twitter.com/Polymail\", \"last_funding_round_date\": \"2017-10-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 820000, \"company_li_name\": \"polymail\", \"tags\": [{\"id\": 6251393, \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6251392, \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6251391, \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"Email\", \"category\": \"Industry\"}, {\"id\": 6251390, \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"Apps\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 111367, \"uuid\": \"662b9ed0-259b-4d21-9de7-8e96744a2995\", \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-01\", \"investors\": null}, {\"id\": 111366, \"uuid\": \"a614d566-6d59-e901-f690-a8586d17fe9e\", \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-10-31\", \"investors\": null}, {\"id\": 111365, \"uuid\": \"3da78cf2-a86e-b981-56b0-f04f2c1d2994\", \"legal_entity_uuid\": \"f179468e-754f-9257-d3de-38cdeccf559e\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 120000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-08-24\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tzimozgemt6tytqpbkez",
+                        "name": "Polymail (YC S16)"
+                    },
+                    "position": "GTM  Engineering",
+                    "startDate": "2015-12-01",
+                    "name": "Polymail (YC S16)",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tzimozgemt6tytqpbkez"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "tivamo"
+                    },
+                    "position": "Product  GTM",
+                    "startDate": "2011-06-01",
+                    "name": "tivamo",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2011-06-01",
+                    "legalEntity": "{\"id\": 1616889, \"name\": \"Netenrich, Inc.\", \"uuid\": \"f08c3514-55b6-d3f9-1cbb-ba23fb98868e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xs24yd2bpwvsxcklww96\", \"description\": \"Netenrich is a secure operations with resolution intelligence cloud.\", \"headcount\": \"501-1000\", \"founding_date\": \"2003-10-31\", \"website\": \"https://netenrich.com/\", \"location\": \"San Jose\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2024468, 486485, 2515707, 1883714, 2238977], \"cb_permalink\": \"https://www.crunchbase.com/organization/netenrich\", \"linkedin_url\": \"https://linkedin.com/company/netenrich\", \"twitter\": \"https:/twitter.com/netenrich\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"netenrich\", \"tags\": [{\"id\": 6503436, \"legal_entity_uuid\": \"f08c3514-55b6-d3f9-1cbb-ba23fb98868e\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6503435, \"legal_entity_uuid\": \"f08c3514-55b6-d3f9-1cbb-ba23fb98868e\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6503434, \"legal_entity_uuid\": \"f08c3514-55b6-d3f9-1cbb-ba23fb98868e\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 152676, \"legal_entity_uuid\": \"f08c3514-55b6-d3f9-1cbb-ba23fb98868e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 15, \"hc_estimate_90_days\": 15, \"hc_estimate_180_days\": 14, \"hc_estimate_270_days\": 14, \"hc_estimate_365_days\": 15, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xs24yd2bpwvsxcklww96",
+                        "name": "NetEnrich-Inc."
+                    },
+                    "position": "Engineering",
+                    "startDate": "2009-05-01",
+                    "name": "NetEnrich-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xs24yd2bpwvsxcklww96"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Bachelors degree",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1115686, \"name\": \"Rice University\", \"uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/je6gxvkxd9k7k8sknbnh\", \"description\": \"Rice University is a private research university that focuses on providing undergraduate education services.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1912-09-23\", \"website\": \"http://www.rice.edu\", \"location\": \"Houston\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [590033, 2823226, 477560, 1153274, 3158262, 1967296, 1991339, 1005138, 318631, 3218055, 1926289, 1207057], \"cb_permalink\": \"https://www.crunchbase.com/organization/rice-university\", \"linkedin_url\": \"https://linkedin.com/school/riceuniversity\", \"twitter\": \"https:/www.twitter.com/riceuniversity\", \"last_funding_round_date\": \"2023-07-27\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 62500000, \"company_li_name\": \"riceuniversity\", \"tags\": [{\"id\": 1674652, \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 1674651, \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Service Industry\", \"category\": \"Industry\"}, {\"id\": 1674650, \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674649, \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 195600, \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 137, \"hc_estimate_90_days\": 138, \"hc_estimate_180_days\": 160, \"hc_estimate_270_days\": 165, \"hc_estimate_365_days\": 177, \"hc_growth_90_days\": \"-0.7199999999999999733546474089962430298328399658203125\", \"hc_growth_180_days\": \"-14.3800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-16.969999999999998863131622783839702606201171875\", \"hc_growth_365_days\": \"-22.60000000000000142108547152020037174224853515625\"}, \"funding_rounds\": [{\"id\": 477382, \"uuid\": \"02b03dbf-eb26-4bc5-b575-9c474352d6ed\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 477381, \"uuid\": \"7b83261b-cd6b-4bc5-ae7e-2d4a2324efb3\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-08\", \"investors\": null}, {\"id\": 477380, \"uuid\": \"614369fd-41d2-43cd-b02f-cc881fa554be\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-23\", \"investors\": null}, {\"id\": 477379, \"uuid\": \"e8bd595d-6a2f-42d3-aed5-2115329c0957\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-19\", \"investors\": null}, {\"id\": 477378, \"uuid\": \"f356c850-6b4c-4370-8674-d96da670695d\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-09-16\", \"investors\": null}, {\"id\": 477377, \"uuid\": \"7235d07f-7008-47c7-b599-6af7af7e92c9\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 6600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-30\", \"investors\": null}, {\"id\": 477376, \"uuid\": \"5356426e-87e0-416e-8caf-5bec342edd20\", \"legal_entity_uuid\": \"c3144da5-8618-2e95-3a13-60417220da5e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-02-19\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/je6gxvkxd9k7k8sknbnh",
+                        "name": "Rice University"
+                    },
+                    "name": "Rice University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/je6gxvkxd9k7k8sknbnh"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "134"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

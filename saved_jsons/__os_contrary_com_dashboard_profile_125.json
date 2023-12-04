@@ -1,0 +1,497 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "Love chatting about the intersection of web2 and web3! Currently doing this a lot for work, and I'm always looking for more people and companies to help.",
+                "currentRole": "Running businesses in web3 and psychedelics (separately).",
+                "educationExperiences": [
+                    {
+                        "degree": "Business",
+                        "degreeType": "Minor",
+                        "endDate": "2020-01-01",
+                        "id": "223",
+                        "startDate": "2016-01-01",
+                        "universityId": 52
+                    },
+                    {
+                        "degree": "Electrical and Computer Engineering Honors",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2020-01-01",
+                        "id": "224",
+                        "startDate": "2016-01-01",
+                        "universityId": 156
+                    },
+                    {
+                        "degree": "Computer Software Engineering",
+                        "degreeType": "Full Stack Web Development Certification",
+                        "endDate": "2017-01-01",
+                        "id": "225",
+                        "startDate": "2016-01-01",
+                        "universityId": 157
+                    }
+                ],
+                "email": "lucatomescu0@gmail.com",
+                "firstName": "Luca",
+                "greeting": "Hi frens!",
+                "greetingEmoji": "\ud83e\udd2a",
+                "hqPosition": null,
+                "hubCity": "Austin",
+                "id": "125",
+                "intro": "I work in Web3 as a PM and Community Manager, both in full-time and contract capacities. I'm also passionate about solopreneurship: I have a secret podcast and am growing my web3 brand on twitter.",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2022-12-20T22:56:54",
+                "lastName": "Tomescu",
+                "linkedinName": "luca-t",
+                "linkedinUrl": "https://linkedin.com/in/luca-t/",
+                "location": "Austin, TX, but also frequent LA, Seattle, NYC, and Europe",
+                "lookingFor": "Meet more content creators and web3 builders!",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "565f9429-456a-4f84-95e3-e40d09678c97",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-125-pfp%20maker%209.21.22%20square.png",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "luca_tomescu",
+                "twitterUrl": "https://twitter.com/luca_tomescu/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4248",
+                        "organizationId": 1153,
+                        "position": "Web3 Enterprise Product Lead",
+                        "startDate": "2023-02-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4251",
+                        "organizationId": 1153,
+                        "position": "Web3 Enterprise Product Lead",
+                        "startDate": "2023-02-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4249",
+                        "organizationId": 3034,
+                        "position": "Founder",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3397",
+                        "organizationId": 2697,
+                        "position": "Web3 Product Manager",
+                        "startDate": "2022-07-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3398",
+                        "organizationId": 2698,
+                        "position": "Web3 Community Lead - Neoland",
+                        "startDate": "2022-03-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "775",
+                        "organizationId": 591,
+                        "position": "Customer Success Manager",
+                        "startDate": "2021-07-01"
+                    },
+                    {
+                        "endDate": "2021-07-01",
+                        "id": "776",
+                        "organizationId": 592,
+                        "position": "Management Consultant",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-11-01",
+                        "id": "777",
+                        "organizationId": 593,
+                        "position": "CFO & First Hire",
+                        "startDate": "2020-03-01"
+                    },
+                    {
+                        "endDate": "2020-03-01",
+                        "id": "778",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "780",
+                        "organizationId": 268,
+                        "position": "Product Management and Analytics Intern",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "781",
+                        "organizationId": 395,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2019-06-01",
+                        "id": "779",
+                        "organizationId": 234,
+                        "position": "Partnerships Lead-Build Team Mentor",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2016-04-01",
+                        "id": "782",
+                        "organizationId": 594,
+                        "position": "Project Manager",
+                        "startDate": "2015-10-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "783",
+                        "organizationId": 595,
+                        "position": "Embedded Systems Research Intern",
+                        "startDate": "2015-06-01"
+                    },
+                    {
+                        "endDate": "2015-06-01",
+                        "id": "784",
+                        "organizationId": 596,
+                        "position": "Assistant Web Developer",
+                        "startDate": "2014-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 397649, \"name\": \"Lazer Technologies\", \"uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz\", \"description\": \"Lazer Technologies is a digital product studio that designs and engineers products and helps companies bring ideas to the market.\", \"headcount\": \"51-100\", \"founding_date\": \"2000-01-01\", \"website\": \"https://www.lazertechnologies.com/\", \"location\": \"Toronto\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/lazer-technologies\", \"linkedin_url\": \"https://linkedin.com/company/lazer-technologies\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"lazer-technologies\", \"tags\": [{\"id\": 2145316, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 2145317, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Product Design\", \"category\": \"Industry\"}, {\"id\": 2145318, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 141168, \"legal_entity_uuid\": \"8bc799aa-fce6-4a74-a267-b4a10d40605b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 17, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 18, \"hc_estimate_365_days\": 18, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"-5.55999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-5.55999999999999960920149533194489777088165283203125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz",
+                        "name": "Lazer Technologies"
+                    },
+                    "position": "Web3 Enterprise Product Lead",
+                    "startDate": "2023-02-01",
+                    "name": "Lazer Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihwtks3mritby4h6t3rz"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Skiing Cow Labs"
+                    },
+                    "position": "Founder",
+                    "startDate": "2023-01-01",
+                    "name": "Skiing Cow Labs",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rvltgames.png",
+                        "name": "Revolt Games"
+                    },
+                    "position": "Web3 Community Lead - Neoland",
+                    "startDate": "2022-03-01",
+                    "name": "Revolt Games",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rvltgames.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-02-01",
+                    "legalEntity": "{\"id\": 2299103, \"name\": \"TwoThirtySix Labs\", \"uuid\": \"1f02ce78-af32-4efe-8f00-cba8e4da461b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/twothirtysix.png\", \"description\": \"TwoThirtySix Labs is a software company offering web development, visual design, brand development, and user research services.\", \"headcount\": \"1-10\", \"founding_date\": \"2018-01-01\", \"website\": \"https://www.twothirtysix.com\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/twothirtysix-labs\", \"linkedin_url\": \"https://linkedin.com/company/twothirtysix\", \"twitter\": \"https:/twitter.com/236labs\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"twothirtysix\", \"tags\": [{\"id\": 7437551, \"legal_entity_uuid\": \"1f02ce78-af32-4efe-8f00-cba8e4da461b\", \"name\": \"Brand Marketing\", \"category\": \"Industry\"}, {\"id\": 7437552, \"legal_entity_uuid\": \"1f02ce78-af32-4efe-8f00-cba8e4da461b\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 7437553, \"legal_entity_uuid\": \"1f02ce78-af32-4efe-8f00-cba8e4da461b\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 7437554, \"legal_entity_uuid\": \"1f02ce78-af32-4efe-8f00-cba8e4da461b\", \"name\": \"Web Development\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 281316, \"legal_entity_uuid\": \"1f02ce78-af32-4efe-8f00-cba8e4da461b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-33.3299999999999982946974341757595539093017578125\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/twothirtysix.png",
+                        "name": "TwoThirtySix  Labs"
+                    },
+                    "position": "Web3 Product Manager",
+                    "startDate": "2022-07-01",
+                    "name": "TwoThirtySix  Labs",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/twothirtysix.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-07-01",
+                    "legalEntity": "{\"id\": 1418132, \"name\": \"Onaroll\", \"uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gz39fs5neqk2txamq3ck\", \"description\": \"Onaroll is an employee rewards app that incentivizes productivity and longevity.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-01-01\", \"website\": \"https://www.onaroll.co/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [406416], \"executive_people_profile_ids\": [406416, 1090961], \"cb_permalink\": \"https://www.crunchbase.com/organization/onaroll\", \"linkedin_url\": \"https://linkedin.com/company/onaroll\", \"twitter\": null, \"last_funding_round_date\": \"2022-09-27\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 20000000, \"company_li_name\": \"onaroll\", \"tags\": [{\"id\": 5402373, \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 5402369, \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Employee Benefits\", \"category\": \"Industry\"}, {\"id\": 5402370, \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Employment\", \"category\": \"Industry\"}, {\"id\": 5402371, \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Gamification\", \"category\": \"Industry\"}, {\"id\": 5402372, \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Hospitality\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 33593, \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 32, \"hc_estimate_90_days\": 30, \"hc_estimate_180_days\": 29, \"hc_estimate_270_days\": 32, \"hc_estimate_365_days\": 29, \"hc_growth_90_days\": \"6.6699999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": \"10.339999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"10.339999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 350451, \"uuid\": \"761e00a3-189c-4c67-9455-3da14bdd3ceb\", \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-27\", \"investors\": null}, {\"id\": 350450, \"uuid\": \"c7925281-b272-4b1e-b1ce-856f5483dc7d\", \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 6000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-07-21\", \"investors\": null}, {\"id\": 350449, \"uuid\": \"30b20994-cabf-4f4f-a949-b19d3081e91a\", \"legal_entity_uuid\": \"09e8e8e4-5630-4e75-98aa-6f1dbecb0f4a\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-12\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gz39fs5neqk2txamq3ck",
+                        "name": "Onaroll"
+                    },
+                    "position": "Customer Success Manager",
+                    "startDate": "2021-07-01",
+                    "name": "Onaroll",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gz39fs5neqk2txamq3ck"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-07-01",
+                    "legalEntity": "{\"id\": 1618880, \"name\": \"Oliver Wyman\", \"uuid\": \"08600d59-e9c3-4df9-8e6e-04e7b63c73af\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ae2o1tgovzo6iqn2fdrh\", \"description\": \"Oliver Wyman is a global leader in management consulting.\", \"headcount\": \"unknown\", \"founding_date\": \"1984-01-01\", \"website\": null, \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/oliver-wyman-73af\", \"linkedin_url\": \"https://linkedin.com/company/oliver-wyman\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"oliver-wyman\", \"tags\": [{\"id\": 6823569, \"legal_entity_uuid\": \"08600d59-e9c3-4df9-8e6e-04e7b63c73af\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 154109, \"legal_entity_uuid\": \"08600d59-e9c3-4df9-8e6e-04e7b63c73af\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 181, \"hc_estimate_90_days\": 177, \"hc_estimate_180_days\": 173, \"hc_estimate_270_days\": 167, \"hc_estimate_365_days\": 163, \"hc_growth_90_days\": \"2.2599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"4.62000000000000010658141036401502788066864013671875\", \"hc_growth_270_days\": \"8.3800000000000007815970093361102044582366943359375\", \"hc_growth_365_days\": \"11.03999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ae2o1tgovzo6iqn2fdrh",
+                        "name": "Oliver Wyman"
+                    },
+                    "position": "Management Consultant",
+                    "startDate": "2021-01-01",
+                    "name": "Oliver Wyman",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ae2o1tgovzo6iqn2fdrh"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-11-01",
+                    "legalEntity": "{\"id\": 1387885, \"name\": \"Dive Chat\", \"uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/divechat.png\", \"description\": \"Dive Chat is a mobile app.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://dive.chat/\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [569313], \"cb_permalink\": \"https://www.crunchbase.com/organization/dive-chat-ad04\", \"linkedin_url\": \"https://linkedin.com/company/divechat\", \"twitter\": \"https:/twitter.com/dive_chat\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"divechat\", \"tags\": [{\"id\": 3782835, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"name\": \"Communities\", \"category\": \"Industry\"}, {\"id\": 3782836, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"name\": \"Information and Communications Technology (ICT)\", \"category\": \"Industry\"}, {\"id\": 3782837, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 3782838, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 3782839, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"name\": \"Social\", \"category\": \"Industry\"}, {\"id\": 3782840, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 38365, \"legal_entity_uuid\": \"7b2dc350-d292-417c-9382-eb4a75f2ad04\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": \"-50\", \"hc_growth_180_days\": \"-50\", \"hc_growth_270_days\": \"-50\", \"hc_growth_365_days\": \"-66.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/divechat.png",
+                        "name": "Dive Chat"
+                    },
+                    "position": "Head of Business Operations-First Hire",
+                    "startDate": "2020-03-01",
+                    "name": "Dive Chat",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/divechat.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-03-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2018-09-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 1618880, \"name\": \"Oliver Wyman\", \"uuid\": \"08600d59-e9c3-4df9-8e6e-04e7b63c73af\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ae2o1tgovzo6iqn2fdrh\", \"description\": \"Oliver Wyman is a global leader in management consulting.\", \"headcount\": \"unknown\", \"founding_date\": \"1984-01-01\", \"website\": null, \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/oliver-wyman-73af\", \"linkedin_url\": \"https://linkedin.com/company/oliver-wyman\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"oliver-wyman\", \"tags\": [{\"id\": 6823569, \"legal_entity_uuid\": \"08600d59-e9c3-4df9-8e6e-04e7b63c73af\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 154109, \"legal_entity_uuid\": \"08600d59-e9c3-4df9-8e6e-04e7b63c73af\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 181, \"hc_estimate_90_days\": 177, \"hc_estimate_180_days\": 173, \"hc_estimate_270_days\": 167, \"hc_estimate_365_days\": 163, \"hc_growth_90_days\": \"2.2599999999999997868371792719699442386627197265625\", \"hc_growth_180_days\": \"4.62000000000000010658141036401502788066864013671875\", \"hc_growth_270_days\": \"8.3800000000000007815970093361102044582366943359375\", \"hc_growth_365_days\": \"11.03999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ae2o1tgovzo6iqn2fdrh",
+                        "name": "Oliver Wyman"
+                    },
+                    "position": "Management Consulting Intern",
+                    "startDate": "2019-06-01",
+                    "name": "Oliver Wyman",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ae2o1tgovzo6iqn2fdrh"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-06-01",
+                    "legalEntity": "{\"id\": 1136911, \"name\": \"Texas Convergent\", \"uuid\": \"5b452dc8-25aa-428c-b753-83ce15a0081a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/yvsa0lait19danyvn3ks\", \"description\": \"Texas Convergent is an entrepreneurial and product-building organization.\", \"headcount\": \"11-50\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.txconvergent.org/\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/texas-convergent\", \"linkedin_url\": \"https://linkedin.com/company/txconvergent\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"txconvergent\", \"tags\": [{\"id\": 6961317, \"legal_entity_uuid\": \"5b452dc8-25aa-428c-b753-83ce15a0081a\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6961318, \"legal_entity_uuid\": \"5b452dc8-25aa-428c-b753-83ce15a0081a\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 6961319, \"legal_entity_uuid\": \"5b452dc8-25aa-428c-b753-83ce15a0081a\", \"name\": \"Skill Assessment\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 175385, \"legal_entity_uuid\": \"5b452dc8-25aa-428c-b753-83ce15a0081a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 18, \"hc_estimate_270_days\": 17, \"hc_estimate_365_days\": 17, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-5.87999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/yvsa0lait19danyvn3ks",
+                        "name": "Convergent"
+                    },
+                    "position": "Partnerships Lead-Build Team Mentor",
+                    "startDate": "2017-01-01",
+                    "name": "Convergent",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/yvsa0lait19danyvn3ks"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 2122337, \"name\": \"Capital One\", \"uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1445634535/xtvpuqbr9r1sc1x9wbas.jpg\", \"description\": \"Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments.\", \"headcount\": \"10000+\", \"founding_date\": \"1994-07-21\", \"website\": \"http://www.capitalone.com\", \"location\": \"Mclean\", \"country\": \"USA\", \"region\": \"Virginia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [199276, 1002385, 789277, 276401, 366110, 382384, 1524378, 1075422, 2816710, 3241281, 97940, 728747, 1130324, 1555766, 318567, 2004139, 3302367, 3163115, 1072642, 1817024, 1351637, 816718, 2571329, 486071, 1634365, 1656504, 2128304, 2816688, 3116520, 3225276, 578230, 471722, 592229, 846396, 676654, 1431380, 1778856, 966134, 291906, 523707, 523752, 544442, 3398736, 755643, 1628283, 1713972, 1675919, 2934998, 2811261, 3111144, 2196246, 2197050, 3211015, 265017, 269571, 1306421, 478426, 2298495, 1038292, 1949916, 2765196, 975731, 2075966, 3108071, 739105, 1208523, 2576533, 1860354, 2132555, 3375751, 1735147, 2636818, 3220257, 2022176, 1177151, 964462, 291998, 2254749, 383164, 383920, 3164107, 1941152, 1942472, 1179221, 3283020, 2865787, 410251, 412685, 607845, 2021872, 966293, 566232, 1482689, 1694007, 837693, 1643332, 1509999, 2811237, 48452, 1308852, 180936, 1438988, 1767525, 126654, 813534, 292318, 380258, 2434974, 1827160, 1628409, 1937950, 1244898, 505993, 3241183, 2786440], \"cb_permalink\": \"https://www.crunchbase.com/organization/capital-one\", \"linkedin_url\": \"https://linkedin.com/company/capital-one\", \"twitter\": \"http:/twitter.com/CapitalOne\", \"last_funding_round_date\": \"2023-05-15\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 954000000, \"company_li_name\": \"capital-one\", \"tags\": [{\"id\": 6388472, \"legal_entity_uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"name\": \"Credit Cards\", \"category\": \"Industry\"}, {\"id\": 6388473, \"legal_entity_uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6388474, \"legal_entity_uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6388471, \"legal_entity_uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"name\": \"Banking\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60843, \"legal_entity_uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1631, \"hc_estimate_90_days\": 1598, \"hc_estimate_180_days\": 1454, \"hc_estimate_270_days\": 1425, \"hc_estimate_365_days\": 1413, \"hc_growth_90_days\": \"2.069999999999999840127884453977458178997039794921875\", \"hc_growth_180_days\": \"12.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"14.46000000000000085265128291212022304534912109375\", \"hc_growth_365_days\": \"15.42999999999999971578290569595992565155029296875\"}, \"funding_rounds\": [{\"id\": 301352, \"uuid\": \"d8fced99-0b6f-47ca-91c9-394350137d6d\", \"legal_entity_uuid\": \"6f1a3325-7525-1699-d0f5-a45cb4ba4b42\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 954000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-15\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1445634535/xtvpuqbr9r1sc1x9wbas.jpg",
+                        "name": "Capital One"
+                    },
+                    "position": "Product Management and Analytics Intern",
+                    "startDate": "2018-06-01",
+                    "name": "Capital One",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1445634535/xtvpuqbr9r1sc1x9wbas.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 2154791, \"name\": \"IBM\", \"uuid\": \"fc5fbe7a-562d-d577-b05e-46797caa134c\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/d4c2niwf9htmk2sp1vli\", \"description\": \"IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.\", \"headcount\": \"10000+\", \"founding_date\": \"1911-06-06\", \"website\": \"http://www.ibm.com\", \"location\": \"Armonk\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [720321, 1656737], \"executive_people_profile_ids\": [226006, 335164, 335267, 113738, 113455, 123197, 591429, 472685, 886649, 1307716, 853612, 858820, 689526, 1317507, 1431396, 476755, 1433542, 1588783, 1130104, 1130862, 1130665, 749295, 413312, 1785430, 1556107, 655718, 656548, 2024741, 2026166, 2026291, 795361, 1777560, 319659, 812434, 2017238, 720590, 720515, 1516454, 1170197, 1172456, 962180, 127964, 130325, 1036575, 276386, 276363, 2239464, 292188, 363916, 2963908, 2422122, 2708956, 524179, 3303871, 3302741, 3303034, 566456, 3146273, 3154564, 3159301, 3309501, 3311381, 3400855, 3405758, 1518746, 1524435, 1839020, 1481611, 1349371, 759480, 1705462, 1707331, 1944860, 769933, 2101493, 1247935, 816300, 2573551, 834194, 2764654, 2885553, 1655591, 1655342, 1656274, 1657275, 1656503, 2889111, 3269510, 1669990, 3190149, 2131805, 2132861, 1504804, 1749912, 1749842, 2521631, 2808450, 2811770, 1973805, 2823580, 1992892, 3283758, 3240812, 1991520, 3211513, 3212521, 3225460, 225894, 97802, 73308, 579086, 113482, 1009870, 1020372, 1335581, 1336387, 475354, 478120, 1316268, 1317294, 1280503, 1301562, 731065, 1601119, 642592, 655446, 1809931, 633829, 633609, 2025340, 1778055, 799706, 126779, 694456, 1148504, 2017541, 2017464, 2022552, 720321, 2021010, 1172640, 1176776, 1176649, 2035322, 2677984, 2679934, 2050863, 2052609, 2051307, 2680949, 2241027, 1089984, 383387, 2986523, 529022, 530007, 3308752, 3400648, 3400242, 1347562, 1696647, 1628248, 768731, 770048, 2226387, 2149648, 2763854, 2764475, 485581, 834436, 2595811, 2765506, 977588, 503691, 506411, 1201220, 1206921, 1640895, 1657434, 1871125, 2076937, 3107942, 3267665, 2282780, 1686075, 1888685, 1889258, 2947128, 2947077, 2120712, 2619435, 3279691, 2128873, 2625938, 1502942, 2816677, 1984742, 3077480, 3337545, 1991851, 1991802, 2178760, 2409320, 3211170, 48332, 98247, 50317, 577973, 207511, 468293, 592066, 472788, 1307247, 676854, 1432066, 480830, 480888, 1268351, 1285917, 729301, 729836, 1301275, 1587821, 1139486, 607652, 628495, 642298, 631575, 2024684, 126624, 2001587, 320228, 1153098, 2021702, 1153248, 1152770, 1514093, 1176464, 2026766, 2668485, 1208630, 1051614, 286929, 291008, 2682896, 2242175, 2255085, 2255228, 383347, 2963451, 2964182, 2965069, 382212, 1089872, 2964957, 2709157, 2911027, 3145727, 3157540, 3160033, 3159716, 3159270, 3401131, 3405566, 565966, 1516170, 1072330, 1074078, 1074110, 1091765, 1102896, 1481632, 1111338, 754470, 1693239, 1695159, 755161, 1933725, 1937748, 1940747, 1940700, 1941986, 1705764, 1706205, 1942400, 771657, 1950134, 2106208, 2565998, 2575027, 834040, 837787, 2887246, 492816, 497114, 1655572, 1656707, 1845620, 2075798, 3108718, 3110038, 2270308, 2272133, 3267636, 2271799, 1669020, 2724043, 1884194, 3190483, 2128537, 3371521, 2844030, 1727054, 1974136, 2823784, 2823992, 3077303, 3079566, 3240604, 3241960, 3242367, 3341187, 2179068, 2189759, 3212076, 3223522, 3223473, 198992, 98149, 98631, 577587, 464610, 469679, 362059, 471573, 270036, 590715, 1019945, 887493, 473200, 1336100, 1335165, 1317013, 1316224, 1318184, 1316215, 478771, 476778, 1329752, 929406, 1443551, 1134084, 739026, 412471, 749743, 1806884, 632936, 1064360, 1571035, 2026131, 1776871, 812114, 1149363, 2496913, 2236176, 2236458, 2680588, 2682092, 2683228, 1413422, 2239777, 383324, 523466, 523417, 527269, 386197, 3302769, 566289, 529465, 3143411, 3157433, 3161833, 3399798, 1515727, 1072400, 1481880, 1704535, 1705599, 1705283, 1942088, 766611, 767172, 1942660, 1943816, 1949553, 1263780, 2572133, 2765664, 1388948, 2774005, 975677, 2871017, 492636, 2886542, 2885991, 494881, 496477, 497430, 503936, 505734, 1188347, 2075721, 2077080, 2269421, 2269224, 992893, 2283103, 1667527, 2448540, 1689863, 1692622, 1888449, 2932917, 3414633, 2619453, 2840016, 2843152, 2843617, 2853163, 1507167, 1509545, 1728220, 1728028, 1728614, 1750013, 1750676, 2811616, 2816619, 1992266, 3061194, 3077874, 3337411, 2178794, 2178812, 2385889, 3211331, 3224187, 38878, 579386, 335160, 335548, 580487, 462392, 999155, 591036, 473005, 886880, 592079, 477570, 157243, 1423206, 480429, 731023, 731796, 607362, 621285, 1549409, 632597, 1807444, 124754, 1776385, 318654, 319746, 2301049, 1515535, 1171257, 940470, 1176648, 1052420, 301639, 2964902, 382056, 1090461, 381955, 383867, 3302376, 2919685, 3146279, 3159122, 3163453, 3308883, 1517271, 1518734, 1613279, 1524517, 1473182, 1336615, 1347505, 1481595, 1482670, 1114248, 1695320, 755360, 1941172, 766354, 767076, 769251, 2086305, 2566799, 2573559, 2762348, 1388276, 834441, 2764069, 2595702, 2595356, 975940, 3018621, 494230, 500828, 1196841, 1655573, 1656369, 1870650, 2069457, 3108167, 2271215, 3267552, 980411, 2283408, 2288401, 2459111, 3189879, 2170881, 2170117, 2382451, 2127752, 2843439, 3376600, 1509753, 1509366, 2509814, 1967032, 1967389, 2811679, 1990111, 3066775, 3251189, 3340316, 1992837, 2184192, 2188358, 3024743, 205998, 237699, 461547, 1019982, 1307398, 862799, 473290, 475915, 157412, 157503, 476998, 163689, 1431475, 729600, 1287969, 1433961, 1595217, 1138094, 412705, 607374, 607432, 753898, 1601622, 625348, 632827, 1555744, 661474, 794864, 2023883, 1064063, 125627, 125267, 810991, 318977, 811213, 2009620, 326683, 1149241, 2017811, 2017915, 1514063, 1170512, 1176740, 2038090, 1208362, 1208487, 2235738, 2238611, 1209146, 1408649, 2239237, 2684787, 1089616, 528952, 2925218, 3158040, 3162031, 3390911, 566707, 1074013, 1084536, 1482262, 815895, 1693062, 1693904, 1624284, 1632252, 1933724, 765759, 766777, 768838, 1942709, 1944534, 2083508, 1240008, 1240235, 2111903, 2170157, 816319, 2764558, 838655, 2885365, 975963, 2885887, 3358851, 494408, 499147, 501711, 500609, 1641313, 2076110, 2269744, 1669557, 2447835, 1690068, 1692598, 2929797, 2932587, 1889020, 2125152, 2128333, 2129030, 2626719, 1510154, 1510799, 2811947, 3059117, 3422037, 2853916, 3337391, 3211308, 3210753, 3213812, 3224742, 228440, 38372, 205286, 578430, 236970, 362081, 469688, 592715, 471561, 1020627, 886857, 592723, 593140, 472595, 1307578, 876785, 1331117, 1433402, 1434453, 181554, 1436117, 1588956, 417517, 630517, 643992, 631789, 653424, 1064192, 789138, 2023207, 126423, 320093, 319895, 320574, 320284, 810441, 812235, 2022114, 1514963, 1514695, 2021383, 1515079, 951737, 1172813, 2031819, 2236197, 2235989, 2681266, 2238852, 2681883, 2681940, 292775, 522443, 524049, 2428945, 382188, 1089891, 2708335, 566165, 3396801, 1350096, 1693288, 1626127, 1626209, 1695552, 1933747, 1939961, 1941115, 1942657, 1955903, 2567253, 2149341, 2569133, 2762848, 2574589, 2765497, 2767062, 978029, 2885951, 2887065, 1666891, 499263, 498736, 500808, 505163, 504346, 1657909, 3090995, 3267418, 2282840, 2448548, 2448503, 1886058, 1888612, 2128808, 2597202, 3276155, 3377961, 1725294, 1728232, 2515692, 2811444, 2811895, 1974027, 1974274, 1973521, 1976462, 2829277, 2857990, 2651992, 3023166, 3211087, 3211217, 3213811, 3218331, 3223989, 3225207, 96605, 38916, 92971, 205084, 204900, 580757, 122946, 270978, 272358, 592074, 592821, 592208, 473156, 886505, 1306309, 669430, 1432276, 479097, 480984, 1329510, 1329197, 182228, 1274521, 1585956, 731620, 1588990, 1588912, 746173, 418728, 630794, 631032, 632253, 656690, 1769671, 1065752, 796653, 1777318, 1776740, 1776837, 812415, 319020, 2001568, 432890, 432368, 2017276, 2017698, 2021260, 2021233, 2297470, 952193, 129125, 2680180, 2238845, 2684419, 2241586, 2424870, 382978, 381889, 1091253, 565714, 530609, 2911739, 3157414, 3398671, 3309535, 3399730, 1518034, 1524395, 1091908, 1111261, 1697105, 1937817, 767018, 1711637, 1714906, 1942613, 1247945, 2568991, 2149580, 2153415, 2170172, 2567030, 1371779, 1374211, 1388942, 489849, 501917, 506188, 1196488, 1207528, 1656494, 1656737, 1870820, 2061944, 2885912, 3090859, 2077711, 2269840, 2272028, 3267536, 978950, 2282925, 1668085, 2927814, 1890632, 2375237, 2127536, 2128419, 1509075, 1510928, 1726864, 1731427, 1963974, 2809009, 2808986, 2808887, 2811348, 1992012, 2832745, 3240478, 3242249, 2178702], \"cb_permalink\": \"https://www.crunchbase.com/organization/ibm\", \"linkedin_url\": \"https://linkedin.com/company/ibm\", \"twitter\": \"http:/twitter.com/IBM\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"ibm\", \"tags\": [{\"id\": 6368955, \"legal_entity_uuid\": \"fc5fbe7a-562d-d577-b05e-46797caa134c\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6368956, \"legal_entity_uuid\": \"fc5fbe7a-562d-d577-b05e-46797caa134c\", \"name\": \"Business Information Systems\", \"category\": \"Industry\"}, {\"id\": 6368957, \"legal_entity_uuid\": \"fc5fbe7a-562d-d577-b05e-46797caa134c\", \"name\": \"CRM\", \"category\": \"Industry\"}, {\"id\": 6368958, \"legal_entity_uuid\": \"fc5fbe7a-562d-d577-b05e-46797caa134c\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 62695, \"legal_entity_uuid\": \"fc5fbe7a-562d-d577-b05e-46797caa134c\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5071, \"hc_estimate_90_days\": 5064, \"hc_estimate_180_days\": 4940, \"hc_estimate_270_days\": 4953, \"hc_estimate_365_days\": 4944, \"hc_growth_90_days\": \"0.14000000000000001332267629550187848508358001708984375\", \"hc_growth_180_days\": \"2.649999999999999911182158029987476766109466552734375\", \"hc_growth_270_days\": \"2.37999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"2.569999999999999840127884453977458178997039794921875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/d4c2niwf9htmk2sp1vli",
+                        "name": "IBM"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2017-05-01",
+                    "name": "IBM",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/d4c2niwf9htmk2sp1vli"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Stratostatic Aeronautics"
+                    },
+                    "position": "Project Manager",
+                    "startDate": "2015-10-01",
+                    "name": "Stratostatic Aeronautics",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Rice Integrated Systems and Circuits Lab"
+                    },
+                    "position": "Embedded Systems Research Intern",
+                    "startDate": "2015-06-01",
+                    "name": "Rice Integrated Systems and Circuits Lab",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-06-01",
+                    "legalEntity": "{\"id\": 146214, \"name\": \"Accelerate Learning\", \"uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1464094230/hpcwy5nbevtitgzrcegy.png\", \"description\": \"Online, comprehensive, and hands-on #STEM curriculum for PreK-12 that puts teacher support at its center.\", \"headcount\": \"11-50\", \"founding_date\": \"2013-01-01\", \"website\": \"http://www.acceleratelearning.com\", \"location\": \"Houston\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [1750706], \"executive_people_profile_ids\": [1052793, 529501, 1750706], \"cb_permalink\": \"https://www.crunchbase.com/organization/accelerate-learning\", \"linkedin_url\": \"https://linkedin.com/company/stemscopes\", \"twitter\": \"https:/twitter.com/STEMscopes\", \"last_funding_round_date\": \"2018-12-10\", \"last_funding_round_name\": \"Private Equity Round\", \"total_funding_amount\": 10000000, \"company_li_name\": \"stemscopes\", \"tags\": [{\"id\": 6357762, \"legal_entity_uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 6357763, \"legal_entity_uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 6357764, \"legal_entity_uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 22289, \"legal_entity_uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 11, \"hc_estimate_90_days\": 11, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 8381, \"uuid\": \"2be2d956-e146-4a95-ab53-fe939154e812\", \"legal_entity_uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-12-10\", \"investors\": null}, {\"id\": 8380, \"uuid\": \"cb6b28fd-daf8-f253-9eb3-563ea7dfe159\", \"legal_entity_uuid\": \"96fb9d48-ae33-116b-6b1c-3a02934266c4\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-05-24\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464094230/hpcwy5nbevtitgzrcegy.png",
+                        "name": "Accelerate Learning-Inc."
+                    },
+                    "position": "Assistant Web Developer",
+                    "startDate": "2014-06-01",
+                    "name": "Accelerate Learning-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464094230/hpcwy5nbevtitgzrcegy.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Electrical and Computer Engineering Honors",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Cockrell School of Engineering-The University of Texas at Austin"
+                    },
+                    "name": "Cockrell School of Engineering-The University of Texas at Austin",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Business",
+                    "degreeType": "Minor",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 981365, \"name\": \"Texas McCombs School of Business\", \"uuid\": \"74cbdb2b-fadc-456d-b40f-dee6dde8d2e6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dlgbhunwje8sflrn35lz\", \"description\": \"Welcome to the Texas McCombs LinkedIn Community, a focal point for knowledge sharing and lifetime learning for over 93,000 living alumni.\", \"headcount\": \"unknown\", \"founding_date\": \"1883-01-01\", \"website\": \"http://www.mccombs.utexas.edu/\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/texas-mccombs-school-of-business\", \"linkedin_url\": \"https://linkedin.com/school/the-red-mccombs-school-of-business\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"the-red-mccombs-school-of-business\", \"tags\": [{\"id\": 4409861, \"legal_entity_uuid\": \"74cbdb2b-fadc-456d-b40f-dee6dde8d2e6\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 73661, \"legal_entity_uuid\": \"74cbdb2b-fadc-456d-b40f-dee6dde8d2e6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 74, \"hc_estimate_90_days\": 72, \"hc_estimate_180_days\": 85, \"hc_estimate_270_days\": 83, \"hc_estimate_365_days\": 88, \"hc_growth_90_days\": \"2.779999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-12.9399999999999995026200849679298698902130126953125\", \"hc_growth_270_days\": \"-10.839999999999999857891452847979962825775146484375\", \"hc_growth_365_days\": \"-15.910000000000000142108547152020037174224853515625\"}, \"funding_rounds\": []}",
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dlgbhunwje8sflrn35lz",
+                        "name": "The University of Texas at Austin - Red McCombs School of Business"
+                    },
+                    "name": "The University of Texas at Austin - Red McCombs School of Business",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dlgbhunwje8sflrn35lz"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Software Engineering",
+                    "degreeType": "Full Stack Web Development Certification",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 759268, \"name\": \"freeCodeCamp\", \"uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ikqra03zdnggljdu5vv0\", \"description\": \"Learn to code and help nonprofits\", \"headcount\": \"11-50\", \"founding_date\": \"2014-10-15\", \"website\": \"https://www.freecodecamp.org\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1157415], \"executive_people_profile_ids\": [1157415], \"cb_permalink\": \"https://www.crunchbase.com/organization/free-code-camp\", \"linkedin_url\": \"https://linkedin.com/school/free-code-camp\", \"twitter\": \"https:/twitter.com/freeCodeCamp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"free-code-camp\", \"tags\": [{\"id\": 4918623, \"legal_entity_uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4918624, \"legal_entity_uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 93622, \"legal_entity_uuid\": \"c8fea795-017a-bb0e-80c2-8621bcff599e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 21, \"hc_estimate_90_days\": 22, \"hc_estimate_180_days\": 21, \"hc_estimate_270_days\": 20, \"hc_estimate_365_days\": 21, \"hc_growth_90_days\": \"-4.54999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"5\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ikqra03zdnggljdu5vv0",
+                        "name": "Free Code Camp"
+                    },
+                    "name": "Free Code Camp",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ikqra03zdnggljdu5vv0"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "29",
+                    "value": "Web3 / Crypto"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "37",
+                    "value": "Creator Economy"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "125"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

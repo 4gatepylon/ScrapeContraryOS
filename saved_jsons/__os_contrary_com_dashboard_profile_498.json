@@ -1,0 +1,54 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [],
+                "email": "natasha.maniar@vp.contrary.com",
+                "firstName": "Natasha",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "498",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-20T03:42:43",
+                "lastName": "Maniar",
+                "linkedinName": "natasha-maniar-945276107",
+                "linkedinUrl": "https://linkedin.com/in/natasha-maniar-945276107/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 27,
+                "prismUuid": "94583cf1-3a9e-4eac-9adc-83ec242bf119",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ALm5wu1cvp_LQfEMV-biyojt1SNmxM6lJ8Pr2Xaqssfm=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "natashamaniar3@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U045U39FDPX",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "498"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

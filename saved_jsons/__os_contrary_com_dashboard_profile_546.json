@@ -1,0 +1,308 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendar.app.google/4Sbfw6ufLws7N5T3A",
+                "canProvide": "Let me know about any front end bugs you see or suggestions you have around the UI!",
+                "currentRole": "Software Engineer at Contrary",
+                "educationExperiences": [],
+                "email": "rohit@contrarycap.com",
+                "firstName": "Rohit",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83d\udeb2",
+                "hqPosition": "Software Engineer",
+                "hubCity": "Toronto",
+                "id": "546",
+                "intro": "Recently joined Contrary as a software engineer focused on front end development",
+                "isActiveFellow": false,
+                "isActiveHq": true,
+                "isActiveVp": false,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-30T19:59:00",
+                "lastName": "Deora",
+                "linkedinName": "rdeora",
+                "linkedinUrl": "https://linkedin.com/in/rdeora/",
+                "location": "Toronto",
+                "lookingFor": "get to learn more about the contrary community and what they're working on!",
+                "meetWithBlurb": "Talk about Front End development or software engineering in general, working at startups, Waterloo, Toronto, or anything else ",
+                "podId": 24,
+                "prismUuid": "6c1b2583-9d7a-4e1d-9eb2-1a9099266ef1",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-546-IMG_0638.jpg",
+                "roles": [
+                    "HQ",
+                    "Event Admin",
+                    "Legacy Admin",
+                    "HQ Admin"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U04LHMT2B5X",
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4380",
+                        "organizationId": 3037,
+                        "position": "Full Stack Engineer",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "4381",
+                        "organizationId": 3038,
+                        "position": "Software Developer",
+                        "startDate": "2017-04-01"
+                    },
+                    {
+                        "endDate": "2017-04-01",
+                        "id": "4382",
+                        "organizationId": 3039,
+                        "position": "Software Engineer",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2016-04-01",
+                        "id": "4383",
+                        "organizationId": 3040,
+                        "position": "Software Developer Intern",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2015-04-01",
+                        "id": "4384",
+                        "organizationId": 3041,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2015-01-01"
+                    },
+                    {
+                        "endDate": "2013-04-01",
+                        "id": "4385",
+                        "organizationId": 3042,
+                        "position": "Software Engineer",
+                        "startDate": "2013-01-01"
+                    },
+                    {
+                        "endDate": "2012-08-01",
+                        "id": "4386",
+                        "organizationId": 3043,
+                        "position": "Programmer Analyst",
+                        "startDate": "2012-04-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2023-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-01-01",
+                    "legalEntity": "{\"id\": 2142548, \"name\": \"Taplytics\", \"uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dwjfbqrbrsgl3rdvqz7c\", \"description\": \"Taplytics develops a customer engagement platform to personalize apps, websites, and customer communication channels.\", \"headcount\": \"51-100\", \"founding_date\": \"2014-01-01\", \"website\": \"http://taplytics.com\", \"location\": \"Toronto\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [2345036, 1711642, 2567257, 2684036], \"executive_people_profile_ids\": [2684036, 382793, 2567257, 3225715, 292205, 1640422, 38583, 2345036, 492438, 1711642], \"cb_permalink\": \"https://www.crunchbase.com/organization/taplytics\", \"linkedin_url\": \"https://linkedin.com/company/taplytics\", \"twitter\": \"http:/twitter.com/taplytics\", \"last_funding_round_date\": \"2018-12-31\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 7818932, \"company_li_name\": \"taplytics\", \"tags\": [{\"id\": 1764473, \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 1764474, \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 1764475, \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1764476, \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Marketing Automation\", \"category\": \"Industry\"}, {\"id\": 1764477, \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"SaaS\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 68649, \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 10, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 10, \"hc_estimate_270_days\": 12, \"hc_estimate_365_days\": 12, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"-16.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": [{\"id\": 416725, \"uuid\": \"89fa04f6-4285-4e47-9795-8f3fe68e6ff7\", \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 2598932, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-12-31\", \"investors\": null}, {\"id\": 416724, \"uuid\": \"d17b86a9-a624-4d98-adff-ae6ce870132f\", \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 2235000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-06-20\", \"investors\": null}, {\"id\": 416723, \"uuid\": \"55d6c584-073a-9db1-8507-9ee3104c4ba2\", \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2400000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-05-20\", \"investors\": null}, {\"id\": 416722, \"uuid\": \"78126ebb-3e14-451e-b228-50f8861591f7\", \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Non Equity Assistance\", \"cb_permalink\": null, \"investment_type\": \"non_equity_assistance\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-16\", \"investors\": null}, {\"id\": 416721, \"uuid\": \"d5d9d891-3d6a-71a9-cf41-bc062036c4ac\", \"legal_entity_uuid\": \"118b3bdf-8867-4661-0ea5-d1451c466be0\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 585000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dwjfbqrbrsgl3rdvqz7c",
+                        "name": "Taplytics"
+                    },
+                    "position": "Full Stack Engineer",
+                    "startDate": "2020-01-01",
+                    "name": "Taplytics",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dwjfbqrbrsgl3rdvqz7c"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 2143873, \"name\": \"Ultimate Software\", \"uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1482867819/mrz4e0ulidpt16g88ehr.png\", \"description\": \"Ultimate Software is a provider of cloud-based people management solutions.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1990-01-01\", \"website\": \"http://www.ultimatesoftware.com\", \"location\": \"Weston\", \"country\": \"USA\", \"region\": \"Florida\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [474116, 731661, 866176, 631511, 2443154, 2026428, 1336695, 1890096], \"cb_permalink\": \"https://www.crunchbase.com/organization/ultimate-software\", \"linkedin_url\": \"https://linkedin.com/company/ultimate-software\", \"twitter\": \"http:/twitter.com/UltimateHCM\", \"last_funding_round_date\": \"2013-11-25\", \"last_funding_round_name\": \"Post-IPO Equity\", \"total_funding_amount\": 19088273, \"company_li_name\": \"ultimate-software\", \"tags\": [{\"id\": 6422296, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 6422297, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Cloud Management\", \"category\": \"Industry\"}, {\"id\": 6422298, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6422299, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Human Resources\", \"category\": \"Industry\"}, {\"id\": 6422300, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6422301, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6422302, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 67468, \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 16, \"hc_estimate_270_days\": 17, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 79575, \"uuid\": \"fc5de536-7c7d-3768-dade-8a9013fb2fc9\", \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 3438395, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-11-25\", \"investors\": null}, {\"id\": 79574, \"uuid\": \"7eaa4041-4203-7bb6-7998-cb184a2396b9\", \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Post-IPO Equity\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_equity\", \"raised_amount_usd\": 2649878, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-10-15\", \"investors\": null}, {\"id\": 79573, \"uuid\": \"def0c057-c5db-f1c4-396c-874a839de1f9\", \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"1997-06-01\", \"investors\": null}, {\"id\": 79572, \"uuid\": \"cea6d9db-261f-2035-ac4e-c5ddf92652d7\", \"legal_entity_uuid\": \"399c3cd9-c63d-9c42-8e2a-3608f338d885\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"1996-04-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1482867819/mrz4e0ulidpt16g88ehr.png",
+                        "name": "Ultimate Software"
+                    },
+                    "position": "Software Developer",
+                    "startDate": "2017-04-01",
+                    "name": "Ultimate Software",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1482867819/mrz4e0ulidpt16g88ehr.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pixleeturnto.png",
+                        "name": "Pixlee"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2017-01-01",
+                    "name": "Pixlee",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pixleeturnto.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-04-01",
+                    "legalEntity": "{\"id\": 1396498, \"name\": \"hybris\", \"uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1397197449/e490ef7e359568cdf2312d11a78320ad.jpg\", \"description\": \"hybris offers enterprise software and on-demand solutions for multi-channel commerce, master data management, and order management.\", \"headcount\": \"501-1000\", \"founding_date\": \"1997-08-11\", \"website\": \"http://www.hybris.com\", \"location\": \"Munich\", \"country\": \"DEU\", \"region\": \"Bayern\", \"founder_people_profile_ids\": [764770, 3224877], \"executive_people_profile_ids\": [579304, 205894, 794806, 494854, 2736880, 1048102, 1887404, 3210820, 3223911, 231281, 592677, 2024775, 764770, 3224877], \"cb_permalink\": \"https://www.crunchbase.com/organization/hybris\", \"linkedin_url\": \"https://linkedin.com/company/sap-hybris\", \"twitter\": \"http:/twitter.com/hybris_software\", \"last_funding_round_date\": \"2013-03-05\", \"last_funding_round_name\": \"Funding Round\", \"total_funding_amount\": 30000000, \"company_li_name\": \"sap-hybris\", \"tags\": [{\"id\": 6382911, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Content\", \"category\": \"Industry\"}, {\"id\": 6382912, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Data Integration\", \"category\": \"Industry\"}, {\"id\": 6382913, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6382914, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6382915, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6382916, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 47802, \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 6, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": 6, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 140613, \"uuid\": \"310fd87e-cb96-5c7f-0c39-939c8f53dc3c\", \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-03-05\", \"investors\": null}, {\"id\": 140612, \"uuid\": \"7fe775bc-3c68-45ed-9255-459345036c75\", \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-03-04\", \"investors\": null}, {\"id\": 140611, \"uuid\": \"d467f03a-106b-f963-f0f8-7aab0b8a8c8d\", \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-11-21\", \"investors\": null}, {\"id\": 140610, \"uuid\": \"6b89c5f2-f58a-a19c-d248-438aec80d285\", \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-09-07\", \"investors\": null}, {\"id\": 140609, \"uuid\": \"24e9bfb6-fe29-8cb3-7b8a-c4babc7c2b82\", \"legal_entity_uuid\": \"d1fa7d6a-5e8b-7108-0b26-1a88acfd62e7\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-09-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397197449/e490ef7e359568cdf2312d11a78320ad.jpg",
+                        "name": "SAP Hybris"
+                    },
+                    "position": "Software Developer Intern",
+                    "startDate": "2016-01-01",
+                    "name": "SAP Hybris",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397197449/e490ef7e359568cdf2312d11a78320ad.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-04-01",
+                    "legalEntity": "{\"id\": 1385183, \"name\": \"Drawbridge\", \"uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gsfbcieglzyb4csmmlhx\", \"description\": \"Drawbridge uses large-scale AI and machine learning technology to build Identity solutions that connect, unify, & enhance customer data.\", \"headcount\": \"101-250\", \"founding_date\": \"2011-01-01\", \"website\": \"http://www.drawbridge.com\", \"location\": \"San Mateo\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [225780, 291140], \"executive_people_profile_ids\": [96443, 2147133, 225780, 2154398, 2076593, 3108531, 291140, 1482364, 1691352, 796398, 450542, 1716823, 1189377], \"cb_permalink\": \"https://www.crunchbase.com/organization/drawbridge\", \"linkedin_url\": \"https://linkedin.com/company/drawbridge-inc-\", \"twitter\": \"http:/twitter.com/drawbridge\", \"last_funding_round_date\": \"2018-08-20\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 68740000, \"company_li_name\": \"drawbridge-inc-\", \"tags\": [{\"id\": 6508829, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 6508830, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 6508831, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 6508832, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Digital Marketing\", \"category\": \"Industry\"}, {\"id\": 6508833, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Identity Management\", \"category\": \"Industry\"}, {\"id\": 6508834, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6508835, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 6508836, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Personalization\", \"category\": \"Industry\"}, {\"id\": 6508837, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"SaaS\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 141558, \"uuid\": \"49d5c90e-04c8-45b9-b5af-22806250ad83\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-20\", \"investors\": null}, {\"id\": 141557, \"uuid\": \"5fa7321c-6ec5-4d20-8407-667a19b6dd48\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 5240000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-20\", \"investors\": null}, {\"id\": 141556, \"uuid\": \"20f36926-cb44-fa2d-9895-dd74bab195e0\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 28000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-05-05\", \"investors\": null}, {\"id\": 141555, \"uuid\": \"a22ed6e6-193a-a794-3c02-2f9bdab18e71\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 14000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-02-21\", \"investors\": null}, {\"id\": 141554, \"uuid\": \"aec78895-5ca5-8e46-a05c-5e28d980f6b9\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 6500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-05-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gsfbcieglzyb4csmmlhx",
+                        "name": "Drawbridge-Inc."
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2015-01-01",
+                    "name": "Drawbridge-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gsfbcieglzyb4csmmlhx"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2014-04-01",
+                    "legalEntity": "{\"id\": 1385183, \"name\": \"Drawbridge\", \"uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gsfbcieglzyb4csmmlhx\", \"description\": \"Drawbridge uses large-scale AI and machine learning technology to build Identity solutions that connect, unify, & enhance customer data.\", \"headcount\": \"101-250\", \"founding_date\": \"2011-01-01\", \"website\": \"http://www.drawbridge.com\", \"location\": \"San Mateo\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [225780, 291140], \"executive_people_profile_ids\": [96443, 2147133, 225780, 2154398, 2076593, 3108531, 291140, 1482364, 1691352, 796398, 450542, 1716823, 1189377], \"cb_permalink\": \"https://www.crunchbase.com/organization/drawbridge\", \"linkedin_url\": \"https://linkedin.com/company/drawbridge-inc-\", \"twitter\": \"http:/twitter.com/drawbridge\", \"last_funding_round_date\": \"2018-08-20\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 68740000, \"company_li_name\": \"drawbridge-inc-\", \"tags\": [{\"id\": 6508829, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 6508830, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 6508831, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Big Data\", \"category\": \"Industry\"}, {\"id\": 6508832, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Digital Marketing\", \"category\": \"Industry\"}, {\"id\": 6508833, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Identity Management\", \"category\": \"Industry\"}, {\"id\": 6508834, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6508835, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Mobile\", \"category\": \"Industry\"}, {\"id\": 6508836, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Personalization\", \"category\": \"Industry\"}, {\"id\": 6508837, \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"SaaS\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 141558, \"uuid\": \"49d5c90e-04c8-45b9-b5af-22806250ad83\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-08-20\", \"investors\": null}, {\"id\": 141557, \"uuid\": \"5fa7321c-6ec5-4d20-8407-667a19b6dd48\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 5240000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-20\", \"investors\": null}, {\"id\": 141556, \"uuid\": \"20f36926-cb44-fa2d-9895-dd74bab195e0\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 28000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-05-05\", \"investors\": null}, {\"id\": 141555, \"uuid\": \"a22ed6e6-193a-a794-3c02-2f9bdab18e71\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 14000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-02-21\", \"investors\": null}, {\"id\": 141554, \"uuid\": \"aec78895-5ca5-8e46-a05c-5e28d980f6b9\", \"legal_entity_uuid\": \"e054c055-e928-cb74-1742-3d755ecb4b5b\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 6500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-05-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gsfbcieglzyb4csmmlhx",
+                        "name": "Drawbridge-Inc."
+                    },
+                    "position": "Front End Engineering Intern",
+                    "startDate": "2014-01-01",
+                    "name": "Drawbridge-Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gsfbcieglzyb4csmmlhx"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2013-04-01",
+                    "legalEntity": "{\"id\": 747119, \"name\": \"Oracle\", \"uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/lftp498venorpfdjmczr\", \"description\": \"Oracle is an integrated cloud application and platform services that sells a range of enterprise information technology solutions.\", \"headcount\": \"10000+\", \"founding_date\": \"1977-06-16\", \"website\": \"https://www.oracle.com\", \"location\": \"Austin\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [1337260], \"executive_people_profile_ids\": [38117, 230874, 199903, 79444, 577747, 579101, 237286, 122715, 998444, 469805, 470113, 475104, 1316327, 1329819, 1331174, 731770, 731040, 1451448, 1588626, 739518, 405229, 413330, 645554, 1569166, 791613, 1774309, 1776602, 1777131, 125362, 321512, 694456, 432341, 1515087, 952940, 1210323, 2240738, 2963407, 1091216, 382400, 1089770, 526353, 527895, 527818, 2917529, 3309515, 3398458, 1074267, 1625568, 1697275, 1704535, 1939904, 767339, 529858, 2149457, 2149603, 1369809, 1375869, 2764669, 975736, 2885744, 493984, 494216, 498203, 1206795, 1641613, 2069754, 3098222, 3108761, 3108951, 978490, 1690060, 1878066, 1890443, 2383810, 2597493, 2128137, 3376342, 2626007, 2626395, 1487063, 1510357, 1729235, 2507265, 1750058, 1967519, 1973617, 2810859, 2853290, 2854509, 3235923, 3241136, 3130833, 2200926, 3211171, 3213141, 3215715, 3229823, 225863, 199327, 96684, 40575, 228575, 97905, 89387, 92571, 114172, 117584, 469144, 470023, 891154, 473161, 1020278, 1314376, 155881, 181215, 181294, 1433807, 1130690, 1301377, 607022, 412634, 607670, 748857, 655696, 1557615, 1064107, 1065446, 797035, 1777789, 127137, 1153193, 2009533, 2296858, 2298966, 723855, 1514842, 1516162, 1176923, 1039059, 2684047, 291954, 293714, 2261097, 2965000, 3159124, 3405650, 1087806, 1096332, 1107460, 1111589, 1694616, 1113910, 1694956, 768782, 771260, 1944846, 1948058, 1951036, 2225514, 1370592, 2149890, 2569056, 2572934, 2574487, 975510, 1189340, 1655536, 3109240, 3273021, 2287224, 2289211, 1669646, 1669731, 1687836, 2736723, 2941917, 2943312, 3175158, 2606989, 2844210, 1728877, 1728431, 2132753, 1750047, 1748828, 2811679, 1976118, 2810988, 2816662, 2178774, 2410070, 3212251, 3214727, 3225748, 48093, 199256, 204345, 579472, 468563, 468457, 593068, 1020155, 593048, 475170, 676727, 477790, 476631, 1431861, 919087, 1588871, 739011, 413312, 614826, 633338, 1555734, 1801285, 632875, 633749, 2024905, 794371, 2027409, 810371, 320499, 1777180, 812295, 710140, 327384, 428912, 451103, 1514893, 1170920, 2680040, 2681215, 2239524, 2684644, 2239825, 382888, 383662, 3162079, 3399691, 1515308, 1087377, 2215407, 1467884, 1349284, 765076, 1941839, 1706205, 769321, 1721920, 777390, 1239982, 1364121, 842004, 494059, 493740, 1191414, 2078308, 3108889, 2283095, 2283020, 2736416, 1689960, 2613376, 2132656, 3376310, 1507049, 1727400, 1750849, 2350106, 2809117, 2810520, 2811947, 1973670, 3077922, 3212180, 3224107, 3225381, 199644, 228810, 229005, 206183, 578129, 206136, 461911, 462531, 123645, 998686, 470560, 471601, 270978, 591798, 1306649, 472960, 473332, 667671, 155471, 155396, 1435394, 480039, 729287, 1132928, 1587582, 1587606, 632832, 1557442, 1807717, 2025142, 1774613, 796590, 811398, 432081, 720414, 950060, 1051943, 372938, 2964522, 528655, 2708243, 2902914, 530083, 3405709, 3408651, 1515284, 1075094, 1840862, 1087498, 1347530, 1349854, 1349471, 1696156, 755059, 1941221, 1715045, 768539, 782254, 2566299, 2759923, 492898, 976561, 506917, 1189662, 1656063, 1656672, 2076290, 2076805, 3109228, 3108349, 3267372, 2271515, 2272059, 2294280, 1691245, 2736622, 2745210, 1888740, 2936680, 2937882, 3414458, 3414636, 2614245, 2131833, 1504509, 1728294, 2811367, 2817238, 3062475, 3242656, 2806678, 228095, 231220, 98807, 87621, 578071, 578235, 237506, 206967, 208509, 265595, 590036, 1000410, 1002245, 1009507, 1337260, 1308078, 866176, 876785, 155759, 159708, 729764, 1120330, 1129778, 607351, 650232, 1555174, 1805774, 632125, 632873, 1063790, 1568913, 1776200, 1776796, 2025660, 319125, 323182, 2021304, 1153069, 2323221, 1036538, 275488, 2238508, 1407528, 2683548, 379132, 2435040, 2964679, 2972225, 382627, 2707324, 526664, 566146, 3156234, 1613325, 1840929, 1111388, 1624120, 1628306, 1941541, 765970, 1944393, 1949863, 768733, 1914723, 2084280, 2085119, 2220330, 1248045, 2149832, 2111379, 2171880, 2753049, 2758835, 493221, 492807, 496290, 1189156, 1656632, 2270165, 771953, 781099, 2282845, 1686158, 2467012, 2119639, 2132003, 1489458, 1496919, 1503589, 1505161, 1510400, 1729326, 2132934, 2350159, 2521675, 1967979, 2808450, 2808950, 2821231, 2823591, 3414601, 3077960, 3238627, 3238704, 2858041, 3248142, 113781, 579614, 122675, 469390, 590505, 470292, 1335655, 1336387, 1337101, 1307449, 877253, 480178, 480195, 1585672, 731609, 1129712, 1302047, 1555293, 1753607, 1777251, 320893, 694378, 694231, 432368, 1153013, 2493085, 1172809, 1176002, 1208773, 1403027, 2239324, 2683810, 1210582, 2962831, 564183, 527821, 529106, 3162032, 3167521, 3308927, 565842, 1112961, 762844, 1706262, 2084153, 1953218, 2087367, 1371817, 816871, 2572285, 2572204, 2763930, 1375672, 834439, 2577664, 1390156, 2595539, 489140, 2990675, 496464, 1189704, 1657533, 2076052, 2270451, 2284854, 2284466, 782019, 1669348, 1889051, 2945697, 2127718, 2622925, 1505032, 1732020, 2506069, 1966594, 2809087, 2808307, 2811575, 2813451, 3071787, 3077303, 3237853, 3334096, 3341183, 2196556, 2794149, 3212601, 3224087, 3224604, 97155, 199909, 463399, 468499, 591044, 1336309, 1336391, 1316337, 1316967, 1330952, 728743, 182298, 181771, 731227, 929460, 420930, 422148, 1555997, 1568580, 1065167, 319020, 126886, 1993093, 811692, 1165655, 1515277, 1170904, 1170539, 943449, 962241, 1033126, 2048390, 2236017, 2235906, 2962880, 382799, 382494, 1089156, 382181, 2705822, 2965280, 393093, 3303034, 563812, 566617, 2902595, 3146215, 3162187, 3386157, 3309576, 2205191, 1481246, 1694675, 1942457, 771929, 2220674, 2748303, 2761929, 2762630, 2595713, 2886644, 494174, 498448, 509651, 1190130, 1867036, 2269540, 3267636, 991189, 996694, 995369, 2283145, 1669834, 2448579, 2743633, 2933113, 2946263, 2125604, 2127378, 1510791, 1968003, 2814035, 1981807, 1990161, 2858013, 2195796, 2803883, 3210756, 3212696, 228936, 228846, 37587, 39053, 199300, 97059, 87204, 237373, 204841, 339045, 108728, 362033, 308071, 123542, 470229, 886046, 597418, 1020577, 1336332, 475424, 676561, 477114, 482919, 1301640, 1141191, 1601077, 651574, 632310, 631678, 631722, 1568372, 633513, 1063694, 2025655, 320275, 1148709, 1176548, 2237861, 2679478, 275707, 2680616, 1208708, 2239500, 1213916, 2254780, 2255227, 2708760, 528498, 529995, 3388966, 3398724, 3400386, 1114476, 754802, 756040, 767211, 1941085, 768615, 1942510, 1944558, 1944753, 2569278, 2106377, 2568912, 816245, 2575326, 490000, 975647, 2885800, 2885200, 2886638, 498546, 500858, 505704, 1189219, 1207652, 2076755, 2269302, 2272012, 2736742, 2932205, 2933058, 1892575, 2131645, 3374053, 1510833, 1750143, 1967198, 2521631, 1973066, 2811348, 2812813, 2814110, 2816953, 2856776, 3337313, 2802775, 3211490, 3225311], \"cb_permalink\": \"https://www.crunchbase.com/organization/oracle\", \"linkedin_url\": \"https://linkedin.com/company/oracle\", \"twitter\": \"https:/www.twitter.com/Oracle\", \"last_funding_round_date\": \"1983-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"oracle\", \"tags\": [{\"id\": 6369370, \"legal_entity_uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 6369371, \"legal_entity_uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6369372, \"legal_entity_uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6369373, \"legal_entity_uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94306, \"legal_entity_uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5944, \"hc_estimate_90_days\": 5914, \"hc_estimate_180_days\": 5854, \"hc_estimate_270_days\": 5936, \"hc_estimate_365_days\": 6132, \"hc_growth_90_days\": \"0.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"1.54000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"0.13000000000000000444089209850062616169452667236328125\", \"hc_growth_365_days\": \"-3.069999999999999840127884453977458178997039794921875\"}, \"funding_rounds\": [{\"id\": 396086, \"uuid\": \"59316f2a-9918-472f-afa1-d652f515674b\", \"legal_entity_uuid\": \"bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"1983-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lftp498venorpfdjmczr",
+                        "name": "Oracle"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2013-01-01",
+                    "name": "Oracle",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lftp498venorpfdjmczr"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2012-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Ontario Ministry of Community and Social Services"
+                    },
+                    "position": "Programmer Analyst",
+                    "startDate": "2012-04-01",
+                    "name": "Ontario Ministry of Community and Social Services",
+                    "logoUrl": null
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelor of Computer Science",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 166744, \"name\": \"University of Waterloo\", \"uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png\", \"description\": \"University of Waterloo is a public research university that operates colleges which offer undergraduate and graduate programs.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1957-07-01\", \"website\": \"https://uwaterloo.ca\", \"location\": \"Waterloo\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [1298406], \"executive_people_profile_ids\": [1407569, 2507258, 566104, 1943746, 1040346], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-waterloo\", \"linkedin_url\": \"https://linkedin.com/school/uwaterloo\", \"twitter\": \"http:/twitter.com/uWaterloo\", \"last_funding_round_date\": \"2023-10-12\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5819194, \"company_li_name\": \"uwaterloo\", \"tags\": [{\"id\": 6420576, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 6420577, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 6420578, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4318, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 226, \"hc_estimate_90_days\": 213, \"hc_estimate_180_days\": 209, \"hc_estimate_270_days\": 249, \"hc_estimate_365_days\": 250, \"hc_growth_90_days\": \"6.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"8.1300000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-9.2400000000000002131628207280300557613372802734375\", \"hc_growth_365_days\": \"-9.5999999999999996447286321199499070644378662109375\"}, \"funding_rounds\": [{\"id\": 486495, \"uuid\": \"17e8a13b-6a10-41ea-8fb2-c371980e60ae\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 550000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-12\", \"investors\": null}, {\"id\": 69606, \"uuid\": \"ebc66534-c8a5-449c-a3ac-bc1229aa7741\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-22\", \"investors\": null}, {\"id\": 69605, \"uuid\": \"23f3cfc4-7647-4cf9-bb0f-778f23ff1678\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1119194, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-13\", \"investors\": null}, {\"id\": 69604, \"uuid\": \"1327800c-7081-46a0-94db-367837b180ff\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-29\", \"investors\": null}, {\"id\": 69603, \"uuid\": \"dd42184a-98ac-c5f8-1bdb-f306dc736a6b\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}]}",
+                    "startDate": "2011-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png",
+                        "name": "University of Waterloo"
+                    },
+                    "name": "University of Waterloo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Finance",
+                    "degreeType": "Bachelor of Business Administration (BBA)",
+                    "endDate": "2016-01-01",
+                    "legalEntity": null,
+                    "startDate": "2011-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Wilfrid Laurier University"
+                    },
+                    "name": "Wilfrid Laurier University",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "46",
+                    "value": "Cycling"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "546"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

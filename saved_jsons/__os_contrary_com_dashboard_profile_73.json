@@ -1,0 +1,402 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Product @ Empora",
+                "educationExperiences": [
+                    {
+                        "degree": "Finance",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2018-01-01",
+                        "id": "123",
+                        "startDate": "2014-01-01",
+                        "universityId": 99
+                    },
+                    {
+                        "degree": "French",
+                        "degreeType": "Bachelor of Arts - BA",
+                        "endDate": "2018-01-01",
+                        "id": "124",
+                        "startDate": "2014-01-01",
+                        "universityId": 100
+                    },
+                    {
+                        "degree": "Valedictorian",
+                        "degreeType": "High School",
+                        "endDate": "2014-01-01",
+                        "id": "125",
+                        "startDate": "2010-01-01",
+                        "universityId": 101
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "Spring Semster 2017",
+                        "endDate": null,
+                        "id": "122",
+                        "startDate": null,
+                        "universityId": 98
+                    }
+                ],
+                "email": "thisisrachelnelson@gmail.com",
+                "firstName": "Rachel",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "73",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Nelson",
+                "linkedinName": "rachelraenelson",
+                "linkedinUrl": "https://linkedin.com/in/rachelraenelson/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "5daa34c3-6bcb-4d3a-815b-94187dec0044",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/73_Rachel_Nelson.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2022-03-01",
+                        "id": "454",
+                        "organizationId": 369,
+                        "position": "Senior Product Manager",
+                        "startDate": "2022-03-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "453",
+                        "organizationId": 368,
+                        "position": "Product Manager",
+                        "startDate": "2022-03-01"
+                    },
+                    {
+                        "endDate": "2018-11-01",
+                        "id": "455",
+                        "organizationId": 370,
+                        "position": "Product Strategy",
+                        "startDate": "2018-07-01"
+                    },
+                    {
+                        "endDate": "2018-05-01",
+                        "id": "457",
+                        "organizationId": 371,
+                        "position": "Intern",
+                        "startDate": "2017-11-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "458",
+                        "organizationId": 61,
+                        "position": "Summer Business Analyst",
+                        "startDate": "2017-06-01"
+                    },
+                    {
+                        "endDate": "2018-06-01",
+                        "id": "456",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2016-08-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "461",
+                        "organizationId": 374,
+                        "position": "Intern",
+                        "startDate": "2016-05-01"
+                    },
+                    {
+                        "endDate": "2017-05-01",
+                        "id": "459",
+                        "organizationId": 372,
+                        "position": "Intern",
+                        "startDate": "2016-02-01"
+                    },
+                    {
+                        "endDate": "2017-04-01",
+                        "id": "460",
+                        "organizationId": 373,
+                        "position": "Intern",
+                        "startDate": "2015-07-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "462",
+                        "organizationId": 375,
+                        "position": "Intern",
+                        "startDate": "2015-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 196417, \"name\": \"Empora Title\", \"uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hfq8uqmxqoeehf8adiss\", \"description\": \"Empora Title is a premier tech-forward title company that delivers visibility, transparency, speed and accuracy with every transaction\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.emporatitle.com\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/empora-title\", \"linkedin_url\": \"https://linkedin.com/company/empora-title\", \"twitter\": null, \"last_funding_round_date\": \"2021-12-01\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 26686226, \"company_li_name\": \"empora-title\", \"tags\": [{\"id\": 3844198, \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 8873, \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 9, \"hc_estimate_270_days\": 7, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-22.219999999999998863131622783839702606201171875\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 224972, \"uuid\": \"7259c6f8-a463-4aac-b307-5c0c34969ffa\", \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 22086226, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-01\", \"investors\": null}, {\"id\": 224971, \"uuid\": \"701741c6-93e4-4b0d-94bc-70c2e39f4eb2\", \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hfq8uqmxqoeehf8adiss",
+                        "name": "Empora Title"
+                    },
+                    "position": "Director of Product",
+                    "startDate": "2023-03-01",
+                    "name": "Empora Title",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hfq8uqmxqoeehf8adiss"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-03-01",
+                    "legalEntity": "{\"id\": 196417, \"name\": \"Empora Title\", \"uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/hfq8uqmxqoeehf8adiss\", \"description\": \"Empora Title is a premier tech-forward title company that delivers visibility, transparency, speed and accuracy with every transaction\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.emporatitle.com\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/empora-title\", \"linkedin_url\": \"https://linkedin.com/company/empora-title\", \"twitter\": null, \"last_funding_round_date\": \"2021-12-01\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 26686226, \"company_li_name\": \"empora-title\", \"tags\": [{\"id\": 3844198, \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 8873, \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 7, \"hc_estimate_90_days\": 7, \"hc_estimate_180_days\": 9, \"hc_estimate_270_days\": 7, \"hc_estimate_365_days\": 7, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-22.219999999999998863131622783839702606201171875\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 224972, \"uuid\": \"7259c6f8-a463-4aac-b307-5c0c34969ffa\", \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 22086226, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-01\", \"investors\": null}, {\"id\": 224971, \"uuid\": \"701741c6-93e4-4b0d-94bc-70c2e39f4eb2\", \"legal_entity_uuid\": \"91704e96-19e1-4442-9487-cd295065ac98\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 4600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hfq8uqmxqoeehf8adiss",
+                        "name": "Empora Title"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2022-03-01",
+                    "name": "Empora Title",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/hfq8uqmxqoeehf8adiss"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-03-01",
+                    "legalEntity": "{\"id\": 1227412, \"name\": \"Root\", \"uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n\", \"description\": \"Root is a technology company revolutionizing insurance through data science and technology.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2015-01-01\", \"website\": \"https://inc.joinroot.com/company\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/root-3486\", \"linkedin_url\": \"https://linkedin.com/company/rootinsurance\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"rootinsurance\", \"tags\": [{\"id\": 6104982, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"Insurance\", \"category\": \"Industry\"}, {\"id\": 6104983, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80468, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 27, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 28, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 39, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-3.569999999999999840127884453977458178997039794921875\", \"hc_growth_270_days\": \"-6.9000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-30.769999999999999573674358543939888477325439453125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n",
+                        "name": "Root Inc."
+                    },
+                    "position": "Senior Product Manager",
+                    "startDate": "2022-03-01",
+                    "name": "Root Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-03-01",
+                    "legalEntity": "{\"id\": 1227412, \"name\": \"Root\", \"uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n\", \"description\": \"Root is a technology company revolutionizing insurance through data science and technology.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2015-01-01\", \"website\": \"https://inc.joinroot.com/company\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/root-3486\", \"linkedin_url\": \"https://linkedin.com/company/rootinsurance\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"rootinsurance\", \"tags\": [{\"id\": 6104982, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"Insurance\", \"category\": \"Industry\"}, {\"id\": 6104983, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80468, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 27, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 28, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 39, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-3.569999999999999840127884453977458178997039794921875\", \"hc_growth_270_days\": \"-6.9000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-30.769999999999999573674358543939888477325439453125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n",
+                        "name": "Root Inc."
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2020-01-01",
+                    "name": "Root Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": "{\"id\": 1227412, \"name\": \"Root\", \"uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n\", \"description\": \"Root is a technology company revolutionizing insurance through data science and technology.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2015-01-01\", \"website\": \"https://inc.joinroot.com/company\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/root-3486\", \"linkedin_url\": \"https://linkedin.com/company/rootinsurance\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"rootinsurance\", \"tags\": [{\"id\": 6104982, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"Insurance\", \"category\": \"Industry\"}, {\"id\": 6104983, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80468, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 27, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 28, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 39, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-3.569999999999999840127884453977458178997039794921875\", \"hc_growth_270_days\": \"-6.9000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-30.769999999999999573674358543939888477325439453125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n",
+                        "name": "Root Inc."
+                    },
+                    "position": "Associate Product Manager",
+                    "startDate": "2018-12-01",
+                    "name": "Root Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-11-01",
+                    "legalEntity": "{\"id\": 377480, \"name\": \"LinkedIn\", \"uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rdp6fcqdcvqqcqn3jz72\", \"description\": \"LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.\", \"headcount\": \"10000+\", \"founding_date\": \"2003-05-05\", \"website\": \"http://linkedin.com\", \"location\": \"Sunnyvale\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1481351, 496688, 1717910, 1072921], \"executive_people_profile_ids\": [46184, 336532, 1577816, 752126, 630937, 1560038, 1807462, 789138, 694734, 1164955, 952612, 2677018, 144151, 1051127, 1412545, 292337, 2239708, 2907382, 1481351, 2223129, 2572276, 976230, 2887093, 505739, 1181504, 2076846, 2126399, 1504990, 1745909, 1750642, 1981962, 3337449, 2397251, 3229091, 228523, 48465, 584406, 1306792, 475775, 1435464, 181399, 732198, 1582091, 1292363, 1130090, 1776095, 795275, 2009255, 1514429, 449846, 2492471, 1172831, 1175942, 2031679, 144381, 2679947, 2237869, 2239374, 3146996, 1840954, 1114309, 766339, 1906417, 1949769, 2150973, 2568705, 839826, 486895, 502914, 1189641, 3261951, 2734396, 1878069, 2616961, 991471, 2509869, 1751504, 2522062, 3023336, 3225659, 99726, 577901, 206104, 362015, 864683, 1426698, 1123418, 607399, 2323221, 2677915, 374020, 2967401, 3398687, 1522852, 1072921, 1092036, 1349873, 1108621, 1114542, 1189136, 1657254, 1855520, 3084020, 2945970, 2606988, 2327516, 2858077, 1990999, 2650756, 3225312, 114277, 463563, 1009173, 595313, 858863, 916872, 1801102, 786405, 449294, 1397945, 1236334, 2715080, 2920677, 3162143, 3316108, 3400132, 1949915, 1866925, 1669584, 1889746, 2127548, 2514790, 1751191, 3252214, 2187400, 462233, 465638, 472925, 478542, 1316187, 1425798, 1327354, 180964, 729242, 632438, 2023953, 1996355, 452479, 1515899, 1516428, 1171832, 2043379, 2043625, 1208973, 2240963, 298638, 1826429, 1111004, 1696829, 1710200, 2084732, 2159129, 1387029, 496688, 2723975, 1874233, 2932232, 2946173, 3411922, 3414702, 2131719, 1733716, 1967605, 1991869, 2400752, 1004185, 853057, 157673, 476712, 480086, 607751, 754066, 2023925, 2024163, 319970, 2307809, 141703, 2679479, 1603044, 1517964, 1826518, 1840672, 1114490, 769574, 2151582, 2151206, 1373872, 3359835, 981771, 1967405, 1967279, 2527571, 2809085, 3284085, 3074160, 2854667, 2857894, 114336, 729273, 607153, 632023, 323182, 2235900, 2259661, 527999, 3309214, 1626289, 1933995, 1717910, 1914457, 1944490, 532793, 2872061, 499634, 3267590, 2928576, 2611913, 1505386, 1727349, 1741170, 2815677, 3341182, 2645200, 2795641, 229098, 39012, 123836, 265017, 272373, 596661, 1315281, 181621, 619504, 616272, 1801087, 807472, 1172433, 1170341, 2679566, 2682500, 2241362, 3303704, 2909300, 2715392, 3388831, 3399846, 3410073, 1538612, 1841270, 1480950, 1937965, 1706216, 781418, 505792, 1188398, 1691831, 1733552, 2522302, 3228485], \"cb_permalink\": \"https://www.crunchbase.com/organization/linkedin\", \"linkedin_url\": \"https://linkedin.com/company/linkedin\", \"twitter\": \"http:/www.twitter.com/linkedin\", \"last_funding_round_date\": \"2016-02-15\", \"last_funding_round_name\": \"Private Equity Round\", \"total_funding_amount\": 154800000, \"company_li_name\": \"linkedin\", \"tags\": [{\"id\": 6362693, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Social Media\", \"category\": \"Industry\"}, {\"id\": 6362694, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Social Recruiting\", \"category\": \"Industry\"}, {\"id\": 6362692, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Recruiting\", \"category\": \"Industry\"}, {\"id\": 6362691, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Professional Networking\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 127167, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4264, \"hc_estimate_90_days\": 4264, \"hc_estimate_180_days\": 4267, \"hc_estimate_270_days\": 4379, \"hc_estimate_365_days\": 4402, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-0.070000000000000006661338147750939242541790008544921875\", \"hc_growth_270_days\": \"-2.62999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-3.12999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 59022, \"uuid\": \"7c3d83f6-45c2-1a34-7fc6-0eb4401a3002\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1022700000, \"announced_date\": \"2016-02-15\", \"investors\": null}, {\"id\": 59021, \"uuid\": \"190ed39e-f54a-4b51-a157-f69638dd8318\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 51600000, \"post_money_valuation_usd\": 1022700000, \"announced_date\": \"2009-12-01\", \"investors\": null}, {\"id\": 59020, \"uuid\": \"e74463fe-3744-ee22-f4be-1d546e7e2937\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 22700000, \"post_money_valuation_usd\": 1022700000, \"announced_date\": \"2008-10-22\", \"investors\": null}, {\"id\": 59019, \"uuid\": \"8575facc-00b7-b8bb-8bb9-ee65ed7f2fb3\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 53000000, \"post_money_valuation_usd\": 1053000000, \"announced_date\": \"2008-06-17\", \"investors\": null}, {\"id\": 59018, \"uuid\": \"708ab8c3-b144-d4ad-d069-be8dae8c5724\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 12800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-01-29\", \"investors\": null}, {\"id\": 59017, \"uuid\": \"1de6572f-c5e6-5da6-2ee1-7c7cbf10cd8e\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2004-10-01\", \"investors\": null}, {\"id\": 59016, \"uuid\": \"7d0ddbe1-403b-4685-8b12-5e5dd4a13093\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 4700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2003-11-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rdp6fcqdcvqqcqn3jz72",
+                        "name": "LinkedIn"
+                    },
+                    "position": "Product Strategy  Analytics",
+                    "startDate": "2018-07-01",
+                    "name": "LinkedIn",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rdp6fcqdcvqqcqn3jz72"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2016-08-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-05-01",
+                    "legalEntity": "{\"id\": 1227412, \"name\": \"Root\", \"uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n\", \"description\": \"Root is a technology company revolutionizing insurance through data science and technology.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2015-01-01\", \"website\": \"https://inc.joinroot.com/company\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/root-3486\", \"linkedin_url\": \"https://linkedin.com/company/rootinsurance\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"rootinsurance\", \"tags\": [{\"id\": 6104982, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"Insurance\", \"category\": \"Industry\"}, {\"id\": 6104983, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"name\": \"IT Infrastructure\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 80468, \"legal_entity_uuid\": \"8600889d-7c33-4a9c-b45a-d82947c93486\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 27, \"hc_estimate_90_days\": 27, \"hc_estimate_180_days\": 28, \"hc_estimate_270_days\": 29, \"hc_estimate_365_days\": 39, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-3.569999999999999840127884453977458178997039794921875\", \"hc_growth_270_days\": \"-6.9000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-30.769999999999999573674358543939888477325439453125\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n",
+                        "name": "Root Insurance Company"
+                    },
+                    "position": "Intern",
+                    "startDate": "2017-11-01",
+                    "name": "Root Insurance Company",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vh6xy17wqjjybyx7jx0n"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 179039, \"name\": \"McKinsey & Company\", \"uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png\", \"description\": \"McKinsey & Company is a global management consulting firm and trusted advisor by businesses, governments, and institutions.\", \"headcount\": \"10000+\", \"founding_date\": \"1926-01-01\", \"website\": \"http://www.mckinsey.com\", \"location\": \"Vienna\", \"country\": \"AUT\", \"region\": \"Wien\", \"founder_people_profile_ids\": [4133473, 1825782], \"executive_people_profile_ids\": [3053042, 791339, 815946, 769621, 183812, 3130727, 1967068, 271389, 3245, 1344763, 2741793, 3024633, 1941985, 418717, 1514270, 2471698, 681625, 1992042, 275511, 109582, 2990793, 2708985, 577686, 1840759, 2243371, 235041, 2412722, 2924419, 2425564], \"cb_permalink\": \"https://www.crunchbase.com/organization/mckinsey-company\", \"linkedin_url\": \"https://linkedin.com/company/mckinsey\", \"twitter\": \"http:/twitter.com/McKinsey\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mckinsey\", \"tags\": [{\"id\": 6371858, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Professional Services\", \"category\": \"Industry\"}, {\"id\": 6371857, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6371856, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"name\": \"Consulting\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 3461, \"legal_entity_uuid\": \"568b48b2-3f1e-4bd9-6921-b6d2e712fd20\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1972, \"hc_estimate_90_days\": 1903, \"hc_estimate_180_days\": 1858, \"hc_estimate_270_days\": 1846, \"hc_estimate_365_days\": 1800, \"hc_growth_90_days\": \"3.62999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"6.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"9.5600000000000004973799150320701301097869873046875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png",
+                        "name": "McKinsey  Company"
+                    },
+                    "position": "Summer Business Analyst",
+                    "startDate": "2017-06-01",
+                    "name": "McKinsey  Company",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mckinsey.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-05-01",
+                    "legalEntity": "{\"id\": 2186803, \"name\": \"Rev1 Ventures\", \"uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rev1ventures.png\", \"description\": \"Rev1 Ventures is an investor startup studio that combines capital and strategic services to help startups scale and corporates innovate.\", \"headcount\": \"11-50\", \"founding_date\": \"2005-01-01\", \"website\": \"http://www.rev1ventures.com\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1348255, 485144, 2017012, 2736690, 977697, 2764177, 528810], \"cb_permalink\": \"https://www.crunchbase.com/organization/techcolumbus-2\", \"linkedin_url\": \"https://linkedin.com/company/rev1ventures\", \"twitter\": \"http:/twitter.com/rev1ventures\", \"last_funding_round_date\": \"2022-07-22\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 0, \"company_li_name\": \"rev1ventures\", \"tags\": [{\"id\": 4836950, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 4836949, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Biopharma\", \"category\": \"Industry\"}, {\"id\": 4836953, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4836952, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Incubators\", \"category\": \"Industry\"}, {\"id\": 4836957, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 4836956, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 4836955, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Life Science\", \"category\": \"Industry\"}, {\"id\": 4836954, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 4836951, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Health Diagnostics\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 60884, \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 16, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 17, \"hc_estimate_270_days\": 18, \"hc_estimate_365_days\": 18, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-11.1099999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"-11.1099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 312916, \"uuid\": \"d87329fe-5f70-48af-a094-e6f80eefb747\", \"legal_entity_uuid\": \"26a9ec60-d5b3-1873-cb5f-e417662c1f18\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-22\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rev1ventures.png",
+                        "name": "Rev1 Ventures"
+                    },
+                    "position": "Intern",
+                    "startDate": "2016-02-01",
+                    "name": "Rev1 Ventures",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/rev1ventures.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-04-01",
+                    "legalEntity": "{\"id\": 1074422, \"name\": \"Iridium Technology\", \"uuid\": \"3e7e0220-61ed-4ea5-bdbc-8e3a19b16f6b\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/xk6jo6jogrcdsl1fdmke\", \"description\": \"Iridium Technology is a global firm focused specifically on business intelligence (BI) for legal and professional services firms.\", \"headcount\": \"11-50\", \"founding_date\": \"2009-01-01\", \"website\": \"https://www.iridium-technology.com/\", \"location\": \"Reno\", \"country\": \"USA\", \"region\": \"Nevada\", \"founder_people_profile_ids\": [1337077], \"executive_people_profile_ids\": [3212385, 477056, 1337077], \"cb_permalink\": \"https://www.crunchbase.com/organization/iridium-technology\", \"linkedin_url\": \"https://linkedin.com/company/iridium-technology\", \"twitter\": \"https:/twitter.com/iridiumtek\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"iridium-technology\", \"tags\": [{\"id\": 6682190, \"legal_entity_uuid\": \"3e7e0220-61ed-4ea5-bdbc-8e3a19b16f6b\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 6682189, \"legal_entity_uuid\": \"3e7e0220-61ed-4ea5-bdbc-8e3a19b16f6b\", \"name\": \"Legal\", \"category\": \"Industry\"}, {\"id\": 6682188, \"legal_entity_uuid\": \"3e7e0220-61ed-4ea5-bdbc-8e3a19b16f6b\", \"name\": \"Information Technology\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 178876, \"legal_entity_uuid\": \"3e7e0220-61ed-4ea5-bdbc-8e3a19b16f6b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": null, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xk6jo6jogrcdsl1fdmke",
+                        "name": "Iridium Technology"
+                    },
+                    "position": "Intern",
+                    "startDate": "2015-07-01",
+                    "name": "Iridium Technology",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/xk6jo6jogrcdsl1fdmke"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 1618081, \"name\": \"Procter & Gamble Company\", \"uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/lxt6pdgz6hyqysfvfate\", \"description\": \"Procter & Gamble Company offers a variety of consumer goods products.\", \"headcount\": \"10000+\", \"founding_date\": \"1837-08-21\", \"website\": \"https://us.pg.com/\", \"location\": \"Cincinnati\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [97462, 96531, 670861, 677558, 678918, 1433470, 1443457, 413107, 1805741, 1568331, 2025133, 795552, 2026814, 1208074, 275448, 3302685, 769730, 770529, 2568939, 2566978, 815266, 2885414, 493525, 1656698, 1888019, 2347462, 1741880, 1992583, 3230791, 3241548, 2181777, 228007, 581632, 468755, 676591, 1432175, 482358, 728552, 1089611, 3145972, 3145560, 3158929, 1524381, 1087653, 1348051, 768167, 781629, 2568471, 1248005, 506219, 1669131, 2736092, 2928521, 2597500, 2138430, 1990156, 3238164, 3240900, 37994, 205878, 361923, 1020025, 481196, 1302157, 738929, 795712, 1170450, 1210348, 2241446, 3389400, 1693205, 2568287, 2161392, 2567149, 815310, 2763744, 1383453, 485076, 3363482, 2075799, 3108853, 1669341, 2448679, 1890126, 1507014, 3224919, 228871, 1307313, 475644, 678504, 2023770, 125311, 2238702, 2683142, 3162168, 2577173, 503571, 1970905, 1990338, 1990357, 2175199, 97058, 577694, 876854, 1435680, 2237598, 1209966, 1088228, 1088834, 2709011, 548649, 1840896, 754701, 2569026, 2574780, 2076227, 2626195, 3224498, 1020226, 891359, 473384, 1329197, 1274732, 1555795, 631664, 318374, 319688, 320567, 322992, 326499, 1152816, 2025357, 2680749, 2683919, 528980, 3146242, 1696573, 764978, 1708152, 1373485, 489011, 489137, 493115, 1207565, 2284014, 1689863, 2932466, 3376170, 1507130, 1991443, 469934, 1021118, 1072042, 795161, 322810, 958025, 275461, 276254, 529898, 3159528, 3311455, 1347255, 766024, 766723, 815786, 1655867, 2843939, 1503969, 3256612, 204758, 589987, 886448, 1307503, 1317189, 1329847, 1434266, 1301410, 608108, 655816, 1153279, 2021727, 294089, 755628, 1705616, 2566078, 816499, 2572981, 2764776, 971118, 2943755, 2597317, 1727908, 3283220], \"cb_permalink\": \"https://www.crunchbase.com/organization/procter-and-gamble\", \"linkedin_url\": \"https://linkedin.com/company/procter-and-gamble\", \"twitter\": \"https:/twitter.com/proctergamble\", \"last_funding_round_date\": \"2021-04-18\", \"last_funding_round_name\": \"Funding Round\", \"total_funding_amount\": 300000, \"company_li_name\": \"procter-and-gamble\", \"tags\": [{\"id\": 6367673, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Nutrition\", \"category\": \"Industry\"}, {\"id\": 6367669, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Beauty\", \"category\": \"Industry\"}, {\"id\": 6367670, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Brand Marketing\", \"category\": \"Industry\"}, {\"id\": 6367671, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Consumer Goods\", \"category\": \"Industry\"}, {\"id\": 6367672, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Cosmetics\", \"category\": \"Industry\"}, {\"id\": 6367674, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Personal Health\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 163739, \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 557, \"hc_estimate_90_days\": 545, \"hc_estimate_180_days\": 512, \"hc_estimate_270_days\": 505, \"hc_estimate_365_days\": 502, \"hc_growth_90_days\": \"2.20000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"8.78999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"10.300000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"10.96000000000000085265128291212022304534912109375\"}, \"funding_rounds\": [{\"id\": 107794, \"uuid\": \"004ac389-5db5-40e6-8445-41930c5faf1a\", \"legal_entity_uuid\": \"5d910027-649d-c49c-2aa0-863ddc47183f\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-04-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxt6pdgz6hyqysfvfate",
+                        "name": "Procter  Gamble"
+                    },
+                    "position": "Intern",
+                    "startDate": "2016-05-01",
+                    "name": "Procter  Gamble",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxt6pdgz6hyqysfvfate"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": "{\"id\": 377583, \"name\": \"The Goodyear Tire & Rubber\", \"uuid\": \"dee14f99-1561-397c-981e-31d808e01891\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1405341474/wyawoifwoonwnyuuntdk.png\", \"description\": \"Goodyear is one of the worlds largest tire companies, with operations in most regions of the world.\", \"headcount\": \"10000+\", \"founding_date\": \"1898-01-01\", \"website\": \"http://www.goodyear.com\", \"location\": \"Akron\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [677226, 1335890], \"cb_permalink\": \"https://www.crunchbase.com/organization/the-goodyear-tire-rubber\", \"linkedin_url\": \"https://linkedin.com/company/goodyear\", \"twitter\": \"http:/twitter.com/goodyearblimp\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"goodyear\", \"tags\": [{\"id\": 4865469, \"legal_entity_uuid\": \"dee14f99-1561-397c-981e-31d808e01891\", \"name\": \"Communities\", \"category\": \"Industry\"}, {\"id\": 4865468, \"legal_entity_uuid\": \"dee14f99-1561-397c-981e-31d808e01891\", \"name\": \"Automotive\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 132116, \"legal_entity_uuid\": \"dee14f99-1561-397c-981e-31d808e01891\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 32, \"hc_estimate_90_days\": 33, \"hc_estimate_180_days\": 35, \"hc_estimate_270_days\": 33, \"hc_estimate_365_days\": 38, \"hc_growth_90_days\": \"-3.029999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-8.57000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-3.029999999999999804600747665972448885440826416015625\", \"hc_growth_365_days\": \"-15.78999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1405341474/wyawoifwoonwnyuuntdk.png",
+                        "name": "The Goodyear Tire  Rubber Company"
+                    },
+                    "position": "Intern",
+                    "startDate": "2015-05-01",
+                    "name": "The Goodyear Tire  Rubber Company",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1405341474/wyawoifwoonwnyuuntdk.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Spring Semster 2017",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Universit Paris-Sorbonne"
+                    },
+                    "name": "Universit Paris-Sorbonne",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "French",
+                    "degreeType": "Bachelor of Arts - BA",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1179384, \"name\": \"The Ohio State University College of Arts and Sciences\", \"uuid\": \"af4996e7-18a4-44a4-8c85-a0a6e674a21b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-ohio-state-university-college-of-arts-and-sciences.png\", \"description\": \"The Ohio State University College of Arts and Sciences provides a foundation for undergraduate and graduate education and research.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1870-01-01\", \"website\": \"https://artsandsciences.osu.edu\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Ohio\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/the-ohio-state-university-college-of-arts-and-sciences\", \"linkedin_url\": \"https://linkedin.com/school/the-ohio-state-university-college-of-arts-and-sciences\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"the-ohio-state-university-college-of-arts-and-sciences\", \"tags\": [{\"id\": 5055485, \"legal_entity_uuid\": \"af4996e7-18a4-44a4-8c85-a0a6e674a21b\", \"name\": \"Higher Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 124268, \"legal_entity_uuid\": \"af4996e7-18a4-44a4-8c85-a0a6e674a21b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 2, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 2, \"hc_growth_90_days\": \"50\", \"hc_growth_180_days\": \"50\", \"hc_growth_270_days\": \"50\", \"hc_growth_365_days\": \"50\"}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-ohio-state-university-college-of-arts-and-sciences.png",
+                        "name": "The Ohio State University College of Arts and Sciences"
+                    },
+                    "name": "The Ohio State University College of Arts and Sciences",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/the-ohio-state-university-college-of-arts-and-sciences.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Finance",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "The Ohio State University Fisher College of Business"
+                    },
+                    "name": "The Ohio State University Fisher College of Business",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Valedictorian",
+                    "degreeType": "High School",
+                    "endDate": "2014-01-01",
+                    "legalEntity": null,
+                    "startDate": "2010-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Robert McQueen High School"
+                    },
+                    "name": "Robert McQueen High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "73"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

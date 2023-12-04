@@ -1,0 +1,384 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Lead Software Engineer at Anduril Industries",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor of Science (B.Sc.)",
+                        "endDate": "2016-01-01",
+                        "id": "831",
+                        "startDate": "2015-01-01",
+                        "universityId": 428
+                    },
+                    {
+                        "degree": null,
+                        "degreeType": "-",
+                        "endDate": "2015-01-01",
+                        "id": "832",
+                        "startDate": "2007-01-01",
+                        "universityId": 429
+                    }
+                ],
+                "email": "pgoldsborough@anduril.com",
+                "firstName": "Peter",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "456",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Goldsborough",
+                "linkedinName": "petergoldsborough",
+                "linkedinUrl": "https://linkedin.com/in/petergoldsborough/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "4701ec24-fde5-4bba-9fe1-453e4a4fe2ba",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/c44a2e2a0eda4b3ad29df792376e2171/3f94dab5/01A50C8B-C642-41B4-8ADC-E59BD97B4DA7.jpeg?ts=1659020057&userId=usrMxTlLuLWjeji2x&cs=ceb141d40d25651f",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4658",
+                        "organizationId": 984443,
+                        "position": "Cyber Auxilarist",
+                        "startDate": "2023-07-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2987",
+                        "organizationId": 5,
+                        "position": "Fellow",
+                        "startDate": "2021-04-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2988",
+                        "organizationId": 1612,
+                        "position": "Software Engineer",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-10-01",
+                        "id": "2989",
+                        "organizationId": 32,
+                        "position": "Software Engineer",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2017-10-01",
+                        "id": "2990",
+                        "organizationId": 1988,
+                        "position": "Research Intern",
+                        "startDate": "2017-08-01"
+                    },
+                    {
+                        "endDate": "2017-04-01",
+                        "id": "2991",
+                        "organizationId": 1989,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2017-03-01"
+                    },
+                    {
+                        "endDate": "2017-04-01",
+                        "id": "3850",
+                        "organizationId": 2904,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2017-03-01"
+                    },
+                    {
+                        "endDate": "2017-03-01",
+                        "id": "2992",
+                        "organizationId": 277,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2016-11-01"
+                    },
+                    {
+                        "endDate": "2017-03-01",
+                        "id": "4659",
+                        "organizationId": 984408,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2016-11-01"
+                    },
+                    {
+                        "endDate": "2016-11-01",
+                        "id": "2993",
+                        "organizationId": 6,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2016-08-01"
+                    },
+                    {
+                        "endDate": "2016-09-01",
+                        "id": "2994",
+                        "organizationId": 1990,
+                        "position": "Research Assistant",
+                        "startDate": "2016-04-01"
+                    },
+                    {
+                        "endDate": "2016-04-01",
+                        "id": "2995",
+                        "organizationId": 1991,
+                        "position": "Research Assistant",
+                        "startDate": "2014-07-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "Marine Corps Cyber Auxiliary"
+                    },
+                    "position": "Cyber Auxilarist",
+                    "startDate": "2023-07-01",
+                    "name": "Marine Corps Cyber Auxiliary",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 421573, \"name\": \"Anduril Industries\", \"uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug\", \"description\": \"Anduril Industries is a defense product company that builds technology for military agencies and border surveillance.\", \"headcount\": \"501-1000\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.anduril.com\", \"location\": \"Costa Mesa\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1671170, 1686698, 3086089, 1191730], \"executive_people_profile_ids\": [614675, 1709131, 2086587, 1165456, 1005042, 1180635, 1671170, 2107346, 1736797, 754533, 1191730, 3086089, 1667673, 1686698], \"cb_permalink\": \"https://www.crunchbase.com/organization/anduril-industries\", \"linkedin_url\": \"https://linkedin.com/company/andurilindustries\", \"twitter\": \"https:/www.twitter.com/anduriltech\", \"last_funding_round_date\": \"2022-12-02\", \"last_funding_round_name\": \"Series E\", \"total_funding_amount\": 2171000000, \"company_li_name\": \"andurilindustries\", \"tags\": [{\"id\": 1850499, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Virtual Reality\", \"category\": \"Industry\"}, {\"id\": 1850498, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"National Security\", \"category\": \"Industry\"}, {\"id\": 1850497, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Government\", \"category\": \"Industry\"}, {\"id\": 1850496, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Augmented Reality\", \"category\": \"Industry\"}, {\"id\": 1850495, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 144880, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1221, \"hc_estimate_90_days\": 1247, \"hc_estimate_180_days\": 1080, \"hc_estimate_270_days\": 933, \"hc_estimate_365_days\": 833, \"hc_growth_90_days\": \"-2.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"13.0600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"30.870000000000000994759830064140260219573974609375\", \"hc_growth_365_days\": \"46.5799999999999982946974341757595539093017578125\"}, \"funding_rounds\": [{\"id\": 104054, \"uuid\": \"840907f5-b408-4c3c-9283-d2e410cfa272\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 1480000000, \"post_money_valuation_usd\": 8480000000, \"announced_date\": \"2022-12-02\", \"investors\": null}, {\"id\": 487490, \"uuid\": \"fb0a04cf-107b-4118-8e31-f1edbf96c969\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 4600000000, \"announced_date\": \"2022-03-17\", \"investors\": null}, {\"id\": 104053, \"uuid\": \"d5bfd2d6-1644-4528-a05d-77bcbdc23c10\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 450000000, \"post_money_valuation_usd\": 4600000000, \"announced_date\": \"2021-06-17\", \"investors\": null}, {\"id\": 104052, \"uuid\": \"bc53d7d0-b493-4154-a302-26a7fd2cf96e\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 1900000000, \"announced_date\": \"2020-07-01\", \"investors\": null}, {\"id\": 104051, \"uuid\": \"33fe4970-2b55-4c12-8e86-d3540391a916\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2019-09-11\", \"investors\": null}, {\"id\": 104050, \"uuid\": \"32661f15-6330-4fc0-9ae6-ba9751a73e44\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 41000000, \"post_money_valuation_usd\": 250000000, \"announced_date\": \"2018-06-11\", \"investors\": null}, {\"id\": 104049, \"uuid\": \"25afedd8-3b6a-4f1f-b679-6b272f29b1df\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug",
+                        "name": "Anduril Industries"
+                    },
+                    "position": "Lead Software Engineer",
+                    "startDate": "2022-09-01",
+                    "name": "Anduril Industries",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Fellow",
+                    "startDate": "2021-02-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-09-01",
+                    "legalEntity": "{\"id\": 421573, \"name\": \"Anduril Industries\", \"uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug\", \"description\": \"Anduril Industries is a defense product company that builds technology for military agencies and border surveillance.\", \"headcount\": \"501-1000\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.anduril.com\", \"location\": \"Costa Mesa\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1671170, 1686698, 3086089, 1191730], \"executive_people_profile_ids\": [614675, 1709131, 2086587, 1165456, 1005042, 1180635, 1671170, 2107346, 1736797, 754533, 1191730, 3086089, 1667673, 1686698], \"cb_permalink\": \"https://www.crunchbase.com/organization/anduril-industries\", \"linkedin_url\": \"https://linkedin.com/company/andurilindustries\", \"twitter\": \"https:/www.twitter.com/anduriltech\", \"last_funding_round_date\": \"2022-12-02\", \"last_funding_round_name\": \"Series E\", \"total_funding_amount\": 2171000000, \"company_li_name\": \"andurilindustries\", \"tags\": [{\"id\": 1850499, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Virtual Reality\", \"category\": \"Industry\"}, {\"id\": 1850498, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"National Security\", \"category\": \"Industry\"}, {\"id\": 1850497, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Government\", \"category\": \"Industry\"}, {\"id\": 1850496, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Augmented Reality\", \"category\": \"Industry\"}, {\"id\": 1850495, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 144880, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1221, \"hc_estimate_90_days\": 1247, \"hc_estimate_180_days\": 1080, \"hc_estimate_270_days\": 933, \"hc_estimate_365_days\": 833, \"hc_growth_90_days\": \"-2.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"13.0600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"30.870000000000000994759830064140260219573974609375\", \"hc_growth_365_days\": \"46.5799999999999982946974341757595539093017578125\"}, \"funding_rounds\": [{\"id\": 104054, \"uuid\": \"840907f5-b408-4c3c-9283-d2e410cfa272\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 1480000000, \"post_money_valuation_usd\": 8480000000, \"announced_date\": \"2022-12-02\", \"investors\": null}, {\"id\": 487490, \"uuid\": \"fb0a04cf-107b-4118-8e31-f1edbf96c969\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 4600000000, \"announced_date\": \"2022-03-17\", \"investors\": null}, {\"id\": 104053, \"uuid\": \"d5bfd2d6-1644-4528-a05d-77bcbdc23c10\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 450000000, \"post_money_valuation_usd\": 4600000000, \"announced_date\": \"2021-06-17\", \"investors\": null}, {\"id\": 104052, \"uuid\": \"bc53d7d0-b493-4154-a302-26a7fd2cf96e\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 1900000000, \"announced_date\": \"2020-07-01\", \"investors\": null}, {\"id\": 104051, \"uuid\": \"33fe4970-2b55-4c12-8e86-d3540391a916\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2019-09-11\", \"investors\": null}, {\"id\": 104050, \"uuid\": \"32661f15-6330-4fc0-9ae6-ba9751a73e44\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 41000000, \"post_money_valuation_usd\": 250000000, \"announced_date\": \"2018-06-11\", \"investors\": null}, {\"id\": 104049, \"uuid\": \"25afedd8-3b6a-4f1f-b679-6b272f29b1df\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug",
+                        "name": "Anduril Industries"
+                    },
+                    "position": "Software Engineering Manager",
+                    "startDate": "2021-07-01",
+                    "name": "Anduril Industries",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 421573, \"name\": \"Anduril Industries\", \"uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug\", \"description\": \"Anduril Industries is a defense product company that builds technology for military agencies and border surveillance.\", \"headcount\": \"501-1000\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.anduril.com\", \"location\": \"Costa Mesa\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1671170, 1686698, 3086089, 1191730], \"executive_people_profile_ids\": [614675, 1709131, 2086587, 1165456, 1005042, 1180635, 1671170, 2107346, 1736797, 754533, 1191730, 3086089, 1667673, 1686698], \"cb_permalink\": \"https://www.crunchbase.com/organization/anduril-industries\", \"linkedin_url\": \"https://linkedin.com/company/andurilindustries\", \"twitter\": \"https:/www.twitter.com/anduriltech\", \"last_funding_round_date\": \"2022-12-02\", \"last_funding_round_name\": \"Series E\", \"total_funding_amount\": 2171000000, \"company_li_name\": \"andurilindustries\", \"tags\": [{\"id\": 1850499, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Virtual Reality\", \"category\": \"Industry\"}, {\"id\": 1850498, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"National Security\", \"category\": \"Industry\"}, {\"id\": 1850497, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Government\", \"category\": \"Industry\"}, {\"id\": 1850496, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Augmented Reality\", \"category\": \"Industry\"}, {\"id\": 1850495, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Aerospace\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 144880, \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1221, \"hc_estimate_90_days\": 1247, \"hc_estimate_180_days\": 1080, \"hc_estimate_270_days\": 933, \"hc_estimate_365_days\": 833, \"hc_growth_90_days\": \"-2.089999999999999857891452847979962825775146484375\", \"hc_growth_180_days\": \"13.0600000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"30.870000000000000994759830064140260219573974609375\", \"hc_growth_365_days\": \"46.5799999999999982946974341757595539093017578125\"}, \"funding_rounds\": [{\"id\": 104054, \"uuid\": \"840907f5-b408-4c3c-9283-d2e410cfa272\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series E\", \"cb_permalink\": null, \"investment_type\": \"series_e\", \"raised_amount_usd\": 1480000000, \"post_money_valuation_usd\": 8480000000, \"announced_date\": \"2022-12-02\", \"investors\": null}, {\"id\": 487490, \"uuid\": \"fb0a04cf-107b-4118-8e31-f1edbf96c969\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 4600000000, \"announced_date\": \"2022-03-17\", \"investors\": null}, {\"id\": 104053, \"uuid\": \"d5bfd2d6-1644-4528-a05d-77bcbdc23c10\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 450000000, \"post_money_valuation_usd\": 4600000000, \"announced_date\": \"2021-06-17\", \"investors\": null}, {\"id\": 104052, \"uuid\": \"bc53d7d0-b493-4154-a302-26a7fd2cf96e\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 1900000000, \"announced_date\": \"2020-07-01\", \"investors\": null}, {\"id\": 104051, \"uuid\": \"33fe4970-2b55-4c12-8e86-d3540391a916\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1000000000, \"announced_date\": \"2019-09-11\", \"investors\": null}, {\"id\": 104050, \"uuid\": \"32661f15-6330-4fc0-9ae6-ba9751a73e44\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 41000000, \"post_money_valuation_usd\": 250000000, \"announced_date\": \"2018-06-11\", \"investors\": null}, {\"id\": 104049, \"uuid\": \"25afedd8-3b6a-4f1f-b679-6b272f29b1df\", \"legal_entity_uuid\": \"41d91de0-370f-41c9-84f9-0879b1b9c7a1\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug",
+                        "name": "Anduril Industries"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-08-01",
+                    "name": "Anduril Industries",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bd95ccwbfdjwwroavzug"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-10-01",
+                    "legalEntity": "{\"id\": 1386016, \"name\": \"Facebook\", \"uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu\", \"description\": \"Facebook AI offers technology and engineering services like theory, algorithms, applications, software and hardware infrastructure.\", \"headcount\": \"501-1000\", \"founding_date\": \"2004-01-01\", \"website\": \"https://www.meta.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [38605, 55774, 861755, 1535741, 1837626, 1350363, 2612396, 241409, 2307479, 2493830, 1175955, 1372162, 499199, 2270839, 2447144, 2734237, 3040208, 3223279, 352147, 252696, 1284502, 1089831, 1066353, 1364530, 2582360, 511793, 1203732, 1647604, 3278137, 2854647, 229797, 896120, 846056, 873114, 1442712, 432368, 1814039, 1816397, 2468961, 3181446, 1489101, 467461, 862391, 1578970, 739404, 2061963, 1874866, 2944082, 3220921, 584566, 2500095, 1396635, 1940677, 976008, 2355633, 3247752, 785229, 952030, 2964097, 1813366, 2281912, 3278586, 2132899, 3203088, 482392, 730236, 1562926, 1754215, 2964256, 2971919, 1101942, 1180506, 2127164, 1991717, 3333856], \"cb_permalink\": \"https://www.crunchbase.com/organization/facebook-ai\", \"linkedin_url\": \"https://linkedin.com/company/facebook\", \"twitter\": \"https:/www.twitter.com/facebook\", \"last_funding_round_date\": \"2011-10-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 0, \"company_li_name\": \"facebook\", \"tags\": [{\"id\": 1258673, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1258672, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1258671, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 1258670, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 309939, \"uuid\": \"d94e775b-83aa-46c5-a873-7859462fc81a\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-10-21\", \"investors\": null}, {\"id\": 481414, \"uuid\": \"233b58d9-024e-4cc3-bbe4-f5b45fafcf13\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu",
+                        "name": "Facebook"
+                    },
+                    "position": "Senior Software Engineer",
+                    "startDate": "2019-01-01",
+                    "name": "Facebook",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-02-01",
+                    "legalEntity": "{\"id\": 1386016, \"name\": \"Facebook\", \"uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu\", \"description\": \"Facebook AI offers technology and engineering services like theory, algorithms, applications, software and hardware infrastructure.\", \"headcount\": \"501-1000\", \"founding_date\": \"2004-01-01\", \"website\": \"https://www.meta.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [38605, 55774, 861755, 1535741, 1837626, 1350363, 2612396, 241409, 2307479, 2493830, 1175955, 1372162, 499199, 2270839, 2447144, 2734237, 3040208, 3223279, 352147, 252696, 1284502, 1089831, 1066353, 1364530, 2582360, 511793, 1203732, 1647604, 3278137, 2854647, 229797, 896120, 846056, 873114, 1442712, 432368, 1814039, 1816397, 2468961, 3181446, 1489101, 467461, 862391, 1578970, 739404, 2061963, 1874866, 2944082, 3220921, 584566, 2500095, 1396635, 1940677, 976008, 2355633, 3247752, 785229, 952030, 2964097, 1813366, 2281912, 3278586, 2132899, 3203088, 482392, 730236, 1562926, 1754215, 2964256, 2971919, 1101942, 1180506, 2127164, 1991717, 3333856], \"cb_permalink\": \"https://www.crunchbase.com/organization/facebook-ai\", \"linkedin_url\": \"https://linkedin.com/company/facebook\", \"twitter\": \"https:/www.twitter.com/facebook\", \"last_funding_round_date\": \"2011-10-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 0, \"company_li_name\": \"facebook\", \"tags\": [{\"id\": 1258673, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1258672, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1258671, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 1258670, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 309939, \"uuid\": \"d94e775b-83aa-46c5-a873-7859462fc81a\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-10-21\", \"investors\": null}, {\"id\": 481414, \"uuid\": \"233b58d9-024e-4cc3-bbe4-f5b45fafcf13\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu",
+                        "name": "Facebook"
+                    },
+                    "position": "Software Engineer (AI Research)",
+                    "startDate": "2017-11-01",
+                    "name": "Facebook",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-10-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/broad-institute_2.png",
+                        "name": "Broad Institute of MIT and Harvard"
+                    },
+                    "position": "Research Intern",
+                    "startDate": "2017-08-01",
+                    "name": "Broad Institute of MIT and Harvard",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/broad-institute_2.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 1386016, \"name\": \"Facebook\", \"uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu\", \"description\": \"Facebook AI offers technology and engineering services like theory, algorithms, applications, software and hardware infrastructure.\", \"headcount\": \"501-1000\", \"founding_date\": \"2004-01-01\", \"website\": \"https://www.meta.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [38605, 55774, 861755, 1535741, 1837626, 1350363, 2612396, 241409, 2307479, 2493830, 1175955, 1372162, 499199, 2270839, 2447144, 2734237, 3040208, 3223279, 352147, 252696, 1284502, 1089831, 1066353, 1364530, 2582360, 511793, 1203732, 1647604, 3278137, 2854647, 229797, 896120, 846056, 873114, 1442712, 432368, 1814039, 1816397, 2468961, 3181446, 1489101, 467461, 862391, 1578970, 739404, 2061963, 1874866, 2944082, 3220921, 584566, 2500095, 1396635, 1940677, 976008, 2355633, 3247752, 785229, 952030, 2964097, 1813366, 2281912, 3278586, 2132899, 3203088, 482392, 730236, 1562926, 1754215, 2964256, 2971919, 1101942, 1180506, 2127164, 1991717, 3333856], \"cb_permalink\": \"https://www.crunchbase.com/organization/facebook-ai\", \"linkedin_url\": \"https://linkedin.com/company/facebook\", \"twitter\": \"https:/www.twitter.com/facebook\", \"last_funding_round_date\": \"2011-10-21\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 0, \"company_li_name\": \"facebook\", \"tags\": [{\"id\": 1258673, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1258672, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 1258671, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Hardware\", \"category\": \"Industry\"}, {\"id\": 1258670, \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 309939, \"uuid\": \"d94e775b-83aa-46c5-a873-7859462fc81a\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-10-21\", \"investors\": null}, {\"id\": 481414, \"uuid\": \"233b58d9-024e-4cc3-bbe4-f5b45fafcf13\", \"legal_entity_uuid\": \"a155128c-9fa8-4b08-9036-66ae11f598a3\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2005-01-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu",
+                        "name": "Facebook"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2017-05-01",
+                    "name": "Facebook",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fvxeozfdjsdfujhapvlu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-04-01",
+                    "legalEntity": "{\"id\": 1682450, \"name\": \"Mindi\", \"uuid\": \"e28f08d1-0cc2-377b-4e67-f8d34dfb9249\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1461591240/qtizih5aupchvkiicbf9.png\", \"description\": \"Mindi combines the best of human and artificial intelligence.\", \"headcount\": \"1-10\", \"founding_date\": \"2016-04-27\", \"website\": \"https://mindi.io\", \"location\": \"Covent Garden\", \"country\": \"GBR\", \"region\": \"Essex\", \"founder_people_profile_ids\": [1548487], \"executive_people_profile_ids\": [1548487, 2328687], \"cb_permalink\": \"https://www.crunchbase.com/organization/mindi\", \"linkedin_url\": \"https://linkedin.com/company/mindi\", \"twitter\": \"https:/twitter.com/minditech\", \"last_funding_round_date\": \"2016-06-20\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 120000, \"company_li_name\": \"mindi\", \"tags\": [{\"id\": 6345799, \"legal_entity_uuid\": \"e28f08d1-0cc2-377b-4e67-f8d34dfb9249\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}, {\"id\": 6345800, \"legal_entity_uuid\": \"e28f08d1-0cc2-377b-4e67-f8d34dfb9249\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 6345801, \"legal_entity_uuid\": \"e28f08d1-0cc2-377b-4e67-f8d34dfb9249\", \"name\": \"Virtual Reality\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 263532, \"uuid\": \"f4ef03ae-fde5-4fcd-8600-92ddd78451ec\", \"legal_entity_uuid\": \"e28f08d1-0cc2-377b-4e67-f8d34dfb9249\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 120000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1461591240/qtizih5aupchvkiicbf9.png",
+                        "name": "Mindi [Techstars London-2016]"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2017-03-01",
+                    "name": "Mindi [Techstars London-2016]",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1461591240/qtizih5aupchvkiicbf9.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-03-01",
+                    "legalEntity": "{\"id\": 465333, \"name\": \"Bloomberg\", \"uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v09ilyyugriqgyueijnr\", \"description\": \"Bloomberg provides news, data, analytics, and communication services for the global business and financial world.\", \"headcount\": \"10000+\", \"founding_date\": \"1981-01-01\", \"website\": \"http://www.bloomberg.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [3421954], \"executive_people_profile_ids\": [44392, 1909083, 485064, 1670013, 2620653, 40804, 144521, 494479, 3137822, 344664, 1921231, 2566582, 2816288, 305036, 167152, 1111437, 1697035, 1253136, 1496829, 2528895, 1977094, 1576947, 796408, 8803, 2234875, 3388875, 3400954, 2168700, 510268, 2620470, 3269588, 331012, 1179330, 2349828, 2524752, 3421954, 1436274, 1557702, 2022086, 1515207, 1949941, 1641155, 1643740, 2943876, 3242367, 3225900, 677478, 795371, 501833], \"cb_permalink\": \"https://www.crunchbase.com/organization/bloomberg\", \"linkedin_url\": \"https://linkedin.com/company/bloomberg\", \"twitter\": \"https:/www.twitter.com/Bloomberg\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bloomberg\", \"tags\": [{\"id\": 6375096, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"Analytics\", \"category\": \"Industry\"}, {\"id\": 6375102, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"News\", \"category\": \"Industry\"}, {\"id\": 6375101, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"Information Services\", \"category\": \"Industry\"}, {\"id\": 6375100, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6375099, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6375098, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"Business Intelligence\", \"category\": \"Industry\"}, {\"id\": 6375097, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"name\": \"Business Information Systems\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 100427, \"legal_entity_uuid\": \"3eae151d-c4b2-9a66-45a7-0dd77cdc3ab1\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1296, \"hc_estimate_90_days\": 1256, \"hc_estimate_180_days\": 1077, \"hc_estimate_270_days\": 926, \"hc_estimate_365_days\": 845, \"hc_growth_90_days\": \"3.180000000000000159872115546022541821002960205078125\", \"hc_growth_180_days\": \"20.3299999999999982946974341757595539093017578125\", \"hc_growth_270_days\": \"39.96000000000000085265128291212022304534912109375\", \"hc_growth_365_days\": \"53.36999999999999744204615126363933086395263671875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v09ilyyugriqgyueijnr",
+                        "name": "Bloomberg LP"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2016-11-01",
+                    "name": "Bloomberg LP",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v09ilyyugriqgyueijnr"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-11-01",
+                    "legalEntity": "{\"id\": 1439454, \"name\": \"Google\", \"uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fa8nmvofinznny6rkwvf\", \"description\": \"Google is a multinational corporation that specializes in Internet-related services and products.\", \"headcount\": \"10000+\", \"founding_date\": \"1998-01-01\", \"website\": \"https://www.google.com\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [449970, 375174, 326957, 1427878, 1418666, 1536256, 930968, 432082, 204217, 1144680, 2431816, 785493, 2609947, 1062614, 2562487, 2401827, 3315881, 875554, 1556104, 1667153, 521403, 953083, 2022400, 3365536], \"executive_people_profile_ids\": [36847, 43535, 200004, 98494, 75424, 336546, 212310, 122310, 355058, 463521, 246963, 257311, 262407, 270945, 859487, 1315838, 1316083, 159361, 478613, 480059, 479462, 1319906, 1329135, 1328519, 1439663, 1439705, 1268134, 1273479, 1286494, 731032, 1301580, 1301911, 1302159, 1137999, 1601146, 611970, 639286, 642575, 642455, 642302, 632198, 657126, 1807023, 1064573, 1065518, 1777060, 2026174, 796848, 796455, 123881, 1780650, 319625, 126924, 811167, 409, 9146, 17071, 2009300, 2012492, 1148513, 27135, 429579, 1158349, 720892, 452380, 2021767, 2021659, 1517283, 2305266, 2322168, 2500354, 943497, 2032002, 2035322, 2677543, 128828, 144896, 961081, 961984, 151095, 2682185, 1394991, 1395778, 1403635, 2683181, 2683965, 2684659, 1210279, 2239777, 2241266, 2246375, 1235367, 302307, 2253925, 2965000, 381897, 521403, 523845, 2709321, 391733, 552363, 528950, 528389, 2901072, 563412, 3148714, 3157802, 3159883, 3163370, 3389056, 3308930, 3391345, 3319416, 3405995, 1515377, 568326, 1524056, 1524512, 1536229, 1084536, 1087331, 2217637, 1466647, 1102587, 1107115, 1110047, 1472165, 1482109, 1625984, 1629285, 1937249, 1708403, 1710476, 1720530, 1909724, 1909983, 1914342, 2087189, 2222205, 1959393, 2149674, 2567270, 2568556, 2106491, 2562456, 1262675, 2154413, 2568499, 816962, 2569876, 1377422, 834678, 2575241, 834826, 2774037, 489710, 840819, 841265, 2594488, 3365544, 3368514, 3367910, 3372513, 492861, 498103, 498973, 1183291, 1189625, 1191511, 1198728, 1201220, 1206465, 1657236, 1846190, 1860191, 2054528, 3081118, 3082923, 3105327, 782703, 1667153, 2283163, 2460524, 2731300, 2742422, 2927992, 1874025, 1889074, 2938109, 2943027, 2956767, 3190432, 2382323, 2610032, 2135443, 1483860, 1495284, 1497687, 1498669, 1499743, 1510361, 2510840, 1750920, 1966901, 2526165, 2808688, 2808831, 1977369, 1985545, 2824135, 2832775, 1992761, 3283036, 3283332, 3057146, 3077472, 3240897, 3255584, 3323130, 3346555, 3348455, 1992034, 2191608, 2196915, 2197330, 2399114, 2406196, 2402388, 2646631, 2794409, 3033185, 3204730, 3211418, 3211901, 3225783, 39841, 98292, 84764, 87705, 350841, 113880, 355614, 582429, 464059, 587484, 269279, 469904, 1006483, 1012632, 1012891, 1018423, 896239, 593344, 848341, 849239, 599285, 862724, 876781, 678727, 1320175, 1326554, 1431704, 1329521, 181425, 480835, 730084, 1436160, 1285696, 731036, 920520, 930968, 1583529, 731650, 1589026, 606564, 1140810, 607912, 609261, 1551438, 1600918, 639118, 650811, 1807869, 1065510, 1069164, 2025663, 796780, 796574, 125256, 810466, 812467, 812688, 2002977, 431002, 432082, 2012601, 2016514, 1153473, 1170522, 702402, 720499, 445210, 2021081, 1514890, 2321257, 2498634, 2031624, 2502858, 1047803, 136435, 145571, 2682110, 1394928, 276659, 1208717, 1209016, 286620, 2240406, 2684601, 1215790, 1413841, 291756, 380559, 2415524, 2422825, 1091247, 524091, 392164, 544439, 551411, 525910, 562618, 3157189, 3161654, 3167499, 3389288, 3394297, 3302742, 3311498, 3312616, 3402115, 3406519, 3406525, 1607658, 1622498, 1621461, 1626419, 1536177, 1826268, 2207964, 1472611, 1337154, 1102391, 1101694, 1108975, 1481831, 815223, 1693486, 1114915, 759581, 764769, 768257, 1908957, 773730, 1910115, 1928305, 2084929, 2086787, 2227465, 2230980, 2106442, 2111820, 2540759, 533082, 1241515, 2536859, 1249755, 2149774, 2568038, 2751228, 1373128, 2572873, 2573449, 2572794, 2574809, 2594464, 2596410, 2597112, 490203, 494922, 496946, 496465, 505433, 1181504, 1190079, 1189875, 1189515, 1205062, 1645285, 1656075, 2891086, 2076755, 3263242, 3269200, 1668147, 2287870, 1674891, 1680238, 2465080, 2735536, 1689592, 1690735, 1876694, 2744296, 2746563, 2929650, 1890167, 1893166, 2946646, 3175801, 3411443, 3415308, 2366457, 2125919, 2605199, 2622932, 3365579, 3365567, 3376965, 1489514, 1510210, 1510181, 1727986, 2137110, 2143111, 2327516, 1731344, 2345771, 2522335, 2521423, 2810520, 2811049, 2836961, 3241052, 3328400, 3346391, 2181297, 2650079, 2650595, 3020911, 3203595, 3206470, 3211672, 3213030, 3223974, 3224166, 231285, 98193, 47935, 56919, 204217, 73847, 93640, 577550, 335481, 338648, 578292, 468989, 468287, 270950, 270989, 474250, 894387, 473576, 852437, 903077, 865147, 478804, 477166, 476700, 1320322, 1425514, 182113, 183024, 1285672, 1301342, 730707, 1142343, 739700, 744236, 1144680, 1137693, 415416, 1556299, 1786836, 631524, 1564819, 791850, 792480, 662802, 1755647, 2025212, 794748, 806337, 806135, 806586, 810308, 1781282, 1781614, 2004916, 319150, 2012217, 703988, 443345, 440899, 1159083, 717943, 439139, 448559, 2304493, 1514428, 1165398, 1165962, 2321700, 2031571, 2674678, 2676006, 956643, 132516, 142158, 2051806, 2236355, 1394331, 2238563, 2237998, 2680436, 1208596, 1209034, 2241148, 2240261, 1217770, 1409047, 1417605, 368836, 368997, 380568, 300306, 2256631, 2259923, 2415594, 2431816, 2435586, 524040, 2687275, 2973369, 529424, 2709479, 2714496, 3291270, 3303149, 530496, 3394785, 3398438, 3399814, 1517580, 1610791, 1622524, 1524761, 1534604, 1538084, 1838442, 1829160, 2206054, 1465827, 1349958, 1352063, 1110717, 1693810, 1624166, 1696841, 1115264, 757891, 1936903, 766092, 1940270, 768592, 768632, 1707538, 1717909, 770733, 771761, 2085083, 2093572, 1949496, 1952006, 772818, 2106509, 2106190, 1960614, 2145441, 1249212, 2570859, 2574700, 1386368, 485070, 488734, 2580921, 489707, 970239, 2870626, 2885826, 2885667, 492644, 3359293, 494121, 497936, 504441, 1181525, 1181238, 1197503, 1633834, 1640073, 1642134, 1646036, 1657806, 1657087, 1846500, 3095960, 978906, 2280195, 2282949, 2288424, 2453594, 1669820, 2470998, 2732562, 2736695, 1685052, 1687748, 2928163, 1691634, 1890874, 2117464, 3420583, 2367427, 2128843, 2597398, 2603211, 2603038, 2606581, 2614502, 3270988, 2132011, 2843402, 1489570, 1504390, 1503605, 1509659, 2132956, 2132981, 1737482, 2347071, 2349970, 2515692, 1967637, 2525830, 2525191, 2526938, 2813954, 2817278, 1976998, 1983242, 2817029, 2821373, 3376342, 3375760, 2853913, 3238689, 3115185, 3137887, 3336989, 3341160, 1990875, 1992087, 2189193, 2190356, 2199169, 2395293, 2407171, 2402238, 2637518, 2641656, 2805939, 3021843, 3023292, 37745, 192862, 96693, 44883, 202060, 88843, 56671, 578952, 338579, 238401, 112893, 112997, 119760, 578889, 355394, 122745, 263371, 587159, 589979, 470271, 1013752, 1019233, 887451, 903157, 599374, 1336021, 870588, 475073, 666077, 475522, 475120, 1325061, 482283, 1273633, 927522, 1130784, 1438172, 1298831, 731133, 739114, 739382, 753623, 1545428, 649334, 1797884, 1797306, 1802813, 656354, 787079, 789218, 657406, 1758306, 792086, 791614, 793646, 1812839, 1064208, 1768225, 2025016, 126690, 801748, 809909, 318508, 1779002, 1999823, 2001779, 810867, 1677, 13130, 2013185, 2012910, 2017414, 325065, 1148738, 33826, 1153573, 1154129, 1161126, 1514188, 448358, 2022400, 1515662, 2492170, 940470, 946931, 953083, 951905, 1173504, 2663328, 954758, 959032, 1036793, 1040059, 142172, 145865, 1048718, 151182, 2680944, 1210365, 289725, 1409046, 291808, 2964045, 370898, 380581, 515844, 515512, 382406, 2440352, 2969782, 392337, 527968, 2711704, 2989109, 3149434, 3155981, 3156615, 3159628, 3391358, 3391107, 3311455, 3317999, 3399417, 3406504, 1519933, 1528979, 1537853, 1538136, 1825916, 1836011, 1453529, 1467892, 1347968, 1104374, 1104021, 1358408, 755254, 1701531, 766519, 1949761, 771271, 2224187, 1248028, 2146783, 2149050, 2106883, 2554083, 2151963, 2156991, 2571388, 2762400, 1388958, 834765, 489676, 2869969, 2990675, 3365536, 492868, 499230, 1180261, 1641155, 1656606, 1870940, 3083756, 2270183, 2282000, 770089, 1680860, 1674084, 2723896, 2736652, 1887293, 3172012, 2119310, 3411569, 2172925, 2364947, 2131694, 3376154, 3376443, 2619323, 2622084, 2625859, 984104, 992209, 1497597, 1728868, 2133022, 2137128, 2137343, 1729868, 2143851, 2336697, 2506371, 1966522, 2521596, 2522462, 2521165, 2816676, 2824132, 3058491, 3064413, 3066797, 3075133, 3077875, 3242546, 3242052, 3112437, 3341445, 1989682, 2398316, 2404375, 2413325, 2642503, 3207138, 35276, 197949, 96969, 204826, 98353, 71759, 77479, 61631, 205891, 207871, 577540, 579967, 578540, 350079, 206209, 213733, 305036, 122990, 267063, 471670, 1011594, 1017500, 1018893, 887677, 888487, 473032, 851831, 848537, 1335086, 1307968, 679625, 159344, 1329141, 166335, 1423229, 1428964, 729699, 917574, 918945, 919361, 928678, 751247, 1141903, 1147818, 404892, 403938, 404910, 409954, 607299, 608050, 607045, 606329, 414114, 413648, 1792467, 616241, 654076, 632368, 631932, 1557615, 1807100, 789067, 1753626, 797157, 1777694, 1996257, 2001227, 323140, 321381, 811332, 812404, 2009196, 424799, 2022554, 1153625, 449970, 1170341, 2022916, 2307339, 2308556, 943757, 2677496, 1030460, 1036854, 1044532, 144888, 144659, 151163, 1215071, 1416257, 1419076, 1087986, 2243254, 2686456, 375174, 298638, 522529, 2965251, 2971516, 383306, 1091246, 545121, 528391, 2712226, 2713300, 565814, 529581, 528844, 2899914, 3157518, 3168774, 3309109, 3312492, 1515942, 1065364, 1072916, 1072179, 1542062, 1536411, 1838327, 1821354, 1838352, 1087223, 1466308, 1092055, 1349828, 1112864, 1620535, 1622083, 1623622, 758868, 762978, 766887, 1708864, 1940016, 1940058, 1940836, 1910649, 1949534, 1957620, 1960938, 2148543, 2146938, 2220162, 2227999, 2102440, 2111060, 2539462, 2537618, 2563040, 2562010, 2161393, 2164114, 2567066, 2763087, 1374221, 816610, 2762896, 2765296, 1383644, 1385751, 831536, 2580182, 2578892, 485449, 968501, 2593605, 2595731, 487027, 489675, 2872061, 497543, 498410, 507198, 1188310, 1184383, 1179254, 1198724, 1845773, 1853691, 1857112, 1864441, 3083847, 3098041, 3100722, 3107992, 3109454, 3107937, 781754, 2281482, 2284175, 2283020, 2284632, 2446787, 1680875, 2728642, 2723591, 1691281, 2742483, 2928067, 2928341, 1889040, 2937388, 2946812, 3182044, 2120911, 2123730, 3190541, 2367386, 2129038, 3278979, 2131964, 2616388, 2624920, 2844002, 1484988, 1498899, 1732912, 2144176, 2331468, 2345739, 2506001, 2509488, 2511067, 1750694, 2809027, 1969412, 1968024, 1973066, 2813587, 2815487, 3056341, 1984886, 3414624, 3062130, 3289282, 2853177, 3129830, 3336979, 2190884, 2412322, 2793241, 2796505, 3211478, 3213696, 3223870, 3225312, 225073, 98245, 73299, 80674, 236970, 205197, 578605, 579904, 336394, 241446, 213638, 462298, 584581, 1003843, 590625, 593414, 1004909, 1007057, 888406, 887048, 890079, 845048, 846056, 1336354, 863772, 864746, 875554, 877277, 668222, 670983, 672782, 1315308, 1315896, 476006, 1317155, 690368, 1427336, 1431384, 477530, 1327118, 1329105, 172638, 479620, 181472, 181270, 919358, 1274732, 1285914, 729812, 732198, 929504, 1120999, 1579135, 1130566, 1147028, 1144502, 1589203, 739464, 416295, 416312, 1556104, 1555826, 1792629, 1793007, 1797542, 1797979, 1807011, 1807013, 632194, 1811237, 663178, 126238, 1777345, 808332, 1993155, 811112, 10643, 19508, 2014737, 332794, 428995, 428953, 2017889, 721886, 723250, 1515044, 441027, 453006, 1514034, 1171131, 2323813, 945481, 949239, 2043395, 2678934, 1038456, 1036447, 137315, 2680572, 1208118, 2239274, 291603, 1212194, 1217018, 1229923, 1414847, 1235507, 378541, 382074, 298923, 2420878, 2963776, 523622, 2432925, 2967585, 529215, 528235, 2705752, 2713185, 2715806, 3301097, 3300635, 557067, 569956, 3146505, 3148667, 3305543, 3402712, 3406471, 1077992, 1087275, 1526197, 1529729, 1829739, 1087855, 1336829, 1089896, 1099735, 1476596, 1476946, 1109491, 1110915, 1111534, 1112928, 1693553, 1696089, 1937817, 1709950, 1714969, 1942800, 777390, 2095265, 2097975, 2147133, 2538625, 2544522, 2561532, 1249186, 1256439, 1259748, 1259255, 815762, 816708, 817653, 2752923, 2757070, 2762786, 1372368, 1390534, 485106, 2594462, 2767837, 2767487, 490041, 492095, 975663, 3015500, 491768, 493917, 493397, 977628, 976448, 977561, 3365571, 494441, 494929, 498314, 504948, 1178409, 1179573, 1656499, 1657564, 1856232, 1843484, 1871125, 1870989, 2890518, 991890, 1483672, 2283068, 2285027, 2290390, 782327, 1682970, 1677793, 1683710, 1689944, 2461982, 2460736, 2729835, 2725708, 1692106, 1878137, 2928084, 1887011, 1890441, 2942805, 2943743, 3175776, 2125887, 3412031, 2362391, 2369430, 2597344, 2608683, 2610056, 2853401, 1728488, 2343011, 2344999, 1732026, 1740954, 2352911, 2509912, 2521113, 1967405, 1971142, 2808049, 2809685, 2813991, 1985882, 1987360, 2823924, 1992332, 3062497, 3069197, 3072832, 3237799, 3240498, 2858054, 2856153, 3119536, 2177967, 2192860, 2199570, 2395961, 2649631, 2790934, 3040208, 3223409, 3225097, 3224731, 3229110, 217282, 95699, 96609, 48842, 231343, 198269, 204120, 96384, 73667, 88261, 335576, 345511, 352147, 353111, 579457, 362174, 460529, 462211, 462557, 122712, 581653, 582226, 256519, 470208, 1000937, 1001110, 1003283, 1003880, 1008230, 1005020, 272077, 471704, 470353, 867192, 1335162, 1336615, 1306177, 667998, 158970, 159435, 679644, 1425459, 1427878, 1431110, 1431427, 1432869, 481004, 730159, 481883, 1268150, 1284820, 731736, 917556, 918847, 928411, 936237, 1586736, 1588744, 1588783, 1128963, 1129697, 1590901, 739121, 748410, 405681, 607194, 607111, 748633, 750072, 1793724, 1796660, 630989, 1553523, 1801346, 1804435, 649651, 1557867, 1557560, 1569683, 1807230, 659159, 1063946, 1064234, 1755636, 793410, 1771794, 2025721, 125363, 1778067, 806689, 319277, 1779112, 1997612, 2004492, 325082, 810760, 811170, 705922, 326957, 1148538, 23941, 2017958, 1156725, 1158487, 448006, 448148, 2304435, 2322026, 948795, 949637, 1173198, 2675792, 2679031, 1029859, 130862, 2238360, 2683614, 2683359, 1215069, 1418666, 2960921, 378800, 1088912, 2264028, 2963470, 2964359, 2690264, 2970246, 3303035, 526797, 550834, 554512, 560518, 530373, 2901650, 2716328, 2907718, 2903348, 3146995, 3157857, 3160373, 3384638, 1515834, 573970, 1523817, 1536221, 1536256, 1537458, 1538458, 1815643, 1836255, 1838808, 1826949, 2206495, 2207486, 2205114, 1092002, 1106403, 1113602, 1627113, 1933820, 1697746, 754944, 755262, 760715, 1937873, 1941814, 1940030, 1942223, 1712418, 1908814, 2084732, 1944774, 1948087, 770779, 2084153, 2089782, 1958675, 2149629, 2562678, 2566458, 2566930, 2566193, 2156659, 2158026, 2569578, 2749218, 2751087, 815163, 2573131, 2762530, 487945, 834582, 834785, 838714, 489978, 975805, 3016570, 976611, 2885605, 779608, 782585, 495774, 497569, 504199, 504587, 1197632, 1207495, 1646436, 1656387, 1852480, 1857321, 1872852, 3081088, 2079816, 3089031, 3104042, 1489958, 2284721, 1668237, 2293177, 1674350, 2736082, 1877003, 1878442, 2930719, 2942902, 1889257, 3181556, 3190158, 2117804, 3198247, 3410548, 2127910, 3273903, 2841386, 1490522, 1485557, 1495667, 1510349, 1510936, 1727441, 2137587, 1736438, 1734369, 2505205, 2512524, 1750826, 2809134, 1981962, 1986466, 2816885, 3283681, 3066645, 3242398, 3113836, 3119089, 3136989, 3327012, 3341306, 2204234, 2397079, 2408843, 2802369, 3022445, 3214583, 3224253, 3226904, 213977, 46184, 89359, 55998, 54021, 102897, 578230, 335127, 336423, 350525, 460229, 249544, 469055, 471766, 269382, 1308047, 870994, 475550, 475153, 1317129, 480433, 1326641, 1330389, 179607, 181836, 181931, 1285221, 731905, 919347, 930246, 1121870, 1576716, 1298453, 1142955, 1146499, 410916, 753060, 636949, 643773, 1549843, 1552308, 631641, 785493, 788745, 792836, 1062614, 316782, 320475, 323573, 1148497, 1148993, 434051, 440746, 2021742, 2021962, 1171063, 2297607, 951771, 2030180, 2323622, 2661146, 1034476, 1047384, 2680202, 146872, 1397429, 292820, 2683064, 1217039, 1412668, 294690, 2247378, 2248473, 2253135, 2259431, 1089219, 1089106, 1088913, 1089281, 299278, 383072, 1091469, 524478, 2700610, 2965730, 2967586, 2967283, 2969309, 553317, 526745, 525757, 3303634, 3302278, 2910817, 2899166, 2909248, 2924771, 3146734, 3156160, 3159604, 3387741, 3395737, 3395357, 3311213, 3314692, 3315881, 3401662, 1606470, 1066353, 1079506, 1532332, 1815146, 1826862, 2208027, 2214527, 2217962, 1347423, 1693747, 1694073, 1623670, 1626657, 1696118, 1694993, 1713297, 1940152, 1948053, 2083631, 779056, 2092514, 2562487, 2166073, 2171996, 1373239, 1376118, 1386832, 1384858, 2575139, 1389381, 2580225, 2767099, 972773, 974396, 2868712, 2885214, 3365558, 497267, 496979, 499023, 497480, 1207445, 1854683, 1846326, 1853912, 1856994, 2074615, 2887118, 2896315, 3083809, 3088673, 2080198, 3261951, 2274022, 3267368, 986562, 991997, 2279957, 2283013, 2283260, 782002, 1665643, 2289972, 1669653, 1671281, 1670753, 1684325, 1686611, 1692280, 1878267, 2928291, 2932790, 2936490, 1887238, 2943172, 2124005, 3189531, 2128558, 2609947, 2614459, 3373892, 2838681, 1483188, 1487956, 1485573, 1490227, 1496804, 1496919, 1507173, 1726298, 2138159, 2329185, 1738335, 2341542, 1750326, 1752508, 2505022, 2511492, 2525825, 1969537, 2813969, 2821689, 1992765, 2825994, 3287519, 3245035, 3115417, 3117682, 3253420, 3335859, 3323065, 3324385, 3343434, 1992768, 2401827, 2648346, 2793771, 2807210, 2792233, 3026852, 3212059, 3213221, 3224539, 3225007], \"cb_permalink\": \"https://www.crunchbase.com/organization/google\", \"linkedin_url\": \"https://linkedin.com/company/google\", \"twitter\": \"https:/www.twitter.com/google\", \"last_funding_round_date\": \"2023-05-29\", \"last_funding_round_name\": \"Initial Coin Offering\", \"total_funding_amount\": 36100000, \"company_li_name\": \"google\", \"tags\": [{\"id\": 4832431, \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Search Engine\", \"category\": \"Industry\"}, {\"id\": 4832427, \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Advertising\", \"category\": \"Industry\"}, {\"id\": 4832428, \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Collaboration\", \"category\": \"Industry\"}, {\"id\": 4832430, \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4832429, \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 26750, \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 96208, \"hc_estimate_90_days\": 96761, \"hc_estimate_180_days\": 95676, \"hc_estimate_270_days\": 97247, \"hc_estimate_365_days\": 96680, \"hc_growth_90_days\": \"-0.56999999999999995115018691649311222136020660400390625\", \"hc_growth_180_days\": \"0.560000000000000053290705182007513940334320068359375\", \"hc_growth_270_days\": \"-1.0700000000000000621724893790087662637233734130859375\", \"hc_growth_365_days\": \"-0.4899999999999999911182158029987476766109466552734375\"}, \"funding_rounds\": [{\"id\": 78198, \"uuid\": \"5eb548db-b434-45bb-b2a5-2d5959df4d5c\", \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Initial Coin Offering\", \"cb_permalink\": null, \"investment_type\": \"initial_coin_offering\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": 10100000, \"announced_date\": \"2023-05-29\", \"investors\": null}, {\"id\": 78197, \"uuid\": \"6c4715f9-41c0-136f-d5e4-ac72ddf57d99\", \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": 100000000, \"announced_date\": \"1999-06-07\", \"investors\": null}, {\"id\": 78196, \"uuid\": \"e7036c93-050f-838c-0887-2d35f2ff095c\", \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Angel Round\", \"cb_permalink\": null, \"investment_type\": \"angel\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"1998-11-01\", \"investors\": null}, {\"id\": 78195, \"uuid\": \"eb6c4d28-ae50-cd54-ca55-186d2955e8c3\", \"legal_entity_uuid\": \"6acfa7da-1dbd-936e-d985-cf07a1b27711\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 100000, \"post_money_valuation_usd\": null, \"announced_date\": \"1998-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fa8nmvofinznny6rkwvf",
+                        "name": "Google"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2016-08-01",
+                    "name": "Google",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fa8nmvofinznny6rkwvf"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-09-01",
+                    "legalEntity": "{\"id\": 1116347, \"name\": \"Technical University of Munich\", \"uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1429014674/sxif6vayqz0y2tl93ant.png\", \"description\": \"The Technical University of Munich (TUM) is one of Europes leading universities.\", \"headcount\": \"501-1000\", \"founding_date\": \"1868-01-01\", \"website\": \"http://www.tum.de\", \"location\": \"M\\u00fcnchen\", \"country\": \"DEU\", \"region\": \"Bayern\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1428030, 498971, 1776068, 1657363, 2856814], \"cb_permalink\": \"https://www.crunchbase.com/organization/technical-university-of-munich\", \"linkedin_url\": \"https://linkedin.com/company/technische-universitat-munchen\", \"twitter\": \"https:/twitter.com/tu_muenchen\", \"last_funding_round_date\": \"2022-08-04\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 7500000, \"company_li_name\": \"technische-universitat-munchen\", \"tags\": [{\"id\": 1780903, \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 190899, \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 107, \"hc_estimate_90_days\": 108, \"hc_estimate_180_days\": 104, \"hc_estimate_270_days\": 112, \"hc_estimate_365_days\": 109, \"hc_growth_90_days\": \"-0.93000000000000004884981308350688777863979339599609375\", \"hc_growth_180_days\": \"2.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-4.45999999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-1.8300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": [{\"id\": 240566, \"uuid\": \"c76996ef-9fb8-46e2-a3a0-cfb5505c507b\", \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-04\", \"investors\": null}, {\"id\": 240565, \"uuid\": \"22a3ac8f-1c81-41bc-a0be-a3605781a66b\", \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1429014674/sxif6vayqz0y2tl93ant.png",
+                        "name": "Technische Universitt Mnchen"
+                    },
+                    "position": "Research Assistant",
+                    "startDate": "2016-04-01",
+                    "name": "Technische Universitt Mnchen",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1429014674/sxif6vayqz0y2tl93ant.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/universitat-klagenfurt.png",
+                        "name": "Alpen-Adria-Universitt"
+                    },
+                    "position": "Research Assistant",
+                    "startDate": "2014-07-01",
+                    "name": "Alpen-Adria-Universitt",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/universitat-klagenfurt.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelor of Science (B.Sc.)",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 1116347, \"name\": \"Technical University of Munich\", \"uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1429014674/sxif6vayqz0y2tl93ant.png\", \"description\": \"The Technical University of Munich (TUM) is one of Europes leading universities.\", \"headcount\": \"501-1000\", \"founding_date\": \"1868-01-01\", \"website\": \"http://www.tum.de\", \"location\": \"M\\u00fcnchen\", \"country\": \"DEU\", \"region\": \"Bayern\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1428030, 498971, 1776068, 1657363, 2856814], \"cb_permalink\": \"https://www.crunchbase.com/organization/technical-university-of-munich\", \"linkedin_url\": \"https://linkedin.com/company/technische-universitat-munchen\", \"twitter\": \"https:/twitter.com/tu_muenchen\", \"last_funding_round_date\": \"2022-08-04\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 7500000, \"company_li_name\": \"technische-universitat-munchen\", \"tags\": [{\"id\": 1780903, \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 190899, \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 107, \"hc_estimate_90_days\": 108, \"hc_estimate_180_days\": 104, \"hc_estimate_270_days\": 112, \"hc_estimate_365_days\": 109, \"hc_growth_90_days\": \"-0.93000000000000004884981308350688777863979339599609375\", \"hc_growth_180_days\": \"2.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-4.45999999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-1.8300000000000000710542735760100185871124267578125\"}, \"funding_rounds\": [{\"id\": 240566, \"uuid\": \"c76996ef-9fb8-46e2-a3a0-cfb5505c507b\", \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-04\", \"investors\": null}, {\"id\": 240565, \"uuid\": \"22a3ac8f-1c81-41bc-a0be-a3605781a66b\", \"legal_entity_uuid\": \"d6f3813f-d120-eff6-f1a2-972381a68261\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-20\", \"investors\": null}]}",
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1429014674/sxif6vayqz0y2tl93ant.png",
+                        "name": "Technical University Munich"
+                    },
+                    "name": "Technical University Munich",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1429014674/sxif6vayqz0y2tl93ant.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2015-01-01",
+                    "legalEntity": null,
+                    "startDate": "2007-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "BG/BRG St.Martin Villach"
+                    },
+                    "name": "BG/BRG St.Martin Villach",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "456"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

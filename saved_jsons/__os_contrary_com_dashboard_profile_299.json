@@ -1,0 +1,278 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Looking for my next Product Marketing role | ex-Qualcomm Ventures - Contrary Capital - Techstars",
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "MBA Candidate",
+                        "endDate": "2022-01-01",
+                        "id": "563",
+                        "startDate": "2020-01-01",
+                        "universityId": 311
+                    },
+                    {
+                        "degree": "Pass with High Honors",
+                        "degreeType": "CORe",
+                        "endDate": "2019-01-01",
+                        "id": "564",
+                        "startDate": "2018-01-01",
+                        "universityId": 122
+                    },
+                    {
+                        "degree": "Politics",
+                        "degreeType": "Master of Philosophy (MPhil)",
+                        "endDate": "2014-01-01",
+                        "id": "565",
+                        "startDate": "2013-01-01",
+                        "universityId": 276
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": null,
+                        "id": "562",
+                        "startDate": "2011-01-01",
+                        "universityId": 310
+                    },
+                    {
+                        "degree": "International Relations & Spanish",
+                        "degreeType": "B.A.",
+                        "endDate": "2012-01-01",
+                        "id": "566",
+                        "startDate": "2008-01-01",
+                        "universityId": 312
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": "2008-01-01",
+                        "id": "567",
+                        "startDate": "2004-01-01",
+                        "universityId": 313
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "-",
+                        "endDate": "2004-01-01",
+                        "id": "568",
+                        "startDate": "1994-01-01",
+                        "universityId": 314
+                    }
+                ],
+                "email": "leahro1@gmail.com",
+                "firstName": "Leah",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "299",
+                "intro": "",
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": false,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-08-03T13:16:54",
+                "lastName": "Oppenheimer",
+                "linkedinName": "leahoppenheimer",
+                "linkedinUrl": "https://linkedin.com/in/leahoppenheimer/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "aa0db102-4eef-440b-83fe-accfcd7ccbb1",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-299-DBC8B839-600D-4BFE-985E-7036127B7729_1_201_a.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Master of Business Administration - MBA",
+                    "degreeType": "",
+                    "endDate": "2022-01-01",
+                    "legalEntity": null,
+                    "startDate": "2020-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Columbia Business School"
+                    },
+                    "name": "Columbia Business School",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Politics",
+                    "degreeType": "Master of Philosophy (MPhil)",
+                    "endDate": "2014-01-01",
+                    "legalEntity": "{\"id\": 758430, \"name\": \"University of Cambridge\", \"uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-cambridge.png\", \"description\": \"The University of Cambridge is a public research university based in England.\", \"headcount\": \"10000+\", \"founding_date\": \"1209-01-01\", \"website\": \"http://www.cam.ac.uk/\", \"location\": \"Cambridge\", \"country\": \"GBR\", \"region\": \"Cambridgeshire\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [472005, 1657083, 2885571, 834058, 320249, 1088524, 276224, 2240916, 1636994, 357986], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-cambridge\", \"linkedin_url\": \"https://linkedin.com/company/university-of-cambridge\", \"twitter\": \"http:/twitter.com/cambridge_uni\", \"last_funding_round_date\": \"2023-06-13\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 144148584, \"company_li_name\": \"university-of-cambridge\", \"tags\": [{\"id\": 1672873, \"legal_entity_uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1672874, \"legal_entity_uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 74785, \"legal_entity_uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 233, \"hc_estimate_90_days\": 230, \"hc_estimate_180_days\": 225, \"hc_estimate_270_days\": 228, \"hc_estimate_365_days\": 232, \"hc_growth_90_days\": \"1.3000000000000000444089209850062616169452667236328125\", \"hc_growth_180_days\": \"3.560000000000000053290705182007513940334320068359375\", \"hc_growth_270_days\": \"2.189999999999999946709294817992486059665679931640625\", \"hc_growth_365_days\": \"0.429999999999999993338661852249060757458209991455078125\"}, \"funding_rounds\": [{\"id\": 300113, \"uuid\": \"c3db7195-18e8-462c-b042-4b0cf025bea3\", \"legal_entity_uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 970718, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-13\", \"investors\": null}, {\"id\": 300112, \"uuid\": \"5ce50026-0feb-46f1-bb4a-24111ca22924\", \"legal_entity_uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 129568924, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-02-05\", \"investors\": null}, {\"id\": 300111, \"uuid\": \"bfeeddff-ad4d-4ba6-abd7-4187718c38fd\", \"legal_entity_uuid\": \"bda6a1fb-62b4-a091-42c4-b127539e50cd\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 13608942, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-01\", \"investors\": null}]}",
+                    "startDate": "2013-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-cambridge.png",
+                        "name": "University of Cambridge"
+                    },
+                    "name": "University of Cambridge",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-cambridge.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "International Relations  Spanish",
+                    "degreeType": "B.A.",
+                    "endDate": "2012-01-01",
+                    "legalEntity": "{\"id\": 1169815, \"name\": \"UConn Innovation Fund - University of Connecticut\", \"uuid\": \"f0c34fda-5618-0c9d-adba-7198286591af\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1471497970/axbkynccs88cavmqlbhm.png\", \"description\": \"The University of Connecticut, in partnership with Connecticut Innovations\", \"headcount\": \"unknown\", \"founding_date\": \"2017-01-01\", \"website\": \"http://www.innovationfund.uconn.edu/\", \"location\": \"Storrs Mansfield\", \"country\": \"USA\", \"region\": \"Connecticut\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/uconn-innovation-fund-university-of-connecticut\", \"linkedin_url\": \"https://linkedin.com/company/university-of-connecticut\", \"twitter\": \"https:/www.twitter.com/uconn\", \"last_funding_round_date\": \"2017-12-04\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 22500000, \"company_li_name\": \"university-of-connecticut\", \"tags\": [{\"id\": 5904575, \"legal_entity_uuid\": \"f0c34fda-5618-0c9d-adba-7198286591af\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 5904576, \"legal_entity_uuid\": \"f0c34fda-5618-0c9d-adba-7198286591af\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 5904577, \"legal_entity_uuid\": \"f0c34fda-5618-0c9d-adba-7198286591af\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 52159, \"legal_entity_uuid\": \"f0c34fda-5618-0c9d-adba-7198286591af\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 48, \"hc_estimate_90_days\": 46, \"hc_estimate_180_days\": 51, \"hc_estimate_270_days\": 52, \"hc_estimate_365_days\": 54, \"hc_growth_90_days\": \"4.3499999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"-5.87999999999999989341858963598497211933135986328125\", \"hc_growth_270_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"-11.1099999999999994315658113919198513031005859375\"}, \"funding_rounds\": [{\"id\": 163973, \"uuid\": \"e29159cd-7aa2-4fff-854a-1192889cb865\", \"legal_entity_uuid\": \"f0c34fda-5618-0c9d-adba-7198286591af\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 22500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-04\", \"investors\": null}]}",
+                    "startDate": "2008-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1471497970/axbkynccs88cavmqlbhm.png",
+                        "name": "The University of Connecticut"
+                    },
+                    "name": "The University of Connecticut",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1471497970/axbkynccs88cavmqlbhm.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2008-01-01",
+                    "legalEntity": null,
+                    "startDate": "2004-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Solomon Schechter Day School of Essex and Union"
+                    },
+                    "name": "Solomon Schechter Day School of Essex and Union",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2004-01-01",
+                    "legalEntity": null,
+                    "startDate": "1994-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Heschel School"
+                    },
+                    "name": "Heschel School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "10",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "20",
+                    "value": "Graduate Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "56",
+                    "value": "Running"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "51",
+                    "value": "Skiing"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "27",
+                    "value": "Transportation & Logistics"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "299"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

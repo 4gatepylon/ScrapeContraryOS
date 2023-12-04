@@ -1,0 +1,228 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Computer Science @ UVA",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelor of Science - BS",
+                        "endDate": "2025-01-01",
+                        "id": "879",
+                        "startDate": "2021-01-01",
+                        "universityId": 37
+                    },
+                    {
+                        "degree": "Advanced Studies Diploma",
+                        "degreeType": "",
+                        "endDate": "2021-01-01",
+                        "id": "880",
+                        "startDate": "2017-01-01",
+                        "universityId": 36
+                    }
+                ],
+                "email": "srilakshmi.medarametla@vp.contrary.com",
+                "firstName": "Srilakshmi",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "501",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-12-03T23:08:14",
+                "lastName": "Medarametla",
+                "linkedinName": "srilakshmi-medarametla",
+                "linkedinUrl": "https://linkedin.com/in/srilakshmi-medarametla/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 20,
+                "prismUuid": "98c37391-b2d6-4bdc-86e6-5b123e03ec62",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp4i4Le5BfI2GesX01R9xnUvrmmt7z4FUR3KZmqe=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "slpriya9m@gmail.com",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U045P99AE3D",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4679",
+                        "organizationId": 2783,
+                        "position": "AI Research Intern",
+                        "startDate": "2023-05-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3137",
+                        "organizationId": 2567,
+                        "position": "AI-based Knowledge Base Test & Evaluation Project Student Investigator",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": "2021-06-01",
+                        "id": "3138",
+                        "organizationId": 2568,
+                        "position": "Website Management & Social Outreach Intern",
+                        "startDate": "2020-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 378873, \"name\": \"MIT Lincoln Laboratory\", \"uuid\": \"c82dec53-7bbb-546f-6790-2a45ac159be6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1457157992/ufkcz9o37lvgh17lbidd.jpg\", \"description\": \"MIT Lincoln Laboratory is a federally funded research and development center chartered to apply advanced technology to problems.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1951-01-01\", \"website\": \"http://www.ll.mit.edu\", \"location\": \"Lexington\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [330827, 2812124], \"cb_permalink\": \"https://www.crunchbase.com/organization/mit-lincoln-laboratory\", \"linkedin_url\": \"https://linkedin.com/company/mit-lincoln-laboratory\", \"twitter\": \"https:/twitter.com/MITLL\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"mit-lincoln-laboratory\", \"tags\": [{\"id\": 1673449, \"legal_entity_uuid\": \"c82dec53-7bbb-546f-6790-2a45ac159be6\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 1673450, \"legal_entity_uuid\": \"c82dec53-7bbb-546f-6790-2a45ac159be6\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1673451, \"legal_entity_uuid\": \"c82dec53-7bbb-546f-6790-2a45ac159be6\", \"name\": \"National Security\", \"category\": \"Industry\"}, {\"id\": 1673452, \"legal_entity_uuid\": \"c82dec53-7bbb-546f-6790-2a45ac159be6\", \"name\": \"Security\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 128326, \"legal_entity_uuid\": \"c82dec53-7bbb-546f-6790-2a45ac159be6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 122, \"hc_estimate_90_days\": 125, \"hc_estimate_180_days\": 111, \"hc_estimate_270_days\": 105, \"hc_estimate_365_days\": 103, \"hc_growth_90_days\": \"-2.399999999999999911182158029987476766109466552734375\", \"hc_growth_180_days\": \"9.910000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"16.190000000000001278976924368180334568023681640625\", \"hc_growth_365_days\": \"18.449999999999999289457264239899814128875732421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1457157992/ufkcz9o37lvgh17lbidd.jpg",
+                        "name": "MIT Lincoln Laboratory"
+                    },
+                    "position": "AI Research Intern",
+                    "startDate": "2023-05-01",
+                    "name": "MIT Lincoln Laboratory",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1457157992/ufkcz9o37lvgh17lbidd.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 737856, \"name\": \"MITRE Corporation / CVE\", \"uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg\", \"description\": \"MITRE is a not-for-profit organization that operates research and development centers.\", \"headcount\": \"10000+\", \"founding_date\": \"1958-01-01\", \"website\": \"http://www.mitre.org\", \"location\": \"Bedford\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [642588], \"executive_people_profile_ids\": [461903, 3401776, 1840811, 1940050, 3224120, 877125, 729288, 642588, 1210314, 765456, 1372488, 2305205, 3401013, 1373086, 1890586, 1170784, 2886783, 2076103, 361555, 886609, 593310, 160056, 566747, 489001, 1750127, 566633, 492083, 2843926, 2764800, 2764188, 1189880, 235333, 1307200, 2017594, 2764112], \"cb_permalink\": \"https://www.crunchbase.com/organization/mitre\", \"linkedin_url\": \"https://linkedin.com/company/mitre\", \"twitter\": \"http:/twitter.com/MITREcorp\", \"last_funding_round_date\": \"2023-07-27\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2052767, \"company_li_name\": \"mitre\", \"tags\": [{\"id\": 6380388, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6380387, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Quantum Computing\", \"category\": \"Industry\"}, {\"id\": 6380386, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 6380385, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6380384, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96181, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 196, \"hc_estimate_90_days\": 195, \"hc_estimate_180_days\": 193, \"hc_estimate_270_days\": 194, \"hc_estimate_365_days\": 203, \"hc_growth_90_days\": \"0.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"1.5500000000000000444089209850062616169452667236328125\", \"hc_growth_270_days\": \"1.0300000000000000266453525910037569701671600341796875\", \"hc_growth_365_days\": \"-3.45000000000000017763568394002504646778106689453125\"}, \"funding_rounds\": [{\"id\": 227479, \"uuid\": \"7b298648-6125-46bb-b824-0e9c5b1161fe\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 227478, \"uuid\": \"9499bfb2-b428-40f4-b61a-2633983b15fa\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2052767, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-08\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg",
+                        "name": "MITRE"
+                    },
+                    "position": "AI-based Knowledge Base Test  Evaluation Project Student Investigator",
+                    "startDate": "2022-06-01",
+                    "name": "MITRE",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 737856, \"name\": \"MITRE Corporation / CVE\", \"uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg\", \"description\": \"MITRE is a not-for-profit organization that operates research and development centers.\", \"headcount\": \"10000+\", \"founding_date\": \"1958-01-01\", \"website\": \"http://www.mitre.org\", \"location\": \"Bedford\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [642588], \"executive_people_profile_ids\": [461903, 3401776, 1840811, 1940050, 3224120, 877125, 729288, 642588, 1210314, 765456, 1372488, 2305205, 3401013, 1373086, 1890586, 1170784, 2886783, 2076103, 361555, 886609, 593310, 160056, 566747, 489001, 1750127, 566633, 492083, 2843926, 2764800, 2764188, 1189880, 235333, 1307200, 2017594, 2764112], \"cb_permalink\": \"https://www.crunchbase.com/organization/mitre\", \"linkedin_url\": \"https://linkedin.com/company/mitre\", \"twitter\": \"http:/twitter.com/MITREcorp\", \"last_funding_round_date\": \"2023-07-27\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2052767, \"company_li_name\": \"mitre\", \"tags\": [{\"id\": 6380388, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6380387, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Quantum Computing\", \"category\": \"Industry\"}, {\"id\": 6380386, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 6380385, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6380384, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96181, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 196, \"hc_estimate_90_days\": 195, \"hc_estimate_180_days\": 193, \"hc_estimate_270_days\": 194, \"hc_estimate_365_days\": 203, \"hc_growth_90_days\": \"0.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"1.5500000000000000444089209850062616169452667236328125\", \"hc_growth_270_days\": \"1.0300000000000000266453525910037569701671600341796875\", \"hc_growth_365_days\": \"-3.45000000000000017763568394002504646778106689453125\"}, \"funding_rounds\": [{\"id\": 227479, \"uuid\": \"7b298648-6125-46bb-b824-0e9c5b1161fe\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 227478, \"uuid\": \"9499bfb2-b428-40f4-b61a-2633983b15fa\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2052767, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-08\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg",
+                        "name": "MITRE"
+                    },
+                    "position": "AI-based Cryptocurrency Project Student Investigator",
+                    "startDate": "2021-06-01",
+                    "name": "MITRE",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-06-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "TJ Partnership Fund"
+                    },
+                    "position": "Website Management  Social Outreach Intern",
+                    "startDate": "2020-03-01",
+                    "name": "TJ Partnership Fund",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 737856, \"name\": \"MITRE Corporation / CVE\", \"uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg\", \"description\": \"MITRE is a not-for-profit organization that operates research and development centers.\", \"headcount\": \"10000+\", \"founding_date\": \"1958-01-01\", \"website\": \"http://www.mitre.org\", \"location\": \"Bedford\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [642588], \"executive_people_profile_ids\": [461903, 3401776, 1840811, 1940050, 3224120, 877125, 729288, 642588, 1210314, 765456, 1372488, 2305205, 3401013, 1373086, 1890586, 1170784, 2886783, 2076103, 361555, 886609, 593310, 160056, 566747, 489001, 1750127, 566633, 492083, 2843926, 2764800, 2764188, 1189880, 235333, 1307200, 2017594, 2764112], \"cb_permalink\": \"https://www.crunchbase.com/organization/mitre\", \"linkedin_url\": \"https://linkedin.com/company/mitre\", \"twitter\": \"http:/twitter.com/MITREcorp\", \"last_funding_round_date\": \"2023-07-27\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2052767, \"company_li_name\": \"mitre\", \"tags\": [{\"id\": 6380388, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6380387, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Quantum Computing\", \"category\": \"Industry\"}, {\"id\": 6380386, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 6380385, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6380384, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96181, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 196, \"hc_estimate_90_days\": 195, \"hc_estimate_180_days\": 193, \"hc_estimate_270_days\": 194, \"hc_estimate_365_days\": 203, \"hc_growth_90_days\": \"0.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"1.5500000000000000444089209850062616169452667236328125\", \"hc_growth_270_days\": \"1.0300000000000000266453525910037569701671600341796875\", \"hc_growth_365_days\": \"-3.45000000000000017763568394002504646778106689453125\"}, \"funding_rounds\": [{\"id\": 227479, \"uuid\": \"7b298648-6125-46bb-b824-0e9c5b1161fe\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 227478, \"uuid\": \"9499bfb2-b428-40f4-b61a-2633983b15fa\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2052767, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-08\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg",
+                        "name": "MITRE"
+                    },
+                    "position": "AI-based Cryptocurrency Project Student Investigator",
+                    "startDate": "2020-06-01",
+                    "name": "MITRE",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 737856, \"name\": \"MITRE Corporation / CVE\", \"uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg\", \"description\": \"MITRE is a not-for-profit organization that operates research and development centers.\", \"headcount\": \"10000+\", \"founding_date\": \"1958-01-01\", \"website\": \"http://www.mitre.org\", \"location\": \"Bedford\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [642588], \"executive_people_profile_ids\": [461903, 3401776, 1840811, 1940050, 3224120, 877125, 729288, 642588, 1210314, 765456, 1372488, 2305205, 3401013, 1373086, 1890586, 1170784, 2886783, 2076103, 361555, 886609, 593310, 160056, 566747, 489001, 1750127, 566633, 492083, 2843926, 2764800, 2764188, 1189880, 235333, 1307200, 2017594, 2764112], \"cb_permalink\": \"https://www.crunchbase.com/organization/mitre\", \"linkedin_url\": \"https://linkedin.com/company/mitre\", \"twitter\": \"http:/twitter.com/MITREcorp\", \"last_funding_round_date\": \"2023-07-27\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2052767, \"company_li_name\": \"mitre\", \"tags\": [{\"id\": 6380388, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"SaaS\", \"category\": \"Industry\"}, {\"id\": 6380387, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Quantum Computing\", \"category\": \"Industry\"}, {\"id\": 6380386, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 6380385, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6380384, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Cyber Security\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96181, \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 196, \"hc_estimate_90_days\": 195, \"hc_estimate_180_days\": 193, \"hc_estimate_270_days\": 194, \"hc_estimate_365_days\": 203, \"hc_growth_90_days\": \"0.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"1.5500000000000000444089209850062616169452667236328125\", \"hc_growth_270_days\": \"1.0300000000000000266453525910037569701671600341796875\", \"hc_growth_365_days\": \"-3.45000000000000017763568394002504646778106689453125\"}, \"funding_rounds\": [{\"id\": 227479, \"uuid\": \"7b298648-6125-46bb-b824-0e9c5b1161fe\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 227478, \"uuid\": \"9499bfb2-b428-40f4-b61a-2633983b15fa\", \"legal_entity_uuid\": \"30ca232b-66ae-4d36-b093-4c5ba12f8da0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2052767, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-08\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg",
+                        "name": "MITRE"
+                    },
+                    "position": "AI-based Cryptocurrency Project Student Investigator",
+                    "startDate": "2019-06-01",
+                    "name": "MITRE",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1458719123/tfle0awlvdpdmkhftdpw.jpg"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelor of Science - BS",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 747133, \"name\": \"University of Virginia\", \"uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-virginia.png\", \"description\": \"University of Virginia is an educational institution that offers undergraduate, graduate, postgraduate, and professional degree programs.\", \"headcount\": \"10000+\", \"founding_date\": \"1819-01-01\", \"website\": \"http://www.virginia.edu/\", \"location\": \"Charlottesville\", \"country\": \"USA\", \"region\": \"Virginia\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2690579, 1990515, 3021965, 2283148, 2024108, 2088393, 1477843, 4155839, 1387285], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-virginia\", \"linkedin_url\": \"https://linkedin.com/school/university-of-virginia\", \"twitter\": \"http:/twitter.com/uva\", \"last_funding_round_date\": \"2023-08-08\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 217075000, \"company_li_name\": \"university-of-virginia\", \"tags\": [{\"id\": 1795816, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1795815, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"EdTech\", \"category\": \"Industry\"}, {\"id\": 1795814, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"E-Learning\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 87834, \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 196, \"hc_estimate_90_days\": 185, \"hc_estimate_180_days\": 212, \"hc_estimate_270_days\": 218, \"hc_estimate_365_days\": 228, \"hc_growth_90_days\": \"5.95000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-7.54999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"-10.089999999999999857891452847979962825775146484375\", \"hc_growth_365_days\": \"-14.03999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 147114, \"uuid\": \"ea8b00ec-d355-4f5a-8b3d-f920d7c15a6b\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 75000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-08\", \"investors\": null}, {\"id\": 147113, \"uuid\": \"cd45a711-cb97-4a0d-bf2f-4ee166016793\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 68000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-24\", \"investors\": null}, {\"id\": 147112, \"uuid\": \"177694a6-48f7-4c6b-87a4-adce17cea104\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 120000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-19\", \"investors\": null}, {\"id\": 147111, \"uuid\": \"18c7f9c3-ede9-4156-a2c7-3719e91ef8c5\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-01\", \"investors\": null}, {\"id\": 147110, \"uuid\": \"cd2e398f-2165-65fb-15cf-28c938f4fbe4\", \"legal_entity_uuid\": \"6e2f186a-f81d-4cb6-c8c5-5bea8b676ed6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-02-04\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-virginia.png",
+                        "name": "University of Virginia"
+                    },
+                    "name": "University of Virginia",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-virginia.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Advanced Studies Diploma",
+                    "degreeType": "",
+                    "endDate": "2021-01-01",
+                    "legalEntity": null,
+                    "startDate": "2017-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Thomas Jefferson High School for Science and Technology"
+                    },
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "501"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,452 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I'm always happy to chat with folks solving important problems in education or grappling with the challenges of engineering leadership!",
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "Business Administration and Management",
+                        "degreeType": "Incomplete",
+                        "endDate": "2016-01-01",
+                        "id": "128",
+                        "startDate": "2015-01-01",
+                        "universityId": 103
+                    },
+                    {
+                        "degree": "Summa Cum Laude",
+                        "degreeType": "Scholars Diploma",
+                        "endDate": "2015-01-01",
+                        "id": "129",
+                        "startDate": "2012-01-01",
+                        "universityId": 104
+                    }
+                ],
+                "email": "jared@jaredsilver.name",
+                "firstName": "Jared",
+                "greeting": "I care about improving access to effective, equitable learning experiences.",
+                "greetingEmoji": "\ud83d\udcda",
+                "hqPosition": null,
+                "hubCity": "New York City",
+                "id": "76",
+                "intro": "Over the past decade, I've built software responsible for millions of learning outcomes and tens of millions of dollars in revenue. My thoughts on career development, education technology, and engineering management have been shared in publications like TEDx, LeadDev, Developer Week, and EdSurge. I've led an engineering org from first employee through acquisition and have a patent pending for our work there.",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-01-09T17:12:03",
+                "lastName": "Silver",
+                "linkedinName": "jaredasilver",
+                "linkedinUrl": "https://linkedin.com/in/jaredasilver/",
+                "location": "NYC",
+                "lookingFor": "I scout for Reach Capital, my personal favorite education-focused VC fund. If you're working on something in or adjacent to education, I'd love to chat!",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "ff1ceb3b-48f0-46cf-95c1-a6cc109d88ff",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/eb7a9fd32c19d6d27d28e8f45a578f42/7ddf1b88/jaredsilverprofilepicture.jpg?ts=1659018022&userId=usrMxTlLuLWjeji2x&cs=b1f8a0245aa1da15",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "jared@jaredsilver.name",
+                "slackUrl": null,
+                "twitterHandle": "jaredsilver",
+                "twitterUrl": "https://twitter.com/jaredsilver/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3977",
+                        "organizationId": 2933,
+                        "position": "Engineering Manager",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "472",
+                        "organizationId": 382,
+                        "position": "Founding Full Stack Engineer",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-07-01",
+                        "id": "473",
+                        "organizationId": 383,
+                        "position": "Growth Engineer",
+                        "startDate": "2020-04-01"
+                    },
+                    {
+                        "endDate": "2020-04-01",
+                        "id": "474",
+                        "organizationId": 175,
+                        "position": "Engineering Manager",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2018-03-01",
+                        "id": "475",
+                        "organizationId": 384,
+                        "position": "Software Developer",
+                        "startDate": "2017-09-01"
+                    },
+                    {
+                        "endDate": "2017-07-01",
+                        "id": "477",
+                        "organizationId": 386,
+                        "position": "Software Development Intern",
+                        "startDate": "2017-05-01"
+                    },
+                    {
+                        "endDate": "2017-12-01",
+                        "id": "476",
+                        "organizationId": 385,
+                        "position": "Program Manager-EdSurge Independent",
+                        "startDate": "2017-04-01"
+                    },
+                    {
+                        "endDate": "2017-04-01",
+                        "id": "478",
+                        "organizationId": 387,
+                        "position": "Learning Advisor",
+                        "startDate": "2016-12-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4710",
+                        "organizationId": 2624,
+                        "position": "",
+                        "startDate": null
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2176729, \"name\": \"Brilliant.org\", \"uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188105/5e74dd8f1825ba19e0c34d7c9de960b3.png\", \"description\": \"Brilliant delivers digital interactive STEM learning experiences to students, professionals, and lifelong learners around the world.\", \"headcount\": \"51-100\", \"founding_date\": \"2012-01-01\", \"website\": \"https://brilliant.org\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [382421], \"executive_people_profile_ids\": [578863, 382421, 978794, 1435859, 525121, 1111188, 144373, 2763586, 2612697], \"cb_permalink\": \"https://www.crunchbase.com/organization/brilliant-org\", \"linkedin_url\": \"https://linkedin.com/company/brilliant-org\", \"twitter\": \"http:/twitter.com/brilliantorg\", \"last_funding_round_date\": \"2022-05-05\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 25000000, \"company_li_name\": \"brilliant-org\", \"tags\": [{\"id\": 1696638, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Tutoring\", \"category\": \"Industry\"}, {\"id\": 1696637, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 1696636, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1696635, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"E-Learning\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57107, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 24, \"hc_estimate_90_days\": 24, \"hc_estimate_180_days\": 22, \"hc_estimate_270_days\": 20, \"hc_estimate_365_days\": 20, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"9.089999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"20\", \"hc_growth_365_days\": \"20\"}, \"funding_rounds\": [{\"id\": 28172, \"uuid\": \"650322a4-d001-4da0-b4b1-4b9c9bc676c0\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2022-05-05\", \"investors\": null}, {\"id\": 28171, \"uuid\": \"65d7a42d-0e6d-444d-84d4-7ffe21a17aa6\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2020-07-22\", \"investors\": null}, {\"id\": 28170, \"uuid\": \"6150db55-c062-4864-871d-9cb35dca5c59\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 28169, \"uuid\": \"56d7b099-f7ba-4855-a926-3553c9e1e110\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2018-06-30\", \"investors\": null}, {\"id\": 28168, \"uuid\": \"d0467437-0064-411e-b6f2-9b6bcc114f93\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2015-07-30\", \"investors\": null}, {\"id\": 28167, \"uuid\": \"19397ce0-d221-082c-4658-fd71f30adb41\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2014-05-19\", \"investors\": null}, {\"id\": 28166, \"uuid\": \"ae2766a6-7c63-93c1-8eb7-57e928158e10\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2013-07-19\", \"investors\": null}, {\"id\": 28165, \"uuid\": \"38e9acf8-12cb-f529-17b1-2913f606106e\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-07-10\", \"investors\": null}, {\"id\": 28164, \"uuid\": \"ebb7e094-1595-42bf-bcd3-6a34a4a596cc\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-05-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188105/5e74dd8f1825ba19e0c34d7c9de960b3.png",
+                        "name": "Brilliant.org"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Brilliant.org",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188105/5e74dd8f1825ba19e0c34d7c9de960b3.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2176729, \"name\": \"Brilliant.org\", \"uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188105/5e74dd8f1825ba19e0c34d7c9de960b3.png\", \"description\": \"Brilliant delivers digital interactive STEM learning experiences to students, professionals, and lifelong learners around the world.\", \"headcount\": \"51-100\", \"founding_date\": \"2012-01-01\", \"website\": \"https://brilliant.org\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [382421], \"executive_people_profile_ids\": [578863, 382421, 978794, 1435859, 525121, 1111188, 144373, 2763586, 2612697], \"cb_permalink\": \"https://www.crunchbase.com/organization/brilliant-org\", \"linkedin_url\": \"https://linkedin.com/company/brilliant-org\", \"twitter\": \"http:/twitter.com/brilliantorg\", \"last_funding_round_date\": \"2022-05-05\", \"last_funding_round_name\": \"Series C\", \"total_funding_amount\": 25000000, \"company_li_name\": \"brilliant-org\", \"tags\": [{\"id\": 1696638, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Tutoring\", \"category\": \"Industry\"}, {\"id\": 1696637, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 1696636, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1696635, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"E-Learning\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57107, \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 24, \"hc_estimate_90_days\": 24, \"hc_estimate_180_days\": 22, \"hc_estimate_270_days\": 20, \"hc_estimate_365_days\": 20, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"9.089999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"20\", \"hc_growth_365_days\": \"20\"}, \"funding_rounds\": [{\"id\": 28172, \"uuid\": \"650322a4-d001-4da0-b4b1-4b9c9bc676c0\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2022-05-05\", \"investors\": null}, {\"id\": 28171, \"uuid\": \"65d7a42d-0e6d-444d-84d4-7ffe21a17aa6\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2020-07-22\", \"investors\": null}, {\"id\": 28170, \"uuid\": \"6150db55-c062-4864-871d-9cb35dca5c59\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 28169, \"uuid\": \"56d7b099-f7ba-4855-a926-3553c9e1e110\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2018-06-30\", \"investors\": null}, {\"id\": 28168, \"uuid\": \"d0467437-0064-411e-b6f2-9b6bcc114f93\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2015-07-30\", \"investors\": null}, {\"id\": 28167, \"uuid\": \"19397ce0-d221-082c-4658-fd71f30adb41\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2014-05-19\", \"investors\": null}, {\"id\": 28166, \"uuid\": \"ae2766a6-7c63-93c1-8eb7-57e928158e10\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": 60000000, \"announced_date\": \"2013-07-19\", \"investors\": null}, {\"id\": 28165, \"uuid\": \"38e9acf8-12cb-f529-17b1-2913f606106e\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-07-10\", \"investors\": null}, {\"id\": 28164, \"uuid\": \"ebb7e094-1595-42bf-bcd3-6a34a4a596cc\", \"legal_entity_uuid\": \"bb0e8d70-1444-e1be-bfee-f9e3d09f093d\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2010-05-21\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188105/5e74dd8f1825ba19e0c34d7c9de960b3.png",
+                        "name": "Brilliant.org"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "Brilliant.org",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397188105/5e74dd8f1825ba19e0c34d7c9de960b3.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png",
+                        "name": "-"
+                    },
+                    "position": "",
+                    "startDate": null,
+                    "name": "-",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/prosero-search.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Business Administration and Management",
+                    "degreeType": "Incomplete",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 1236982, \"name\": \"Babson Summer Venture Program\", \"uuid\": \"9ce64919-8e29-a5da-c57c-3540b14d8101\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/babson-college.png\", \"description\": \"A 10-week intensive experience designed to accelerate the development of student entrepreneurial ventures.\", \"headcount\": \"unknown\", \"founding_date\": \"1919-01-01\", \"website\": \"https://www.babson.edu/academics/centers-and-institutes\", \"location\": \"Wellesley\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/babson-summer-venture-program\", \"linkedin_url\": \"https://linkedin.com/company/babson-college\", \"twitter\": \"http:/www.twitter.com/babsoneship\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"babson-college\", \"tags\": [{\"id\": 4831752, \"legal_entity_uuid\": \"9ce64919-8e29-a5da-c57c-3540b14d8101\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 13196, \"legal_entity_uuid\": \"9ce64919-8e29-a5da-c57c-3540b14d8101\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 69, \"hc_estimate_90_days\": 70, \"hc_estimate_180_days\": 79, \"hc_estimate_270_days\": 82, \"hc_estimate_365_days\": 85, \"hc_growth_90_days\": \"-1.4299999999999999378275106209912337362766265869140625\", \"hc_growth_180_days\": \"-12.660000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-15.8499999999999996447286321199499070644378662109375\", \"hc_growth_365_days\": \"-18.82000000000000028421709430404007434844970703125\"}, \"funding_rounds\": []}",
+                    "startDate": "2015-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/babson-college.png",
+                        "name": "Babson College"
+                    },
+                    "name": "Babson College",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/babson-college.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Summa Cum Laude",
+                    "degreeType": "Scholars Diploma",
+                    "endDate": "2015-01-01",
+                    "legalEntity": null,
+                    "startDate": "2012-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Central Bucks High School - East"
+                    },
+                    "name": "Central Bucks High School - East",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "36",
+                    "value": "Ed Tech"
+                },
+                {
+                    "created": "2022-08-23T21:33:09",
+                    "deleted": null,
+                    "id": "3",
+                    "value": "Growth / Marketing"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "14",
+                    "value": "VC"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "44",
+                    "value": "Gaming"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "76"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

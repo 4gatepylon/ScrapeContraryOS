@@ -1,0 +1,90 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": "https://calendar.app.google/JftH9fLUzbC62ihA9",
+                "canProvide": "Happy to help you organize your day and offer tips/tricks on how to stay organized. ",
+                "currentRole": "Executive Assistant to Founder",
+                "educationExperiences": [],
+                "email": "dea@contrarycap.com",
+                "firstName": "Dea",
+                "greeting": "Hello!",
+                "greetingEmoji": "\ud83e\udda6",
+                "hqPosition": null,
+                "hubCity": "Seattle",
+                "id": "517",
+                "intro": "If you're looking for admin advice or need help scheduling, let's chat!",
+                "isActiveFellow": false,
+                "isActiveHq": true,
+                "isActiveVp": false,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-08-22T17:51:46",
+                "lastName": "Hartz",
+                "linkedinName": "deahartz",
+                "linkedinUrl": "https://linkedin.com/in/deahartz/",
+                "location": "Portland, OR",
+                "lookingFor": "Connecting with my community!",
+                "meetWithBlurb": "If you're looking for admin advice, need help with organizing your day or scheduling, let's chat! Also happy to help with any space planning/interior design/home styling questions :)",
+                "podId": 24,
+                "prismUuid": "4705882e-a6b4-4078-9f54-1404d26b09a6",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp5ghqzzyAKC7lFB92Mj3pv3EL7hyL0hj3XPfhLh=s96-c",
+                "roles": [
+                    "HQ",
+                    "Event Admin"
+                ],
+                "secondaryEmail": "dea.hartz@gmail.com",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "English",
+                    "degreeType": "Bachelor of Arts",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1461349, \"name\": \"San Jose State University\", \"uuid\": \"2f560ef1-bc6c-35b4-7305-71fa6eb3351e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1505973096/hftqswc19ph7xjondzk6.jpg\", \"description\": \"San Jos State is conveniently located on 154 acres in downtown San Jos, midway between San Francisco and the Monterey/Carmel area at the\", \"headcount\": \"1001-5000\", \"founding_date\": \"1857-01-01\", \"website\": \"http://www.sjsu.edu/\", \"location\": \"San Jose\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1026374, 181395, 1165267, 2740269], \"cb_permalink\": \"https://www.crunchbase.com/organization/san-jose-state-university-3\", \"linkedin_url\": \"https://linkedin.com/company/san-jose-state-university\", \"twitter\": \"http:/twitter.com/sjsu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"san-jose-state-university\", \"tags\": [{\"id\": 1794924, \"legal_entity_uuid\": \"2f560ef1-bc6c-35b4-7305-71fa6eb3351e\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 31015, \"legal_entity_uuid\": \"2f560ef1-bc6c-35b4-7305-71fa6eb3351e\", \"baseline_month\": \"2023-08-01\", \"hc_estimate_current\": 217, \"hc_estimate_90_days\": 226, \"hc_estimate_180_days\": 261, \"hc_estimate_270_days\": 283, \"hc_estimate_365_days\": 272, \"hc_growth_90_days\": \"-3.979999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-16.8599999999999994315658113919198513031005859375\", \"hc_growth_270_days\": \"-23.32000000000000028421709430404007434844970703125\", \"hc_growth_365_days\": \"-20.219999999999998863131622783839702606201171875\"}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1505973096/hftqswc19ph7xjondzk6.jpg",
+                        "name": "San Jose State University"
+                    },
+                    "name": "San Jose State University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1505973096/hftqswc19ph7xjondzk6.jpg"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "66",
+                    "value": "Women in Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "517"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

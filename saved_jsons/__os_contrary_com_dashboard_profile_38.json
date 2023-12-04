@@ -1,0 +1,438 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "EY-Parthenon Software Strategy Group | CS + Art @ Brown",
+                "educationExperiences": [],
+                "email": "allyszhu@gmail.com",
+                "firstName": "Ally",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "San Francisco",
+                "id": "38",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": "2023-08-15T00:41:06",
+                "lastName": "Zhu",
+                "linkedinName": "allyszhu",
+                "linkedinUrl": "https://linkedin.com/in/allyszhu/",
+                "location": "allyszhu.com",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "d5e8f185-64bf-4e93-b405-b2936d152fad",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-38-Screen%20Shot%202023-01-30%20at%2010.51.53%20PM.png",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": "",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3298",
+                        "organizationId": 1378,
+                        "position": "Associate",
+                        "startDate": "2022-08-01"
+                    },
+                    {
+                        "endDate": "2022-09-01",
+                        "id": "3300",
+                        "organizationId": 5,
+                        "position": "Lead Venture Partner",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "3302",
+                        "organizationId": 2635,
+                        "position": "Business Analyst Intern",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3301",
+                        "organizationId": 542,
+                        "position": "Developer",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "3303",
+                        "organizationId": 509,
+                        "position": "Published Author",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "3304",
+                        "organizationId": 2636,
+                        "position": "Product Development Intern",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "3305",
+                        "organizationId": 2637,
+                        "position": "Venture Capital Summer Analyst",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "3306",
+                        "organizationId": 2638,
+                        "position": "Girls Who Invest Online Intensive Program Scholar",
+                        "startDate": "2020-02-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3299",
+                        "organizationId": 2634,
+                        "position": "Published Illustrator",
+                        "startDate": "2020-01-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "3308",
+                        "organizationId": 2639,
+                        "position": "Business Development Intern",
+                        "startDate": "2019-06-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "3307",
+                        "organizationId": 258,
+                        "position": "Social Media Correspondent and Graphics Designer",
+                        "startDate": "2018-12-01"
+                    },
+                    {
+                        "endDate": "2018-12-01",
+                        "id": "3309",
+                        "organizationId": 2640,
+                        "position": "Co-Founder",
+                        "startDate": "2018-06-01"
+                    },
+                    {
+                        "endDate": "2017-08-01",
+                        "id": "3310",
+                        "organizationId": 2641,
+                        "position": "Summer Intern",
+                        "startDate": "2017-07-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 124925, \"name\": \"EY-Parthenon\", \"uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zz6jhd5o9xjg5r56sye6\", \"description\": \"EY-Parthenon is one of the leading management advisory firms in the payments industry\", \"headcount\": \"5001-10000\", \"founding_date\": \"1991-01-01\", \"website\": \"https://www.ey-parthenon.de/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1134161], \"executive_people_profile_ids\": [97397, 1932118, 469356, 1345633, 2038035, 1075736, 2101570, 2086514, 732424, 1134161, 162287, 3060988], \"cb_permalink\": \"https://www.crunchbase.com/organization/ey-parthenon\", \"linkedin_url\": \"https://linkedin.com/company/ey-parthenon\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"ey-parthenon\", \"tags\": [{\"id\": 56792, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 56793, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 56794, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"name\": \"Payments\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 8159, \"legal_entity_uuid\": \"ab720d4b-4fb4-4d83-b50d-258df5a5eca9\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 237, \"hc_estimate_90_days\": 253, \"hc_estimate_180_days\": 215, \"hc_estimate_270_days\": 212, \"hc_estimate_365_days\": 212, \"hc_growth_90_days\": \"-6.32000000000000028421709430404007434844970703125\", \"hc_growth_180_days\": \"10.230000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"11.78999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": \"11.78999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zz6jhd5o9xjg5r56sye6",
+                        "name": "EY-Parthenon"
+                    },
+                    "position": "Associate",
+                    "startDate": "2022-08-01",
+                    "name": "EY-Parthenon",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zz6jhd5o9xjg5r56sye6"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/penguin-random-house-publishing.png",
+                        "name": "Penguin Random House"
+                    },
+                    "position": "Published Illustrator",
+                    "startDate": "2020-01-01",
+                    "name": "Penguin Random House",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/penguin-random-house-publishing.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-09-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Lead Venture Partner",
+                    "startDate": "2021-08-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 1443559, \"name\": \"Develop for Good\", \"uuid\": \"47a8f49e-7d1a-4859-9449-c11abb7317dd\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/irsqxdcnzujtyss8etmj\", \"description\": \"501(c)3 nonprofit that supports teams of diverse college students as they work on tech projects under industry mentors for other nonprofits.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.developforgood.org/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [3119593], \"cb_permalink\": \"https://www.crunchbase.com/organization/develop-for-good\", \"linkedin_url\": \"https://linkedin.com/company/develop-for-good\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"develop-for-good\", \"tags\": [{\"id\": 2608965, \"legal_entity_uuid\": \"47a8f49e-7d1a-4859-9449-c11abb7317dd\", \"name\": \"Computer\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 26891, \"legal_entity_uuid\": \"47a8f49e-7d1a-4859-9449-c11abb7317dd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 26, \"hc_estimate_180_days\": 15, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 4, \"hc_growth_90_days\": \"-34.61999999999999744204615126363933086395263671875\", \"hc_growth_180_days\": \"13.3300000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": \"240\", \"hc_growth_365_days\": \"325\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/irsqxdcnzujtyss8etmj",
+                        "name": "Develop for Good"
+                    },
+                    "position": "Developer",
+                    "startDate": "2021-01-01",
+                    "name": "Develop for Good",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/irsqxdcnzujtyss8etmj"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-10-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2020-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 759962, \"name\": \"Arthur D. Little\", \"uuid\": \"3dec915f-7fdf-a5a9-680d-aa34209ed258\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/tifonpk9d2gzq0vzc6qg\", \"description\": \"Arthur D. Little provides management consultancy services for technology-intensive industries.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1886-01-01\", \"website\": \"http://www.adlittle.com\", \"location\": \"Brussels\", \"country\": \"BEL\", \"region\": \"Brussels Hoofdstedelijk Gewest\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [853687, 383663, 1670168, 1431288, 1217686, 294223, 382153, 1534312, 319929, 1697001, 2680979, 3224913, 2569591, 1415959, 2568991], \"cb_permalink\": \"https://www.crunchbase.com/organization/arthur-d-little\", \"linkedin_url\": \"https://linkedin.com/company/arthur-d--little\", \"twitter\": \"http:/twitter.com/adlittle\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"arthur-d--little\", \"tags\": [{\"id\": 6394619, \"legal_entity_uuid\": \"3dec915f-7fdf-a5a9-680d-aa34209ed258\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6394618, \"legal_entity_uuid\": \"3dec915f-7fdf-a5a9-680d-aa34209ed258\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6394620, \"legal_entity_uuid\": \"3dec915f-7fdf-a5a9-680d-aa34209ed258\", \"name\": \"InsurTech\", \"category\": \"Industry\"}, {\"id\": 6394621, \"legal_entity_uuid\": \"3dec915f-7fdf-a5a9-680d-aa34209ed258\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96421, \"legal_entity_uuid\": \"3dec915f-7fdf-a5a9-680d-aa34209ed258\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 35, \"hc_estimate_90_days\": 33, \"hc_estimate_180_days\": 33, \"hc_estimate_270_days\": 30, \"hc_estimate_365_days\": 30, \"hc_growth_90_days\": \"6.05999999999999960920149533194489777088165283203125\", \"hc_growth_180_days\": \"6.05999999999999960920149533194489777088165283203125\", \"hc_growth_270_days\": \"16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": \"16.6700000000000017053025658242404460906982421875\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tifonpk9d2gzq0vzc6qg",
+                        "name": "Arthur D. Little"
+                    },
+                    "position": "Business Analyst Intern",
+                    "startDate": "2021-05-01",
+                    "name": "Arthur D. Little",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/tifonpk9d2gzq0vzc6qg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/frankky.png",
+                        "name": "Self-employed"
+                    },
+                    "position": "Published Author",
+                    "startDate": "2020-08-01",
+                    "name": "Self-employed",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/frankky.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 1097218, \"name\": \"Area28 Technologies\", \"uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/gobeqzym7ljl5bbgppju\", \"description\": \"Area28 Technologies is an interactive entertainment company and a developer of cloud-collaborative technology.\", \"headcount\": \"11-50\", \"founding_date\": \"2017-10-31\", \"website\": \"https://area28.io\", \"location\": \"Hong Kong\", \"country\": \"HKG\", \"region\": \"Hong Kong Island\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2855048], \"cb_permalink\": \"https://www.crunchbase.com/organization/area-28-technologies-limited\", \"linkedin_url\": \"https://linkedin.com/company/area28-technologies\", \"twitter\": \"https:/twitter.com/Area28Tech\", \"last_funding_round_date\": \"2020-12-14\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 2450000, \"company_li_name\": \"area28-technologies\", \"tags\": [{\"id\": 5260174, \"legal_entity_uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"name\": \"Video Games\", \"category\": \"Industry\"}, {\"id\": 5260172, \"legal_entity_uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 5260173, \"legal_entity_uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 5260171, \"legal_entity_uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"name\": \"Developer Tools\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 255016, \"uuid\": \"0e269ba3-2982-4779-9098-b30dba2452f0\", \"legal_entity_uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-14\", \"investors\": null}, {\"id\": 255015, \"uuid\": \"ad2dddb5-475c-431d-8c5f-62cc5e45b2ea\", \"legal_entity_uuid\": \"dd526f60-50eb-4628-a3da-2c7a4c7c83de\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2150000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-02\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gobeqzym7ljl5bbgppju",
+                        "name": "Area28 Technologies Limited"
+                    },
+                    "position": "Product Development Intern",
+                    "startDate": "2020-07-01",
+                    "name": "Area28 Technologies Limited",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/gobeqzym7ljl5bbgppju"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 1384375, \"name\": \"Vectr\", \"uuid\": \"99399c7e-08b2-57ba-170b-39146982e56e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vectrventures.png\", \"description\": \"Vectr is a global early-stage venture studio based in hong kong.\", \"headcount\": \"11-50\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.vectr.co\", \"location\": \"Sheung Wan\", \"country\": \"HKG\", \"region\": \"Hong Kong Island\", \"founder_people_profile_ids\": [3022395, 2985280, 308322], \"executive_people_profile_ids\": [422456], \"cb_permalink\": \"https://www.crunchbase.com/organization/vectr\", \"linkedin_url\": \"https://linkedin.com/company/vectrventures\", \"twitter\": \"http:/twitter.com/vectr_ventures\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"vectrventures\", \"tags\": [{\"id\": 1724631, \"legal_entity_uuid\": \"99399c7e-08b2-57ba-170b-39146982e56e\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1724630, \"legal_entity_uuid\": \"99399c7e-08b2-57ba-170b-39146982e56e\", \"name\": \"Product Design\", \"category\": \"Industry\"}, {\"id\": 1724629, \"legal_entity_uuid\": \"99399c7e-08b2-57ba-170b-39146982e56e\", \"name\": \"Business Development\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 26285, \"legal_entity_uuid\": \"99399c7e-08b2-57ba-170b-39146982e56e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 10, \"hc_estimate_90_days\": null, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vectrventures.png",
+                        "name": "Vectr Ventures"
+                    },
+                    "position": "Venture Capital Summer Analyst",
+                    "startDate": "2020-05-01",
+                    "name": "Vectr Ventures",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/vectrventures.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 478786, \"name\": \"Girls Who Invest\", \"uuid\": \"1bb1b03a-932a-77b3-5024-7c0cf3128d44\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1504166541/c7vnscjthl3t94qykepp.png\", \"description\": \"Girls Who Invest is a non-profit organization dedicated to increasing the number of women in portfolio management.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"http://www.girlswhoinvest.org\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [1700967], \"executive_people_profile_ids\": [2260586, 1700967], \"cb_permalink\": \"https://www.crunchbase.com/organization/girls-who-invest\", \"linkedin_url\": \"https://linkedin.com/company/girlswhoinvest\", \"twitter\": \"https:/www.twitter.com/girlswhoinvest\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"girlswhoinvest\", \"tags\": [{\"id\": 1826398, \"legal_entity_uuid\": \"1bb1b03a-932a-77b3-5024-7c0cf3128d44\", \"name\": \"Non Profit\", \"category\": \"Industry\"}, {\"id\": 1826397, \"legal_entity_uuid\": \"1bb1b03a-932a-77b3-5024-7c0cf3128d44\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 115723, \"legal_entity_uuid\": \"1bb1b03a-932a-77b3-5024-7c0cf3128d44\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 51, \"hc_estimate_90_days\": 59, \"hc_estimate_180_days\": 58, \"hc_estimate_270_days\": 44, \"hc_estimate_365_days\": 20, \"hc_growth_90_days\": \"-13.5600000000000004973799150320701301097869873046875\", \"hc_growth_180_days\": \"-12.07000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"15.910000000000000142108547152020037174224853515625\", \"hc_growth_365_days\": \"155\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1504166541/c7vnscjthl3t94qykepp.png",
+                        "name": "Girls Who Invest"
+                    },
+                    "position": "Girls Who Invest Online Intensive Program Scholar",
+                    "startDate": "2020-02-01",
+                    "name": "Girls Who Invest",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1504166541/c7vnscjthl3t94qykepp.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": "{\"id\": 1397027, \"name\": \"Brown University\", \"uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0\", \"description\": \"Brown is an independent, coeducational Ivy League institution comprising undergraduate and graduate programs.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1764-01-01\", \"website\": \"http://www.brown.edu/\", \"location\": \"Providence\", \"country\": \"USA\", \"region\": \"Rhode Island\", \"founder_people_profile_ids\": [3145360], \"executive_people_profile_ids\": [225870, 1436094, 2241411, 766136, 3083809, 2086505, 1750556, 3145360, 1008226, 876010, 659415, 2092522, 2811252, 2823136, 3406163, 1943115], \"cb_permalink\": \"https://www.crunchbase.com/organization/brown-university-2\", \"linkedin_url\": \"https://linkedin.com/company/brown-university\", \"twitter\": \"http:/twitter.com/BrownUniversity\", \"last_funding_round_date\": \"2023-03-21\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 60749662, \"company_li_name\": \"brown-university\", \"tags\": [{\"id\": 4833349, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4833348, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4833347, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 38093, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 252, \"hc_estimate_90_days\": 244, \"hc_estimate_180_days\": 291, \"hc_estimate_270_days\": 289, \"hc_estimate_365_days\": 298, \"hc_growth_90_days\": \"3.279999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-13.4000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-12.800000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"-15.4399999999999995026200849679298698902130126953125\"}, \"funding_rounds\": [{\"id\": 268200, \"uuid\": \"04691770-ee24-4387-b0db-e57c36c39961\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 749662, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-21\", \"investors\": null}, {\"id\": 268199, \"uuid\": \"72a16112-bb44-4b72-8f07-48b93e0ac0e3\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-09\", \"investors\": null}, {\"id\": 268198, \"uuid\": \"44612d62-fa6e-4b67-ba96-c41e64b5d062\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-11-12\", \"investors\": null}, {\"id\": 268197, \"uuid\": \"1ed326a1-cd4e-4892-b61f-8429fbeb6d37\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-09-21\", \"investors\": null}, {\"id\": 268196, \"uuid\": \"8be54c4d-e6af-fbb7-0056-85976d05e9e3\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0",
+                        "name": "Brown University"
+                    },
+                    "position": "Social Media Correspondent and Graphics Designer",
+                    "startDate": "2018-12-01",
+                    "name": "Brown University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 490485, \"name\": \"Epicenter\", \"uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1501711858/dqcoutcpkyazsdsnlfbs.png\", \"description\": \"Epicenter is the information technology market, it consists of hardware and software.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"https://epicenterstockholm.com\", \"location\": \"Stockholm\", \"country\": \"SWE\", \"region\": \"Stockholms Lan\", \"founder_people_profile_ids\": [1701188], \"executive_people_profile_ids\": [1701188], \"cb_permalink\": \"https://www.crunchbase.com/organization/epicenter-2\", \"linkedin_url\": \"https://linkedin.com/company/epicenter-stockholm\", \"twitter\": \"https:/www.twitter.com/epicentersthlm\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 0, \"company_li_name\": \"epicenter-stockholm\", \"tags\": [{\"id\": 1807877, \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 1807878, \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1807879, \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Legal\", \"category\": \"Industry\"}, {\"id\": 1807880, \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": [{\"id\": 252469, \"uuid\": \"0243e4fe-edeb-4abc-99e2-5a63df00dca2\", \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 252468, \"uuid\": \"9e0faa49-4f72-49e6-b24b-7df878c1f402\", \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-22\", \"investors\": null}, {\"id\": 252467, \"uuid\": \"ca6854f1-3211-4e3a-a9eb-c0ec9376174f\", \"legal_entity_uuid\": \"661975c8-a852-72d6-d002-9f701f7cf940\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-06-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1501711858/dqcoutcpkyazsdsnlfbs.png",
+                        "name": "Epicenter Stockholm"
+                    },
+                    "position": "Business Development Intern",
+                    "startDate": "2019-06-01",
+                    "name": "Epicenter Stockholm",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1501711858/dqcoutcpkyazsdsnlfbs.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "SAshare"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2018-06-01",
+                    "name": "SAshare",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-08-01",
+                    "legalEntity": "{\"id\": 1175949, \"name\": \"Baopals\", \"uuid\": \"8c45ef43-273d-46ed-8f9c-7faede6dbe35\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/e28qax9nltjr71arv1ct\", \"description\": \"Baopals is an online marketplace that connects buyers and sellers to find the right products along with convenient payments & fast delivery.\", \"headcount\": \"11-50\", \"founding_date\": \"2016-01-01\", \"website\": \"https://www.baopals.com/\", \"location\": \"Shanghai\", \"country\": \"CHN\", \"region\": \"Shanghai\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/baopals\", \"linkedin_url\": \"https://linkedin.com/company/baopals\", \"twitter\": \"https:/twitter.com/baopals\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"baopals\", \"tags\": [{\"id\": 3359259, \"legal_entity_uuid\": \"8c45ef43-273d-46ed-8f9c-7faede6dbe35\", \"name\": \"Consumer Goods\", \"category\": \"Industry\"}, {\"id\": 3359260, \"legal_entity_uuid\": \"8c45ef43-273d-46ed-8f9c-7faede6dbe35\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 3359261, \"legal_entity_uuid\": \"8c45ef43-273d-46ed-8f9c-7faede6dbe35\", \"name\": \"Marketplace\", \"category\": \"Industry\"}, {\"id\": 3359262, \"legal_entity_uuid\": \"8c45ef43-273d-46ed-8f9c-7faede6dbe35\", \"name\": \"Shopping\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/e28qax9nltjr71arv1ct",
+                        "name": "Baopals"
+                    },
+                    "position": "Summer Intern",
+                    "startDate": "2017-07-01",
+                    "name": "Baopals",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/e28qax9nltjr71arv1ct"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "4.0",
+                    "degreeType": "Computer Science and Visual Arts",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1397027, \"name\": \"Brown University\", \"uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0\", \"description\": \"Brown is an independent, coeducational Ivy League institution comprising undergraduate and graduate programs.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1764-01-01\", \"website\": \"http://www.brown.edu/\", \"location\": \"Providence\", \"country\": \"USA\", \"region\": \"Rhode Island\", \"founder_people_profile_ids\": [3145360], \"executive_people_profile_ids\": [225870, 1436094, 2241411, 766136, 3083809, 2086505, 1750556, 3145360, 1008226, 876010, 659415, 2092522, 2811252, 2823136, 3406163, 1943115], \"cb_permalink\": \"https://www.crunchbase.com/organization/brown-university-2\", \"linkedin_url\": \"https://linkedin.com/company/brown-university\", \"twitter\": \"http:/twitter.com/BrownUniversity\", \"last_funding_round_date\": \"2023-03-21\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 60749662, \"company_li_name\": \"brown-university\", \"tags\": [{\"id\": 4833349, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4833348, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4833347, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 38093, \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 252, \"hc_estimate_90_days\": 244, \"hc_estimate_180_days\": 291, \"hc_estimate_270_days\": 289, \"hc_estimate_365_days\": 298, \"hc_growth_90_days\": \"3.279999999999999804600747665972448885440826416015625\", \"hc_growth_180_days\": \"-13.4000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-12.800000000000000710542735760100185871124267578125\", \"hc_growth_365_days\": \"-15.4399999999999995026200849679298698902130126953125\"}, \"funding_rounds\": [{\"id\": 268200, \"uuid\": \"04691770-ee24-4387-b0db-e57c36c39961\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 749662, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-03-21\", \"investors\": null}, {\"id\": 268199, \"uuid\": \"72a16112-bb44-4b72-8f07-48b93e0ac0e3\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 25000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-09\", \"investors\": null}, {\"id\": 268198, \"uuid\": \"44612d62-fa6e-4b67-ba96-c41e64b5d062\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-11-12\", \"investors\": null}, {\"id\": 268197, \"uuid\": \"1ed326a1-cd4e-4892-b61f-8429fbeb6d37\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-09-21\", \"investors\": null}, {\"id\": 268196, \"uuid\": \"8be54c4d-e6af-fbb7-0056-85976d05e9e3\", \"legal_entity_uuid\": \"52e0322d-5e37-8ca5-9baf-93e0e02fb5a7\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0",
+                        "name": "Brown University"
+                    },
+                    "name": "Brown University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/urarxabon5e638cxrqi0"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1072171, \"name\": \"Parsons School of Design\", \"uuid\": \"3f187e26-eae6-6a39-fbcf-59610d3d05a6\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/k2iru6r2xh9nzoiv0aof\", \"description\": \"Parsons The New School for Design is a school in New York.\", \"headcount\": \"unknown\", \"founding_date\": \"1896-01-01\", \"website\": \"http://www.newschool.edu/parsons/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [1812936, 3164043], \"cb_permalink\": \"https://www.crunchbase.com/organization/parsons-the-new-school-for-design\", \"linkedin_url\": \"https://linkedin.com/school/parsons-school-of-design\", \"twitter\": \"https:/twitter.com/parsonsdesign\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"parsons-school-of-design\", \"tags\": [{\"id\": 4840776, \"legal_entity_uuid\": \"3f187e26-eae6-6a39-fbcf-59610d3d05a6\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4840775, \"legal_entity_uuid\": \"3f187e26-eae6-6a39-fbcf-59610d3d05a6\", \"name\": \"Fashion\", \"category\": \"Industry\"}, {\"id\": 4840774, \"legal_entity_uuid\": \"3f187e26-eae6-6a39-fbcf-59610d3d05a6\", \"name\": \"Art\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 178836, \"legal_entity_uuid\": \"3f187e26-eae6-6a39-fbcf-59610d3d05a6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 74, \"hc_estimate_90_days\": 67, \"hc_estimate_180_days\": 74, \"hc_estimate_270_days\": 73, \"hc_estimate_365_days\": 72, \"hc_growth_90_days\": \"10.449999999999999289457264239899814128875732421875\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"1.37000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"2.779999999999999804600747665972448885440826416015625\"}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/k2iru6r2xh9nzoiv0aof",
+                        "name": "Parsons School of Design - The New School"
+                    },
+                    "name": "Parsons School of Design - The New School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/k2iru6r2xh9nzoiv0aof"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "3.92",
+                    "degreeType": "International Baccalaureate Diploma",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Shanghai American School"
+                    },
+                    "name": "Shanghai American School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "12",
+                    "value": "Management Consulting"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "48",
+                    "value": "Art"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "37",
+                    "value": "Creator Economy"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "29",
+                    "value": "Web3 / Crypto"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "50",
+                    "value": "Sports"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "15",
+                    "value": "Freelancer"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "38"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

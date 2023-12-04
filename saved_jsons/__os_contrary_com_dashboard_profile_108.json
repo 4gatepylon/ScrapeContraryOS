@@ -1,0 +1,148 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": null,
+                "educationExperiences": [
+                    {
+                        "degree": "",
+                        "degreeType": "Cross-Registered for Graduate Level Classes (while enrolled in Undergraduate Program at Harvard)",
+                        "endDate": null,
+                        "id": "191",
+                        "startDate": null,
+                        "universityId": 16
+                    },
+                    {
+                        "degree": "Electrical and Computer Engineering",
+                        "degreeType": "Master of Science - MS",
+                        "endDate": null,
+                        "id": "192",
+                        "startDate": null,
+                        "universityId": 141
+                    },
+                    {
+                        "degree": "Electrical and Computer Engineering",
+                        "degreeType": "Bachelors degree",
+                        "endDate": null,
+                        "id": "193",
+                        "startDate": null,
+                        "universityId": 6
+                    },
+                    {
+                        "degree": "",
+                        "degreeType": "International Baccalaureate Diploma",
+                        "endDate": null,
+                        "id": "194",
+                        "startDate": null,
+                        "universityId": 142
+                    }
+                ],
+                "email": "mjafri118@gmail.com",
+                "firstName": "Mohib",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "108",
+                "intro": "",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": null,
+                "lastName": "Jafri",
+                "linkedinName": "mohibjafri",
+                "linkedinUrl": "https://linkedin.com/in/mohibjafri/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "f9c8e1af-13dd-43e6-b09e-9ea2ee4cbc7a",
+                "profilePicUrl": "https://dl.airtable.com/.attachments/cbe81eaae51731a796f4309acad3faa0/23b30fde/Headshot_Square.png?ts=1659018022&userId=usrMxTlLuLWjeji2x&cs=b93efffb586dc04f",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": []
+            },
+            "workExperiences": [],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "International Baccalaureate Diploma",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2214546, \"name\": \"Granada Hills Charter High School\", \"uuid\": \"3c159a8b-de18-4025-944f-db8514f4fd0e\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ko2kws91rxlrqota0jog\", \"description\": \"Granada Hills Charter is an independent public school that seeks to create lifelong learners and productive citizens of its student body.\", \"headcount\": \"101-250\", \"founding_date\": \"1960-01-01\", \"website\": \"https://www.ghchs.com\", \"location\": \"Granada Hills\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/granada-hills-charter-high-school\", \"linkedin_url\": \"https://linkedin.com/school/granada-hills-charter\", \"twitter\": \"https:/www.twitter.com/ghctk12\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"granada-hills-charter\", \"tags\": [{\"id\": 1233402, \"legal_entity_uuid\": \"3c159a8b-de18-4025-944f-db8514f4fd0e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1233401, \"legal_entity_uuid\": \"3c159a8b-de18-4025-944f-db8514f4fd0e\", \"name\": \"Charter Schools\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 37176, \"legal_entity_uuid\": \"3c159a8b-de18-4025-944f-db8514f4fd0e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1, \"hc_estimate_90_days\": 1, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ko2kws91rxlrqota0jog",
+                        "name": "Granada Hills Charter"
+                    },
+                    "name": "Granada Hills Charter",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ko2kws91rxlrqota0jog"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Electrical and Computer Engineering",
+                    "degreeType": "Master of Science - MS",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Harvard John A. Paulson School of Engineering and Applied Sciences"
+                    },
+                    "name": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+                    "logoUrl": null
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Electrical and Computer Engineering",
+                    "degreeType": "Bachelors degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 1082618, \"name\": \"Harvard University\", \"uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/r0trjo2c9vpuzbdes4j6\", \"description\": \"Harvard University is a private research university and a member of the Ivy League.\", \"headcount\": \"10000+\", \"founding_date\": \"1636-09-08\", \"website\": \"http://harvard.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [3118136], \"executive_people_profile_ids\": [228851, 205791, 565055, 3360131, 3225651, 238180, 1003275, 1310187, 1165604, 523667, 3083639, 2076194, 1976896, 3224378, 462288, 877297, 1316883, 1124541, 1065544, 1409004, 2973573, 1368344, 1690495, 1727467, 205034, 2963281, 2229101, 1483163, 1669011, 123228, 738931, 2282945, 739085, 754060, 126945, 3163952, 1112790, 1940651, 495746, 1003554, 1129640, 632075, 1208255, 1517314, 1939887, 2679042, 2928336, 2607677, 2810967, 3118136], \"cb_permalink\": \"https://www.crunchbase.com/organization/harvard-university\", \"linkedin_url\": \"https://linkedin.com/school/harvard-university\", \"twitter\": \"http:/www.twitter.com/Harvard\", \"last_funding_round_date\": \"2022-01-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 136082139, \"company_li_name\": \"harvard-university\", \"tags\": [{\"id\": 4831865, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4831864, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4831863, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 181798, \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 529, \"hc_estimate_90_days\": 500, \"hc_estimate_180_days\": 543, \"hc_estimate_270_days\": 545, \"hc_estimate_365_days\": 549, \"hc_growth_90_days\": \"5.79999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-2.5800000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": \"-2.939999999999999946709294817992486059665679931640625\", \"hc_growth_365_days\": \"-3.640000000000000124344978758017532527446746826171875\"}, \"funding_rounds\": [{\"id\": 491275, \"uuid\": \"e5676380-27b1-40db-89de-b4c067553a46\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 407806, \"uuid\": \"76171910-9231-44da-8e48-7b576fef4481\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-24\", \"investors\": null}, {\"id\": 491274, \"uuid\": \"e27a92c2-f691-4450-b9b1-9187c9420191\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 407805, \"uuid\": \"e439eeb6-2703-44ff-83ad-5fd300c7e5c6\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-07\", \"investors\": null}, {\"id\": 491273, \"uuid\": \"a4757524-d9b6-46f6-b3f0-9a61b624cbcd\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100458, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 407804, \"uuid\": \"612d4b51-b692-4cf5-99b1-bbc1f9322d2f\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-11\", \"investors\": null}, {\"id\": 407803, \"uuid\": \"9d557dc1-c0e7-4e0c-839b-bbf979f104a4\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 8900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-09-13\", \"investors\": null}, {\"id\": 407802, \"uuid\": \"29fa1ac0-db7e-41ff-a5c3-ce1fa5904efb\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 407801, \"uuid\": \"8307be16-5f6e-46a0-ad1d-74d4c99bb548\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 599910, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 491272, \"uuid\": \"7a1647c5-a977-4980-8108-7124f0199960\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1594609, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 407800, \"uuid\": \"d88ca228-1593-a34a-813d-07acc9a99a87\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 491271, \"uuid\": \"837aaf13-7f10-4c4d-846e-5dbcf399cddf\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 491270, \"uuid\": \"0a1e0105-7822-49d9-a59b-aef6f2fd986d\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1058994, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 491269, \"uuid\": \"97c33012-e75f-4263-80c9-9d2c16690383\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2498168, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}, {\"id\": 407799, \"uuid\": \"e2f5a1d2-6b06-9bb0-c2a3-986a8b3ee18b\", \"legal_entity_uuid\": \"d8b57c0e-9f0f-4dcb-d207-a12a90c64a2d\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-07-17\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r0trjo2c9vpuzbdes4j6",
+                        "name": "Harvard University"
+                    },
+                    "name": "Harvard University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/r0trjo2c9vpuzbdes4j6"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Cross-Registered for Graduate Level Classes (while enrolled in Undergraduate Program at Harvard)",
+                    "degreeType": "",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 156075, \"name\": \"Massachusetts Institute of Technology\", \"uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png\", \"description\": \"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1861-04-10\", \"website\": \"http://web.mit.edu\", \"location\": \"Cambridge\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [2269966, 3059970, 2885229, 886045, 1129022, 1152796], \"executive_people_profile_ids\": [498735, 2765470, 114399, 1624605, 1907663, 716444, 565808, 2932245, 2777447, 2076194, 2094072, 2572544, 1502967, 1316846, 2026717, 1776731, 1735773, 675335, 3202570, 665466, 2763519, 2024696, 4132847, 1268209, 2238831, 2272389, 4054065, 814621, 3059970, 3185008, 918777, 3287304, 505225, 2169825], \"cb_permalink\": \"https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit\", \"linkedin_url\": \"https://linkedin.com/school/mit\", \"twitter\": \"http:/www.twitter.com/MIT\", \"last_funding_round_date\": \"2023-08-16\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 1112007889, \"company_li_name\": \"mit\", \"tags\": [{\"id\": 1674321, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1674322, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1674323, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 17888, \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 966, \"hc_estimate_90_days\": 940, \"hc_estimate_180_days\": 1022, \"hc_estimate_270_days\": 1011, \"hc_estimate_365_days\": 1046, \"hc_growth_90_days\": \"2.770000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"-5.480000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-4.45000000000000017763568394002504646778106689453125\", \"hc_growth_365_days\": \"-7.6500000000000003552713678800500929355621337890625\"}, \"funding_rounds\": [{\"id\": 330605, \"uuid\": \"242da484-ff99-4ab0-aafd-b8adbeeb432a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-16\", \"investors\": null}, {\"id\": 330604, \"uuid\": \"a7e1c2dc-4d68-464e-b025-a8b0da2bd2f8\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-15\", \"investors\": null}, {\"id\": 481910, \"uuid\": \"1863fd34-b1fa-4aaa-a3a0-c4da81c9e93f\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-01\", \"investors\": null}, {\"id\": 330603, \"uuid\": \"5e0002ba-0c73-49e7-af24-a04ffa0a3295\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 65000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-30\", \"investors\": null}, {\"id\": 330602, \"uuid\": \"f56eb359-aab0-479f-a41c-4989f97a67c4\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-01\", \"investors\": null}, {\"id\": 330601, \"uuid\": \"f78bd91f-f4e4-4912-810b-ff2144b397bc\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-04-30\", \"investors\": null}, {\"id\": 481909, \"uuid\": \"7535a2f4-ceb6-4a87-9c97-2b61ea97bbba\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3077838, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 330600, \"uuid\": \"df4a8161-d36f-44a1-b9cb-0aee40d38b65\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-11-02\", \"investors\": null}, {\"id\": 330599, \"uuid\": \"b05f8f7a-c036-4401-97ad-30ae05c553d0\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 650000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-15\", \"investors\": null}, {\"id\": 330598, \"uuid\": \"2c1aa60f-bb38-419e-949a-02b37f87f2f9\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-05\", \"investors\": null}, {\"id\": 481908, \"uuid\": \"d08137da-4e63-4416-b9ee-4ee34f3a1634\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3914042, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 481907, \"uuid\": \"1478ea76-8103-43e5-b197-37d315079dfe\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3998325, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 330597, \"uuid\": \"a07b8cfe-f31e-42e3-bc16-c3ca2cfa7a1b\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 40000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-07-02\", \"investors\": null}, {\"id\": 330596, \"uuid\": \"3b686332-5774-b3ea-2322-07e4d0466c6a\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 90000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-06\", \"investors\": null}, {\"id\": 481906, \"uuid\": \"26ae845d-f9d3-42a8-95b4-c497c0584daa\", \"legal_entity_uuid\": \"6599f877-7c83-0c47-b05b-dbedd3db7b3a\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3562684, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png",
+                        "name": "Massachusetts Institute of Technology"
+                    },
+                    "name": "Massachusetts Institute of Technology",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/mit.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "108"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

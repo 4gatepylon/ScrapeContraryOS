@@ -1,0 +1,291 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Building the ERP That Was Promised",
+                "educationExperiences": [
+                    {
+                        "degree": "Mechanical Engineering",
+                        "degreeType": "Bachelor of Science (BS)",
+                        "endDate": "2017-01-01",
+                        "id": "722",
+                        "startDate": "2013-01-01",
+                        "universityId": 19
+                    }
+                ],
+                "email": "wjones700@gmail.com",
+                "firstName": "Wiley",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "390",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Jones",
+                "linkedinName": "wileycwjones",
+                "linkedinUrl": "https://linkedin.com/in/wileycwjones/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "05fb4a1d-37aa-49c3-8647-5b29495826cd",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/390_Wiley_Jones.png",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "3739",
+                        "organizationId": 2856,
+                        "position": "Founder",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4261",
+                        "organizationId": 3035,
+                        "position": "Co-Founder",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4262",
+                        "organizationId": 3035,
+                        "position": "Co-Founder",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "2556",
+                        "organizationId": 1595,
+                        "position": "Lead Hardware Engineer",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": "2021-06-01",
+                        "id": "2557",
+                        "organizationId": 1749,
+                        "position": "Hardware Program Engineer",
+                        "startDate": "2019-07-01"
+                    },
+                    {
+                        "endDate": "2019-07-01",
+                        "id": "2558",
+                        "organizationId": 1750,
+                        "position": "Hardware Engineer",
+                        "startDate": "2017-01-01"
+                    },
+                    {
+                        "endDate": "2017-06-01",
+                        "id": "2559",
+                        "organizationId": 56,
+                        "position": "Campus Ambassador",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-08-01",
+                        "id": "2560",
+                        "organizationId": 559,
+                        "position": "Technology Consulting Intern",
+                        "startDate": "2016-06-01"
+                    },
+                    {
+                        "endDate": "2016-04-01",
+                        "id": "2561",
+                        "organizationId": 1751,
+                        "position": "Engineering 100 Teaching Assistant",
+                        "startDate": "2015-05-01"
+                    },
+                    {
+                        "endDate": "2015-08-01",
+                        "id": "2562",
+                        "organizationId": 1752,
+                        "position": "Product Design Intern",
+                        "startDate": "2015-05-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/doss-com.png",
+                        "name": "Doss"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-10-01",
+                    "name": "Doss",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/doss-com.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-10-01",
+                    "legalEntity": "{\"id\": 477204, \"name\": \"Athelas\", \"uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/udxqekxgrqi37epbtosx\", \"description\": \"Athelas develops technology to monitor chronically ill patients in their homes.\", \"headcount\": \"1-10\", \"founding_date\": \"2016-06-01\", \"website\": \"https://athelas.com/\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [479074, 2138198], \"executive_people_profile_ids\": [479074, 2138198, 3152497, 2824126], \"cb_permalink\": \"https://www.crunchbase.com/organization/athelas\", \"linkedin_url\": \"https://linkedin.com/company/athelas\", \"twitter\": \"https:/twitter.com/athelasdevice\", \"last_funding_round_date\": \"2022-01-31\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 150131620, \"company_li_name\": \"athelas\", \"tags\": [{\"id\": 1731483, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 1731484, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1731485, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Life Science\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 109033, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 150, \"hc_estimate_90_days\": 154, \"hc_estimate_180_days\": 159, \"hc_estimate_270_days\": 155, \"hc_estimate_365_days\": 140, \"hc_growth_90_days\": \"-2.600000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-5.660000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-3.229999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"7.13999999999999968025576890795491635799407958984375\"}, \"funding_rounds\": [{\"id\": 39407, \"uuid\": \"02205c3d-a40b-4996-b44e-a41452a6c462\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 59431620, \"post_money_valuation_usd\": 1500000000, \"announced_date\": \"2022-01-31\", \"investors\": null}, {\"id\": 39406, \"uuid\": \"2a84e489-f17a-4406-96db-7e867c937332\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 72000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-10\", \"investors\": null}, {\"id\": 39405, \"uuid\": \"e3d64a6f-cedc-42f0-86c3-76b2c934cf94\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-02-01\", \"investors\": null}, {\"id\": 39404, \"uuid\": \"25eb979b-f473-41f6-ad31-146f7d1f64b8\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-28\", \"investors\": null}, {\"id\": 39403, \"uuid\": \"ff365c2a-1399-4cee-aab6-c5adf09ecb58\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-23\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/udxqekxgrqi37epbtosx",
+                        "name": "Athelas"
+                    },
+                    "position": "Head of Product",
+                    "startDate": "2022-07-01",
+                    "name": "Athelas",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/udxqekxgrqi37epbtosx"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-07-01",
+                    "legalEntity": "{\"id\": 477204, \"name\": \"Athelas\", \"uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/udxqekxgrqi37epbtosx\", \"description\": \"Athelas develops technology to monitor chronically ill patients in their homes.\", \"headcount\": \"1-10\", \"founding_date\": \"2016-06-01\", \"website\": \"https://athelas.com/\", \"location\": \"Mountain View\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [479074, 2138198], \"executive_people_profile_ids\": [479074, 2138198, 3152497, 2824126], \"cb_permalink\": \"https://www.crunchbase.com/organization/athelas\", \"linkedin_url\": \"https://linkedin.com/company/athelas\", \"twitter\": \"https:/twitter.com/athelasdevice\", \"last_funding_round_date\": \"2022-01-31\", \"last_funding_round_name\": \"Venture Round\", \"total_funding_amount\": 150131620, \"company_li_name\": \"athelas\", \"tags\": [{\"id\": 1731483, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Biotechnology\", \"category\": \"Industry\"}, {\"id\": 1731484, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Health Care\", \"category\": \"Industry\"}, {\"id\": 1731485, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Life Science\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 109033, \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 150, \"hc_estimate_90_days\": 154, \"hc_estimate_180_days\": 159, \"hc_estimate_270_days\": 155, \"hc_estimate_365_days\": 140, \"hc_growth_90_days\": \"-2.600000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-5.660000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-3.229999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"7.13999999999999968025576890795491635799407958984375\"}, \"funding_rounds\": [{\"id\": 39407, \"uuid\": \"02205c3d-a40b-4996-b44e-a41452a6c462\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 59431620, \"post_money_valuation_usd\": 1500000000, \"announced_date\": \"2022-01-31\", \"investors\": null}, {\"id\": 39406, \"uuid\": \"2a84e489-f17a-4406-96db-7e867c937332\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 72000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-10\", \"investors\": null}, {\"id\": 39405, \"uuid\": \"e3d64a6f-cedc-42f0-86c3-76b2c934cf94\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-02-01\", \"investors\": null}, {\"id\": 39404, \"uuid\": \"25eb979b-f473-41f6-ad31-146f7d1f64b8\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-08-28\", \"investors\": null}, {\"id\": 39403, \"uuid\": \"ff365c2a-1399-4cee-aab6-c5adf09ecb58\", \"legal_entity_uuid\": \"ce5cd85d-361c-7bd3-d828-7e9bf835e861\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-06-23\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/udxqekxgrqi37epbtosx",
+                        "name": "Athelas"
+                    },
+                    "position": "Lead Hardware Engineer",
+                    "startDate": "2021-06-01",
+                    "name": "Athelas",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/udxqekxgrqi37epbtosx"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-06-01",
+                    "legalEntity": "{\"id\": 1125283, \"name\": \"Verkada\", \"uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1506057027/eh1qvbl4jcqhr6vlv5hi.png\", \"description\": \"Verkada is the worlds largest cloud-based physical security platform provider helping enterprises operate safer, smarter buildings.\", \"headcount\": \"1001-5000\", \"founding_date\": \"2016-01-01\", \"website\": \"https://www.verkada.com\", \"location\": \"San Mateo\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [334582, 2418993, 1629684], \"executive_people_profile_ids\": [334582, 2418993, 887448, 404781, 1043343, 122509, 1467436, 3261760, 1999596, 2016632, 564700, 13251, 1472354, 1629684, 3062209, 1770550, 1208170, 2400186, 1442845], \"cb_permalink\": \"https://www.crunchbase.com/organization/verkada\", \"linkedin_url\": \"https://linkedin.com/company/verkada\", \"twitter\": \"https:/twitter.com/VerkadaHQ\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 444299996, \"company_li_name\": \"verkada\", \"tags\": [{\"id\": 1839696, \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Cloud Security\", \"category\": \"Industry\"}, {\"id\": 1839697, \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Enterprise Software\", \"category\": \"Industry\"}, {\"id\": 1839698, \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Internet of Things\", \"category\": \"Industry\"}, {\"id\": 1839699, \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Network Security\", \"category\": \"Industry\"}, {\"id\": 1839700, \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Smart Building\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 182868, \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1484, \"hc_estimate_90_days\": 1537, \"hc_estimate_180_days\": 1457, \"hc_estimate_270_days\": 1357, \"hc_estimate_365_days\": 1240, \"hc_growth_90_days\": \"-3.45000000000000017763568394002504646778106689453125\", \"hc_growth_180_days\": \"1.850000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"9.3599999999999994315658113919198513031005859375\", \"hc_growth_365_days\": \"19.67999999999999971578290569595992565155029296875\"}, \"funding_rounds\": [{\"id\": 485500, \"uuid\": \"36a19f35-01d1-42f6-ae23-a889267add0c\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 100000000, \"post_money_valuation_usd\": 3200000000, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 451413, \"uuid\": \"7af60d93-eafd-4a34-baf9-d21702d99b4e\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 205000000, \"post_money_valuation_usd\": 3200000000, \"announced_date\": \"2022-09-14\", \"investors\": null}, {\"id\": 451412, \"uuid\": \"cc3b9f3c-595c-49d6-8b69-ef7f5371c08e\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 80000000, \"post_money_valuation_usd\": 1600000000, \"announced_date\": \"2020-01-29\", \"investors\": null}, {\"id\": 451411, \"uuid\": \"d867b836-b656-4231-9318-77965a28c65f\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 40000000, \"post_money_valuation_usd\": 540000000, \"announced_date\": \"2019-04-25\", \"investors\": null}, {\"id\": 451410, \"uuid\": \"facde405-d755-4172-8b54-70a591f1daa4\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-11\", \"investors\": null}, {\"id\": 451409, \"uuid\": \"71898232-0dc3-c05b-44be-88d2a35d1d9e\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-09-21\", \"investors\": null}, {\"id\": 485499, \"uuid\": \"d8c7a596-c39e-4e89-ba0f-4c1f8fd1cf9b\", \"legal_entity_uuid\": \"df14a446-4704-bfee-df1e-f6f491c9196a\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 399996, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-10-28\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1506057027/eh1qvbl4jcqhr6vlv5hi.png",
+                        "name": "Verkada"
+                    },
+                    "position": "Hardware Program Engineer",
+                    "startDate": "2019-07-01",
+                    "name": "Verkada",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1506057027/eh1qvbl4jcqhr6vlv5hi.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-07-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Sprite Robotics"
+                    },
+                    "position": "Hardware Engineer",
+                    "startDate": "2017-01-01",
+                    "name": "Sprite Robotics",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2017-06-01",
+                    "legalEntity": "{\"id\": 499172, \"name\": \"Sequoia Capital\", \"uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sequoia.png\", \"description\": \"Sequoia Capital is a VC firm that invests in startups in the energy, financial, enterprise, healthcare, internet, and mobile industries.\", \"headcount\": \"101-250\", \"founding_date\": \"1972-11-01\", \"website\": \"http://www.sequoiacap.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [3394297], \"executive_people_profile_ids\": [4070237, 1876912, 1876677, 3083088, 1878092, 1670510, 151095, 1540770, 544696, 2821341, 1717770, 1906105, 151096, 1036667, 2760581, 1499081, 1724395, 1818053, 3561481, 191020, 1522762, 203151, 1497142, 1036771, 3326990, 1718116, 3373009, 1522900, 3633392, 1797858, 163217, 2415554, 2938793, 1203573, 3227377, 548539, 2443670, 2106586, 294538, 380557, 2043412, 3618558, 1906359, 1385437, 592611, 3323364, 853086, 1878307, 2928158, 1497682, 1036748, 565022, 853693, 2527386, 2259917, 2499207, 1534444, 3019273, 151197, 2278644, 1148842, 2650764, 2725837, 1671036, 145910], \"cb_permalink\": \"https://www.crunchbase.com/organization/sequoia-capital\", \"linkedin_url\": \"https://linkedin.com/company/sequoia\", \"twitter\": \"http:/www.twitter.com/sequoia\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"sequoia\", \"tags\": [{\"id\": 6362721, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6362722, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6362723, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 98454, \"legal_entity_uuid\": \"0c867fde-2b9a-df10-fdb9-66b74f355f91\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 523, \"hc_estimate_90_days\": 531, \"hc_estimate_180_days\": 562, \"hc_estimate_270_days\": 556, \"hc_estimate_365_days\": 552, \"hc_growth_90_days\": \"-1.5100000000000000088817841970012523233890533447265625\", \"hc_growth_180_days\": \"-6.94000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": \"-5.94000000000000039079850466805510222911834716796875\", \"hc_growth_365_days\": \"-5.25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sequoia.png",
+                        "name": "Sequoia Capital"
+                    },
+                    "position": "Campus Ambassador",
+                    "startDate": "2016-06-01",
+                    "name": "Sequoia Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sequoia.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-08-01",
+                    "legalEntity": "{\"id\": 1114758, \"name\": \"PwC\", \"uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pwc.png\", \"description\": \"PricewaterhouseCoopers is an accounting firm that provides tax, HR, transactions, performance improvement, and crisis management services.\", \"headcount\": \"10000+\", \"founding_date\": \"1998-01-01\", \"website\": \"http://pwc.com\", \"location\": \"London\", \"country\": \"GBR\", \"region\": \"England\", \"founder_people_profile_ids\": [1870794], \"executive_people_profile_ids\": [595747, 456906, 3217976, 4147862, 1297304, 1029797, 2431679, 607415, 2503689, 1494743, 3062883, 4161297, 2242559, 742335, 4148187, 2237829, 4159135, 3091085, 2847613, 1066004, 4122815, 4168769, 569902, 4123362, 1316727, 4188193, 4133542, 4161667, 3326168, 2499284, 4168361, 2619252, 3135561, 2256341, 2813513, 1701829, 2321882, 1723055, 4161366, 2850020, 4133288, 841178, 3212234, 2137972, 2342450, 331624, 2143056, 2923217, 2193221, 759672, 349438, 2206894, 247132, 1212034, 3819315, 3314679, 1240107, 691285, 1370010, 27376, 3058097, 3614929, 2689610, 1847317, 4122431, 159669, 239726, 1385439, 4168954, 301575, 887052, 791778, 2259301, 4122325, 2386985, 4154857, 2401725, 4168728, 4188322, 2414593, 57804, 1571670, 2924952, 4122280, 4085496, 2647989, 601995, 580243, 3104873, 4154926, 2459262, 1091416, 3134168, 663942, 1294147, 1559626, 4122531, 1743974, 4162096, 779486, 4188190, 2966867, 2312003, 2921061, 4161593, 4132597, 1085174, 2976525, 24404, 4148831, 385611, 4162278, 782628, 370028, 4160000, 3151702, 765576, 2220788, 2132653, 2439678, 2960673, 1019932, 1927621, 666474, 4158657, 4155254, 565615, 1977509, 2665868, 1440619, 1955377], \"cb_permalink\": \"https://www.crunchbase.com/organization/pwc\", \"linkedin_url\": \"https://linkedin.com/company/pwc\", \"twitter\": \"http:/twitter.com/PwC_LLP\", \"last_funding_round_date\": \"2023-09-19\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 0, \"company_li_name\": \"pwc\", \"tags\": [{\"id\": 6398465, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Accounting\", \"category\": \"Industry\"}, {\"id\": 6398466, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 6398467, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 6398468, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 6398469, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 184037, \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 1497, \"hc_estimate_90_days\": 1494, \"hc_estimate_180_days\": 1447, \"hc_estimate_270_days\": 1485, \"hc_estimate_365_days\": 1486, \"hc_growth_90_days\": \"0.200000000000000011102230246251565404236316680908203125\", \"hc_growth_180_days\": \"3.45999999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"0.810000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"0.7399999999999999911182158029987476766109466552734375\"}, \"funding_rounds\": [{\"id\": 485388, \"uuid\": \"ab86f021-53ac-468b-a9c1-b7b2a2533f9a\", \"legal_entity_uuid\": \"2c23e7ad-4441-5320-fdf9-5aa7007fec0b\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-19\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pwc.png",
+                        "name": "PwC"
+                    },
+                    "position": "Technology Consulting Intern",
+                    "startDate": "2016-06-01",
+                    "name": "PwC",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/pwc.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-04-01",
+                    "legalEntity": "{\"id\": 1050686, \"name\": \"University of Illinois Urbana-Champaign\", \"uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png\", \"description\": \"University of Illinois Urbana-Champaign is a public research university focusing on public engagement and economic development.\", \"headcount\": \"10000+\", \"founding_date\": \"1867-01-01\", \"website\": \"http://illinois.edu\", \"location\": \"Urbana\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [1937743], \"executive_people_profile_ids\": [1875430, 2231593, 814100, 3203089, 1840225, 3282964, 4159001, 778089], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-illinois\", \"linkedin_url\": \"https://linkedin.com/school/university-of-illinois-urbana-champaign\", \"twitter\": \"http:/twitter.com/Illinois_Alma\", \"last_funding_round_date\": \"2023-06-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 426468722, \"company_li_name\": \"university-of-illinois-urbana-champaign\", \"tags\": [{\"id\": 1665538, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1665539, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1665540, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1665541, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 174218, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 643, \"hc_estimate_90_days\": 593, \"hc_estimate_180_days\": 721, \"hc_estimate_270_days\": 734, \"hc_estimate_365_days\": 789, \"hc_growth_90_days\": \"8.42999999999999971578290569595992565155029296875\", \"hc_growth_180_days\": \"-10.82000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-12.4000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-18.5\"}, \"funding_rounds\": [{\"id\": 473624, \"uuid\": \"10d7569f-019b-4458-a90c-739849a21ede\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 18000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 473623, \"uuid\": \"ab8f3af9-98fb-4f5d-b376-b1a5151f28c0\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-09\", \"investors\": null}, {\"id\": 473622, \"uuid\": \"533ecc6c-8658-4954-837f-3aee4c04b958\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-04\", \"investors\": null}, {\"id\": 473621, \"uuid\": \"e9d3baa1-0526-4343-a36f-9da586adc341\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 125000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-02-28\", \"investors\": null}, {\"id\": 486106, \"uuid\": \"6bd7f595-3451-491e-ae72-57a7f0079912\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2548079, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 473620, \"uuid\": \"db965913-a05b-4b97-9b52-303c7dac4397\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-03\", \"investors\": null}, {\"id\": 473619, \"uuid\": \"be946b58-f325-44c7-bd84-677b5fad0424\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-08\", \"investors\": null}, {\"id\": 486105, \"uuid\": \"fad4a5d2-201c-4c85-a6db-2443ac7ac93a\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2870643, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 473618, \"uuid\": \"f07f44a1-9e00-4132-8c23-67004e412fc2\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-26\", \"investors\": null}, {\"id\": 473617, \"uuid\": \"179483b7-0951-0089-de8e-7a6b96ad615c\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 104000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-20\", \"investors\": null}, {\"id\": 473616, \"uuid\": \"c73fd6ef-18ec-18aa-985d-45ec97a67bdd\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-08-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png",
+                        "name": "University of Illinois at Urbana-Champaign"
+                    },
+                    "position": "Engineering 100 Teaching Assistant",
+                    "startDate": "2015-05-01",
+                    "name": "University of Illinois at Urbana-Champaign",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-08-01",
+                    "legalEntity": "{\"id\": 146640, \"name\": \"Cummins\", \"uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1466724934/fkwea9pz7lemdgx72lz5.jpg\", \"description\": \"Cummins develops, sells, and services diesel and natural gas engines, power generation systems, and engine-related component products.\", \"headcount\": \"10000+\", \"founding_date\": \"1919-01-01\", \"website\": \"http://www.cummins.com\", \"location\": \"Columbus\", \"country\": \"USA\", \"region\": \"Indiana\", \"founder_people_profile_ids\": [1503500], \"executive_people_profile_ids\": [1002592, 476956, 3140386, 497908, 1888539, 2516139, 630745, 125080, 2709117, 3157119, 1940571, 1503500, 811929, 2022063, 1728988, 275749, 505551, 2132163, 1112791, 2274956, 199371, 677226, 1431860, 523967, 754374, 3223287], \"cb_permalink\": \"https://www.crunchbase.com/organization/cummins\", \"linkedin_url\": \"https://linkedin.com/company/cummins-inc\", \"twitter\": \"http:/twitter.com/Cummins\", \"last_funding_round_date\": \"2021-10-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5262500, \"company_li_name\": \"cummins-inc\", \"tags\": [{\"id\": 1632379, \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"name\": \"Automotive\", \"category\": \"Industry\"}, {\"id\": 1632380, \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"name\": \"Electric Vehicle\", \"category\": \"Industry\"}, {\"id\": 1632381, \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"name\": \"Manufacturing\", \"category\": \"Industry\"}, {\"id\": 1632382, \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"name\": \"Oil and Gas\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4383, \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 168, \"hc_estimate_90_days\": 166, \"hc_estimate_180_days\": 151, \"hc_estimate_270_days\": 148, \"hc_estimate_365_days\": 155, \"hc_growth_90_days\": \"1.1999999999999999555910790149937383830547332763671875\", \"hc_growth_180_days\": \"11.2599999999999997868371792719699442386627197265625\", \"hc_growth_270_days\": \"13.5099999999999997868371792719699442386627197265625\", \"hc_growth_365_days\": \"8.3900000000000005684341886080801486968994140625\"}, \"funding_rounds\": [{\"id\": 180428, \"uuid\": \"6de27916-6a50-4946-b436-99ec1adaa0d1\", \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-10-01\", \"investors\": null}, {\"id\": 180427, \"uuid\": \"cc841667-7e8e-0aa8-3cc3-2cdfaa13e447\", \"legal_entity_uuid\": \"3abc5b64-2fc3-2715-6c88-f03d8dcbb472\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 262500, \"post_money_valuation_usd\": null, \"announced_date\": \"1996-03-29\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1466724934/fkwea9pz7lemdgx72lz5.jpg",
+                        "name": "Cummins Inc."
+                    },
+                    "position": "Product Design Intern",
+                    "startDate": "2015-05-01",
+                    "name": "Cummins Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1466724934/fkwea9pz7lemdgx72lz5.jpg"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-05-01",
+                    "legalEntity": "{\"id\": 1050686, \"name\": \"University of Illinois Urbana-Champaign\", \"uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png\", \"description\": \"University of Illinois Urbana-Champaign is a public research university focusing on public engagement and economic development.\", \"headcount\": \"10000+\", \"founding_date\": \"1867-01-01\", \"website\": \"http://illinois.edu\", \"location\": \"Urbana\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [1937743], \"executive_people_profile_ids\": [1875430, 2231593, 814100, 3203089, 1840225, 3282964, 4159001, 778089], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-illinois\", \"linkedin_url\": \"https://linkedin.com/school/university-of-illinois-urbana-champaign\", \"twitter\": \"http:/twitter.com/Illinois_Alma\", \"last_funding_round_date\": \"2023-06-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 426468722, \"company_li_name\": \"university-of-illinois-urbana-champaign\", \"tags\": [{\"id\": 1665538, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1665539, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1665540, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1665541, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 174218, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 643, \"hc_estimate_90_days\": 593, \"hc_estimate_180_days\": 721, \"hc_estimate_270_days\": 734, \"hc_estimate_365_days\": 789, \"hc_growth_90_days\": \"8.42999999999999971578290569595992565155029296875\", \"hc_growth_180_days\": \"-10.82000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-12.4000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-18.5\"}, \"funding_rounds\": [{\"id\": 473624, \"uuid\": \"10d7569f-019b-4458-a90c-739849a21ede\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 18000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 473623, \"uuid\": \"ab8f3af9-98fb-4f5d-b376-b1a5151f28c0\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-09\", \"investors\": null}, {\"id\": 473622, \"uuid\": \"533ecc6c-8658-4954-837f-3aee4c04b958\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-04\", \"investors\": null}, {\"id\": 473621, \"uuid\": \"e9d3baa1-0526-4343-a36f-9da586adc341\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 125000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-02-28\", \"investors\": null}, {\"id\": 486106, \"uuid\": \"6bd7f595-3451-491e-ae72-57a7f0079912\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2548079, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 473620, \"uuid\": \"db965913-a05b-4b97-9b52-303c7dac4397\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-03\", \"investors\": null}, {\"id\": 473619, \"uuid\": \"be946b58-f325-44c7-bd84-677b5fad0424\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-08\", \"investors\": null}, {\"id\": 486105, \"uuid\": \"fad4a5d2-201c-4c85-a6db-2443ac7ac93a\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2870643, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 473618, \"uuid\": \"f07f44a1-9e00-4132-8c23-67004e412fc2\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-26\", \"investors\": null}, {\"id\": 473617, \"uuid\": \"179483b7-0951-0089-de8e-7a6b96ad615c\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 104000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-20\", \"investors\": null}, {\"id\": 473616, \"uuid\": \"c73fd6ef-18ec-18aa-985d-45ec97a67bdd\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-08-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png",
+                        "name": "University of Illinois at Urbana-Champaign"
+                    },
+                    "position": "Undergraduate Research Assistant",
+                    "startDate": "2014-05-01",
+                    "name": "University of Illinois at Urbana-Champaign",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Mechanical Engineering",
+                    "degreeType": "Bachelor of Science (BS)",
+                    "endDate": "2017-01-01",
+                    "legalEntity": "{\"id\": 1050686, \"name\": \"University of Illinois Urbana-Champaign\", \"uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png\", \"description\": \"University of Illinois Urbana-Champaign is a public research university focusing on public engagement and economic development.\", \"headcount\": \"10000+\", \"founding_date\": \"1867-01-01\", \"website\": \"http://illinois.edu\", \"location\": \"Urbana\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [1937743], \"executive_people_profile_ids\": [1875430, 2231593, 814100, 3203089, 1840225, 3282964, 4159001, 778089], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-illinois\", \"linkedin_url\": \"https://linkedin.com/school/university-of-illinois-urbana-champaign\", \"twitter\": \"http:/twitter.com/Illinois_Alma\", \"last_funding_round_date\": \"2023-06-26\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 426468722, \"company_li_name\": \"university-of-illinois-urbana-champaign\", \"tags\": [{\"id\": 1665538, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1665539, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1665540, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1665541, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 174218, \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 643, \"hc_estimate_90_days\": 593, \"hc_estimate_180_days\": 721, \"hc_estimate_270_days\": 734, \"hc_estimate_365_days\": 789, \"hc_growth_90_days\": \"8.42999999999999971578290569595992565155029296875\", \"hc_growth_180_days\": \"-10.82000000000000028421709430404007434844970703125\", \"hc_growth_270_days\": \"-12.4000000000000003552713678800500929355621337890625\", \"hc_growth_365_days\": \"-18.5\"}, \"funding_rounds\": [{\"id\": 473624, \"uuid\": \"10d7569f-019b-4458-a90c-739849a21ede\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 18000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 473623, \"uuid\": \"ab8f3af9-98fb-4f5d-b376-b1a5151f28c0\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-09\", \"investors\": null}, {\"id\": 473622, \"uuid\": \"533ecc6c-8658-4954-837f-3aee4c04b958\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-04\", \"investors\": null}, {\"id\": 473621, \"uuid\": \"e9d3baa1-0526-4343-a36f-9da586adc341\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 125000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-02-28\", \"investors\": null}, {\"id\": 486106, \"uuid\": \"6bd7f595-3451-491e-ae72-57a7f0079912\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2548079, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 473620, \"uuid\": \"db965913-a05b-4b97-9b52-303c7dac4397\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-11-03\", \"investors\": null}, {\"id\": 473619, \"uuid\": \"be946b58-f325-44c7-bd84-677b5fad0424\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 50000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-10-08\", \"investors\": null}, {\"id\": 486105, \"uuid\": \"fad4a5d2-201c-4c85-a6db-2443ac7ac93a\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2870643, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 473618, \"uuid\": \"f07f44a1-9e00-4132-8c23-67004e412fc2\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-10-26\", \"investors\": null}, {\"id\": 473617, \"uuid\": \"179483b7-0951-0089-de8e-7a6b96ad615c\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 104000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-07-20\", \"investors\": null}, {\"id\": 473616, \"uuid\": \"c73fd6ef-18ec-18aa-985d-45ec97a67bdd\", \"legal_entity_uuid\": \"84d690d3-432f-1f30-ab79-16e78adffe52\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-08-18\", \"investors\": null}]}",
+                    "startDate": "2013-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png",
+                        "name": "University of Illinois at Urbana-Champaign"
+                    },
+                    "name": "University of Illinois at Urbana-Champaign",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-illinois-urbana-champaign.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "390"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

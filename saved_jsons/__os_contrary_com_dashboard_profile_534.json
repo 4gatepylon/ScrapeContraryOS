@@ -1,0 +1,220 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Co-Founder @ Integral",
+                "educationExperiences": [],
+                "email": "shrey@integralapi.co",
+                "firstName": "Shrey",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "New York City",
+                "id": "534",
+                "intro": null,
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-09-23T17:15:52",
+                "lastName": "Jain",
+                "linkedinName": "shreypjain",
+                "linkedinUrl": "https://linkedin.com/in/shreypjain/",
+                "location": "",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "4be25d12-b6ba-4b34-a79b-1f888011fb3d",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/AEdFTp50MbFVaQFnpiK-zvZNEQD-BPgHj4bVm16PStcI=s96-c",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "jainshreyp@gmail.com",
+                "slackUrl": null,
+                "twitterHandle": "",
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2022-09-01",
+                        "id": "4172",
+                        "organizationId": 3003,
+                        "position": "Software Engineer",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "4173",
+                        "organizationId": 3004,
+                        "position": "Fellowship",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4171",
+                        "organizationId": 3002,
+                        "position": "Founder",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "4174",
+                        "organizationId": 3005,
+                        "position": "Software Engineer",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": "2021-04-01",
+                        "id": "4175",
+                        "organizationId": 2862,
+                        "position": "Software Engineer",
+                        "startDate": "2020-12-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "4176",
+                        "organizationId": 3006,
+                        "position": "Software Engineer",
+                        "startDate": "2020-07-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "4177",
+                        "organizationId": 3007,
+                        "position": "Software Engineer",
+                        "startDate": "2020-06-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "4178",
+                        "organizationId": 3008,
+                        "position": "Software Engineer",
+                        "startDate": "2019-10-01"
+                    },
+                    {
+                        "endDate": "2019-09-01",
+                        "id": "4179",
+                        "organizationId": 44,
+                        "position": "Research Intern",
+                        "startDate": "2019-07-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/integral-a-s.png",
+                        "name": "Integral"
+                    },
+                    "position": "Co-Founder",
+                    "startDate": "2022-01-01",
+                    "name": "Integral",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/integral-a-s.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-01-01",
+                    "legalEntity": "{\"id\": 1686957, \"name\": \"Truework\", \"uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dirqxoadrozz7u0emikd\", \"description\": \"Truework is a one-stop platform that helps banks, lenders, and others verify income and employment.\", \"headcount\": \"101-250\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.truework.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [608547, 3331531, 3120546], \"executive_people_profile_ids\": [608547, 3331531, 1750425, 3120546, 2562172, 3343362], \"cb_permalink\": \"https://www.crunchbase.com/organization/truework\", \"linkedin_url\": \"https://linkedin.com/company/trueworkhq\", \"twitter\": \"https:/twitter.com/truework\", \"last_funding_round_date\": \"2023-06-14\", \"last_funding_round_name\": \"Corporate Round\", \"total_funding_amount\": 118900000, \"company_li_name\": \"trueworkhq\", \"tags\": [{\"id\": 6596539, \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Developer APIs\", \"category\": \"Industry\"}, {\"id\": 6596540, \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6596541, \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 6596542, \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Identity Management\", \"category\": \"Industry\"}, {\"id\": 6596543, \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Lending\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 162165, \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 92, \"hc_estimate_90_days\": 93, \"hc_estimate_180_days\": 91, \"hc_estimate_270_days\": 98, \"hc_estimate_365_days\": 104, \"hc_growth_90_days\": \"-1.0800000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"1.100000000000000088817841970012523233890533447265625\", \"hc_growth_270_days\": \"-6.12000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"-11.53999999999999914734871708787977695465087890625\"}, \"funding_rounds\": [{\"id\": 110028, \"uuid\": \"bdbd4538-1a60-4a47-8bf5-13bab3ccfef7\", \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Corporate Round\", \"cb_permalink\": null, \"investment_type\": \"corporate_round\", \"raised_amount_usd\": 24000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-14\", \"investors\": null}, {\"id\": 110027, \"uuid\": \"5fbca6eb-0574-43f4-b331-3f1a81b85ddd\", \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 50000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-09\", \"investors\": null}, {\"id\": 110026, \"uuid\": \"7136114e-5f66-4592-b5b2-e547b3408c4a\", \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-15\", \"investors\": null}, {\"id\": 110025, \"uuid\": \"c21105e8-af62-47d7-b216-88f45a87e092\", \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-05-20\", \"investors\": null}, {\"id\": 110024, \"uuid\": \"e2031a60-5b85-4602-93ba-a7a98ac0153a\", \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 12000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-30\", \"investors\": null}, {\"id\": 110023, \"uuid\": \"0324e204-40af-4960-8a5d-60cc39f1ea74\", \"legal_entity_uuid\": \"194602ad-74f7-4df0-9774-35013fe1f98d\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-11\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dirqxoadrozz7u0emikd",
+                        "name": "Truework"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2021-01-01",
+                    "name": "Truework",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dirqxoadrozz7u0emikd"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 1406877, \"name\": \"Hebbia\", \"uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/hebbia.png\", \"description\": \"Hebbia develops AI productivity tools used to reinvent the search engine.\", \"headcount\": \"11-50\", \"founding_date\": \"2020-08-14\", \"website\": \"http://hebbia.ai/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2240387], \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/hebbia\", \"linkedin_url\": \"https://linkedin.com/company/hebbia\", \"twitter\": \"https:/twitter.com/hebbiaai\", \"last_funding_round_date\": \"2022-06-17\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 31100000, \"company_li_name\": \"hebbia\", \"tags\": [{\"id\": 708610, \"legal_entity_uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"name\": \"Business Intelligence\", \"category\": \"Industry\"}, {\"id\": 708611, \"legal_entity_uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 708612, \"legal_entity_uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"name\": \"Productivity Tools\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 29891, \"legal_entity_uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 9, \"hc_estimate_270_days\": 7, \"hc_estimate_365_days\": 5, \"hc_growth_90_days\": \"62.5\", \"hc_growth_180_days\": \"44.43999999999999772626324556767940521240234375\", \"hc_growth_270_days\": \"85.7099999999999937472239253111183643341064453125\", \"hc_growth_365_days\": \"160\"}, \"funding_rounds\": [{\"id\": 90926, \"uuid\": \"eba5dc15-2d4b-4fd9-80aa-81d30b142a88\", \"legal_entity_uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-17\", \"investors\": null}, {\"id\": 90925, \"uuid\": \"9b86123f-61de-4ea9-9d68-9af735aa6b91\", \"legal_entity_uuid\": \"2c74b869-e219-406d-a386-d2150dcb6252\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-10-29\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/hebbia.png",
+                        "name": "Hebbia.AI"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2021-06-01",
+                    "name": "Hebbia.AI",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/hebbia.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-04-01",
+                    "legalEntity": "{\"id\": 488678, \"name\": \"Snackpass\", \"uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/w1y6lvqhblv1zznn8wso\", \"description\": \"Snackpass is a social commerce platform that focuses on mobile order pickup at local restaurants.\", \"headcount\": \"51-100\", \"founding_date\": \"2017-01-01\", \"website\": \"https://www.snackpass.co\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [497195, 1752256], \"executive_people_profile_ids\": [1090725, 1752256, 497195], \"cb_permalink\": \"https://www.crunchbase.com/organization/snackpass\", \"linkedin_url\": \"https://linkedin.com/company/snackpass\", \"twitter\": \"https:/twitter.com/snackpass_\", \"last_funding_round_date\": \"2021-09-13\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 95637064, \"company_li_name\": \"snackpass\", \"tags\": [{\"id\": 6582824, \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 6582825, \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 6582826, \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Point of Sale\", \"category\": \"Industry\"}, {\"id\": 6582827, \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Restaurants\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 110185, \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 58, \"hc_estimate_90_days\": 59, \"hc_estimate_180_days\": 60, \"hc_estimate_270_days\": 67, \"hc_estimate_365_days\": 82, \"hc_growth_90_days\": \"-1.689999999999999946709294817992486059665679931640625\", \"hc_growth_180_days\": \"-3.3300000000000000710542735760100185871124267578125\", \"hc_growth_270_days\": \"-13.42999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-29.269999999999999573674358543939888477325439453125\"}, \"funding_rounds\": [{\"id\": 243790, \"uuid\": \"86bab355-63e1-4bae-b123-3b0b1f7fa273\", \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 400000000, \"announced_date\": \"2021-09-13\", \"investors\": null}, {\"id\": 243789, \"uuid\": \"110d4a41-5d39-4e4e-84ea-128ef7e1dfee\", \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 70000000, \"post_money_valuation_usd\": 400000000, \"announced_date\": \"2021-06-23\", \"investors\": null}, {\"id\": 243788, \"uuid\": \"a8d55587-2877-4232-926c-57a1534a49be\", \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 23517064, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-19\", \"investors\": null}, {\"id\": 243787, \"uuid\": \"9b93c0ad-84fb-4841-aa5b-0f7bdc4ba28b\", \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 2000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-01\", \"investors\": null}, {\"id\": 243786, \"uuid\": \"79f0ed68-80cb-4ec8-bc56-6c4556e347e6\", \"legal_entity_uuid\": \"6cb43291-219a-4843-aa8a-a858d3116b58\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 120000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-04\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/w1y6lvqhblv1zznn8wso",
+                        "name": "Snackpass"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-12-01",
+                    "name": "Snackpass",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/w1y6lvqhblv1zznn8wso"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-09-01",
+                    "legalEntity": "{\"id\": 124040, \"name\": \"New York University\", \"uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-york-university.png\", \"description\": \"New York University is a private research university that provides education in the arts and sciences, law, medicine, business, and others.\", \"headcount\": \"501-1000\", \"founding_date\": \"1831-04-18\", \"website\": \"http://www.nyu.edu\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2525926, 3275287, 3156295, 108492, 30052, 2581416, 1399624, 1948459, 1993258, 731554, 276386], \"cb_permalink\": \"https://www.crunchbase.com/organization/new-york-university\", \"linkedin_url\": \"https://linkedin.com/school/new-york-university\", \"twitter\": \"http:/twitter.com/nyuniversity\", \"last_funding_round_date\": \"2023-10-30\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 26927189, \"company_li_name\": \"new-york-university\", \"tags\": [{\"id\": 4851053, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4851054, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4851055, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Journalism\", \"category\": \"Industry\"}, {\"id\": 4851056, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Online Portals\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 18963, \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 532, \"hc_estimate_90_days\": 498, \"hc_estimate_180_days\": 591, \"hc_estimate_270_days\": 587, \"hc_estimate_365_days\": 612, \"hc_growth_90_days\": \"6.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-9.980000000000000426325641456060111522674560546875\", \"hc_growth_270_days\": \"-9.3699999999999992184029906638897955417633056640625\", \"hc_growth_365_days\": \"-13.07000000000000028421709430404007434844970703125\"}, \"funding_rounds\": [{\"id\": 479630, \"uuid\": \"4ca3998e-0616-4f3f-9dec-b2a1f134c883\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-30\", \"investors\": null}, {\"id\": 3862, \"uuid\": \"391eb418-5e1e-4520-902b-ddffeb4e9dd3\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-08\", \"investors\": null}, {\"id\": 3861, \"uuid\": \"53e989c9-80f9-4aeb-9441-a46e11b477a2\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1939416, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-04-21\", \"investors\": null}, {\"id\": 3860, \"uuid\": \"38db9b3b-45fb-4444-842e-098d9d04dfe5\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-19\", \"investors\": null}, {\"id\": 3859, \"uuid\": \"63d61291-5f58-4f6d-a1b7-e02e5b30563c\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-18\", \"investors\": null}, {\"id\": 479629, \"uuid\": \"101eccd5-b283-41ce-9490-7501b77c7c97\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1499711, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-01-01\", \"investors\": null}, {\"id\": 479628, \"uuid\": \"1e19490c-d978-4707-a5e7-67a256fec097\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2700737, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-01\", \"investors\": null}, {\"id\": 3858, \"uuid\": \"f7f14492-5aa4-404c-94ee-2ba9f9c6f22f\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 479627, \"uuid\": \"ca6ab02d-850b-480f-9c04-789b89531ac1\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1999053, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 479626, \"uuid\": \"b8376d3e-4536-4d2f-ba45-b41ee1fdcdf6\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-01-01\", \"investors\": null}, {\"id\": 479625, \"uuid\": \"150dc5b9-74f4-4904-9812-0c1ebe03120f\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2015-01-01\", \"investors\": null}, {\"id\": 479624, \"uuid\": \"b0e2cad2-b6ec-44bf-8b73-134fb340e299\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1126925, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-01-01\", \"investors\": null}, {\"id\": 479623, \"uuid\": \"47609473-7b28-45f2-8b7e-6b42f700e6cd\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}, {\"id\": 479622, \"uuid\": \"0c8562c1-a686-487d-a518-720e8ba17b89\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2012-01-01\", \"investors\": null}, {\"id\": 479621, \"uuid\": \"9cc13ae0-fd2f-4afe-8501-3fe91ad0a74a\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1075968, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}, {\"id\": 479620, \"uuid\": \"02c6e614-5d4b-4c04-9ee3-ac4667375d6c\", \"legal_entity_uuid\": \"5d711469-1dbb-3bbd-8a2d-3b6d16b14c1e\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5035379, \"post_money_valuation_usd\": null, \"announced_date\": \"2008-05-18\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-york-university.png",
+                        "name": "New York University"
+                    },
+                    "position": "Research Intern",
+                    "startDate": "2019-07-01",
+                    "name": "New York University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/new-york-university.png"
+                }
+            ],
+            "educationExperiences": [],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "16",
+                    "value": "Founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "17",
+                    "value": "Early founder"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "18",
+                    "value": "Angel Investor"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "534"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

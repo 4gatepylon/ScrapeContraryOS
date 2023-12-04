@@ -1,0 +1,284 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Partner - The Hearth Fund",
+                "educationExperiences": [
+                    {
+                        "degree": "Cognitive Science",
+                        "degreeType": "Bachelor\u2019s Degree",
+                        "endDate": null,
+                        "id": "215",
+                        "startDate": null,
+                        "universityId": 32
+                    }
+                ],
+                "email": "ntredfern@gmail.com",
+                "firstName": "Nathaniel",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "120",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Redfern",
+                "linkedinName": "natred",
+                "linkedinUrl": "https://linkedin.com/in/natred/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "978f2cc0-8e90-4026-ae57-6fd357f10ffe",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/120_Nathaniel_Redfern.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4453",
+                        "organizationId": 244,
+                        "position": "Co-Founder",
+                        "startDate": "2023-01-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "731",
+                        "organizationId": 561,
+                        "position": "Co-Owner",
+                        "startDate": "2022-02-01"
+                    },
+                    {
+                        "endDate": "2022-02-01",
+                        "id": "732",
+                        "organizationId": 562,
+                        "position": "Senior Product Manager",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2019-08-01",
+                        "id": "734",
+                        "organizationId": 563,
+                        "position": "Product Management",
+                        "startDate": "2019-05-01"
+                    },
+                    {
+                        "endDate": "2020-06-01",
+                        "id": "733",
+                        "organizationId": 5,
+                        "position": "Chief of Staff",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "735",
+                        "organizationId": 564,
+                        "position": "Executive Board",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2019-01-01",
+                        "id": "3394",
+                        "organizationId": 101,
+                        "position": "Venture Partner",
+                        "startDate": "2017-12-01"
+                    },
+                    {
+                        "endDate": "2016-01-01",
+                        "id": "736",
+                        "organizationId": 370,
+                        "position": "Product",
+                        "startDate": "2016-01-01"
+                    },
+                    {
+                        "endDate": "2015-01-01",
+                        "id": "737",
+                        "organizationId": 565,
+                        "position": "Cofounder",
+                        "startDate": "2015-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "The Hearth Fund"
+                    },
+                    "position": "Partner",
+                    "startDate": "2022-02-01",
+                    "name": "The Hearth Fund",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-02-01",
+                    "legalEntity": "{\"id\": 1638339, \"name\": \"Disney Streaming\", \"uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vgimsyvpaz7ajvjm1qgt\", \"description\": \"Disney Streaming provides technology services and video streaming company previously formed by Major League Baseball (MLB).\", \"headcount\": \"1001-5000\", \"founding_date\": \"2015-02-01\", \"website\": \"http://www.disneystreaming.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [97634, 207074, 590949, 3398543, 871398, 2742575, 1506929, 1749851, 999099, 1557420, 1853313, 1072077, 1342190, 3163181, 2855135], \"cb_permalink\": \"https://www.crunchbase.com/organization/bamtech\", \"linkedin_url\": \"https://linkedin.com/company/disney-streaming\", \"twitter\": \"https:/twitter.com/DisneyStreaming\", \"last_funding_round_date\": \"2022-11-01\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 2250000000, \"company_li_name\": \"disney-streaming\", \"tags\": [{\"id\": 5900756, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Advertising\", \"category\": \"Industry\"}, {\"id\": 5900757, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Broadcasting\", \"category\": \"Industry\"}, {\"id\": 5900758, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Digital Entertainment\", \"category\": \"Industry\"}, {\"id\": 5900759, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Digital Media\", \"category\": \"Industry\"}, {\"id\": 5900760, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 5900761, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Media and Entertainment\", \"category\": \"Industry\"}, {\"id\": 5900762, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"News\", \"category\": \"Industry\"}, {\"id\": 5900763, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Sports\", \"category\": \"Industry\"}, {\"id\": 5900764, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Video\", \"category\": \"Industry\"}, {\"id\": 5900765, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Video Streaming\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 153018, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 355, \"hc_estimate_90_days\": 361, \"hc_estimate_180_days\": 377, \"hc_estimate_270_days\": 383, \"hc_estimate_365_days\": 380, \"hc_growth_90_days\": \"-1.6599999999999999200639422269887290894985198974609375\", \"hc_growth_180_days\": \"-5.839999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-7.30999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-6.5800000000000000710542735760100185871124267578125\"}, \"funding_rounds\": [{\"id\": 342207, \"uuid\": \"5c7fcee0-dbe6-4915-a84e-0ee975db27f2\", \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 900000000, \"post_money_valuation_usd\": 6000000000, \"announced_date\": \"2022-11-01\", \"investors\": null}, {\"id\": 342206, \"uuid\": \"7d0c0bb3-0330-40d1-9ae8-d6432815e63e\", \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": 3500000000, \"announced_date\": \"2021-08-12\", \"investors\": null}, {\"id\": 342205, \"uuid\": \"64f607fd-2efe-f503-9991-f9bfe72cb18e\", \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 1000000000, \"post_money_valuation_usd\": 3000000000, \"announced_date\": \"2016-08-09\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgimsyvpaz7ajvjm1qgt",
+                        "name": "Disney Streaming Services"
+                    },
+                    "position": "Senior Product Manager",
+                    "startDate": "2021-08-01",
+                    "name": "Disney Streaming Services",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgimsyvpaz7ajvjm1qgt"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 1638339, \"name\": \"Disney Streaming\", \"uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/vgimsyvpaz7ajvjm1qgt\", \"description\": \"Disney Streaming provides technology services and video streaming company previously formed by Major League Baseball (MLB).\", \"headcount\": \"1001-5000\", \"founding_date\": \"2015-02-01\", \"website\": \"http://www.disneystreaming.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [97634, 207074, 590949, 3398543, 871398, 2742575, 1506929, 1749851, 999099, 1557420, 1853313, 1072077, 1342190, 3163181, 2855135], \"cb_permalink\": \"https://www.crunchbase.com/organization/bamtech\", \"linkedin_url\": \"https://linkedin.com/company/disney-streaming\", \"twitter\": \"https:/twitter.com/DisneyStreaming\", \"last_funding_round_date\": \"2022-11-01\", \"last_funding_round_name\": \"Secondary Market\", \"total_funding_amount\": 2250000000, \"company_li_name\": \"disney-streaming\", \"tags\": [{\"id\": 5900756, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Advertising\", \"category\": \"Industry\"}, {\"id\": 5900757, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Broadcasting\", \"category\": \"Industry\"}, {\"id\": 5900758, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Digital Entertainment\", \"category\": \"Industry\"}, {\"id\": 5900759, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Digital Media\", \"category\": \"Industry\"}, {\"id\": 5900760, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 5900761, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Media and Entertainment\", \"category\": \"Industry\"}, {\"id\": 5900762, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"News\", \"category\": \"Industry\"}, {\"id\": 5900763, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Sports\", \"category\": \"Industry\"}, {\"id\": 5900764, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Video\", \"category\": \"Industry\"}, {\"id\": 5900765, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Video Streaming\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 153018, \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 355, \"hc_estimate_90_days\": 361, \"hc_estimate_180_days\": 377, \"hc_estimate_270_days\": 383, \"hc_estimate_365_days\": 380, \"hc_growth_90_days\": \"-1.6599999999999999200639422269887290894985198974609375\", \"hc_growth_180_days\": \"-5.839999999999999857891452847979962825775146484375\", \"hc_growth_270_days\": \"-7.30999999999999960920149533194489777088165283203125\", \"hc_growth_365_days\": \"-6.5800000000000000710542735760100185871124267578125\"}, \"funding_rounds\": [{\"id\": 342207, \"uuid\": \"5c7fcee0-dbe6-4915-a84e-0ee975db27f2\", \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 900000000, \"post_money_valuation_usd\": 6000000000, \"announced_date\": \"2022-11-01\", \"investors\": null}, {\"id\": 342206, \"uuid\": \"7d0c0bb3-0330-40d1-9ae8-d6432815e63e\", \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 350000000, \"post_money_valuation_usd\": 3500000000, \"announced_date\": \"2021-08-12\", \"investors\": null}, {\"id\": 342205, \"uuid\": \"64f607fd-2efe-f503-9991-f9bfe72cb18e\", \"legal_entity_uuid\": \"3d84fbed-86a9-32b2-5177-e1c101353dbb\", \"name\": \"Funding Round\", \"cb_permalink\": null, \"investment_type\": \"undisclosed\", \"raised_amount_usd\": 1000000000, \"post_money_valuation_usd\": 3000000000, \"announced_date\": \"2016-08-09\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgimsyvpaz7ajvjm1qgt",
+                        "name": "Disney Streaming Services"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2020-06-01",
+                    "name": "Disney Streaming Services",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgimsyvpaz7ajvjm1qgt"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-06-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Chief of Staff",
+                    "startDate": "2019-01-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-08-01",
+                    "legalEntity": "{\"id\": 454383, \"name\": \"Uplift\", \"uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/iowrzhybcwqjs8misu7n\", \"description\": \"Uplift is an enterprise buy now, pay later solution offering a complete range of personalized payment options.\", \"headcount\": \"101-250\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.uplift.com\", \"location\": \"Menlo Park\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [96852, 3158078], \"executive_people_profile_ids\": [96852, 998775, 754685, 1296767, 3158078, 2963380, 2603570, 3240678, 765203], \"cb_permalink\": \"https://www.crunchbase.com/organization/uplift-inc\", \"linkedin_url\": \"https://linkedin.com/company/uplift-inc\", \"twitter\": \"http:/twitter.com/GoUpLift\", \"last_funding_round_date\": \"2021-01-07\", \"last_funding_round_name\": \"Debt Financing\", \"total_funding_amount\": 689000000, \"company_li_name\": \"uplift-inc\", \"tags\": [{\"id\": 4915522, \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}, {\"id\": 4915523, \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 4915524, \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 4915525, \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 4915526, \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Payments\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 108888, \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 38, \"hc_estimate_90_days\": 38, \"hc_estimate_180_days\": 39, \"hc_estimate_270_days\": 39, \"hc_estimate_365_days\": 40, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-2.560000000000000053290705182007513940334320068359375\", \"hc_growth_270_days\": \"-2.560000000000000053290705182007513940334320068359375\", \"hc_growth_365_days\": \"-5\"}, \"funding_rounds\": [{\"id\": 398483, \"uuid\": \"39e10833-2de0-4b89-a83e-b41f144be364\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 68000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-01-07\", \"investors\": null}, {\"id\": 398482, \"uuid\": \"f2b6ad3b-257a-4bff-b49f-3630b0888d95\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-02-01\", \"investors\": null}, {\"id\": 398481, \"uuid\": \"4f2e594f-50df-40af-86c4-06f4f92207ac\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 250000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-02\", \"investors\": null}, {\"id\": 398480, \"uuid\": \"c4a5ba38-cd3e-4ccd-a710-1c1572ecfd04\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 123000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-23\", \"investors\": null}, {\"id\": 398479, \"uuid\": \"40a388c2-13e9-42f4-bf6f-20bd5b779487\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 75000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-21\", \"investors\": null}, {\"id\": 398478, \"uuid\": \"c9ebe399-50c4-4a02-8758-ccca26d7999c\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-21\", \"investors\": null}, {\"id\": 398477, \"uuid\": \"334eac1e-df4c-f72e-a34f-0e756ff518ce\", \"legal_entity_uuid\": \"8c6366ba-bc11-f27f-06e7-fbdc47b701ec\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-11-10\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/iowrzhybcwqjs8misu7n",
+                        "name": "Uplift Inc."
+                    },
+                    "position": "Product Management",
+                    "startDate": "2019-05-01",
+                    "name": "Uplift Inc.",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/iowrzhybcwqjs8misu7n"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/usclavalab.png",
+                        "name": "LavaLab"
+                    },
+                    "position": "Executive Board",
+                    "startDate": "2018-01-01",
+                    "name": "LavaLab",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/usclavalab.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2019-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2017-12-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/usclavalab.png",
+                        "name": "LavaLab"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2017-01-01",
+                    "name": "LavaLab",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/usclavalab.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-01-01",
+                    "legalEntity": "{\"id\": 377480, \"name\": \"LinkedIn\", \"uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/rdp6fcqdcvqqcqn3jz72\", \"description\": \"LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.\", \"headcount\": \"10000+\", \"founding_date\": \"2003-05-05\", \"website\": \"http://linkedin.com\", \"location\": \"Sunnyvale\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1481351, 496688, 1717910, 1072921], \"executive_people_profile_ids\": [46184, 336532, 1577816, 752126, 630937, 1560038, 1807462, 789138, 694734, 1164955, 952612, 2677018, 144151, 1051127, 1412545, 292337, 2239708, 2907382, 1481351, 2223129, 2572276, 976230, 2887093, 505739, 1181504, 2076846, 2126399, 1504990, 1745909, 1750642, 1981962, 3337449, 2397251, 3229091, 228523, 48465, 584406, 1306792, 475775, 1435464, 181399, 732198, 1582091, 1292363, 1130090, 1776095, 795275, 2009255, 1514429, 449846, 2492471, 1172831, 1175942, 2031679, 144381, 2679947, 2237869, 2239374, 3146996, 1840954, 1114309, 766339, 1906417, 1949769, 2150973, 2568705, 839826, 486895, 502914, 1189641, 3261951, 2734396, 1878069, 2616961, 991471, 2509869, 1751504, 2522062, 3023336, 3225659, 99726, 577901, 206104, 362015, 864683, 1426698, 1123418, 607399, 2323221, 2677915, 374020, 2967401, 3398687, 1522852, 1072921, 1092036, 1349873, 1108621, 1114542, 1189136, 1657254, 1855520, 3084020, 2945970, 2606988, 2327516, 2858077, 1990999, 2650756, 3225312, 114277, 463563, 1009173, 595313, 858863, 916872, 1801102, 786405, 449294, 1397945, 1236334, 2715080, 2920677, 3162143, 3316108, 3400132, 1949915, 1866925, 1669584, 1889746, 2127548, 2514790, 1751191, 3252214, 2187400, 462233, 465638, 472925, 478542, 1316187, 1425798, 1327354, 180964, 729242, 632438, 2023953, 1996355, 452479, 1515899, 1516428, 1171832, 2043379, 2043625, 1208973, 2240963, 298638, 1826429, 1111004, 1696829, 1710200, 2084732, 2159129, 1387029, 496688, 2723975, 1874233, 2932232, 2946173, 3411922, 3414702, 2131719, 1733716, 1967605, 1991869, 2400752, 1004185, 853057, 157673, 476712, 480086, 607751, 754066, 2023925, 2024163, 319970, 2307809, 141703, 2679479, 1603044, 1517964, 1826518, 1840672, 1114490, 769574, 2151582, 2151206, 1373872, 3359835, 981771, 1967405, 1967279, 2527571, 2809085, 3284085, 3074160, 2854667, 2857894, 114336, 729273, 607153, 632023, 323182, 2235900, 2259661, 527999, 3309214, 1626289, 1933995, 1717910, 1914457, 1944490, 532793, 2872061, 499634, 3267590, 2928576, 2611913, 1505386, 1727349, 1741170, 2815677, 3341182, 2645200, 2795641, 229098, 39012, 123836, 265017, 272373, 596661, 1315281, 181621, 619504, 616272, 1801087, 807472, 1172433, 1170341, 2679566, 2682500, 2241362, 3303704, 2909300, 2715392, 3388831, 3399846, 3410073, 1538612, 1841270, 1480950, 1937965, 1706216, 781418, 505792, 1188398, 1691831, 1733552, 2522302, 3228485], \"cb_permalink\": \"https://www.crunchbase.com/organization/linkedin\", \"linkedin_url\": \"https://linkedin.com/company/linkedin\", \"twitter\": \"http:/www.twitter.com/linkedin\", \"last_funding_round_date\": \"2016-02-15\", \"last_funding_round_name\": \"Private Equity Round\", \"total_funding_amount\": 154800000, \"company_li_name\": \"linkedin\", \"tags\": [{\"id\": 6362691, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Professional Networking\", \"category\": \"Industry\"}, {\"id\": 6362692, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Recruiting\", \"category\": \"Industry\"}, {\"id\": 6362693, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Social Media\", \"category\": \"Industry\"}, {\"id\": 6362694, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Social Recruiting\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 127167, \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 4264, \"hc_estimate_90_days\": 4264, \"hc_estimate_180_days\": 4267, \"hc_estimate_270_days\": 4379, \"hc_estimate_365_days\": 4402, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-0.070000000000000006661338147750939242541790008544921875\", \"hc_growth_270_days\": \"-2.62999999999999989341858963598497211933135986328125\", \"hc_growth_365_days\": \"-3.12999999999999989341858963598497211933135986328125\"}, \"funding_rounds\": [{\"id\": 59022, \"uuid\": \"7c3d83f6-45c2-1a34-7fc6-0eb4401a3002\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Private Equity Round\", \"cb_permalink\": null, \"investment_type\": \"private_equity\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": 1022700000, \"announced_date\": \"2016-02-15\", \"investors\": null}, {\"id\": 59021, \"uuid\": \"190ed39e-f54a-4b51-a157-f69638dd8318\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Secondary Market\", \"cb_permalink\": null, \"investment_type\": \"secondary_market\", \"raised_amount_usd\": 51600000, \"post_money_valuation_usd\": 1022700000, \"announced_date\": \"2009-12-01\", \"investors\": null}, {\"id\": 59020, \"uuid\": \"e74463fe-3744-ee22-f4be-1d546e7e2937\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 22700000, \"post_money_valuation_usd\": 1022700000, \"announced_date\": \"2008-10-22\", \"investors\": null}, {\"id\": 59019, \"uuid\": \"8575facc-00b7-b8bb-8bb9-ee65ed7f2fb3\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 53000000, \"post_money_valuation_usd\": 1053000000, \"announced_date\": \"2008-06-17\", \"investors\": null}, {\"id\": 59018, \"uuid\": \"708ab8c3-b144-d4ad-d069-be8dae8c5724\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 12800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2007-01-29\", \"investors\": null}, {\"id\": 59017, \"uuid\": \"1de6572f-c5e6-5da6-2ee1-7c7cbf10cd8e\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2004-10-01\", \"investors\": null}, {\"id\": 59016, \"uuid\": \"7d0ddbe1-403b-4685-8b12-5e5dd4a13093\", \"legal_entity_uuid\": \"86da6213-5b43-6419-4047-472102ccf66f\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 4700000, \"post_money_valuation_usd\": null, \"announced_date\": \"2003-11-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rdp6fcqdcvqqcqn3jz72",
+                        "name": "LinkedIn"
+                    },
+                    "position": "Product",
+                    "startDate": "2016-01-01",
+                    "name": "LinkedIn",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/rdp6fcqdcvqqcqn3jz72"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2015-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Auxcord"
+                    },
+                    "position": "Cofounder",
+                    "startDate": "2015-01-01",
+                    "name": "Auxcord",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Cognitive Science",
+                    "degreeType": "Bachelors Degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 444170, \"name\": \"University of Southern California\", \"uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png\", \"description\": \"University of Southern California is a private research university offering opportunities for interdisciplinary study and collaboration.\", \"headcount\": \"10000+\", \"founding_date\": \"1880-01-01\", \"website\": \"http://www.usc.edu\", \"location\": \"Los Angeles\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1977034], \"executive_people_profile_ids\": [1010974, 3082228, 971665, 2577100, 3140496, 335148, 2039214, 2237588, 743160, 2661081, 766105], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-southern-california\", \"linkedin_url\": \"https://linkedin.com/school/university-of-southern-california\", \"twitter\": \"https:/twitter.com/USC\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 2370000, \"company_li_name\": \"university-of-southern-california\", \"tags\": [{\"id\": 1795270, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1795271, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1795272, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 107849, \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 553, \"hc_estimate_90_days\": 515, \"hc_estimate_180_days\": 620, \"hc_estimate_270_days\": 628, \"hc_estimate_365_days\": 671, \"hc_growth_90_days\": \"7.37999999999999989341858963598497211933135986328125\", \"hc_growth_180_days\": \"-10.8100000000000004973799150320701301097869873046875\", \"hc_growth_270_days\": \"-11.9399999999999995026200849679298698902130126953125\", \"hc_growth_365_days\": \"-17.589999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 485590, \"uuid\": \"2b593b67-18ea-4883-9e12-cb4a472ebec1\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 454802, \"uuid\": \"bb9b89bb-3e2e-40e6-b4ee-216f801e8c70\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-27\", \"investors\": null}, {\"id\": 454801, \"uuid\": \"deca1823-7f88-4859-a646-7bdb985295fb\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-20\", \"investors\": null}, {\"id\": 454800, \"uuid\": \"1344422d-5ddd-4a18-b67d-88ceb61c40e0\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-28\", \"investors\": null}, {\"id\": 485589, \"uuid\": \"2ea9bb08-4a76-40b5-825a-9a716bd1ba68\", \"legal_entity_uuid\": \"867f0af5-a1d0-143d-bbed-5cc252ca40d6\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2009-07-01\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png",
+                        "name": "University of Southern California"
+                    },
+                    "name": "University of Southern California",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-southern-california.png"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "120"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

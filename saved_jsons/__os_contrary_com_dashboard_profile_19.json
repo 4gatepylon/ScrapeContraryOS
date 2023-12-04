@@ -1,0 +1,234 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "MBA Candidate @ Harvard | Ex-Bain - Sorenson Capital",
+                "educationExperiences": [],
+                "email": "davidgmella@gmail.com",
+                "firstName": "David",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "19",
+                "intro": "",
+                "isActiveFellow": null,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": true,
+                "lastLoggedIn": null,
+                "lastName": "Mella",
+                "linkedinName": "davidgmella",
+                "linkedinUrl": "https://linkedin.com/in/davidgmella/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "cac6705d-a055-4be5-bc13-a8eec8b3b072",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/profile_pics/19_David_Mella.jpeg",
+                "roles": [
+                    "Alumni"
+                ],
+                "secondaryEmail": null,
+                "slackUrl": null,
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2023-08-01",
+                        "id": "4503",
+                        "organizationId": 213718,
+                        "position": "KBS Summer Associate",
+                        "startDate": "2023-05-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3241",
+                        "organizationId": 2618,
+                        "position": "Venture/Growth Investor",
+                        "startDate": "2020-08-01"
+                    },
+                    {
+                        "endDate": "2020-08-01",
+                        "id": "3242",
+                        "organizationId": 1034,
+                        "position": "Associate Consultant",
+                        "startDate": "2018-09-01"
+                    },
+                    {
+                        "endDate": "2018-08-01",
+                        "id": "3243",
+                        "organizationId": 2619,
+                        "position": "Sales & Marketing",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-07-01",
+                        "id": "3244",
+                        "organizationId": 2061,
+                        "position": "Operator",
+                        "startDate": "2018-01-01"
+                    },
+                    {
+                        "endDate": "2018-01-01",
+                        "id": "3245",
+                        "organizationId": 101,
+                        "position": "Founding Venture Partner - BYU",
+                        "startDate": "2016-07-01"
+                    },
+                    {
+                        "endDate": "2016-07-01",
+                        "id": "3246",
+                        "organizationId": 2,
+                        "position": "Analyst",
+                        "startDate": "2016-04-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": "{\"id\": 520549, \"name\": \"Kanbrick\", \"uuid\": \"0ab8a22a-cf12-4248-bbb9-0454c2206f37\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/jybhwjudh4zaoan5dff9\", \"description\": \"Kanbrick focuses on long-term investment partnership opportunities along with business development services.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.kanbrick.com/\", \"location\": \"Chicago\", \"country\": \"USA\", \"region\": \"Illinois\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/kanbrick\", \"linkedin_url\": \"https://linkedin.com/company/kanbrick\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"kanbrick\", \"tags\": [{\"id\": 3730289, \"legal_entity_uuid\": \"0ab8a22a-cf12-4248-bbb9-0454c2206f37\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 3730290, \"legal_entity_uuid\": \"0ab8a22a-cf12-4248-bbb9-0454c2206f37\", \"name\": \"Consulting\", \"category\": \"Industry\"}, {\"id\": 3730291, \"legal_entity_uuid\": \"0ab8a22a-cf12-4248-bbb9-0454c2206f37\", \"name\": \"Professional Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 103870, \"legal_entity_uuid\": \"0ab8a22a-cf12-4248-bbb9-0454c2206f37\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 2, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 2, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 2, \"hc_growth_90_days\": \"-33.3299999999999982946974341757595539093017578125\", \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jybhwjudh4zaoan5dff9",
+                        "name": "Kanbrick"
+                    },
+                    "position": "KBS Summer Associate",
+                    "startDate": "2023-05-01",
+                    "name": "Kanbrick",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/jybhwjudh4zaoan5dff9"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 714272, \"name\": \"Sorenson Capital\", \"uuid\": \"0f1ae2eb-e0b6-b918-6c4a-b6f494453ddd\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sorenson-capital.png\", \"description\": \"Growth equity firm that backs high-growth B2B software companies from Series B to pre-IPO\", \"headcount\": \"11-50\", \"founding_date\": \"2002-01-01\", \"website\": \"http://www.sorensoncapital.com\", \"location\": \"Lehi\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [1668294, 1698528, 489428], \"executive_people_profile_ids\": [4188962, 1390275, 1698528, 715544], \"cb_permalink\": \"https://www.crunchbase.com/organization/sorenson-capital\", \"linkedin_url\": \"https://linkedin.com/company/sorenson-capital\", \"twitter\": \"https:/twitter.com/sorensoncap\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"sorenson-capital\", \"tags\": [{\"id\": 6484763, \"legal_entity_uuid\": \"0f1ae2eb-e0b6-b918-6c4a-b6f494453ddd\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 6484762, \"legal_entity_uuid\": \"0f1ae2eb-e0b6-b918-6c4a-b6f494453ddd\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 92782, \"legal_entity_uuid\": \"0f1ae2eb-e0b6-b918-6c4a-b6f494453ddd\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 12, \"hc_estimate_90_days\": 13, \"hc_estimate_180_days\": 13, \"hc_estimate_270_days\": 12, \"hc_estimate_365_days\": 14, \"hc_growth_90_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_180_days\": \"-7.69000000000000039079850466805510222911834716796875\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": \"-14.28999999999999914734871708787977695465087890625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sorenson-capital.png",
+                        "name": "Sorenson Capital Partners"
+                    },
+                    "position": "Venture/Growth Investor",
+                    "startDate": "2020-08-01",
+                    "name": "Sorenson Capital Partners",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/sorenson-capital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-08-01",
+                    "legalEntity": "{\"id\": 1081499, \"name\": \"Bain & Company\", \"uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/v1471001567/wlw7gelckdhwpfu9rh8w.png\", \"description\": \"Bain & Company is a management consulting firm that provides solutions on change in management, strategies, and technology.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1973-01-01\", \"website\": \"http://www.bain.com\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [204367, 579041, 1307143, 731828, 1302030, 794168, 1781131, 812283, 447863, 951120, 128270, 2688760, 383772, 1112534, 1694163, 1959145, 2149756, 2567066, 2753895, 1385212, 969454, 976400, 493257, 2937167, 2626209, 2847015, 2505996, 2811756, 2816777, 3283470, 2800144, 3225269, 77950, 583664, 1002139, 592983, 1307588, 1314543, 671102, 641722, 2024825, 125345, 2017068, 2682120, 528226, 1517602, 1347866, 1349520, 1349754, 1694394, 1694873, 765978, 2106491, 976509, 496304, 495569, 1667727, 1671242, 2928462, 3374849, 2336776, 2398382, 88830, 1302939, 853432, 475376, 1431330, 1601499, 1792218, 1557686, 1062585, 1148565, 2680963, 961984, 566728, 3315645, 3399854, 1087722, 1348107, 1705984, 767528, 1385152, 834455, 1656471, 1656412, 2076643, 2284721, 1668294, 2444528, 2722458, 2745302, 3182327, 3283597, 2811861, 2821793, 2407788, 238098, 1433435, 1568537, 1777219, 126220, 2008959, 320149, 811356, 1153060, 449216, 1513914, 1089211, 3146349, 2736238, 3170396, 2132156, 1497527, 2522307, 2823783, 335223, 265647, 476690, 1432278, 732160, 412703, 2024390, 127333, 322810, 374, 704799, 439049, 447822, 1517139, 2026842, 2238457, 2238358, 523858, 528157, 3164115, 3405469, 565751, 1708795, 2568446, 2568933, 2874535, 2942775, 1748426, 2823341, 2829324, 3077496, 2849420, 113896, 362610, 263842, 470329, 731153, 933635, 607143, 2007230, 448012, 1403278, 2686251, 1090490, 557424, 566701, 528507, 3156615, 1520284, 1525418, 1828935, 1340514, 1705443, 1944106, 3083995, 1670005, 2928424, 2849335, 2853418, 2138012, 1967520, 2808712, 2399313, 578191, 361981, 471346, 482827, 642308, 632854, 718244, 445170, 1051308, 2683092, 2917526, 1072099, 1114539, 1693448, 1714792, 770269, 1949824, 2568702, 1388745, 2770678, 3019273, 2885240, 2885538, 497074, 503522, 995626, 2284495, 2283221, 2932905, 2943194, 1498864, 1506740, 2137562, 3225639, 887079, 594925, 182367, 1301652, 635069, 654744, 126602, 2490161, 2679894, 2679901, 275421, 2680504, 2258731, 1089508, 528786, 2919024, 1517335, 755510, 766650, 771352, 2106500, 2106455, 2569219, 1372362, 2574667, 3019329, 494839, 1854791, 1671281, 1689985, 3411792, 2603280, 1727521, 3283418, 2853599], \"cb_permalink\": \"https://www.crunchbase.com/organization/bain-co\", \"linkedin_url\": \"https://linkedin.com/company/bain-and-company\", \"twitter\": \"http:/twitter.com/BainAlerts\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"bain-and-company\", \"tags\": [{\"id\": 6385476, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"name\": \"Telecommunications\", \"category\": \"Industry\"}, {\"id\": 6385475, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 6385474, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"name\": \"Internet\", \"category\": \"Industry\"}, {\"id\": 6385473, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 6385472, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 6385471, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"name\": \"Consulting\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 183172, \"legal_entity_uuid\": \"c21b4680-75e8-ea37-265f-e3ad6f0f145d\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 885, \"hc_estimate_90_days\": 885, \"hc_estimate_180_days\": 864, \"hc_estimate_270_days\": 872, \"hc_estimate_365_days\": 868, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"2.430000000000000159872115546022541821002960205078125\", \"hc_growth_270_days\": \"1.4899999999999999911182158029987476766109466552734375\", \"hc_growth_365_days\": \"1.95999999999999996447286321199499070644378662109375\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1471001567/wlw7gelckdhwpfu9rh8w.png",
+                        "name": "Bain  Company"
+                    },
+                    "position": "Associate Consultant",
+                    "startDate": "2018-09-01",
+                    "name": "Bain  Company",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1471001567/wlw7gelckdhwpfu9rh8w.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-08-01",
+                    "legalEntity": "{\"id\": 1576634, \"name\": \"Pop Zero\", \"uuid\": \"5527e918-cde7-4a5c-81ee-5738d90b59df\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/dlpxlcnhi3n9q6lyyd7w\", \"description\": \"Pop Zero extends an online store specializing in a wide array of flavoured and packaged pop-corn food products.\", \"headcount\": \"1-10\", \"founding_date\": \"2000-01-01\", \"website\": \"https://popzeropopcorn.com\", \"location\": \"Dallas\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/pop-zero\", \"linkedin_url\": \"https://linkedin.com/company/pop-zero-popcorn\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"pop-zero-popcorn\", \"tags\": [{\"id\": 2559885, \"legal_entity_uuid\": \"5527e918-cde7-4a5c-81ee-5738d90b59df\", \"name\": \"Supply Chain Management\", \"category\": \"Industry\"}, {\"id\": 2559884, \"legal_entity_uuid\": \"5527e918-cde7-4a5c-81ee-5738d90b59df\", \"name\": \"Food and Beverage\", \"category\": \"Industry\"}, {\"id\": 2559883, \"legal_entity_uuid\": \"5527e918-cde7-4a5c-81ee-5738d90b59df\", \"name\": \"E-Commerce\", \"category\": \"Industry\"}], \"traction_metrics\": null, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dlpxlcnhi3n9q6lyyd7w",
+                        "name": "Pop Zero Popcorn"
+                    },
+                    "position": "Sales  Marketing",
+                    "startDate": "2018-01-01",
+                    "name": "Pop Zero Popcorn",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/dlpxlcnhi3n9q6lyyd7w"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-07-01",
+                    "legalEntity": "{\"id\": 158028, \"name\": \"Fifth Partners\", \"uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-partners.png\", \"description\": \"Fifth Partners is a investment management company that provides the human, intellectual, and financial capital.\", \"headcount\": \"11-50\", \"founding_date\": \"2015-01-01\", \"website\": \"https://fifthpartners.com\", \"location\": \"Dallas\", \"country\": \"USA\", \"region\": \"Texas\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [4188557], \"cb_permalink\": \"https://www.crunchbase.com/organization/fifth-partners\", \"linkedin_url\": \"https://linkedin.com/company/fifth-partners\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"fifth-partners\", \"tags\": [{\"id\": 5640527, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"name\": \"Service Industry\", \"category\": \"Industry\"}, {\"id\": 5640526, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"name\": \"Management Consulting\", \"category\": \"Industry\"}, {\"id\": 5640525, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"name\": \"Financial Services\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 2398, \"legal_entity_uuid\": \"4c269eaa-fb96-4cc6-a6d3-b424763420da\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": null, \"hc_estimate_270_days\": null, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-partners.png",
+                        "name": "Fifth Partners"
+                    },
+                    "position": "Operator",
+                    "startDate": "2018-01-01",
+                    "name": "Fifth Partners",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/fifth-partners.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2018-01-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary Capital"
+                    },
+                    "position": "Founding Venture Partner - BYU",
+                    "startDate": "2016-07-01",
+                    "name": "Contrary Capital",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2016-07-01",
+                    "legalEntity": "{\"id\": 155812, \"name\": \"Album VC\", \"uuid\": \"2d22deaf-521e-c8e2-2501-b9eeb4afbaca\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/mltpiwy4qnlty8cdwwjl\", \"description\": \"Album VC is a venture capital firm that invests in early-stage technology ventures, shaping the future of technology and culture.\", \"headcount\": \"1-10\", \"founding_date\": \"2014-01-01\", \"website\": \"http://www.album.vc\", \"location\": \"Lehi\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [853489, 449206], \"executive_people_profile_ids\": [861190, 853489, 2521120, 449206, 2286717], \"cb_permalink\": \"https://www.crunchbase.com/organization/album\", \"linkedin_url\": \"https://linkedin.com/company/albumvc\", \"twitter\": \"https:/twitter.com/albumvc\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"albumvc\", \"tags\": [{\"id\": 4883529, \"legal_entity_uuid\": \"2d22deaf-521e-c8e2-2501-b9eeb4afbaca\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 428, \"legal_entity_uuid\": \"2d22deaf-521e-c8e2-2501-b9eeb4afbaca\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 8, \"hc_estimate_270_days\": 7, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mltpiwy4qnlty8cdwwjl",
+                        "name": "Album VC"
+                    },
+                    "position": "Analyst",
+                    "startDate": "2016-04-01",
+                    "name": "Album VC",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mltpiwy4qnlty8cdwwjl"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Economics",
+                    "degreeType": "Bachelors degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 748819, \"name\": \"Brigham Young University (BYU)\", \"uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc\", \"description\": \"Brigham Young University is a private university owned and operated by The Church of Jesus Christ of Latter-day Saints.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1875-10-16\", \"website\": \"http://www.byu.edu\", \"location\": \"Provo\", \"country\": \"USA\", \"region\": \"Utah\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2238075, 2043630, 2812130, 3246369, 494414], \"cb_permalink\": \"https://www.crunchbase.com/organization/brigham-young-university\", \"linkedin_url\": \"https://linkedin.com/company/brigham-young-university\", \"twitter\": \"http:/twitter.com/byu\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"brigham-young-university\", \"tags\": [{\"id\": 4833905, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 94434, \"legal_entity_uuid\": \"fbaf4463-2eb5-7552-b925-1e079cf23e0f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 289, \"hc_estimate_90_days\": 289, \"hc_estimate_180_days\": 308, \"hc_estimate_270_days\": 342, \"hc_estimate_365_days\": 345, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-6.1699999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-15.5\", \"hc_growth_365_days\": \"-16.230000000000000426325641456060111522674560546875\"}, \"funding_rounds\": []}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc",
+                        "name": "Brigham Young University"
+                    },
+                    "name": "Brigham Young University",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/csywhgt1r4tx88gjx3vc"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Business Administration and Management",
+                    "degreeType": "Master of Business Administration - MBA",
+                    "endDate": "2024-01-01",
+                    "legalEntity": "{\"id\": 792174, \"name\": \"Harvard Business School\", \"uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz\", \"description\": \"Harvard Business School is an educational institution that offers two-year residential programs leading to an MBA, Ph.D., or DBA degree.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1908-01-01\", \"website\": \"http://www.hbs.edu\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [1840670, 2132509], \"executive_people_profile_ids\": [237328, 578426, 183787, 590194, 2595257, 3083443, 2132509, 689711, 382134, 1064944, 1778045, 2442373, 566483, 1718114, 724212, 1536108, 1634420, 1669495, 1840670, 2753067, 2337846], \"cb_permalink\": \"https://www.crunchbase.com/organization/harvard-business-school\", \"linkedin_url\": \"https://linkedin.com/school/harvard-business-school\", \"twitter\": \"http:/www.twitter.com/HarvardHBS\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"harvard-business-school\", \"tags\": [{\"id\": 4849164, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 4849163, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 4849162, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 4849161, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"name\": \"Alumni\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96186, \"legal_entity_uuid\": \"630773ca-bbdf-bb41-2985-41a23ffdd01a\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 330, \"hc_estimate_90_days\": 296, \"hc_estimate_180_days\": 336, \"hc_estimate_270_days\": 338, \"hc_estimate_365_days\": 331, \"hc_growth_90_days\": \"11.4900000000000002131628207280300557613372802734375\", \"hc_growth_180_days\": \"-1.79000000000000003552713678800500929355621337890625\", \"hc_growth_270_days\": \"-2.37000000000000010658141036401502788066864013671875\", \"hc_growth_365_days\": \"-0.299999999999999988897769753748434595763683319091796875\"}, \"funding_rounds\": []}",
+                    "startDate": "2022-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz",
+                        "name": "Harvard Business School"
+                    },
+                    "name": "Harvard Business School",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/fug94leaosxvawzzp7wz"
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "19"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

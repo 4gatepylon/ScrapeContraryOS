@@ -1,0 +1,417 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": "I'm excited about devtools, sustainability, and fintech, (previously worked at Ramp and Glint Solar \u2600\ufe0f) and would love to learn more about biotech, or robotics.",
+                "currentRole": "SWE @ Airplane",
+                "educationExperiences": [
+                    {
+                        "degree": "Computer Science",
+                        "degreeType": "Bachelors degree",
+                        "endDate": "2023-01-01",
+                        "id": "515",
+                        "startDate": "2019-01-01",
+                        "universityId": 25
+                    },
+                    {
+                        "degree": "class rank #1",
+                        "degreeType": "4.0 GPA",
+                        "endDate": "2019-01-01",
+                        "id": "516",
+                        "startDate": "2016-01-01",
+                        "universityId": 286
+                    }
+                ],
+                "email": "elliotfklein@gmail.com",
+                "firstName": "Elliot",
+                "greeting": "Hey there!",
+                "greetingEmoji": "\ud83e\udd20",
+                "hqPosition": null,
+                "hubCity": "New York City",
+                "id": "273",
+                "intro": "Senior @ UMich \u303d\ufe0f, incoming SWE at Airplane \u2708\ufe0f",
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-03-25T14:37:53",
+                "lastName": "Klein",
+                "linkedinName": "elliotfklein",
+                "linkedinUrl": "https://linkedin.com/in/elliotfklein/",
+                "location": "Ann Arbor",
+                "lookingFor": "I'd love to hear more about what you're working on! Also finding awesome places to bike + hike",
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "7e8aba42-379a-4953-8dca-ac58bf8eab9d",
+                "profilePicUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/production-273-ElliotKleinHeadshot.jpg",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "810-644-6836",
+                "slackUrl": null,
+                "twitterHandle": "notontwitter",
+                "twitterUrl": "https://twitter.com/notontwitter/",
+                "workExperiences": [
+                    {
+                        "endDate": null,
+                        "id": "4585",
+                        "organizationId": 361,
+                        "position": "Software Engineer",
+                        "startDate": "2023-05-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3552",
+                        "organizationId": 77,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2022-05-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "1836",
+                        "organizationId": 5,
+                        "position": "Contrary Fellow (CF21)",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "1838",
+                        "organizationId": 1300,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2021-04-01",
+                        "id": "1839",
+                        "organizationId": 1301,
+                        "position": "Adastec Team",
+                        "startDate": "2020-12-01"
+                    },
+                    {
+                        "endDate": "2021-09-01",
+                        "id": "1837",
+                        "organizationId": 1299,
+                        "position": "Software Engineer",
+                        "startDate": "2020-11-01"
+                    },
+                    {
+                        "endDate": "2021-01-01",
+                        "id": "1840",
+                        "organizationId": 1302,
+                        "position": "Software Engineering Intern",
+                        "startDate": "2020-05-01"
+                    },
+                    {
+                        "endDate": "2020-05-01",
+                        "id": "1841",
+                        "organizationId": 1303,
+                        "position": "Undergraduate Research Assistant",
+                        "startDate": "2020-03-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2197099, \"name\": \"Airplane\", \"uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/mnwr6wnt9krfp9puiicu\", \"description\": \"Airplane is a software development company that offers a software platform for engineers to build internal tools.\", \"headcount\": \"11-50\", \"founding_date\": \"2021-01-01\", \"website\": \"https://www.airplane.dev/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2834359, 3411805], \"executive_people_profile_ids\": [226388, 3411805, 2834359], \"cb_permalink\": \"https://www.crunchbase.com/organization/airplane\", \"linkedin_url\": \"https://linkedin.com/company/airplanedev\", \"twitter\": null, \"last_funding_round_date\": \"2022-09-29\", \"last_funding_round_name\": \"Series B\", \"total_funding_amount\": 40500000, \"company_li_name\": \"airplanedev\", \"tags\": [{\"id\": 1251230, \"legal_entity_uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1251231, \"legal_entity_uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1251232, \"legal_entity_uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"name\": \"Software Engineering\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 50296, \"legal_entity_uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 17, \"hc_estimate_90_days\": 20, \"hc_estimate_180_days\": 19, \"hc_estimate_270_days\": 17, \"hc_estimate_365_days\": 17, \"hc_growth_90_days\": \"-15\", \"hc_growth_180_days\": \"-10.5299999999999993605115378159098327159881591796875\", \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 129819, \"uuid\": \"d7201b3a-b9ff-4b7c-b935-ef2d21f2a754\", \"legal_entity_uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 32000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-29\", \"investors\": null}, {\"id\": 129818, \"uuid\": \"5b20d171-1cad-40e6-b160-ab8cf340f240\", \"legal_entity_uuid\": \"bf3d82f9-0b39-4ee1-91ba-5c200760775f\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 8500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-09\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mnwr6wnt9krfp9puiicu",
+                        "name": "Airplane"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2023-05-01",
+                    "name": "Airplane",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/mnwr6wnt9krfp9puiicu"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 1071180, \"name\": \"Ramp\", \"uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/sshwc4pe2wfsfsm102id\", \"description\": \"Ramp is a finance automation platform that helps businesses spend less time and money.\", \"headcount\": \"501-1000\", \"founding_date\": \"2019-03-01\", \"website\": \"https://ramp.com\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [2530585, 3406520, 1208572], \"executive_people_profile_ids\": [594867, 1208572, 1165355, 2178861, 2725821, 2945682, 2530585, 3406520, 2116926, 3182399], \"cb_permalink\": \"https://www.crunchbase.com/organization/ramp-financial\", \"linkedin_url\": \"https://linkedin.com/company/ramp\", \"twitter\": \"https:/www.twitter.com/tryramp\", \"last_funding_round_date\": \"2023-08-23\", \"last_funding_round_name\": \"Series D\", \"total_funding_amount\": 1667000000, \"company_li_name\": \"ramp\", \"tags\": [{\"id\": 4079717, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 4079718, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 4079719, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"FinTech\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 182585, \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 494, \"hc_estimate_90_days\": 475, \"hc_estimate_180_days\": 430, \"hc_estimate_270_days\": 397, \"hc_estimate_365_days\": 387, \"hc_growth_90_days\": \"4\", \"hc_growth_180_days\": \"14.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"24.42999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"27.64999999999999857891452847979962825775146484375\"}, \"funding_rounds\": [{\"id\": 51141, \"uuid\": \"75e9e0b4-4b2f-4cdb-9f93-cc1e32c99d64\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series D\", \"cb_permalink\": null, \"investment_type\": \"series_d\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 5800000000, \"announced_date\": \"2023-08-23\", \"investors\": null}, {\"id\": 51139, \"uuid\": \"2b274e79-1300-4e16-8f87-daeab1df34bd\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 200000000, \"post_money_valuation_usd\": 8100000000, \"announced_date\": \"2022-03-21\", \"investors\": null}, {\"id\": 51140, \"uuid\": \"cc9ee43c-220d-4653-a736-b59e8e2ea30f\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 550000000, \"post_money_valuation_usd\": 8100000000, \"announced_date\": \"2022-03-21\", \"investors\": null}, {\"id\": 51138, \"uuid\": \"d4f66d47-5609-470d-bf23-f1909d81c0ee\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series C\", \"cb_permalink\": null, \"investment_type\": \"series_c\", \"raised_amount_usd\": 300000000, \"post_money_valuation_usd\": 3900000000, \"announced_date\": \"2021-08-24\", \"investors\": null}, {\"id\": 51137, \"uuid\": \"edccde11-a178-4f0e-aa22-09e71e560285\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 115000000, \"post_money_valuation_usd\": 1600000000, \"announced_date\": \"2021-04-08\", \"investors\": null}, {\"id\": 51136, \"uuid\": \"84e9fa27-118f-4d79-941c-0fdec823dd2a\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Debt Financing\", \"cb_permalink\": null, \"investment_type\": \"debt_financing\", \"raised_amount_usd\": 150000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-02-10\", \"investors\": null}, {\"id\": 51135, \"uuid\": \"2dc821da-0029-4434-b0ae-440b5a5048c4\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series B\", \"cb_permalink\": null, \"investment_type\": \"series_b\", \"raised_amount_usd\": 30000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-17\", \"investors\": null}, {\"id\": 51134, \"uuid\": \"54f8dc6f-96dd-4609-96e7-e30c127cbe9e\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-02-12\", \"investors\": null}, {\"id\": 51133, \"uuid\": \"30aaddd7-4d9d-42c3-a795-1356b13fcd35\", \"legal_entity_uuid\": \"159a3a6e-b93c-468a-8161-2d89aba460ad\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 7000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-08-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sshwc4pe2wfsfsm102id",
+                        "name": "Ramp"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2022-05-01",
+                    "name": "Ramp",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/sshwc4pe2wfsfsm102id"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-09-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "Tour.video"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2020-11-01",
+                    "name": "Tour.video",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 344300, \"name\": \"Glint Solar\", \"uuid\": \"40ee82c3-55e3-4821-b3bd-65a93066bc41\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/qj6gjojckypz6c6nlcda\", \"description\": \"Identify and analyze the best solar sites faster\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.glintsolar.ai\", \"location\": \"Oslo\", \"country\": \"NOR\", \"region\": \"Oslo\", \"founder_people_profile_ids\": [1176619, 1090512], \"executive_people_profile_ids\": [1176619, 2312804, 1090512], \"cb_permalink\": \"https://www.crunchbase.com/organization/glint-solar\", \"linkedin_url\": \"https://linkedin.com/company/glint-solar\", \"twitter\": null, \"last_funding_round_date\": \"2022-06-12\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 3110000, \"company_li_name\": \"glint-solar\", \"tags\": [{\"id\": 2850785, \"legal_entity_uuid\": \"40ee82c3-55e3-4821-b3bd-65a93066bc41\", \"name\": \"Renewable Energy\", \"category\": \"Industry\"}, {\"id\": 2850786, \"legal_entity_uuid\": \"40ee82c3-55e3-4821-b3bd-65a93066bc41\", \"name\": \"Software\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 135764, \"legal_entity_uuid\": \"40ee82c3-55e3-4821-b3bd-65a93066bc41\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 6, \"hc_estimate_90_days\": 6, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 25628, \"uuid\": \"c3fe914d-0af4-4f76-ab5f-ae1c12887f97\", \"legal_entity_uuid\": \"40ee82c3-55e3-4821-b3bd-65a93066bc41\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 3000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-12\", \"investors\": null}, {\"id\": 25627, \"uuid\": \"4f6d0e99-95e0-4274-959f-4f66900420f9\", \"legal_entity_uuid\": \"40ee82c3-55e3-4821-b3bd-65a93066bc41\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 110000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-03-25\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/qj6gjojckypz6c6nlcda",
+                        "name": "Glint Solar"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2021-01-01",
+                    "name": "Glint Solar",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/qj6gjojckypz6c6nlcda"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-04-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "TechLab at Mcity"
+                    },
+                    "position": "ADASTEC Team",
+                    "startDate": "2020-12-01",
+                    "name": "TechLab at Mcity",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-01-01",
+                    "legalEntity": "{\"id\": 738014, \"name\": \"Maxar Technologies\", \"uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/whecildf8tp4wefdioz6\", \"description\": \"Maxar Technologies is a space technology firm that offers communication and observation satellites for commercial and government sectors.\", \"headcount\": \"1001-5000\", \"founding_date\": \"1968-01-01\", \"website\": \"https://www.maxar.com\", \"location\": \"Westminster\", \"country\": \"USA\", \"region\": \"Colorado\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [18769, 2260776, 2761936, 496921], \"cb_permalink\": \"https://www.crunchbase.com/organization/maxar-technologies\", \"linkedin_url\": \"https://linkedin.com/company/maxar-technologies-ltd\", \"twitter\": \"https:/twitter.com/Maxar\", \"last_funding_round_date\": \"2022-12-20\", \"last_funding_round_name\": \"Post-IPO Debt\", \"total_funding_amount\": 2300000000, \"company_li_name\": \"maxar-technologies-ltd\", \"tags\": [{\"id\": 922380, \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"name\": \"Aerospace\", \"category\": \"Industry\"}, {\"id\": 922381, \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"name\": \"Geospatial\", \"category\": \"Industry\"}, {\"id\": 922382, \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"name\": \"Government\", \"category\": \"Industry\"}, {\"id\": 922383, \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"name\": \"Satellite Communication\", \"category\": \"Industry\"}, {\"id\": 922384, \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"name\": \"Telecommunications\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 96924, \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 136, \"hc_estimate_90_days\": 137, \"hc_estimate_180_days\": 139, \"hc_estimate_270_days\": 141, \"hc_estimate_365_days\": 137, \"hc_growth_90_days\": \"-0.729999999999999982236431605997495353221893310546875\", \"hc_growth_180_days\": \"-2.160000000000000142108547152020037174224853515625\", \"hc_growth_270_days\": \"-3.54999999999999982236431605997495353221893310546875\", \"hc_growth_365_days\": \"-0.729999999999999982236431605997495353221893310546875\"}, \"funding_rounds\": [{\"id\": 159757, \"uuid\": \"76aaa173-af11-4798-9e4f-3c6d478dbb72\", \"legal_entity_uuid\": \"070f0f86-5c3b-4816-862e-759bdca34ad0\", \"name\": \"Post-IPO Debt\", \"cb_permalink\": null, \"investment_type\": \"post_ipo_debt\", \"raised_amount_usd\": 2300000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-12-20\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/whecildf8tp4wefdioz6",
+                        "name": "Maxar Technologies"
+                    },
+                    "position": "Software Engineering Intern",
+                    "startDate": "2020-05-01",
+                    "name": "Maxar Technologies",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/whecildf8tp4wefdioz6"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-12-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png",
+                        "name": "TechLab at Mcity"
+                    },
+                    "position": "Humanising Autonomy Team",
+                    "startDate": "2020-08-01",
+                    "name": "TechLab at Mcity",
+                    "logoUrl": "https://s3.us-east-2.amazonaws.com/cdn.os.contrary.com/img/default-org.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-05-01",
+                    "legalEntity": "{\"id\": 862016, \"name\": \"University of Michigan College of Engineering\", \"uuid\": \"24cf552b-33e8-494c-86cd-dd15a807ee35\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-michigan-college-of-engineering.png\", \"description\": \"University of Michigan College of Engineering is the engineering college of the University of Michigan.\", \"headcount\": \"unknown\", \"founding_date\": \"1854-01-01\", \"website\": \"https://www.engin.umich.edu\", \"location\": \"Ann Arbor\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-michigan-college-of-engineering\", \"linkedin_url\": \"https://linkedin.com/school/university-of-michigan-college-of-engineering\", \"twitter\": \"https:/twitter.com/UMengineering\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"university-of-michigan-college-of-engineering\", \"tags\": [{\"id\": 1296291, \"legal_entity_uuid\": \"24cf552b-33e8-494c-86cd-dd15a807ee35\", \"name\": null, \"category\": \"Industry\"}, {\"id\": 7147136, \"legal_entity_uuid\": \"24cf552b-33e8-494c-86cd-dd15a807ee35\", \"name\": null, \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 168768, \"legal_entity_uuid\": \"24cf552b-33e8-494c-86cd-dd15a807ee35\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 98, \"hc_estimate_90_days\": 80, \"hc_estimate_180_days\": 103, \"hc_estimate_270_days\": 132, \"hc_estimate_365_days\": 136, \"hc_growth_90_days\": \"22.5\", \"hc_growth_180_days\": \"-4.8499999999999996447286321199499070644378662109375\", \"hc_growth_270_days\": \"-25.760000000000001563194018672220408916473388671875\", \"hc_growth_365_days\": \"-27.940000000000001278976924368180334568023681640625\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-michigan-college-of-engineering.png",
+                        "name": "University of Michigan College of Engineering"
+                    },
+                    "position": "Undergraduate Research Assistant",
+                    "startDate": "2020-03-01",
+                    "name": "University of Michigan College of Engineering",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-michigan-college-of-engineering.png"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Computer Science",
+                    "degreeType": "Bachelors degree",
+                    "endDate": "2023-01-01",
+                    "legalEntity": "{\"id\": 1396440, \"name\": \"University of Michigan\", \"uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-michigan.png\", \"description\": \"The University of Michigan is a public research university that offers undergraduate, graduate, and professional degree programs.\", \"headcount\": \"10000+\", \"founding_date\": \"1817-08-26\", \"website\": \"https://www.umich.edu\", \"location\": \"Ann Arbor\", \"country\": \"USA\", \"region\": \"Michigan\", \"founder_people_profile_ids\": [492968, 1587765], \"executive_people_profile_ids\": [1299476, 1587765, 1051825, 3161601, 1308055, 1629565, 2603376, 2092394, 1991338, 2736786, 1497575, 4191687, 1555213, 475003, 149871], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-michigan\", \"linkedin_url\": \"https://linkedin.com/school/university-of-michigan\", \"twitter\": \"https:/twitter.com/UMich\", \"last_funding_round_date\": \"2023-10-10\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 285282652, \"company_li_name\": \"university-of-michigan\", \"tags\": [{\"id\": 1794715, \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 1794716, \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1794717, \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Higher Education\", \"category\": \"Industry\"}, {\"id\": 1794718, \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Universities\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 33625, \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 466, \"hc_estimate_90_days\": 451, \"hc_estimate_180_days\": 496, \"hc_estimate_270_days\": 545, \"hc_estimate_365_days\": 558, \"hc_growth_90_days\": \"3.3300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-6.04999999999999982236431605997495353221893310546875\", \"hc_growth_270_days\": \"-14.5\", \"hc_growth_365_days\": \"-16.489999999999998436805981327779591083526611328125\"}, \"funding_rounds\": [{\"id\": 490403, \"uuid\": \"de23faab-a3c5-47c8-b571-214027336ff7\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-10\", \"investors\": null}, {\"id\": 490402, \"uuid\": \"b485e330-296a-4b8c-985e-d4e6f38f4821\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 17500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-09-20\", \"investors\": null}, {\"id\": 378106, \"uuid\": \"22d87b12-f2ac-4931-9976-1aa05abd2f44\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-07-24\", \"investors\": null}, {\"id\": 378105, \"uuid\": \"487ef4fe-703b-4a5e-ab5c-893c38755b60\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 18000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 378104, \"uuid\": \"7d80a3f2-605c-4782-9b8c-147188e13f0c\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 9850000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-05-25\", \"investors\": null}, {\"id\": 378103, \"uuid\": \"0dc70fd2-4410-4505-ad72-c4647c2138f5\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-04-26\", \"investors\": null}, {\"id\": 378102, \"uuid\": \"3e69c0f1-c177-43cd-9be0-e8d6c7b1607c\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 11000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-31\", \"investors\": null}, {\"id\": 378101, \"uuid\": \"deb91c35-348a-44f7-9849-217047f50387\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-12-18\", \"investors\": null}, {\"id\": 378100, \"uuid\": \"2f39a9c0-b77c-4018-8909-2c8aec8756f2\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 7500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-09-12\", \"investors\": null}, {\"id\": 378099, \"uuid\": \"c309acbe-90af-41e3-9b2c-e5d0e8738629\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 6250000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-05-03\", \"investors\": null}, {\"id\": 490401, \"uuid\": \"968770db-bc6e-4ec6-a50b-56651fba9658\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1422772, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 378098, \"uuid\": \"99426c95-632d-42f0-8e15-5f362c12072e\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 33000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-12-08\", \"investors\": null}, {\"id\": 378097, \"uuid\": \"d2a4e256-3cfd-42d8-9cf1-31ed834bf9ba\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 20000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-10-16\", \"investors\": null}, {\"id\": 378096, \"uuid\": \"7a299759-8543-4d35-91ec-1efc15d4270a\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1800000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-09-27\", \"investors\": null}, {\"id\": 378095, \"uuid\": \"71327cd4-17ce-402e-835d-c32962a92f2e\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-04-25\", \"investors\": null}, {\"id\": 490400, \"uuid\": \"fb091997-a658-4d9d-b59e-6b943ba81f47\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1061264, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-01-01\", \"investors\": null}, {\"id\": 378094, \"uuid\": \"d6f41b17-ea11-43e4-835d-8a8919b55fac\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 3600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-12-21\", \"investors\": null}, {\"id\": 378093, \"uuid\": \"dbaf0a00-57da-fae8-acb2-656a9c65fb40\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 58000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-31\", \"investors\": null}, {\"id\": 378092, \"uuid\": \"22028f1a-4c99-0210-ed24-87b024fc1a48\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 27000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-10-17\", \"investors\": null}, {\"id\": 378091, \"uuid\": \"fa613bc6-54de-7af9-a933-8040285213af\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-11-03\", \"investors\": null}, {\"id\": 378090, \"uuid\": \"8df58f35-0e6f-2b94-d672-acd5478d750b\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Venture Round\", \"cb_permalink\": null, \"investment_type\": \"series_unknown\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2014-02-17\", \"investors\": null}, {\"id\": 378089, \"uuid\": \"cce82816-2a3e-fdf7-761b-d88ca105fc2f\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4500000, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-11-21\", \"investors\": null}, {\"id\": 490399, \"uuid\": \"d95b7d22-2d9e-4ff2-bcd1-f1ee1295376b\", \"legal_entity_uuid\": \"ef989047-b04e-78e7-7d6d-a9281c0e0278\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4398616, \"post_money_valuation_usd\": null, \"announced_date\": \"2011-01-01\", \"investors\": null}]}",
+                    "startDate": "2019-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-michigan.png",
+                        "name": "University of Michigan"
+                    },
+                    "name": "University of Michigan",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/university-of-michigan.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "class rank #1",
+                    "degreeType": "4.0 GPA",
+                    "endDate": "2019-01-01",
+                    "legalEntity": null,
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Hartland High School"
+                    },
+                    "name": "Hartland High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "19",
+                    "value": "Undergrad Student"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "13",
+                    "value": "Early employees"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "8",
+                    "value": "Design"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "11",
+                    "value": "Operations"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "25",
+                    "value": "Climate Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "28",
+                    "value": "B2B SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "35",
+                    "value": "Dev Tools"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "34",
+                    "value": "Fin Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "38",
+                    "value": "Hardware"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "24",
+                    "value": "Robotics"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "26",
+                    "value": "Agriculture Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "27",
+                    "value": "Transportation & Logistics"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "46",
+                    "value": "Cycling"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "47",
+                    "value": "Hiking"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "49",
+                    "value": "Travel"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "53",
+                    "value": "Fitness"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "57",
+                    "value": "Music"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                },
+                {
+                    "created": "2022-08-23T21:32:51",
+                    "deleted": null,
+                    "id": "2",
+                    "value": "Product design"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "273"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

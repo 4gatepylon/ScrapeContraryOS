@@ -1,0 +1,279 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "Student @ Yale | VP @ Contrary",
+                "educationExperiences": [
+                    {
+                        "degree": "-",
+                        "degreeType": "",
+                        "endDate": "2020-01-01",
+                        "id": "873",
+                        "startDate": "2016-01-01",
+                        "universityId": 444
+                    },
+                    {
+                        "degree": "Math & Philosophy",
+                        "degreeType": "Bachelor of Arts - BA",
+                        "endDate": null,
+                        "id": "872",
+                        "startDate": null,
+                        "universityId": 38
+                    }
+                ],
+                "email": "jonathan.pierre@vp.contrary.com",
+                "firstName": "Jonathan",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": null,
+                "id": "499",
+                "intro": null,
+                "isActiveFellow": false,
+                "isActiveHq": false,
+                "isActiveVp": true,
+                "isAlumni": false,
+                "lastLoggedIn": "2023-11-06T04:19:48",
+                "lastName": "Pierre",
+                "linkedinName": "jonathan-l-pierre",
+                "linkedinUrl": "https://linkedin.com/in/jonathan-l-pierre/",
+                "location": null,
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": 23,
+                "prismUuid": "59548382-1d43-4638-b17c-3e2efbe32f4c",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a/ALm5wu2F9SJP8NxajlSgjncy44o86-lQuapvUpUew5PO=s96-c",
+                "roles": [
+                    "Venture Partner"
+                ],
+                "secondaryEmail": "jonathan.pierre@yale.edu",
+                "slackUrl": "https://contrarycap.slack.com/app_redirect?channel=U046212SZJ5",
+                "twitterHandle": null,
+                "twitterUrl": null,
+                "workExperiences": [
+                    {
+                        "endDate": "2023-08-01",
+                        "id": "4676",
+                        "organizationId": 1321,
+                        "position": "Intern-Executive Office of Mayor Michelle Wu",
+                        "startDate": "2023-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3963",
+                        "organizationId": 5,
+                        "position": "Venture Partner",
+                        "startDate": "2022-10-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3127",
+                        "organizationId": 354,
+                        "position": "Advisor",
+                        "startDate": "2022-06-01"
+                    },
+                    {
+                        "endDate": "2022-08-01",
+                        "id": "3128",
+                        "organizationId": 2130,
+                        "position": "Product Manager",
+                        "startDate": "2022-01-01"
+                    },
+                    {
+                        "endDate": "2021-08-01",
+                        "id": "3130",
+                        "organizationId": 2560,
+                        "position": "Revenue Operations Intern",
+                        "startDate": "2021-06-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "3126",
+                        "organizationId": 574,
+                        "position": "Student Advisory Board",
+                        "startDate": "2021-05-01"
+                    },
+                    {
+                        "endDate": "2022-01-01",
+                        "id": "3129",
+                        "organizationId": 2559,
+                        "position": "Director of YES Incubator",
+                        "startDate": "2021-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "3132",
+                        "organizationId": 2562,
+                        "position": "Barista",
+                        "startDate": "2019-01-01"
+                    },
+                    {
+                        "endDate": "2020-01-01",
+                        "id": "3131",
+                        "organizationId": 2561,
+                        "position": "Peer Teacher",
+                        "startDate": "2018-01-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Lead Venture Partner",
+                    "startDate": "2023-05-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-08-01",
+                    "legalEntity": "{\"id\": 488288, \"name\": \"City of Boston\", \"uuid\": \"7b16e53b-a2d6-4c42-b19b-b81a458d6d37\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/ulnkkhqvpxqbogsmdxqd\", \"description\": \"City of Boston is a government agency.\", \"headcount\": \"10000+\", \"founding_date\": \"1630-01-01\", \"website\": \"https://www.boston.gov/\", \"location\": \"Boston\", \"country\": \"USA\", \"region\": \"Massachusetts\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [162099, 2040513], \"cb_permalink\": \"https://www.crunchbase.com/organization/city-of-boston\", \"linkedin_url\": \"https://linkedin.com/company/city-of-boston\", \"twitter\": null, \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"city-of-boston\", \"tags\": [{\"id\": 46632, \"legal_entity_uuid\": \"7b16e53b-a2d6-4c42-b19b-b81a458d6d37\", \"name\": \"Government\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 110645, \"legal_entity_uuid\": \"7b16e53b-a2d6-4c42-b19b-b81a458d6d37\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 15, \"hc_estimate_90_days\": 16, \"hc_estimate_180_days\": 14, \"hc_estimate_270_days\": 14, \"hc_estimate_365_days\": 16, \"hc_growth_90_days\": \"-6.25\", \"hc_growth_180_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_270_days\": \"7.13999999999999968025576890795491635799407958984375\", \"hc_growth_365_days\": \"-6.25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ulnkkhqvpxqbogsmdxqd",
+                        "name": "City of Boston"
+                    },
+                    "position": "Intern-Executive Office of Mayor Michelle Wu",
+                    "startDate": "2023-06-01",
+                    "name": "City of Boston",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/ulnkkhqvpxqbogsmdxqd"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2023-05-01",
+                    "legalEntity": "{\"id\": 2166249, \"name\": \"Contrary\", \"uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png\", \"description\": \"Contrary is a venture fund backed by iconic entrepreneurs that identifies and invests in the worlds top talent.\", \"headcount\": \"101-250\", \"founding_date\": \"2016-04-01\", \"website\": \"http://contrary.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [325], \"executive_people_profile_ids\": [3412405], \"cb_permalink\": \"https://www.crunchbase.com/organization/contrary-capital\", \"linkedin_url\": \"https://linkedin.com/company/contrarycapital\", \"twitter\": \"https:/twitter.com/Contrary\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"contrarycapital\", \"tags\": [{\"id\": 1837848, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Finance\", \"category\": \"Industry\"}, {\"id\": 1837849, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 1837850, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"name\": \"Venture Capital\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 57042, \"legal_entity_uuid\": \"f5a75e1e-52c2-e432-0cc0-00a6b3dbad75\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 111, \"hc_estimate_90_days\": 109, \"hc_estimate_180_days\": 125, \"hc_estimate_270_days\": 136, \"hc_estimate_365_days\": 150, \"hc_growth_90_days\": \"1.8300000000000000710542735760100185871124267578125\", \"hc_growth_180_days\": \"-11.199999999999999289457264239899814128875732421875\", \"hc_growth_270_days\": \"-18.379999999999999005240169935859739780426025390625\", \"hc_growth_365_days\": \"-26\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png",
+                        "name": "Contrary"
+                    },
+                    "position": "Venture Partner",
+                    "startDate": "2022-10-01",
+                    "name": "Contrary",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/contrarycapital.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-08-01",
+                    "legalEntity": "{\"id\": 148895, \"name\": \"Intros AI\", \"uuid\": \"ef70fd07-45d0-46b9-9fd5-5dbe22d0fdff\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/oavtwoy9wtucmalcziqh\", \"description\": \"Intros AI is an automated community builder. They automate email, text, and Discord introductions between members of the same community.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-11-01\", \"website\": \"https://www.intros.ai/\", \"location\": \"New York\", \"country\": \"USA\", \"region\": \"New York\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [2568108, 1481031], \"cb_permalink\": \"https://www.crunchbase.com/organization/intros-fdff\", \"linkedin_url\": \"https://linkedin.com/company/intros-ai\", \"twitter\": \"https:/twitter.com/intros_ai\", \"last_funding_round_date\": \"2022-07-06\", \"last_funding_round_name\": \"Pre Seed Round\", \"total_funding_amount\": 1300000, \"company_li_name\": \"intros-ai\", \"tags\": [{\"id\": 2022481, \"legal_entity_uuid\": \"ef70fd07-45d0-46b9-9fd5-5dbe22d0fdff\", \"name\": \"Communities\", \"category\": \"Industry\"}, {\"id\": 2022480, \"legal_entity_uuid\": \"ef70fd07-45d0-46b9-9fd5-5dbe22d0fdff\", \"name\": \"Communications Infrastructure\", \"category\": \"Industry\"}, {\"id\": 2022479, \"legal_entity_uuid\": \"ef70fd07-45d0-46b9-9fd5-5dbe22d0fdff\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 14775, \"legal_entity_uuid\": \"ef70fd07-45d0-46b9-9fd5-5dbe22d0fdff\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 3, \"hc_estimate_90_days\": 3, \"hc_estimate_180_days\": 3, \"hc_estimate_270_days\": 3, \"hc_estimate_365_days\": 3, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": null, \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 193974, \"uuid\": \"b493e26b-e375-4b5b-8d0f-149e4f57acf0\", \"legal_entity_uuid\": \"ef70fd07-45d0-46b9-9fd5-5dbe22d0fdff\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 1300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-07-06\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/oavtwoy9wtucmalcziqh",
+                        "name": "Intros AI"
+                    },
+                    "position": "Product Manager",
+                    "startDate": "2022-01-01",
+                    "name": "Intros AI",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/oavtwoy9wtucmalcziqh"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 2096317, \"name\": \"Envision Accelerator\", \"uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png\", \"description\": \"The first virtual student-led, student-built accelerator - helping diverse founders build their companies.\", \"headcount\": \"1-10\", \"founding_date\": \"2020-01-01\", \"website\": \"https://www.envisionaccelerator.com/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": null, \"executive_people_profile_ids\": null, \"cb_permalink\": \"https://www.crunchbase.com/organization/envision-accelerator\", \"linkedin_url\": \"https://linkedin.com/company/envision-accelerator\", \"twitter\": \"https:/twitter.com/envisionaccel\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"envision-accelerator\", \"tags\": [{\"id\": 2931284, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 2931283, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"name\": \"Internet\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 76227, \"legal_entity_uuid\": \"0e8f13d5-d53d-4131-86c8-84b89c86a911\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 5, \"hc_estimate_90_days\": 5, \"hc_estimate_180_days\": 6, \"hc_estimate_270_days\": 6, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_270_days\": \"-16.6700000000000017053025658242404460906982421875\", \"hc_growth_365_days\": null}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png",
+                        "name": "Envision Accelerator"
+                    },
+                    "position": "Chief of Staff",
+                    "startDate": "2021-03-01",
+                    "name": "Envision Accelerator",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/envision-accelerator.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/clora-inc.png",
+                        "name": "Clora"
+                    },
+                    "position": "Revenue Operations  Product Intern",
+                    "startDate": "2021-06-01",
+                    "name": "Clora",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/clora-inc.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/starbucks-reserve-bar.png",
+                        "name": "Starbucks Reserve Bar"
+                    },
+                    "position": "Barista",
+                    "startDate": "2019-01-01",
+                    "name": "Starbucks Reserve Bar",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/starbucks-reserve-bar.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": null,
+                        "name": "The Calculus Project  Leadership Academy"
+                    },
+                    "position": "Peer Teacher",
+                    "startDate": "2018-01-01",
+                    "name": "The Calculus Project  Leadership Academy",
+                    "logoUrl": null
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Math  Philosophy",
+                    "degreeType": "Bachelor of Arts - BA",
+                    "endDate": "2025-01-01",
+                    "legalEntity": "{\"id\": 499189, \"name\": \"Yale University\", \"uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/yale-university.png\", \"description\": \"Yale University is a research and education institution that prioritizes its students.\", \"headcount\": \"10000+\", \"founding_date\": \"1701-10-09\", \"website\": \"https://www.yale.edu\", \"location\": \"New Haven\", \"country\": \"USA\", \"region\": \"Connecticut\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [82924, 3060896], \"cb_permalink\": \"https://www.crunchbase.com/organization/yale-university\", \"linkedin_url\": \"https://linkedin.com/school/yale-university\", \"twitter\": \"https:/www.twitter.com/yale\", \"last_funding_round_date\": \"2023-01-01\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 42811855, \"company_li_name\": \"yale-university\", \"tags\": [{\"id\": 1652781, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Social Entrepreneurship\", \"category\": \"Industry\"}, {\"id\": 1652780, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Medical\", \"category\": \"Industry\"}, {\"id\": 1652779, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 1652778, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Business Development\", \"category\": \"Industry\"}, {\"id\": 1652777, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Association\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 111709, \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 236, \"hc_estimate_90_days\": 233, \"hc_estimate_180_days\": 259, \"hc_estimate_270_days\": 259, \"hc_estimate_365_days\": 256, \"hc_growth_90_days\": \"1.29000000000000003552713678800500929355621337890625\", \"hc_growth_180_days\": \"-8.8800000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-8.8800000000000007815970093361102044582366943359375\", \"hc_growth_365_days\": \"-7.80999999999999960920149533194489777088165283203125\"}, \"funding_rounds\": [{\"id\": 487388, \"uuid\": \"fc293f92-93f9-4647-973c-f54d984cc071\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1275000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 100353, \"uuid\": \"38ab0f5b-a5c4-44c2-bfbe-d4b866befd73\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 300000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-09-27\", \"investors\": null}, {\"id\": 100352, \"uuid\": \"441b3baf-c2b9-440b-9bce-be01a3594c8a\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 5750000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-08-04\", \"investors\": null}, {\"id\": 100351, \"uuid\": \"d3d64e30-9441-47f8-ba15-0edc7bc190c5\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 4000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-01-14\", \"investors\": null}, {\"id\": 100350, \"uuid\": \"1ac67c76-adbc-4bce-bed2-c01d1dde660b\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2200000, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-22\", \"investors\": null}, {\"id\": 487387, \"uuid\": \"9c9dbf5f-b333-40cd-92e2-46cce5a05893\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1329631, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-01-01\", \"investors\": null}, {\"id\": 100349, \"uuid\": \"6c18da5f-2277-481b-9083-fdd906eb36e3\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 15000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2018-05-10\", \"investors\": null}, {\"id\": 487386, \"uuid\": \"9f6351f7-e251-4539-8440-1f619b5a354d\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-01-01\", \"investors\": null}, {\"id\": 100348, \"uuid\": \"6a6b96a4-82e5-4b79-8704-970908a32c8b\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 10000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2016-08-18\", \"investors\": null}, {\"id\": 487385, \"uuid\": \"908fba72-0d07-4d29-9ee5-fb2d03606ef2\", \"legal_entity_uuid\": \"dcb99002-9225-c513-27c6-9002b6103bc0\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1957224, \"post_money_valuation_usd\": null, \"announced_date\": \"2013-01-01\", \"investors\": null}]}",
+                    "startDate": "2020-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/yale-university.png",
+                        "name": "Yale University"
+                    },
+                    "name": "Yale University",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/yale-university.png"
+                },
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "-",
+                    "degreeType": "",
+                    "endDate": "2020-01-01",
+                    "legalEntity": null,
+                    "startDate": "2016-01-01",
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": null,
+                        "name": "Bedford High School"
+                    },
+                    "name": "Bedford High School",
+                    "logoUrl": null
+                }
+            ],
+            "userCircles": []
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "499"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

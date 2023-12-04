@@ -1,0 +1,213 @@
+{
+    "props": {
+        "pageProps": {
+            "user": {
+                "calendlyLink": null,
+                "canProvide": null,
+                "currentRole": "founder at arterial",
+                "educationExperiences": [],
+                "email": "hey@rishi.cx",
+                "firstName": "Rishi",
+                "greeting": null,
+                "greetingEmoji": null,
+                "hqPosition": null,
+                "hubCity": "Toronto",
+                "id": "533",
+                "intro": null,
+                "isActiveFellow": true,
+                "isActiveHq": null,
+                "isActiveVp": null,
+                "isAlumni": null,
+                "lastLoggedIn": "2023-10-20T20:33:28",
+                "lastName": "Kothari",
+                "linkedinName": "heyrishi",
+                "linkedinUrl": "https://linkedin.com/in/heyrishi/",
+                "location": "Toronto, ON",
+                "lookingFor": null,
+                "meetWithBlurb": null,
+                "podId": null,
+                "prismUuid": "19cbb2ff-1417-4d57-a369-47d4d1b6f4f9",
+                "profilePicUrl": "https://lh3.googleusercontent.com/a-/AD5-WCkAcF6_2tfYj316z6MuSA6Xf5bY4JuRWVQ6bm7A5YOEwrjmdcE_BelNTyDLESpYfEF9WB0YM96uwBJF6cdeZETutGuqJugfT595f6v1XbVn9vdKR1VxJZby5F0JhOZn3iwXO5ZRkDnQgxmiNu9fWnUUXaUgSl4C_CaGM5WE8kSyfWA8Zp9eIKnpsUqg6tRMpAy6VtMk73i8YbGQSeXVw4X_vVihl0ZsNnFCZgdM_d2rEClM0LHwZcmIMcd7eMnuMU9w-BAzqL_Xi8QFcFvHJnhE-o5xrsEptqQYDjpF3BPZiAR3sT5RFs6eNU4yo5chSF9XYppVD_2Hv3EExDhhQHrVQ9pweuOBCGUdaSIsTDJd76ak43Ur4U2lM-S6JygArsn6VQgksX38aqq4ee5tsG0oPUp1IAHZ6A_4r63p-rR0lszdf7mHGHJgw9gQt27OdySlZjRIdycK-K2gL_ndrg-DNd10soNkeCSjzc_7b1RNyLzafEJyMZvD2UN7EGYG-lkukJDJoGuvJqODbxCXO12mgt46QOWs3sY1cp7ebUti52k8XiWlS3mfFdr5XPFQ2ClqKchIDs8n2fJ1U9T9yXJtNbTVZPxgdZjZmyBbp1YiTMikYu48bbzmQ3-tC4y4FG2Lfq_s6hAVyK7yYbnBJWN95lyUmXZhG0GrKz5lu7mFTZtqqrhuX4_c5EcCI37DJinPPmiYl_Ihgg7Nvj017iDhHC0nFg7S9bdi8xnq08aH3yEn6RG5TWCGfHtdirKDxkUkBblDltVuLkD0uiQVJc-Gc0d2UogB3pGAjTbSfPN0VpP7AVPYwzPeSRga_Dluyuu6be0W1yhtYZ6Eqb59tJZ2liNv5Zix-j1uppCjDZf8LaNUCy6h8yzTKv_h9N2vz8ztw-8BONg8MG_JQTBbQBSLmilYgZo76NJp01jlpdnv2u-tk1rQCGQRyekS=s96-c",
+                "roles": [
+                    "Fellow"
+                ],
+                "secondaryEmail": "rishi@arterial.design",
+                "slackUrl": null,
+                "twitterHandle": "rishiosaur",
+                "twitterUrl": "https://twitter.com/rishiosaur/",
+                "workExperiences": [
+                    {
+                        "endDate": "2022-06-01",
+                        "id": "4169",
+                        "organizationId": 3000,
+                        "position": "Software Engineer",
+                        "startDate": "2021-12-01"
+                    },
+                    {
+                        "endDate": "2021-11-01",
+                        "id": "4170",
+                        "organizationId": 3001,
+                        "position": "Software Engineer",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": null,
+                        "id": "4167",
+                        "organizationId": 2998,
+                        "position": "Community Designer",
+                        "startDate": "2021-08-01"
+                    },
+                    {
+                        "endDate": "2022-10-01",
+                        "id": "4168",
+                        "organizationId": 2999,
+                        "position": "Co-Founder // CTO",
+                        "startDate": "2020-06-01"
+                    }
+                ]
+            },
+            "workExperiences": [
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-11-01",
+                    "legalEntity": "{\"id\": 1113163, \"name\": \"Hack Club\", \"uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/p0w1xfc4zepwabygbqo9\", \"description\": \"Hack Club is a global network of programming clubs that helps in learning coding by the students and for the students.\", \"headcount\": \"1-10\", \"founding_date\": \"2015-01-01\", \"website\": \"https://hackclub.com/\", \"location\": \"Shelburne\", \"country\": \"USA\", \"region\": \"Vermont\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/hack-club\", \"linkedin_url\": \"https://linkedin.com/company/hack-club\", \"twitter\": \"https:/twitter.com/hackclub\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"hack-club\", \"tags\": [{\"id\": 5555221, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 5555222, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 5555223, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"name\": \"Social Network\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 188068, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": 11, \"hc_estimate_365_days\": 12, \"hc_growth_90_days\": \"-10\", \"hc_growth_180_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p0w1xfc4zepwabygbqo9",
+                        "name": "Hack Club"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2021-08-01",
+                    "name": "Hack Club",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p0w1xfc4zepwabygbqo9"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-10-01",
+                    "legalEntity": "{\"id\": 2154348, \"name\": \"Otto\", \"uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/zwbimfjjyhor8rwbzhya\", \"description\": \"Otto makes it easier to become a great pet owner by leveraging your pets data to connect you with personalized services and content.\", \"headcount\": \"1-10\", \"founding_date\": \"2021-05-01\", \"website\": \"https://otto.pet\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [2362707, 979819], \"executive_people_profile_ids\": [726298, 979819, 2362707], \"cb_permalink\": \"https://www.crunchbase.com/organization/ottopetshq\", \"linkedin_url\": \"https://linkedin.com/company/ottopetshq\", \"twitter\": \"https:/twitter.com/OttoPetsHQ\", \"last_funding_round_date\": \"2022-06-01\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 1845000, \"company_li_name\": \"ottopetshq\", \"tags\": [{\"id\": 1126579, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Information Technology\", \"category\": \"Industry\"}, {\"id\": 1126584, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1126583, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"QR Codes\", \"category\": \"Industry\"}, {\"id\": 1126582, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Pet\", \"category\": \"Industry\"}, {\"id\": 1126581, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Mobile Apps\", \"category\": \"Industry\"}, {\"id\": 1126580, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Internet of Things\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 59837, \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 0, \"hc_estimate_90_days\": 0, \"hc_estimate_180_days\": 0, \"hc_estimate_270_days\": 2, \"hc_estimate_365_days\": 2, \"hc_growth_90_days\": null, \"hc_growth_180_days\": null, \"hc_growth_270_days\": \"-100\", \"hc_growth_365_days\": \"-100\"}, \"funding_rounds\": [{\"id\": 142663, \"uuid\": \"369db5b1-9700-494c-ab94-4b458d95f865\", \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 1600000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-01\", \"investors\": null}, {\"id\": 142662, \"uuid\": \"ad4ed7b1-6164-4ca9-8047-6d82f4170676\", \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Pre Seed Round\", \"cb_permalink\": null, \"investment_type\": \"pre_seed\", \"raised_amount_usd\": 235000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-12-01\", \"investors\": null}, {\"id\": 142661, \"uuid\": \"f54d65f8-2ad7-4c4b-aa07-7f4d8318707a\", \"legal_entity_uuid\": \"1fabd8ae-0914-4e51-85eb-08857fb776ae\", \"name\": \"Product Crowdfunding\", \"cb_permalink\": null, \"investment_type\": \"product_crowdfunding\", \"raised_amount_usd\": 10000, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-05-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zwbimfjjyhor8rwbzhya",
+                        "name": "Otto"
+                    },
+                    "position": "Co-Founder // CTO",
+                    "startDate": "2020-06-01",
+                    "name": "Otto",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/zwbimfjjyhor8rwbzhya"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2022-06-01",
+                    "legalEntity": "{\"id\": 1103489, \"name\": \"Utopia Labs\", \"uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/bercw6bcxalpz3ymoctw\", \"description\": \"The modern system for managing payment requests, payroll, and reporting for your DAO\", \"headcount\": \"unknown\", \"founding_date\": \"2021-08-05\", \"website\": \"https://www.utopialabs.io/\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [860792, 796222, 658942, 3406401], \"executive_people_profile_ids\": [658942, 3406401, 796222, 860792], \"cb_permalink\": \"https://www.crunchbase.com/organization/utopia-labs\", \"linkedin_url\": \"https://linkedin.com/company/utopialabs\", \"twitter\": \"https:/twitter.com/utopialabs_\", \"last_funding_round_date\": \"2023-06-01\", \"last_funding_round_name\": \"Series A\", \"total_funding_amount\": 23000000, \"company_li_name\": \"utopialabs\", \"tags\": [{\"id\": 7372468, \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"FinTech\", \"category\": \"Industry\"}, {\"id\": 1991284, \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1991283, \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"Financial Services\", \"category\": \"Industry\"}, {\"id\": 7372469, \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"Payments\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 176670, \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 13, \"hc_estimate_90_days\": 14, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": 10, \"hc_estimate_365_days\": null, \"hc_growth_90_days\": \"-7.13999999999999968025576890795491635799407958984375\", \"hc_growth_180_days\": \"18.17999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"30\", \"hc_growth_365_days\": null}, \"funding_rounds\": [{\"id\": 313533, \"uuid\": \"d5a375f7-1eb3-4ac6-a428-cb22a38f595c\", \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"Series A\", \"cb_permalink\": null, \"investment_type\": \"series_a\", \"raised_amount_usd\": 23000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-01\", \"investors\": null}, {\"id\": 313532, \"uuid\": \"a623e336-29db-4645-8185-32dd59b1c3e0\", \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-01\", \"investors\": null}, {\"id\": 313531, \"uuid\": \"1752b67b-1931-491b-bcb0-bc0c07a7594b\", \"legal_entity_uuid\": \"6bc570df-12da-4b7b-afb0-b9a3db621896\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2021-08-26\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bercw6bcxalpz3ymoctw",
+                        "name": "Utopia Labs"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2021-12-01",
+                    "name": "Utopia Labs",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/bercw6bcxalpz3ymoctw"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-11-01",
+                    "legalEntity": "{\"id\": 736878, \"name\": \"BentoML\", \"uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bentoml.png\", \"description\": \"BentoML is the platform for software engineers to build AI products.\", \"headcount\": \"11-50\", \"founding_date\": \"2019-06-01\", \"website\": \"https://bentoml.com\", \"location\": \"San Francisco\", \"country\": \"USA\", \"region\": \"California\", \"founder_people_profile_ids\": [1165592], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/bentoml\", \"linkedin_url\": \"https://linkedin.com/company/bentoml\", \"twitter\": \"https:/twitter.com/bentomlai\", \"last_funding_round_date\": \"2023-06-26\", \"last_funding_round_name\": \"Seed Round\", \"total_funding_amount\": 9000000, \"company_li_name\": \"bentoml\", \"tags\": [{\"id\": 1979008, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Machine Learning\", \"category\": \"Industry\"}, {\"id\": 7597321, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Artificial Intelligence (AI)\", \"category\": \"Industry\"}, {\"id\": 1979010, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Software\", \"category\": \"Industry\"}, {\"id\": 1979009, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Open Source\", \"category\": \"Industry\"}, {\"id\": 1979007, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Developer Tools\", \"category\": \"Industry\"}, {\"id\": 1979006, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Developer Platform\", \"category\": \"Industry\"}, {\"id\": 1979005, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Artificial Intelligence\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 83059, \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 8, \"hc_estimate_90_days\": 8, \"hc_estimate_180_days\": 7, \"hc_estimate_270_days\": 5, \"hc_estimate_365_days\": 5, \"hc_growth_90_days\": null, \"hc_growth_180_days\": \"14.28999999999999914734871708787977695465087890625\", \"hc_growth_270_days\": \"60\", \"hc_growth_365_days\": \"60\"}, \"funding_rounds\": [{\"id\": 112146, \"uuid\": \"b4734aff-7af0-4d0e-8663-45ec8fe4b0aa\", \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": 9000000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-06-26\", \"investors\": null}, {\"id\": 112145, \"uuid\": \"7fe734a3-5802-49ba-868b-a65a8e22bbae\", \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Seed Round\", \"cb_permalink\": null, \"investment_type\": \"seed\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2020-12-01\", \"investors\": null}, {\"id\": 112144, \"uuid\": \"31a16c87-733b-49c9-aa88-233abab454a9\", \"legal_entity_uuid\": \"676d13f9-9bc0-454e-99f4-d604b1d89c67\", \"name\": \"Angel Round\", \"cb_permalink\": null, \"investment_type\": \"angel\", \"raised_amount_usd\": null, \"post_money_valuation_usd\": null, \"announced_date\": \"2019-07-01\", \"investors\": null}]}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bentoml.png",
+                        "name": "BentoML"
+                    },
+                    "position": "Software Engineer",
+                    "startDate": "2021-08-01",
+                    "name": "BentoML",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/bentoml.png"
+                },
+                {
+                    "__typename": "WorkExperience",
+                    "endDate": "2021-08-01",
+                    "legalEntity": "{\"id\": 1113163, \"name\": \"Hack Club\", \"uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"logo_url\": \"https://images.crunchbase.com/image/upload/t_cb-default-original/p0w1xfc4zepwabygbqo9\", \"description\": \"Hack Club is a global network of programming clubs that helps in learning coding by the students and for the students.\", \"headcount\": \"1-10\", \"founding_date\": \"2015-01-01\", \"website\": \"https://hackclub.com/\", \"location\": \"Shelburne\", \"country\": \"USA\", \"region\": \"Vermont\", \"founder_people_profile_ids\": [], \"executive_people_profile_ids\": [], \"cb_permalink\": \"https://www.crunchbase.com/organization/hack-club\", \"linkedin_url\": \"https://linkedin.com/company/hack-club\", \"twitter\": \"https:/twitter.com/hackclub\", \"last_funding_round_date\": null, \"last_funding_round_name\": null, \"total_funding_amount\": null, \"company_li_name\": \"hack-club\", \"tags\": [{\"id\": 5555221, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"name\": \"E-Learning\", \"category\": \"Industry\"}, {\"id\": 5555222, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"name\": \"Education\", \"category\": \"Industry\"}, {\"id\": 5555223, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"name\": \"Social Network\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 188068, \"legal_entity_uuid\": \"5f9f26dd-0fe6-49fd-876c-d6fc13a21a77\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 9, \"hc_estimate_90_days\": 10, \"hc_estimate_180_days\": 11, \"hc_estimate_270_days\": 11, \"hc_estimate_365_days\": 12, \"hc_growth_90_days\": \"-10\", \"hc_growth_180_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_270_days\": \"-18.17999999999999971578290569595992565155029296875\", \"hc_growth_365_days\": \"-25\"}, \"funding_rounds\": []}",
+                    "organization": {
+                        "__typename": "Organization",
+                        "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p0w1xfc4zepwabygbqo9",
+                        "name": "Hack Club"
+                    },
+                    "position": "Engineering  Operations",
+                    "startDate": "2021-06-01",
+                    "name": "Hack Club",
+                    "logoUrl": "https://images.crunchbase.com/image/upload/t_cb-default-original/p0w1xfc4zepwabygbqo9"
+                }
+            ],
+            "educationExperiences": [
+                {
+                    "__typename": "EducationExperience",
+                    "degree": "Systems Design  Philosophy",
+                    "degreeType": "Bachelors degree",
+                    "endDate": null,
+                    "legalEntity": "{\"id\": 166744, \"name\": \"University of Waterloo\", \"uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"logo_url\": \"https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png\", \"description\": \"University of Waterloo is a public research university that operates colleges which offer undergraduate and graduate programs.\", \"headcount\": \"5001-10000\", \"founding_date\": \"1957-07-01\", \"website\": \"https://uwaterloo.ca\", \"location\": \"Waterloo\", \"country\": \"CAN\", \"region\": \"Ontario\", \"founder_people_profile_ids\": [1298406], \"executive_people_profile_ids\": [1407569, 2507258, 566104, 1943746, 1040346], \"cb_permalink\": \"https://www.crunchbase.com/organization/university-of-waterloo\", \"linkedin_url\": \"https://linkedin.com/school/uwaterloo\", \"twitter\": \"http:/twitter.com/uWaterloo\", \"last_funding_round_date\": \"2023-10-12\", \"last_funding_round_name\": \"Grant\", \"total_funding_amount\": 5819194, \"company_li_name\": \"uwaterloo\", \"tags\": [{\"id\": 6420578, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Universities\", \"category\": \"Industry\"}, {\"id\": 6420577, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Knowledge Management\", \"category\": \"Industry\"}, {\"id\": 6420576, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Education\", \"category\": \"Industry\"}], \"traction_metrics\": {\"id\": 4318, \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"baseline_month\": \"2023-10-01\", \"hc_estimate_current\": 226, \"hc_estimate_90_days\": 213, \"hc_estimate_180_days\": 209, \"hc_estimate_270_days\": 249, \"hc_estimate_365_days\": 250, \"hc_growth_90_days\": \"6.0999999999999996447286321199499070644378662109375\", \"hc_growth_180_days\": \"8.1300000000000007815970093361102044582366943359375\", \"hc_growth_270_days\": \"-9.2400000000000002131628207280300557613372802734375\", \"hc_growth_365_days\": \"-9.5999999999999996447286321199499070644378662109375\"}, \"funding_rounds\": [{\"id\": 486495, \"uuid\": \"17e8a13b-6a10-41ea-8fb2-c371980e60ae\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 550000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-10-12\", \"investors\": null}, {\"id\": 69606, \"uuid\": \"ebc66534-c8a5-449c-a3ac-bc1229aa7741\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 150000, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-08-22\", \"investors\": null}, {\"id\": 69605, \"uuid\": \"23f3cfc4-7647-4cf9-bb0f-778f23ff1678\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1119194, \"post_money_valuation_usd\": null, \"announced_date\": \"2023-01-13\", \"investors\": null}, {\"id\": 69604, \"uuid\": \"1327800c-7081-46a0-94db-367837b180ff\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 2100000, \"post_money_valuation_usd\": null, \"announced_date\": \"2022-06-29\", \"investors\": null}, {\"id\": 69603, \"uuid\": \"dd42184a-98ac-c5f8-1bdb-f306dc736a6b\", \"legal_entity_uuid\": \"1b483736-ba8b-3bcc-df47-403f4ac73848\", \"name\": \"Grant\", \"cb_permalink\": null, \"investment_type\": \"grant\", \"raised_amount_usd\": 1900000, \"post_money_valuation_usd\": null, \"announced_date\": \"2017-05-22\", \"investors\": null}]}",
+                    "startDate": null,
+                    "university": {
+                        "__typename": "University",
+                        "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png",
+                        "name": "University of Waterloo"
+                    },
+                    "name": "University of Waterloo",
+                    "logoUrl": "https://logo-image-urls.s3.us-east-2.amazonaws.com/organization/uwaterloo.png"
+                }
+            ],
+            "userCircles": [
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "6",
+                    "value": "Infrastructure"
+                },
+                {
+                    "created": "2022-08-26T20:29:14",
+                    "deleted": null,
+                    "id": "7",
+                    "value": "Product"
+                },
+                {
+                    "created": "2022-08-26T20:29:16",
+                    "deleted": null,
+                    "id": "33",
+                    "value": "Deep Tech"
+                },
+                {
+                    "created": "2022-08-26T20:29:15",
+                    "deleted": null,
+                    "id": "23",
+                    "value": "Vertical SaaS"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "55",
+                    "value": "Hackathons"
+                },
+                {
+                    "created": "2022-08-26T20:29:17",
+                    "deleted": null,
+                    "id": "58",
+                    "value": "Food"
+                },
+                {
+                    "created": "2022-08-23T21:32:47",
+                    "deleted": null,
+                    "id": "1",
+                    "value": "Software engineering"
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/dashboard/profile/[id]",
+    "query": {
+        "id": "533"
+    },
+    "buildId": "7W34ZBo3EvvtGGmcUwU3r",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}
